@@ -23,4 +23,4 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Agents":
-        filters: ["Agent"]
+        filters: ["agent"]
