@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -66,7 +66,7 @@ layout: default
 |**2024-08-23**|**LIMP: Large Language Model Enhanced Intent-aware Mobility Prediction**|Songwei Li et.al.|[2408.12832](http://arxiv.org/abs/2408.12832)|**[link](https://github.com/tsinghua-fib-lab/limp)**|
 |**2024-08-23**|**From Mobilisation to Radicalisation: Probing the Persistence and Radicalisation of Social Movements Using an Agent-Based Model**|Emma F. Thomas et.al.|[2408.12795](http://arxiv.org/abs/2408.12795)|null|
 |**2024-08-23**|**Environment-Centric Active Inference**|Kanako Esaki et.al.|[2408.12777](http://arxiv.org/abs/2408.12777)|null|
-|**2024-08-23**|**Intelligent OPC Engineer Assistant for Semiconductor Manufacturing**|Guojin Chen et.al.|[2408.12775](http://arxiv.org/abs/2408.12775)|null|
+|**2024-08-27**|**Intelligent OPC Engineer Assistant for Semiconductor Manufacturing**|Guojin Chen et.al.|[2408.12775](http://arxiv.org/abs/2408.12775)|null|
 |**2024-08-22**|**Free-breathing 3D cardiac extracellular volume (ECV) mapping using a linear tangent space alignment (LTSA) model**|Wonil Lee et.al.|[2408.12706](http://arxiv.org/abs/2408.12706)|null|
 |**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|
 |**2024-08-22**|**Integrating an agent-based behavioral model in microtransit forecasting and revenue management**|Xiyuan Ren et.al.|[2408.12577](http://arxiv.org/abs/2408.12577)|null|
