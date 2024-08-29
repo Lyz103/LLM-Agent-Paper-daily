@@ -14,6 +14,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
+|**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
+|**2024-08-28**|**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems**|Wei Wang et.al.|[2408.15971](http://arxiv.org/abs/2408.15971)|null|
+|**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950](http://arxiv.org/abs/2408.15950)|null|
+|**2024-08-28**|**Auxiliary Input in Training: Incorporating Catheter Features into Deep Learning Models for ECG-Free Dynamic Coronary Roadmapping**|Yikang Liu et.al.|[2408.15947](http://arxiv.org/abs/2408.15947)|null|
+|**2024-08-28**|**Persuasion Games using Large Language Models**|Ganesh Prasath Ramani et.al.|[2408.15879](http://arxiv.org/abs/2408.15879)|null|
+|**2024-08-28**|**Retrieval-Augmented Instruction Tuning for Automated Process Engineering Calculations : A Tool-Chaining Problem-Solving Framework with Attributable Reflection**|Sagar Srinivas Sakhinana et.al.|[2408.15866](http://arxiv.org/abs/2408.15866)|null|
+|**2024-08-28**|**FlowAct: A Proactive Multimodal Human-robot Interaction System with Continuous Flow of Perception and Modular Action Sub-systems**|Timothée Dhaussy et.al.|[2408.15864](http://arxiv.org/abs/2408.15864)|null|
+|**2024-08-28**|**Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions**|Huachuan Qiu et.al.|[2408.15787](http://arxiv.org/abs/2408.15787)|**[link](https://github.com/qiuhuachuan/interactive-agents)**|
+|**2024-08-28**|**LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models**|Jiayi Gui et.al.|[2408.15778](http://arxiv.org/abs/2408.15778)|null|
+|**2024-08-28**|**A Survey on Evaluation of Multimodal Large Language Models**|Jiaxing Huang et.al.|[2408.15769](http://arxiv.org/abs/2408.15769)|null|
+|**2024-08-28**|**Evaluating and Comparing Crowd Simulations: Perspectives from a Crowd Authoring Tool**|Gabriel Fonseca Silva et.al.|[2408.15762](http://arxiv.org/abs/2408.15762)|null|
+|**2024-08-28**|**Adaptive Traffic Signal Control Using Reinforcement Learning**|Muhammad Tahir Rafique et.al.|[2408.15751](http://arxiv.org/abs/2408.15751)|null|
+|**2024-08-28**|**Different Facets for Different Experts: A Framework for Streamlining The Integration of Qualitative Insights into ABM Development**|Vivek Nallur et.al.|[2408.15725](http://arxiv.org/abs/2408.15725)|null|
+|**2024-08-28**|**Skills Regularized Task Decomposition for Multi-task Offline Reinforcement Learning**|Minjong Yoo et.al.|[2408.15593](http://arxiv.org/abs/2408.15593)|null|
+|**2024-08-28**|**TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**|Guanren Qiao et.al.|[2408.15538](http://arxiv.org/abs/2408.15538)|**[link](https://github.com/qiaoguanren/TrafficGamer)**|
+|**2024-08-28**|**Towards Fully Autonomous Research Powered by LLMs: Case Study on Simulations**|Zhihan Liu et.al.|[2408.15512](http://arxiv.org/abs/2408.15512)|**[link](https://github.com/zokaraa/autonomous_simulation_agent)**|
+|**2024-08-28**|**AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models**|Fanglong Yao et.al.|[2408.15511](http://arxiv.org/abs/2408.15511)|null|
+|**2024-08-28**|**Infinite-Horizon Optimal Wireless Control Over Shared State-Dependent Fading Channels for IIoT Systems**|Shuling Wang et.al.|[2408.15492](http://arxiv.org/abs/2408.15492)|null|
+|**2024-08-27**|**Graph Attention Inference of Network Topology in Multi-Agent Systems**|Akshay Kolli et.al.|[2408.15449](http://arxiv.org/abs/2408.15449)|null|
+|**2024-08-27**|**Fast and Modular Autonomy Software for Autonomous Racing Vehicles**|Andrew Saba et.al.|[2408.15425](http://arxiv.org/abs/2408.15425)|null|
+|**2024-08-27**|**Simultaneous Training of First- and Second-Order Optimizers in Population-Based Reinforcement Learning**|Felix Pfeiffer et.al.|[2408.15421](http://arxiv.org/abs/2408.15421)|null|
+|**2024-08-27**|**On Stateful Value Factorization in Multi-Agent Reinforcement Learning**|Enrico Marchesini et.al.|[2408.15381](http://arxiv.org/abs/2408.15381)|null|
+|**2024-08-27**|**A Multi-Agent Reinforcement Learning Scheme for SFC Placement in Edge Computing Networks**|Congzhou Li et.al.|[2408.15337](http://arxiv.org/abs/2408.15337)|null|
+|**2024-08-27**|**Artificially intelligent Maxwell's demon for optimal control of open quantum systems**|Paolo Andrea Erdman et.al.|[2408.15328](http://arxiv.org/abs/2408.15328)|null|
+|**2024-08-27**|**TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering**|Yiqing Shen et.al.|[2408.15299](http://arxiv.org/abs/2408.15299)|**[link](https://github.com/tsynbio/TourSynbio)**|
 |**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232](http://arxiv.org/abs/2408.15232)|null|
 |**2024-08-27**|**Exploiting Approximate Symmetry for Efficient Multi-Agent Reinforcement Learning**|Batuhan Yardim et.al.|[2408.15173](http://arxiv.org/abs/2408.15173)|null|
 |**2024-08-27**|**Applications in CityLearn Gym Environment for Multi-Objective Control Benchmarking in Grid-Interactive Buildings and Districts**|Kingsley Nweye et.al.|[2408.15170](http://arxiv.org/abs/2408.15170)|null|
@@ -93,13 +119,13 @@ layout: default
 |**2024-08-22**|**Free-breathing 3D cardiac extracellular volume (ECV) mapping using a linear tangent space alignment (LTSA) model**|Wonil Lee et.al.|[2408.12706](http://arxiv.org/abs/2408.12706)|null|
 |**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|
 |**2024-08-22**|**Integrating an agent-based behavioral model in microtransit forecasting and revenue management**|Xiyuan Ren et.al.|[2408.12577](http://arxiv.org/abs/2408.12577)|null|
-|**2024-08-25**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
+|**2024-08-25**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|**[link](https://github.com/scai-jhu/muma-tom)**|
 |**2024-08-22**|**PCGRL+: Scaling, Control and Generalization in Reinforcement Learning Level Generators**|Sam Earle et.al.|[2408.12525](http://arxiv.org/abs/2408.12525)|null|
 |**2024-08-22**|**Stochastic Online Correlated Selection**|Ziyun Chen et.al.|[2408.12524](http://arxiv.org/abs/2408.12524)|null|
 |**2024-08-22**|**Weighted Envy-Freeness in House Allocation**|Sijia Dai et.al.|[2408.12523](http://arxiv.org/abs/2408.12523)|null|
 |**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
-|**2024-08-22**|**Multi Agent Framework for Collective Intelligence Research**|Alexandru Dochian et.al.|[2408.12391](http://arxiv.org/abs/2408.12391)|null|
-|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|null|
+|**2024-08-22**|**Multi Agent Framework for Collective Intelligence Research**|Alexandru Dochian et.al.|[2408.12391](http://arxiv.org/abs/2408.12391)|**[link](https://github.com/alexandru-dochian/multi_agent_framework)**|
+|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|**[link](https://github.com/aau-cns/ikf_lib)**|
 |**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333](http://arxiv.org/abs/2408.12333)|**[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)**|
 |**2024-08-22**|**Can Artificial Intelligence Embody Moral Values?**|Torben Swoboda et.al.|[2408.12250](http://arxiv.org/abs/2408.12250)|null|
 |**2024-08-22**|**Time Optimal Distance- $k$ -Dispersion on Dynamic Ring**|Brati Mondal et.al.|[2408.12220](http://arxiv.org/abs/2408.12220)|null|
@@ -136,7 +162,7 @@ layout: default
 |**2024-08-21**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559](http://arxiv.org/abs/2408.11559)|null|
 |**2024-08-21**|**Fixation of leadership in non-Markovian growth processes**|Tejas Iyer et.al.|[2408.11516](http://arxiv.org/abs/2408.11516)|null|
 |**2024-08-21**|**Verifying Approximate Equilibrium in Auctions**|Fabian R. Pieroth et.al.|[2408.11445](http://arxiv.org/abs/2408.11445)|null|
-|**2024-08-21**|**Subgoal-based Hierarchical Reinforcement Learning for Multi-Agent Collaboration**|Cheng Xu et.al.|[2408.11416](http://arxiv.org/abs/2408.11416)|null|
+|**2024-08-21**|**Subgoal-based Hierarchical Reinforcement Learning for Multi-Agent Collaboration**|Cheng Xu et.al.|[2408.11416](http://arxiv.org/abs/2408.11416)|**[link](https://github.com/sicc-group/gmah)**|
 |**2024-08-21**|**Towards "Differential AI Psychology" and in-context Value-driven Statement Alignment with Moral Foundations Theory**|Simon Münker et.al.|[2408.11415](http://arxiv.org/abs/2408.11415)|null|
 |**2024-08-21**|**Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework**|Xiao Han et.al.|[2408.11312](http://arxiv.org/abs/2408.11312)|null|
 |**2024-08-20**|**CooPre: Cooperative Pretraining for V2X Cooperative Perception**|Seth Z. Zhao et.al.|[2408.11241](http://arxiv.org/abs/2408.11241)|null|
