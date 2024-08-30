@@ -17,6 +17,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Maelstrom Networks**|Matthew Evanusa et.al.|[2408.16632](http://arxiv.org/abs/2408.16632)|null|
+|**2024-08-29**|**On the data-sparsity of the solution of Riccati equations with applications to feedback control**|Stefano Massei et.al.|[2408.16569](http://arxiv.org/abs/2408.16569)|null|
+|**2024-08-29**|**CooTest: An Automated Testing Approach for V2X Communication Systems**|An Guo et.al.|[2408.16470](http://arxiv.org/abs/2408.16470)|null|
+|**2024-08-29**|**Consensus Planning with Primal, Dual, and Proximal Agents**|Alvaro Maggiar et.al.|[2408.16462](http://arxiv.org/abs/2408.16462)|null|
+|**2024-08-29**|**3D Topological Modeling and Multi-Agent Movement Simulation for Viral Infection Risk Analysis**|Wassim Jabi et.al.|[2408.16417](http://arxiv.org/abs/2408.16417)|null|
+|**2024-08-29**|**Efficient Multi-agent Navigation with Lightweight DRL Policy**|Xingrong Diao et.al.|[2408.16370](http://arxiv.org/abs/2408.16370)|null|
+|**2024-08-29**|**Guided Reasoning: A Non-Technical Introduction**|Gregor Betz et.al.|[2408.16331](http://arxiv.org/abs/2408.16331)|**[link](https://github.com/logikon-ai/logikon)**|
+|**2024-08-29**|**Autocorrelation properties of temporal networks governed by dynamic node variables**|Harrison Hartle et.al.|[2408.16270](http://arxiv.org/abs/2408.16270)|null|
+|**2024-08-29**|**Action potential dynamics on heterogenous neural networks: from kinetic to macroscopic equations**|Marzia Bisi et.al.|[2408.16214](http://arxiv.org/abs/2408.16214)|null|
+|**2024-08-28**|**DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly**|Giulio Giacomuzzo et.al.|[2408.16125](http://arxiv.org/abs/2408.16125)|null|
+|**2024-08-28**|**EPO: Hierarchical LLM Agents with Environment Preference Optimization**|Qi Zhao et.al.|[2408.16090](http://arxiv.org/abs/2408.16090)|null|
+|**2024-08-28**|**Logic-Enhanced Language Model Agents for Trustworthy Social Simulations**|Agnieszka Mensfelt et.al.|[2408.16081](http://arxiv.org/abs/2408.16081)|**[link](https://github.com/dicelab-rhul/lelma)**|
+|**2024-08-28**|**Hitting the Gym: Reinforcement Learning Control of Exercise-Strengthened Biohybrid Robots in Simulation**|Saul Schaffer et.al.|[2408.16069](http://arxiv.org/abs/2408.16069)|null|
+|**2024-08-28**|**An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders**|Shuang Feng et.al.|[2408.16032](http://arxiv.org/abs/2408.16032)|null|
 |**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
 |**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
 |**2024-08-28**|**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems**|Wei Wang et.al.|[2408.15971](http://arxiv.org/abs/2408.15971)|null|
