@@ -64,7 +64,7 @@
 |**2024-08-27**|**muPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults**|Deepak-George Thomas et.al.|[2408.15150](http://arxiv.org/abs/2408.15150)|null|
 |**2024-08-29**|**No Regrets: Investigating and Improving Regret Approximations for Curriculum Discovery**|Alexander Rutherford et.al.|[2408.15099](http://arxiv.org/abs/2408.15099)|**[link](https://github.com/amacrutherford/sampling-for-learnability)**|
 |**2024-08-23**|**Flexible categorization using formal concept analysis and Dempster-Shafer theory**|Marcel Boersma et.al.|[2408.15012](http://arxiv.org/abs/2408.15012)|null|
-|**2024-08-27**|**AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems**|Chi-Min Chan et.al.|[2408.14972](http://arxiv.org/abs/2408.14972)|null|
+|**2024-08-27**|**AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems**|Chi-Min Chan et.al.|[2408.14972](http://arxiv.org/abs/2408.14972)|**[link](https://github.com/chanchimin/agentmonitor)**|
 |**2024-08-27**|**The Asymptotic Cost of Complexity**|Martin W Cripps et.al.|[2408.14949](http://arxiv.org/abs/2408.14949)|null|
 |**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948](http://arxiv.org/abs/2408.14948)|**[link](https://github.com/PathPlanning/TP-SWAP)**|
 |**2024-08-27**|**Learning Robust Reward Machines from Noisy Labels**|Roko Parac et.al.|[2408.14871](http://arxiv.org/abs/2408.14871)|**[link](https://github.com/rparac/prob-irm)**|
@@ -165,7 +165,7 @@
 |**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788](http://arxiv.org/abs/2408.11788)|null|
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 |**2024-08-21**|**Deviations from the Nash equilibrium and emergence of tacit collusion in a two-player optimal execution game with reinforcement learning**|Fabrizio Lillo et.al.|[2408.11773](http://arxiv.org/abs/2408.11773)|null|
-|**2024-08-21**|**VIRIS: Simulating indoor airborne transmission combining architectural design and people movement**|Yidan Xue et.al.|[2408.11772](http://arxiv.org/abs/2408.11772)|null|
+|**2024-08-21**|**VIRIS: Simulating indoor airborne transmission combining architectural design and people movement**|Yidan Xue et.al.|[2408.11772](http://arxiv.org/abs/2408.11772)|**[link](https://github.com/KaterinaKaouri/VIRIS)**|
 |**2024-08-23**|**Consensus over Clustered Networks Using Intermittent and Asynchronous Output Feedback**|Federico M. Zegers et.al.|[2408.11752](http://arxiv.org/abs/2408.11752)|null|
 |**2024-08-21**|**Bayesian Optimization Framework for Efficient Fleet Design in Autonomous Multi-Robot Exploration**|David Molina Concha et.al.|[2408.11751](http://arxiv.org/abs/2408.11751)|null|
 |**2024-08-21**|**Open-Ended 3D Point Cloud Instance Segmentation**|Phuc D. A. Nguyen et.al.|[2408.11747](http://arxiv.org/abs/2408.11747)|null|
@@ -221,7 +221,7 @@
 |**2024-08-19**|**Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation**|Liu He et.al.|[2408.10453](http://arxiv.org/abs/2408.10453)|null|
 |**2024-08-19**|**Tax Credits and Household Behavior: The Roles of Myopic Decision-Making and Liquidity in a Simulated Economy**|Jialin Dong et.al.|[2408.10391](http://arxiv.org/abs/2408.10391)|null|
 |**2024-08-19**|**Narrowing the Gap between Vision and Action in Navigation**|Yue Zhang et.al.|[2408.10388](http://arxiv.org/abs/2408.10388)|**[link](https://github.com/HLR/Dual-Action-VLN-CE)**|
-|**2024-08-19**|**Competing Social Contagions with Opinion Dependent Infectivity**|Corbit R. Sampson et.al.|[2408.10373](http://arxiv.org/abs/2408.10373)|null|
+|**2024-08-19**|**Competing Social Contagions with Opinion Dependent Infectivity**|Corbit R. Sampson et.al.|[2408.10373](http://arxiv.org/abs/2408.10373)|**[link](https://github.com/CorbitSampson/Competing_Social_Contagions)**|
 |**2024-08-19**|**Toward Fair and Strategyproof Tournament Rules for Tournaments with Partially Transferable Utilities**|David Pennock et.al.|[2408.10346](http://arxiv.org/abs/2408.10346)|null|
 |**2024-08-17**|**Why and How do Complex Systems Self-Organize at All? Average Action Efficiency as a Predictor, Measure, Driver, and Mechanism of Self-Organization**|Matthew J Brouillet et.al.|[2408.10278](http://arxiv.org/abs/2408.10278)|null|
 |**2024-08-19**|**Don't Get Stuck: A Deadlock Recovery Approach**|Francesca Baldini et.al.|[2408.10167](http://arxiv.org/abs/2408.10167)|null|
@@ -266,7 +266,7 @@
 |**2024-08-16**|**On the Completeness of Conflict-Based Search: Temporally-Relative Duplicate Pruning**|Thayne T Walker et.al.|[2408.09028](http://arxiv.org/abs/2408.09028)|null|
 |**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|null|
 |**2024-08-16**|**CPS-TaskForge: Generating Collaborative Problem Solving Environments for Diverse Communication Tasks**|Nikita Haduong et.al.|[2408.08853](http://arxiv.org/abs/2408.08853)|null|
-|**2024-08-16**|**A Novel Quantum Algorithm for Efficient Attractor Search in Gene Regulatory Networks**|Mirko Rossini et.al.|[2408.08814](http://arxiv.org/abs/2408.08814)|null|
+|**2024-08-16**|**A Novel Quantum Algorithm for Efficient Attractor Search in Gene Regulatory Networks**|Mirko Rossini et.al.|[2408.08814](http://arxiv.org/abs/2408.08814)|**[link](https://github.com/sysbio-bioinf/QuantumAttractorSearch)**|
 |**2024-08-16**|**CAT: Caution Aware Transfer in Reinforcement Learning via Distributional Risk**|Mohamad Fares El Hajj Chehade et.al.|[2408.08812](http://arxiv.org/abs/2408.08812)|null|
 |**2024-08-16**|**EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics**|Chenwei Wan et.al.|[2408.08782](http://arxiv.org/abs/2408.08782)|**[link](https://github.com/cw-wan/EmoDynamiX-v2)**|
 |**2024-08-16**|**Beyond Proportional Individual Guarantees for Binary Perpetual Voting**|Yotam Gafni et.al.|[2408.08767](http://arxiv.org/abs/2408.08767)|null|
