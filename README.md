@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -144,7 +144,7 @@
 |**2024-08-23**|**Optimally Solving Simultaneous-Move Dec-POMDPs: The Sequential Central Planning Approach**|Johan Peralez et.al.|[2408.13139](http://arxiv.org/abs/2408.13139)|null|
 |**2024-08-18**|**An Introduction to Cognidynamics**|Marco Gori et.al.|[2408.13112](http://arxiv.org/abs/2408.13112)|null|
 |**2024-08-23**|**Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2408.13092](http://arxiv.org/abs/2408.13092)|null|
-|**2024-08-23**|**Controllable Financial Market Generation with Diffusion Guided Meta Agent**|Yu-Hao Huang et.al.|[2408.12991](http://arxiv.org/abs/2408.12991)|null|
+|**2024-09-01**|**Controllable Financial Market Generation with Diffusion Guided Meta Agent**|Yu-Hao Huang et.al.|[2408.12991](http://arxiv.org/abs/2408.12991)|null|
 |**2024-08-26**|**Zeoformer: Coarse-Grained Periodic Graph Transformer for OSDA-Zeolite Affinity Prediction**|Xiangxiang Shen et.al.|[2408.12984](http://arxiv.org/abs/2408.12984)|null|
 |**2024-08-23**|**Informational Embodiment: Computational role of information structure in codes and robots**|Alexandre Pitti et.al.|[2408.12950](http://arxiv.org/abs/2408.12950)|null|
 |**2024-08-23**|**Complete Graph Identification in Population Protocols**|Haruki Kanaya et.al.|[2408.12862](http://arxiv.org/abs/2408.12862)|null|
@@ -154,7 +154,7 @@
 |**2024-08-23**|**Environment-Centric Active Inference**|Kanako Esaki et.al.|[2408.12777](http://arxiv.org/abs/2408.12777)|null|
 |**2024-08-27**|**Intelligent OPC Engineer Assistant for Semiconductor Manufacturing**|Guojin Chen et.al.|[2408.12775](http://arxiv.org/abs/2408.12775)|null|
 |**2024-08-22**|**Free-breathing 3D cardiac extracellular volume (ECV) mapping using a linear tangent space alignment (LTSA) model**|Wonil Lee et.al.|[2408.12706](http://arxiv.org/abs/2408.12706)|null|
-|**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|
+|**2024-09-01**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|
 |**2024-08-22**|**Integrating an agent-based behavioral model in microtransit forecasting and revenue management**|Xiyuan Ren et.al.|[2408.12577](http://arxiv.org/abs/2408.12577)|null|
 |**2024-08-25**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|**[link](https://github.com/scai-jhu/muma-tom)**|
 |**2024-08-22**|**PCGRL+: Scaling, Control and Generalization in Reinforcement Learning Level Generators**|Sam Earle et.al.|[2408.12525](http://arxiv.org/abs/2408.12525)|null|
@@ -301,7 +301,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
