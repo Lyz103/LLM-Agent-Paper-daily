@@ -238,14 +238,14 @@ layout: default
 |**2024-08-24**|**DeepVoting: Learning Voting Rules with Tailored Embeddings**|Leonardo Matone et.al.|[2408.13630](http://arxiv.org/abs/2408.13630)|null|
 |**2024-08-24**|**Reaching New Heights in Multi-Agent Collective Construction**|Martin Rameš et.al.|[2408.13615](http://arxiv.org/abs/2408.13615)|null|
 |**2024-08-24**|**Hybrid Training for Enhanced Multi-task Generalization in Multi-agent Reinforcement Learning**|Mingliang Zhang et.al.|[2408.13567](http://arxiv.org/abs/2408.13567)|null|
-|**2024-08-27**|**Control-Informed Reinforcement Learning for Chemical Processes**|Maximilian Bloor et.al.|[2408.13566](http://arxiv.org/abs/2408.13566)|null|
+|**2024-08-27**|**Control-Informed Reinforcement Learning for Chemical Processes**|Maximilian Bloor et.al.|[2408.13566](http://arxiv.org/abs/2408.13566)|**[link](https://github.com/OptiMaL-PSE-Lab/CIRL)**|
 |**2024-08-24**|**IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering**|Ruosen Li et.al.|[2408.13545](http://arxiv.org/abs/2408.13545)|null|
 |**2024-08-24**|**Unleashing Collaborative Computing for Adaptive Video Streaming with Multi-objective Optimization in Satellite Terrestrial Networks**|Zhishu Shen et.al.|[2408.13512](http://arxiv.org/abs/2408.13512)|null|
 |**2024-08-23**|**Optimizing Collaboration of LLM based Agents for Finite Element Analysis**|Chuan Tian et.al.|[2408.13406](http://arxiv.org/abs/2408.13406)|null|
 |**2024-08-23**|**DrugAgent: Explainable Drug Repurposing Agent with Large Language Model-based Reasoning**|Yoshitaka Inoue et.al.|[2408.13378](http://arxiv.org/abs/2408.13378)|null|
 |**2024-08-23**|**Generative Blockchain: Transforming Blockchain from Transaction Recording to Transaction Generation through Proof-of-Merit**|Haozhao Zhang et.al.|[2408.13367](http://arxiv.org/abs/2408.13367)|null|
 |**2024-08-23**|**Reconciling Different Theories of Learning with an Agent-based Model of Procedural Learning**|Sina Rismanchian et.al.|[2408.13364](http://arxiv.org/abs/2408.13364)|null|
-|**2024-08-23**|**Oscillatory and Excitable Dynamics in an Opinion Model with Group Opinions**|Corbit R. Sampson et.al.|[2408.13336](http://arxiv.org/abs/2408.13336)|null|
+|**2024-08-23**|**Oscillatory and Excitable Dynamics in an Opinion Model with Group Opinions**|Corbit R. Sampson et.al.|[2408.13336](http://arxiv.org/abs/2408.13336)|**[link](https://github.com/CorbitSampson/Oscillatory_Excitable_Opinion_Dynamics)**|
 |**2024-08-23**|**Mastering the Digital Art of War: Developing Intelligent Combat Simulation Agents for Wargaming Using Hierarchical Reinforcement Learning**|Scotty Black et.al.|[2408.13333](http://arxiv.org/abs/2408.13333)|null|
 |**2024-08-23**|**Localized Observation Abstraction Using Piecewise Linear Spatial Decay for Reinforcement Learning in Combat Simulations**|Scotty Black et.al.|[2408.13328](http://arxiv.org/abs/2408.13328)|null|
 |**2024-08-23**|**Large Language Models for Zero Touch Network Configuration Management**|Oscar G. Lira et.al.|[2408.13298](http://arxiv.org/abs/2408.13298)|null|
