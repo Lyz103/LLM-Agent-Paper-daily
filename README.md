@@ -17,6 +17,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**A Survey on Knowledge Organization Systems of Research Fields: Resources and Challenges**|Angelo Salatino et.al.|[2409.04432](http://arxiv.org/abs/2409.04432)|null|
+|**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
+|**2024-09-06**|**MATWA: A Web Toolkit for Matching under Preferences**|Frederik Glitzner et.al.|[2409.04402](http://arxiv.org/abs/2409.04402)|null|
+|**2024-09-06**|**Cs-O $_2$ -Li as enhanced NEA surface layer with increased lifetime for GaAs photocathodes**|Maximilian Herbert et.al.|[2409.04319](http://arxiv.org/abs/2409.04319)|null|
+|**2024-09-06**|**Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**|Felix Herrmann et.al.|[2409.04306](http://arxiv.org/abs/2409.04306)|null|
+|**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286](http://arxiv.org/abs/2409.04286)|null|
+|**2024-09-06**|**Collective chemotactic search strategies**|Hugues Meyer et.al.|[2409.04262](http://arxiv.org/abs/2409.04262)|null|
+|**2024-09-06**|**SPACE: A Python-based Simulator for Evaluating Decentralized Multi-Robot Task Allocation Algorithms**|Inmo Jang et.al.|[2409.04230](http://arxiv.org/abs/2409.04230)|null|
+|**2024-09-06**|**FPT Algorithms using Minimal Parameters for a Generalized Version of Maximin Shares**|Klaus Jansen et.al.|[2409.04225](http://arxiv.org/abs/2409.04225)|null|
+|**2024-09-06**|**Advancing Multi-Organ Disease Care: A Hierarchical Multi-Agent Reinforcement Learning Framework**|Daniel J. Tan et.al.|[2409.04224](http://arxiv.org/abs/2409.04224)|null|
+|**2024-09-06**|**Runtime analysis of a coevolutionary algorithm on impartial combinatorial games**|Alistair Benford et.al.|[2409.04177](http://arxiv.org/abs/2409.04177)|null|
+|**2024-09-06**|**Towards a Socially Acceptable Competitive Equilibrium in Energy Markets**|Koorosh Shomalzadeh et.al.|[2409.04157](http://arxiv.org/abs/2409.04157)|null|
+|**2024-09-06**|**Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers**|Chenglei Si et.al.|[2409.04109](http://arxiv.org/abs/2409.04109)|null|
+|**2024-09-06**|**Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity**|Qiang Li et.al.|[2409.04092](http://arxiv.org/abs/2409.04092)|null|
+|**2024-09-06**|**Surface Patterns Shaped by Additives in Crystals**|M. A. Chabowska et.al.|[2409.04084](http://arxiv.org/abs/2409.04084)|null|
+|**2024-09-05**|**DRAL: Deep Reinforcement Adaptive Learning for Multi-UAVs Navigation in Unknown Indoor Environment**|Kangtong Mo et.al.|[2409.03930](http://arxiv.org/abs/2409.03930)|null|
+|**2024-09-05**|**On the Convergence Rates of Federated Q-Learning across Heterogeneous Environments**|Muxing Wang et.al.|[2409.03897](http://arxiv.org/abs/2409.03897)|null|
+|**2024-09-05**|**Multi-agent Path Finding for Mixed Autonomy Traffic Coordination**|Han Zheng et.al.|[2409.03881](http://arxiv.org/abs/2409.03881)|null|
+|**2024-09-05**|**PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization**|Federico Berto et.al.|[2409.03811](http://arxiv.org/abs/2409.03811)|null|
+|**2024-09-04**|**NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls**|Kinjal Basu et.al.|[2409.03797](http://arxiv.org/abs/2409.03797)|null|
+|**2024-09-03**|**Safeguarding AI Agents: Developing and Analyzing Safety Architectures**|Ishaan Domkundwar et.al.|[2409.03793](http://arxiv.org/abs/2409.03793)|null|
+|**2024-08-31**|**BreachSeek: A Multi-Agent Automated Penetration Tester**|Ibrahim Alshehri et.al.|[2409.03789](http://arxiv.org/abs/2409.03789)|null|
 |**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
 |**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|null|
 |**2024-09-06**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659](http://arxiv.org/abs/2409.03659)|**[link](https://github.com/zhangr2021/Multiagent_poetry)**|
