@@ -14,6 +14,45 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863](http://arxiv.org/abs/2409.05863)|null|
+|**2024-09-09**|**Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**|Jiaqi Liu et.al.|[2409.05712](http://arxiv.org/abs/2409.05712)|null|
+|**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|
+|**2024-09-09**|**Interpretable Responsibility Sharing as a Heuristic for Task and Motion Planning**|Arda Sarp Yenicesu et.al.|[2409.05586](http://arxiv.org/abs/2409.05586)|null|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
+|**2024-09-09**|**Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations**|Xuesong Zhang et.al.|[2409.05552](http://arxiv.org/abs/2409.05552)|null|
+|**2024-09-09**|**A refined Frauchiger--Renner paradox based on strong contextuality**|Laurens Walleghem et.al.|[2409.05491](http://arxiv.org/abs/2409.05491)|null|
+|**2024-09-09**|**Adaptive Multi-Layer Deployment for A Digital Twin Empowered Satellite-Terrestrial Integrated Network**|Yihong Tao et.al.|[2409.05480](http://arxiv.org/abs/2409.05480)|null|
+|**2024-09-09**|**Reinforcement Learning for Variational Quantum Circuits Design**|Simone Foderà et.al.|[2409.05475](http://arxiv.org/abs/2409.05475)|null|
+|**2024-09-09**|**Semifactual Explanations for Reinforcement Learning**|Jasmina Gajcin et.al.|[2409.05435](http://arxiv.org/abs/2409.05435)|null|
+|**2024-09-09**|**Leveraging Computation of Expectation Models for Commonsense Affordance Estimation on 3D Scene Graphs**|Mario Alberto Valdes Saucedo et.al.|[2409.05392](http://arxiv.org/abs/2409.05392)|null|
+|**2024-09-09**|**BAMDP Shaping: a Unified Theoretical Framework for Intrinsic Motivation and Reward Shaping**|Aly Lidayan et.al.|[2409.05358](http://arxiv.org/abs/2409.05358)|null|
+|**2024-09-09**|**Obvious Strategy-proofness with Respect to a Partition**|R. Pablo Arribillaga et.al.|[2409.05315](http://arxiv.org/abs/2409.05315)|null|
+|**2024-09-09**|**Distributed Robust Continuous-Time Optimization Algorithms for Time-Varying Constrained Cost**|Zeinab Ebrahimi et.al.|[2409.05293](http://arxiv.org/abs/2409.05293)|null|
+|**2024-09-09**|**Towards Fast Rates for Federated and Multi-Task Reinforcement Learning**|Feng Zhu et.al.|[2409.05291](http://arxiv.org/abs/2409.05291)|null|
+|**2024-09-08**|**COVID19-CBABM: A City-Based Agent Based Disease Spread Modeling Framework**|Raunak Sarbajna et.al.|[2409.05235](http://arxiv.org/abs/2409.05235)|null|
+|**2024-09-08**|**Banded phases in topological flocks**|Charles R. Packard et.al.|[2409.05198](http://arxiv.org/abs/2409.05198)|null|
+|**2024-09-08**|**Difference Between Cyclic and Distributed Approach in Stochastic Optimization for Multi-agent System**|Jiahao Shi et.al.|[2409.05155](http://arxiv.org/abs/2409.05155)|null|
+|**2024-09-08**|**Nonlinear Cooperative Output Regulation with Input Delay Compensation**|Shiqi Zheng et.al.|[2409.05113](http://arxiv.org/abs/2409.05113)|null|
+|**2024-09-08**|**Decentralized Control of Multi-Agent Systems Under Acyclic Spatio-Temporal Task Dependencies**|Gregorio Marchesini et.al.|[2409.05106](http://arxiv.org/abs/2409.05106)|null|
+|**2024-09-08**|**Pareto-Optimal Peer-to-Peer Risk Sharing with Robust Distortion Risk Measures**|Mario Ghossoub et.al.|[2409.05103](http://arxiv.org/abs/2409.05103)|null|
+|**2024-09-08**|**On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community**|Lingfei Wang et.al.|[2409.05063](http://arxiv.org/abs/2409.05063)|null|
+|**2024-09-08**|**Towards Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control**|Kang Wang et.al.|[2409.05037](http://arxiv.org/abs/2409.05037)|null|
+|**2024-09-08**|**Cooperative Learning-Based Framework for VNF Caching and Placement Optimization over Low Earth Orbit Satellite Networks**|Khai Doan et.al.|[2409.05025](http://arxiv.org/abs/2409.05025)|null|
+|**2024-09-08**|**A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**|Huan Zhang et.al.|[2409.05001](http://arxiv.org/abs/2409.05001)|null|
+|**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|null|
+|**2024-09-07**|**DEPLOYERS: An agent based modeling tool for multi country real world data**|Martin Jaraiz et.al.|[2409.04876](http://arxiv.org/abs/2409.04876)|null|
+|**2024-09-07**|**Adaptation Procedure in Misinformation Games**|Konstantinos Varsos et.al.|[2409.04854](http://arxiv.org/abs/2409.04854)|null|
+|**2024-09-07**|**Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation**|Hung-Ting Su et.al.|[2409.04837](http://arxiv.org/abs/2409.04837)|null|
+|**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744](http://arxiv.org/abs/2409.04744)|null|
+|**2024-09-07**|**Algorithmic Scenario Generation as Quality Diversity Optimization**|Stefanos Nikolaidis et.al.|[2409.04711](http://arxiv.org/abs/2409.04711)|null|
+|**2024-09-07**|**Learning Optimal Stable Matches in Decentralized Markets with Unknown Preferences**|Vade Shah et.al.|[2409.04669](http://arxiv.org/abs/2409.04669)|null|
+|**2024-09-07**|**QueryBuilder: Human-in-the-Loop Query Development for Information Retrieval**|Hemanth Kandula et.al.|[2409.04667](http://arxiv.org/abs/2409.04667)|null|
+|**2024-09-06**|**Stacked Universal Successor Feature Approximators for Safety in Reinforcement Learning**|Ian Cannon et.al.|[2409.04641](http://arxiv.org/abs/2409.04641)|null|
+|**2024-09-06**|**Sparse Rewards Can Self-Train Dialogue Agents**|Barrett Martin Lattimer et.al.|[2409.04617](http://arxiv.org/abs/2409.04617)|null|
+|**2024-09-06**|**Decentralized Learning in General-sum Markov Games**|Chinmay Maheshwari et.al.|[2409.04613](http://arxiv.org/abs/2409.04613)|null|
+|**2024-09-06**|**Impact of Transit on Mobility, Equity, and Economy in the Chicago Metropolitan Region**|Omer Verbas et.al.|[2409.04568](http://arxiv.org/abs/2409.04568)|null|
+|**2024-09-03**|**State and Action Factorization in Power Grids**|Gianvito Losapio et.al.|[2409.04467](http://arxiv.org/abs/2409.04467)|null|
+|**2024-09-03**|**Here's Charlie! Realising the Semantic Web vision of Agents in the age of LLMs**|Jesse Wright et.al.|[2409.04465](http://arxiv.org/abs/2409.04465)|null|
 |**2024-09-06**|**A Survey on Knowledge Organization Systems of Research Fields: Resources and Challenges**|Angelo Salatino et.al.|[2409.04432](http://arxiv.org/abs/2409.04432)|null|
 |**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
 |**2024-09-06**|**MATWA: A Web Toolkit for Matching under Preferences**|Frederik Glitzner et.al.|[2409.04402](http://arxiv.org/abs/2409.04402)|null|
