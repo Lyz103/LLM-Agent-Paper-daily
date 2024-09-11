@@ -17,6 +17,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter**|Shengkai Li et.al.|[2409.06660](http://arxiv.org/abs/2409.06660)|null|
+|**2024-09-10**|**Fixed-budget and Multiple-issue Quadratic Voting**|Laura Georgescu et.al.|[2409.06614](http://arxiv.org/abs/2409.06614)|null|
+|**2024-09-10**|**On Epistemic Properties in Discrete-Event Systems: A Uniform Framework and Its Applications**|Bohan Cui et.al.|[2409.06588](http://arxiv.org/abs/2409.06588)|null|
+|**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|null|
+|**2024-09-10**|**Indirect Dynamic Negotiation in the Nash Demand Game**|Tatiana V. Guy et.al.|[2409.06566](http://arxiv.org/abs/2409.06566)|null|
+|**2024-09-10**|**Social Mediation through Robots -- A Scoping Review on Improving Group Interactions through Directed Robot Action using an Extended Group Process Model**|Thomas H. Weisswange et.al.|[2409.06557](http://arxiv.org/abs/2409.06557)|null|
+|**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
+|**2024-09-10**|**Learning Generative Interactive Environments By Trained Agent Exploration**|Naser Kazemi et.al.|[2409.06445](http://arxiv.org/abs/2409.06445)|**[link](https://github.com/insait-institute/genieredux)**|
+|**2024-09-10**|**Position Fair Mechanisms Allocating Indivisible Goods**|Ryoga Mahara et.al.|[2409.06423](http://arxiv.org/abs/2409.06423)|null|
+|**2024-09-10**|**Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes**|Ludvig Lemner et.al.|[2409.06416](http://arxiv.org/abs/2409.06416)|null|
+|**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
+|**2024-09-10**|**Foragax: An Agent Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
+|**2024-09-10**|**Towards Agentic AI on Particle Accelerators**|Antonin Sulc et.al.|[2409.06336](http://arxiv.org/abs/2409.06336)|null|
+|**2024-09-10**|**Modified Meta-Thompson Sampling for Linear Bandits and Its Bayes Regret Analysis**|Hao Li et.al.|[2409.06329](http://arxiv.org/abs/2409.06329)|null|
+|**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
+|**2024-09-10**|**Evidence gathering under competitive and noncompetitive rewards**|Philip Brookins et.al.|[2409.06248](http://arxiv.org/abs/2409.06248)|null|
+|**2024-09-10**|**INTRA: Interaction Relationship-aware Weakly Supervised Affordance Grounding**|Ji Ha Jang et.al.|[2409.06210](http://arxiv.org/abs/2409.06210)|null|
+|**2024-09-10**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184](http://arxiv.org/abs/2409.06184)|null|
+|**2024-09-10**|**Contrastive Federated Learning with Tabular Data Silos**|Achmad Ginanjar et.al.|[2409.06123](http://arxiv.org/abs/2409.06123)|null|
+|**2024-09-09**|**ClarQ-LLM: A Benchmark for Models Clarifying and Requesting Information in Task-Oriented Dialog**|Yujian Gan et.al.|[2409.06097](http://arxiv.org/abs/2409.06097)|null|
+|**2024-09-09**|**Coarse Descriptions and Cautious Preferences**|Evan Piermont et.al.|[2409.06054](http://arxiv.org/abs/2409.06054)|null|
+|**2024-09-09**|**When Learning Meets Dynamics: Distributed User Connectivity Maximization in UAV-Based Communication Networks**|Bowei Li et.al.|[2409.06010](http://arxiv.org/abs/2409.06010)|null|
 |**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863](http://arxiv.org/abs/2409.05863)|null|
 |**2024-09-09**|**Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**|Jiaqi Liu et.al.|[2409.05712](http://arxiv.org/abs/2409.05712)|null|
 |**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|
@@ -49,7 +71,7 @@
 |**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744](http://arxiv.org/abs/2409.04744)|null|
 |**2024-09-07**|**Algorithmic Scenario Generation as Quality Diversity Optimization**|Stefanos Nikolaidis et.al.|[2409.04711](http://arxiv.org/abs/2409.04711)|null|
 |**2024-09-07**|**Learning Optimal Stable Matches in Decentralized Markets with Unknown Preferences**|Vade Shah et.al.|[2409.04669](http://arxiv.org/abs/2409.04669)|null|
-|**2024-09-07**|**QueryBuilder: Human-in-the-Loop Query Development for Information Retrieval**|Hemanth Kandula et.al.|[2409.04667](http://arxiv.org/abs/2409.04667)|null|
+|**2024-09-10**|**QueryBuilder: Human-in-the-Loop Query Development for Information Retrieval**|Hemanth Kandula et.al.|[2409.04667](http://arxiv.org/abs/2409.04667)|null|
 |**2024-09-06**|**Stacked Universal Successor Feature Approximators for Safety in Reinforcement Learning**|Ian Cannon et.al.|[2409.04641](http://arxiv.org/abs/2409.04641)|null|
 |**2024-09-06**|**Sparse Rewards Can Self-Train Dialogue Agents**|Barrett Martin Lattimer et.al.|[2409.04617](http://arxiv.org/abs/2409.04617)|null|
 |**2024-09-06**|**Decentralized Learning in General-sum Markov Games**|Chinmay Maheshwari et.al.|[2409.04613](http://arxiv.org/abs/2409.04613)|null|
