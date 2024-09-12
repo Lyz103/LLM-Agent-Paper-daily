@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
 |**2024-09-10**|**Foragax: An Agent Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
 |**2024-09-10**|**Towards Agentic AI on Particle Accelerators**|Antonin Sulc et.al.|[2409.06336](http://arxiv.org/abs/2409.06336)|null|
-|**2024-09-10**|**Modified Meta-Thompson Sampling for Linear Bandits and Its Bayes Regret Analysis**|Hao Li et.al.|[2409.06329](http://arxiv.org/abs/2409.06329)|null|
+|**2024-09-11**|**Modified Meta-Thompson Sampling for Linear Bandits and Its Bayes Regret Analysis**|Hao Li et.al.|[2409.06329](http://arxiv.org/abs/2409.06329)|null|
 |**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
 |**2024-09-10**|**Evidence gathering under competitive and noncompetitive rewards**|Philip Brookins et.al.|[2409.06248](http://arxiv.org/abs/2409.06248)|null|
 |**2024-09-10**|**INTRA: Interaction Relationship-aware Weakly Supervised Affordance Grounding**|Ji Ha Jang et.al.|[2409.06210](http://arxiv.org/abs/2409.06210)|null|
@@ -43,7 +43,7 @@
 |**2024-09-09**|**Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**|Jiaqi Liu et.al.|[2409.05712](http://arxiv.org/abs/2409.05712)|null|
 |**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|
 |**2024-09-09**|**Interpretable Responsibility Sharing as a Heuristic for Task and Motion Planning**|Arda Sarp Yenicesu et.al.|[2409.05586](http://arxiv.org/abs/2409.05586)|null|
-|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|**[link](https://github.com/lamm-mit/SciAgentsDiscovery)**|
 |**2024-09-09**|**Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations**|Xuesong Zhang et.al.|[2409.05552](http://arxiv.org/abs/2409.05552)|null|
 |**2024-09-09**|**A refined Frauchiger--Renner paradox based on strong contextuality**|Laurens Walleghem et.al.|[2409.05491](http://arxiv.org/abs/2409.05491)|null|
 |**2024-09-09**|**Adaptive Multi-Layer Deployment for A Digital Twin Empowered Satellite-Terrestrial Integrated Network**|Yihong Tao et.al.|[2409.05480](http://arxiv.org/abs/2409.05480)|null|
@@ -58,7 +58,7 @@
 |**2024-09-08**|**Banded phases in topological flocks**|Charles R. Packard et.al.|[2409.05198](http://arxiv.org/abs/2409.05198)|null|
 |**2024-09-08**|**Difference Between Cyclic and Distributed Approach in Stochastic Optimization for Multi-agent System**|Jiahao Shi et.al.|[2409.05155](http://arxiv.org/abs/2409.05155)|null|
 |**2024-09-08**|**Nonlinear Cooperative Output Regulation with Input Delay Compensation**|Shiqi Zheng et.al.|[2409.05113](http://arxiv.org/abs/2409.05113)|null|
-|**2024-09-08**|**Decentralized Control of Multi-Agent Systems Under Acyclic Spatio-Temporal Task Dependencies**|Gregorio Marchesini et.al.|[2409.05106](http://arxiv.org/abs/2409.05106)|null|
+|**2024-09-11**|**Decentralized Control of Multi-Agent Systems Under Acyclic Spatio-Temporal Task Dependencies**|Gregorio Marchesini et.al.|[2409.05106](http://arxiv.org/abs/2409.05106)|null|
 |**2024-09-08**|**Pareto-Optimal Peer-to-Peer Risk Sharing with Robust Distortion Risk Measures**|Mario Ghossoub et.al.|[2409.05103](http://arxiv.org/abs/2409.05103)|null|
 |**2024-09-08**|**On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community**|Lingfei Wang et.al.|[2409.05063](http://arxiv.org/abs/2409.05063)|null|
 |**2024-09-08**|**Towards Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control**|Kang Wang et.al.|[2409.05037](http://arxiv.org/abs/2409.05037)|null|
@@ -496,7 +496,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
