@@ -17,6 +17,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453](http://arxiv.org/abs/2409.07453)|null|
+|**2024-09-11**|**SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**|Ben Bogin et.al.|[2409.07440](http://arxiv.org/abs/2409.07440)|**[link](https://github.com/allenai/super-benchmark)**|
+|**2024-09-11**|**Agent Workflow Memory**|Zora Zhiruo Wang et.al.|[2409.07429](http://arxiv.org/abs/2409.07429)|**[link](https://github.com/zorazrw/agent-workflow-memory)**|
+|**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
+|**2024-09-11**|**A Contrastive Symmetric Forward-Forward Algorithm (SFFA) for Continual Learning Tasks**|Erik B. Terres-Escudero et.al.|[2409.07387](http://arxiv.org/abs/2409.07387)|null|
+|**2024-09-11**|**Policy consequences of the new neuroeconomic framework**|A. David Redish et.al.|[2409.07373](http://arxiv.org/abs/2409.07373)|null|
+|**2024-09-11**|**Online Decision MetaMorphFormer: A Casual Transformer-Based Reinforcement Learning Framework of Universal Embodied Intelligence**|Luo Ji et.al.|[2409.07341](http://arxiv.org/abs/2409.07341)|null|
+|**2024-09-11**|**Explanation, Debate, Align: A Weak-to-Strong Framework for Language Model Generalization**|Mehrdad Zakershahrak et.al.|[2409.07335](http://arxiv.org/abs/2409.07335)|null|
+|**2024-09-11**|**Using Generative Agents to Create Tip Sheets for Investigative Data Reporting**|Joris Veerbeek et.al.|[2409.07286](http://arxiv.org/abs/2409.07286)|null|
+|**2024-09-11**|**Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences**|Ziang Liu et.al.|[2409.07268](http://arxiv.org/abs/2409.07268)|null|
+|**2024-09-11**|**Cross-Dialect Text-To-Speech in Pitch-Accent Language Incorporating Multi-Dialect Phoneme-Level BERT**|Kazuki Yamauchi et.al.|[2409.07265](http://arxiv.org/abs/2409.07265)|null|
+|**2024-09-11**|**Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs**|Firoj Alam et.al.|[2409.07246](http://arxiv.org/abs/2409.07246)|null|
+|**2024-09-11**|**A Perspective on AI-Guided Molecular Simulations in VR: Exploring Strategies for Imitation Learning in Hyperdimensional Molecular Systems**|Mohamed Dhouioui et.al.|[2409.07189](http://arxiv.org/abs/2409.07189)|null|
+|**2024-09-11**|**Identify Design Problems Through Questioning: Exploring Role-playing Interactions with Large Language Models to Foster Design Questioning Skills**|Hyunseung Lim et.al.|[2409.07178](http://arxiv.org/abs/2409.07178)|null|
+|**2024-09-11**|**Learning Efficient Recursive Numeral Systems via Reinforcement Learning**|Jonathan D. Thomas et.al.|[2409.07170](http://arxiv.org/abs/2409.07170)|null|
+|**2024-09-11**|**Randomized Strategic Facility Location with Predictions**|Eric Balkanski et.al.|[2409.07142](http://arxiv.org/abs/2409.07142)|null|
+|**2024-09-11**|**MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis**|Hanyu Jiang et.al.|[2409.07129](http://arxiv.org/abs/2409.07129)|null|
+|**2024-09-11**|**DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training**|Dongkun Huo et.al.|[2409.07127](http://arxiv.org/abs/2409.07127)|null|
+|**2024-09-10**|**A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps**|Cheng Qian et.al.|[2409.06888](http://arxiv.org/abs/2409.06888)|null|
+|**2024-09-10**|**Can Agents Spontaneously Form a Society? Introducing a Novel Architecture for Generative Multi-Agents to Elicit Social Emergence**|H. Zhang et.al.|[2409.06750](http://arxiv.org/abs/2409.06750)|null|
+|**2024-09-10**|**Distributed Cooperative AI for Large-Scale Eigenvalue Computations Using Neural Networks**|Ronald Katende et.al.|[2409.06746](http://arxiv.org/abs/2409.06746)|null|
 |**2024-09-10**|**Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter**|Shengkai Li et.al.|[2409.06660](http://arxiv.org/abs/2409.06660)|null|
 |**2024-09-10**|**Fixed-budget and Multiple-issue Quadratic Voting**|Laura Georgescu et.al.|[2409.06614](http://arxiv.org/abs/2409.06614)|null|
 |**2024-09-10**|**On Epistemic Properties in Discrete-Event Systems: A Uniform Framework and Its Applications**|Bohan Cui et.al.|[2409.06588](http://arxiv.org/abs/2409.06588)|null|
@@ -34,7 +55,7 @@
 |**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
 |**2024-09-10**|**Evidence gathering under competitive and noncompetitive rewards**|Philip Brookins et.al.|[2409.06248](http://arxiv.org/abs/2409.06248)|null|
 |**2024-09-10**|**INTRA: Interaction Relationship-aware Weakly Supervised Affordance Grounding**|Ji Ha Jang et.al.|[2409.06210](http://arxiv.org/abs/2409.06210)|null|
-|**2024-09-10**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184](http://arxiv.org/abs/2409.06184)|null|
+|**2024-09-11**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184](http://arxiv.org/abs/2409.06184)|null|
 |**2024-09-10**|**Contrastive Federated Learning with Tabular Data Silos**|Achmad Ginanjar et.al.|[2409.06123](http://arxiv.org/abs/2409.06123)|null|
 |**2024-09-09**|**ClarQ-LLM: A Benchmark for Models Clarifying and Requesting Information in Task-Oriented Dialog**|Yujian Gan et.al.|[2409.06097](http://arxiv.org/abs/2409.06097)|null|
 |**2024-09-09**|**Coarse Descriptions and Cautious Preferences**|Evan Piermont et.al.|[2409.06054](http://arxiv.org/abs/2409.06054)|null|
