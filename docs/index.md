@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -46,7 +46,7 @@ layout: default
 |**2024-09-10**|**Position Fair Mechanisms Allocating Indivisible Goods**|Ryoga Mahara et.al.|[2409.06423](http://arxiv.org/abs/2409.06423)|null|
 |**2024-09-10**|**Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes**|Ludvig Lemner et.al.|[2409.06416](http://arxiv.org/abs/2409.06416)|null|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
-|**2024-09-10**|**Foragax: An Agent Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
+|**2024-09-12**|**Foragax: An Agent-Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
 |**2024-09-10**|**Towards Agentic AI on Particle Accelerators**|Antonin Sulc et.al.|[2409.06336](http://arxiv.org/abs/2409.06336)|null|
 |**2024-09-11**|**Modified Meta-Thompson Sampling for Linear Bandits and Its Bayes Regret Analysis**|Hao Li et.al.|[2409.06329](http://arxiv.org/abs/2409.06329)|null|
 |**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
@@ -134,7 +134,7 @@ layout: default
 |**2024-09-05**|**Improving agent performance in fluid environments by perceptual pretraining**|Jin Zhang et.al.|[2409.03230](http://arxiv.org/abs/2409.03230)|null|
 |**2024-09-05**|**xLAM: A Family of Large Action Models to Empower AI Agent Systems**|Jianguo Zhang et.al.|[2409.03215](http://arxiv.org/abs/2409.03215)|null|
 |**2024-09-05**|**Predefined-time distributed non-convex optimization via a time-base generator**|Qinlong Lin et.al.|[2409.03188](http://arxiv.org/abs/2409.03188)|null|
-|**2024-09-05**|**Continual Skill and Task Learning via Dialogue**|Weiwei Gu et.al.|[2409.03166](http://arxiv.org/abs/2409.03166)|null|
+|**2024-09-11**|**Continual Skill and Task Learning via Dialogue**|Weiwei Gu et.al.|[2409.03166](http://arxiv.org/abs/2409.03166)|null|
 |**2024-09-04**|**Subsidy design for better social outcomes**|Maria-Florina Balcan et.al.|[2409.03129](http://arxiv.org/abs/2409.03129)|null|
 |**2024-09-04**|**RoboKoop: Efficient Control Conditioned Representations from Visual Input in Robotics using Koopman Operator**|Hemant Kumawat et.al.|[2409.03107](http://arxiv.org/abs/2409.03107)|null|
 |**2024-09-04**|**Resilient Two-Time-Scale Local Stochastic Gradient Descent for Byzantine Federated Learning**|Amit Dutta et.al.|[2409.03092](http://arxiv.org/abs/2409.03092)|null|
