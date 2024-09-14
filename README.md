@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.13
+## Updated on 2024.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -77,7 +77,7 @@
 |**2024-09-10**|**Position Fair Mechanisms Allocating Indivisible Goods**|Ryoga Mahara et.al.|[2409.06423](http://arxiv.org/abs/2409.06423)|null|
 |**2024-09-10**|**Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes**|Ludvig Lemner et.al.|[2409.06416](http://arxiv.org/abs/2409.06416)|null|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
-|**2024-09-12**|**Foragax: An Agent-Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
+|**2024-09-12**|**Foragax: An Agent-Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|**[link](https://github.com/i-m-iron-man/Foragax)**|
 |**2024-09-10**|**Towards Agentic AI on Particle Accelerators**|Antonin Sulc et.al.|[2409.06336](http://arxiv.org/abs/2409.06336)|null|
 |**2024-09-11**|**Modified Meta-Thompson Sampling for Linear Bandits and Its Bayes Regret Analysis**|Hao Li et.al.|[2409.06329](http://arxiv.org/abs/2409.06329)|null|
 |**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
@@ -545,7 +545,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20240913>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240914>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
