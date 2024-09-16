@@ -91,13 +91,13 @@
 |**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863](http://arxiv.org/abs/2409.05863)|null|
 |**2024-09-09**|**Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**|Jiaqi Liu et.al.|[2409.05712](http://arxiv.org/abs/2409.05712)|null|
 |**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|
-|**2024-09-09**|**Interpretable Responsibility Sharing as a Heuristic for Task and Motion Planning**|Arda Sarp Yenicesu et.al.|[2409.05586](http://arxiv.org/abs/2409.05586)|null|
+|**2024-09-09**|**Interpretable Responsibility Sharing as a Heuristic for Task and Motion Planning**|Arda Sarp Yenicesu et.al.|[2409.05586](http://arxiv.org/abs/2409.05586)|**[link](https://github.com/asyncs/irs)**|
 |**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|**[link](https://github.com/lamm-mit/SciAgentsDiscovery)**|
 |**2024-09-09**|**Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations**|Xuesong Zhang et.al.|[2409.05552](http://arxiv.org/abs/2409.05552)|null|
 |**2024-09-09**|**A refined Frauchiger--Renner paradox based on strong contextuality**|Laurens Walleghem et.al.|[2409.05491](http://arxiv.org/abs/2409.05491)|null|
 |**2024-09-09**|**Adaptive Multi-Layer Deployment for A Digital Twin Empowered Satellite-Terrestrial Integrated Network**|Yihong Tao et.al.|[2409.05480](http://arxiv.org/abs/2409.05480)|null|
 |**2024-09-09**|**Reinforcement Learning for Variational Quantum Circuits Design**|Simone Foderà et.al.|[2409.05475](http://arxiv.org/abs/2409.05475)|null|
-|**2024-09-09**|**Semifactual Explanations for Reinforcement Learning**|Jasmina Gajcin et.al.|[2409.05435](http://arxiv.org/abs/2409.05435)|null|
+|**2024-09-09**|**Semifactual Explanations for Reinforcement Learning**|Jasmina Gajcin et.al.|[2409.05435](http://arxiv.org/abs/2409.05435)|**[link](https://github.com/anonymous902109/sgrl)**|
 |**2024-09-09**|**Leveraging Computation of Expectation Models for Commonsense Affordance Estimation on 3D Scene Graphs**|Mario Alberto Valdes Saucedo et.al.|[2409.05392](http://arxiv.org/abs/2409.05392)|null|
 |**2024-09-09**|**BAMDP Shaping: a Unified Theoretical Framework for Intrinsic Motivation and Reward Shaping**|Aly Lidayan et.al.|[2409.05358](http://arxiv.org/abs/2409.05358)|null|
 |**2024-09-09**|**Obvious Strategy-proofness with Respect to a Partition**|R. Pablo Arribillaga et.al.|[2409.05315](http://arxiv.org/abs/2409.05315)|null|
@@ -112,7 +112,7 @@
 |**2024-09-08**|**On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community**|Lingfei Wang et.al.|[2409.05063](http://arxiv.org/abs/2409.05063)|null|
 |**2024-09-08**|**Towards Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control**|Kang Wang et.al.|[2409.05037](http://arxiv.org/abs/2409.05037)|null|
 |**2024-09-08**|**Cooperative Learning-Based Framework for VNF Caching and Placement Optimization over Low Earth Orbit Satellite Networks**|Khai Doan et.al.|[2409.05025](http://arxiv.org/abs/2409.05025)|null|
-|**2024-09-08**|**A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**|Huan Zhang et.al.|[2409.05001](http://arxiv.org/abs/2409.05001)|null|
+|**2024-09-08**|**A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**|Huan Zhang et.al.|[2409.05001](http://arxiv.org/abs/2409.05001)|**[link](https://github.com/nju-websoft/paircoder)**|
 |**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|null|
 |**2024-09-07**|**DEPLOYERS: An agent based modeling tool for multi country real world data**|Martin Jaraiz et.al.|[2409.04876](http://arxiv.org/abs/2409.04876)|null|
 |**2024-09-07**|**Adaptation Procedure in Misinformation Games**|Konstantinos Varsos et.al.|[2409.04854](http://arxiv.org/abs/2409.04854)|null|
@@ -122,7 +122,7 @@
 |**2024-09-07**|**Learning Optimal Stable Matches in Decentralized Markets with Unknown Preferences**|Vade Shah et.al.|[2409.04669](http://arxiv.org/abs/2409.04669)|null|
 |**2024-09-10**|**QueryBuilder: Human-in-the-Loop Query Development for Information Retrieval**|Hemanth Kandula et.al.|[2409.04667](http://arxiv.org/abs/2409.04667)|null|
 |**2024-09-06**|**Stacked Universal Successor Feature Approximators for Safety in Reinforcement Learning**|Ian Cannon et.al.|[2409.04641](http://arxiv.org/abs/2409.04641)|null|
-|**2024-09-06**|**Sparse Rewards Can Self-Train Dialogue Agents**|Barrett Martin Lattimer et.al.|[2409.04617](http://arxiv.org/abs/2409.04617)|null|
+|**2024-09-06**|**Sparse Rewards Can Self-Train Dialogue Agents**|Barrett Martin Lattimer et.al.|[2409.04617](http://arxiv.org/abs/2409.04617)|**[link](https://github.com/asappresearch/josh-llm-simulation-training)**|
 |**2024-09-06**|**Decentralized Learning in General-sum Markov Games**|Chinmay Maheshwari et.al.|[2409.04613](http://arxiv.org/abs/2409.04613)|null|
 |**2024-09-06**|**Impact of Transit on Mobility, Equity, and Economy in the Chicago Metropolitan Region**|Omer Verbas et.al.|[2409.04568](http://arxiv.org/abs/2409.04568)|null|
 |**2024-09-03**|**State and Action Factorization in Power Grids**|Gianvito Losapio et.al.|[2409.04467](http://arxiv.org/abs/2409.04467)|null|
@@ -148,7 +148,7 @@
 |**2024-09-05**|**PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization**|Federico Berto et.al.|[2409.03811](http://arxiv.org/abs/2409.03811)|**[link](https://github.com/ai4co/parco)**|
 |**2024-09-04**|**NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls**|Kinjal Basu et.al.|[2409.03797](http://arxiv.org/abs/2409.03797)|null|
 |**2024-09-13**|**Safeguarding AI Agents: Developing and Analyzing Safety Architectures**|Ishaan Domkundwar et.al.|[2409.03793](http://arxiv.org/abs/2409.03793)|null|
-|**2024-08-31**|**BreachSeek: A Multi-Agent Automated Penetration Tester**|Ibrahim Alshehri et.al.|[2409.03789](http://arxiv.org/abs/2409.03789)|null|
+|**2024-08-31**|**BreachSeek: A Multi-Agent Automated Penetration Tester**|Ibrahim Alshehri et.al.|[2409.03789](http://arxiv.org/abs/2409.03789)|**[link](https://github.com/snow10100/pena)**|
 |**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
 |**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|null|
 |**2024-09-06**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659](http://arxiv.org/abs/2409.03659)|**[link](https://github.com/zhangr2021/Multiagent_poetry)**|
@@ -222,7 +222,7 @@
 |**2024-09-02**|**Watermarking of Quantum Circuits**|Rupshali Roy et.al.|[2409.01484](http://arxiv.org/abs/2409.01484)|null|
 |**2024-09-02**|**Irreversible investment under weighted discounting: effects of decreasing impatience**|Pengyu Wei et.al.|[2409.01478](http://arxiv.org/abs/2409.01478)|null|
 |**2024-09-02**|**Real-Time Recurrent Learning using Trace Units in Reinforcement Learning**|Esraa Elelimy et.al.|[2409.01449](http://arxiv.org/abs/2409.01449)|null|
-|**2024-09-02**|**Performance-Aware Self-Configurable Multi-Agent Networks: A Distributed Submodular Approach for Simultaneous Coordination and Network Design**|Zirui Xu et.al.|[2409.01411](http://arxiv.org/abs/2409.01411)|null|
+|**2024-09-02**|**Performance-Aware Self-Configurable Multi-Agent Networks: A Distributed Submodular Approach for Simultaneous Coordination and Network Design**|Zirui Xu et.al.|[2409.01411](http://arxiv.org/abs/2409.01411)|**[link](https://github.com/UM-iRaL/Self-configurable-network)**|
 |**2024-09-02**|**GenAgent: Build Collaborative AI Systems with Automated Workflow Generation -- Case Studies on ComfyUI**|Xiangyuan Xue et.al.|[2409.01392](http://arxiv.org/abs/2409.01392)|null|
 |**2024-09-02**|**Modeling contagious disease spreading**|Dipak Patra et.al.|[2409.01103](http://arxiv.org/abs/2409.01103)|null|
 |**2024-09-02**|**Two-Timescale Synchronization and Migration for Digital Twin Networks: A Multi-Agent Deep Reinforcement Learning Approach**|Wenshuai Liu et.al.|[2409.01092](http://arxiv.org/abs/2409.01092)|null|
@@ -256,7 +256,7 @@
 |**2024-08-31**|**Chatting Up Attachment: Using LLMs to Predict Adult Bonds**|Paulo Soares et.al.|[2409.00347](http://arxiv.org/abs/2409.00347)|null|
 |**2024-08-29**|**PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action**|Yijia Shao et.al.|[2409.00138](http://arxiv.org/abs/2409.00138)|**[link](https://github.com/salt-nlp/privacylens)**|
 |**2024-08-29**|**HoneyComb: A Flexible LLM-Based Agent System for Materials Science**|Huan Zhang et.al.|[2409.00135](http://arxiv.org/abs/2409.00135)|null|
-|**2024-08-29**|**MAPF-GPT: Imitation Learning for Multi-Agent Pathfinding at Scale**|Anton Andreychuk et.al.|[2409.00134](http://arxiv.org/abs/2409.00134)|null|
+|**2024-08-29**|**MAPF-GPT: Imitation Learning for Multi-Agent Pathfinding at Scale**|Anton Andreychuk et.al.|[2409.00134](http://arxiv.org/abs/2409.00134)|**[link](https://github.com/Cognitive-AI-Systems/MAPF-GPT)**|
 |**2024-08-27**|**Evaluating the Impact of Multiple DER Aggregators on Wholesale Energy Markets: A Hybrid Mean Field Approach**|Jun He et.al.|[2409.00107](http://arxiv.org/abs/2409.00107)|null|
 |**2024-08-27**|**Collective Predictive Coding as Model of Science: Formalizing Scientific Activities Towards Generative Science**|Tadahiro Taniguchi et.al.|[2409.00102](http://arxiv.org/abs/2409.00102)|null|
 |**2024-08-27**|**Modelisation a base d'Agent Augmentes par LLM pour les Simulations Sociales: Defis et Opportunites**|Önder Gürcan et.al.|[2409.00100](http://arxiv.org/abs/2409.00100)|null|
@@ -528,7 +528,7 @@
 |**2024-08-17**|**Training Verifiably Robust Agents Using Set-Based Reinforcement Learning**|Manuel Wendl et.al.|[2408.09112](http://arxiv.org/abs/2408.09112)|null|
 |**2024-08-17**|**Me want cookie! Towards automated and transparent data governance on the Web**|Jesse Wright et.al.|[2408.09071](http://arxiv.org/abs/2408.09071)|null|
 |**2024-08-16**|**On the Completeness of Conflict-Based Search: Temporally-Relative Duplicate Pruning**|Thayne T Walker et.al.|[2408.09028](http://arxiv.org/abs/2408.09028)|null|
-|**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|null|
+|**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|**[link](https://github.com/guangyans/sys2-llava)**|
 |**2024-08-16**|**CPS-TaskForge: Generating Collaborative Problem Solving Environments for Diverse Communication Tasks**|Nikita Haduong et.al.|[2408.08853](http://arxiv.org/abs/2408.08853)|null|
 |**2024-08-16**|**A Novel Quantum Algorithm for Efficient Attractor Search in Gene Regulatory Networks**|Mirko Rossini et.al.|[2408.08814](http://arxiv.org/abs/2408.08814)|**[link](https://github.com/sysbio-bioinf/QuantumAttractorSearch)**|
 |**2024-08-16**|**CAT: Caution Aware Transfer in Reinforcement Learning via Distributional Risk**|Mohamad Fares El Hajj Chehade et.al.|[2408.08812](http://arxiv.org/abs/2408.08812)|null|
