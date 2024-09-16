@@ -17,6 +17,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
+|**2024-09-13**|**Optically-Validated Microvascular Phantom for Super-Resolution Ultrasound Imaging**|Jaime Parra Raad et.al.|[2409.09031](http://arxiv.org/abs/2409.09031)|null|
+|**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
+|**2024-09-13**|**AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents**|Zhe Su et.al.|[2409.09013](http://arxiv.org/abs/2409.09013)|null|
+|**2024-09-13**|**Mechanism Design for Extending the Accessibility of Facilities**|Hau Chan et.al.|[2409.08993](http://arxiv.org/abs/2409.08993)|null|
+|**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
+|**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
+|**2024-09-13**|**Farmer.Chat: Scaling AI-Powered Agricultural Services for Smallholder Farmers**|Namita Singh et.al.|[2409.08916](http://arxiv.org/abs/2409.08916)|null|
+|**2024-09-13**|**Exploring Action-Centric Representations Through the Lens of Rate-Distortion Theory**|Miguel de Llanza Varona et.al.|[2409.08892](http://arxiv.org/abs/2409.08892)|null|
+|**2024-09-13**|**Using The Concept Hierarchy for Household Action Recognition**|Andrei Costinescu et.al.|[2409.08853](http://arxiv.org/abs/2409.08853)|null|
+|**2024-09-13**|**Deep reinforcement learning for tracking a moving target in jellyfish-like swimming**|Yihao Chen et.al.|[2409.08815](http://arxiv.org/abs/2409.08815)|null|
+|**2024-09-13**|**Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task**|Shao Zhang et.al.|[2409.08811](http://arxiv.org/abs/2409.08811)|null|
+|**2024-09-13**|**HOLA-Drone: Hypergraphic Open-ended Learning for Zero-Shot Multi-Drone Cooperative Pursuit**|Yang Li et.al.|[2409.08767](http://arxiv.org/abs/2409.08767)|null|
+|**2024-09-13**|**Fusing Dynamics Equation: A Social Opinions Prediction Algorithm with LLM-based Agents**|Junchi Yao et.al.|[2409.08717](http://arxiv.org/abs/2409.08717)|null|
+|**2024-09-13**|**Systematic analysis of requirements for socially acceptable service robots**|Andrea Ruo et.al.|[2409.08677](http://arxiv.org/abs/2409.08677)|null|
+|**2024-09-13**|**Average Consensus over Directed Networks in Open Multi-Agent Systems with Acknowledgement Feedback**|Evagoras Makridis et.al.|[2409.08634](http://arxiv.org/abs/2409.08634)|null|
+|**2024-09-13**|**Generalization of Gershgorin's theorem. Analysis and design of control laws**|Igor Furtat et.al.|[2409.08576](http://arxiv.org/abs/2409.08576)|null|
+|**2024-09-13**|**Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding**|Tianqiao Liu et.al.|[2409.08561](http://arxiv.org/abs/2409.08561)|null|
+|**2024-09-13**|**Can AI Prompt Humans? Multimodal Agents Prompt Players' Game Actions and Show Consequences to Raise Sustainability Awareness**|Qinshi Zhang et.al.|[2409.08486](http://arxiv.org/abs/2409.08486)|null|
+|**2024-09-13**|**A BERT-Based Summarization approach for depression detection**|Hossein Salahshoor Gavalan et.al.|[2409.08483](http://arxiv.org/abs/2409.08483)|null|
+|**2024-09-12**|**A Surveillance Game between a Differential Drive Robot and an Omnidirectional Agent: The Case of a Faster Evader**|Rodrigo Saavedra et.al.|[2409.08414](http://arxiv.org/abs/2409.08414)|null|
+|**2024-09-12**|**Sequential Discrete Action Selection via Blocking Conditions and Resolutions**|Liam Merz Hoffmeister et.al.|[2409.08410](http://arxiv.org/abs/2409.08410)|null|
+|**2024-09-12**|**Knowledge Tagging with Large Language Model based Multi-Agent System**|Hang Li et.al.|[2409.08406](http://arxiv.org/abs/2409.08406)|null|
+|**2024-09-12**|**Self-Supervised Inference of Agents in Trustless Environments**|Vladyslav Larin et.al.|[2409.08386](http://arxiv.org/abs/2409.08386)|null|
+|**2024-09-12**|**An Experimental Study of Competitive Market Behavior Through LLMs**|Jingru Jia et.al.|[2409.08357](http://arxiv.org/abs/2409.08357)|null|
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**How can the tragedy of the commons be prevented?: Introducing Linear Quadratic Mixed Mean Field Games**|Gokce Dayanikli et.al.|[2409.08235](http://arxiv.org/abs/2409.08235)|null|
 |**2024-09-12**|**Linear Complementary Dual Codes Constructed from Reinforcement Learning**|Yansheng Wu et.al.|[2409.08114](http://arxiv.org/abs/2409.08114)|null|
