@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -39,7 +39,7 @@ layout: default
 |**2024-09-12**|**Knowledge Tagging with Large Language Model based Multi-Agent System**|Hang Li et.al.|[2409.08406](http://arxiv.org/abs/2409.08406)|null|
 |**2024-09-12**|**Self-Supervised Inference of Agents in Trustless Environments**|Vladyslav Larin et.al.|[2409.08386](http://arxiv.org/abs/2409.08386)|null|
 |**2024-09-12**|**An Experimental Study of Competitive Market Behavior Through LLMs**|Jingru Jia et.al.|[2409.08357](http://arxiv.org/abs/2409.08357)|null|
-|**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
+|**2024-09-13**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**How can the tragedy of the commons be prevented?: Introducing Linear Quadratic Mixed Mean Field Games**|Gokce Dayanikli et.al.|[2409.08235](http://arxiv.org/abs/2409.08235)|null|
 |**2024-09-12**|**Linear Complementary Dual Codes Constructed from Reinforcement Learning**|Yansheng Wu et.al.|[2409.08114](http://arxiv.org/abs/2409.08114)|null|
 |**2024-09-12**|**MosquitoMiner: A Light Weight Rover for Detecting and Eliminating Mosquito Breeding Sites**|Md. Adnanul Islam et.al.|[2409.08078](http://arxiv.org/abs/2409.08078)|**[link](https://github.com/faiyazabdullah/MosquitoMiner)**|
@@ -65,7 +65,7 @@ layout: default
 |**2024-09-11**|**HERL: Tiered Federated Learning with Adaptive Homomorphic Encryption using Reinforcement Learning**|Jiaxang Tang et.al.|[2409.07631](http://arxiv.org/abs/2409.07631)|null|
 |**2024-09-11**|**A Survey of Inverse Constrained Reinforcement Learning: Definitions, Progress and Challenges**|Guiliang Liu et.al.|[2409.07569](http://arxiv.org/abs/2409.07569)|null|
 |**2024-09-11**|**Connecting extended Wigner's friend arguments and noncontextuality**|Laurens Walleghem et.al.|[2409.07537](http://arxiv.org/abs/2409.07537)|null|
-|**2024-09-04**|**MoA is All You Need: Building LLM Research Team using Mixture of Agents**|Sandy Chen et.al.|[2409.07487](http://arxiv.org/abs/2409.07487)|null|
+|**2024-09-13**|**MoA is All You Need: Building LLM Research Team using Mixture of Agents**|Sandy Chen et.al.|[2409.07487](http://arxiv.org/abs/2409.07487)|null|
 |**2024-09-04**|**MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model**|Junjie Li et.al.|[2409.07486](http://arxiv.org/abs/2409.07486)|null|
 |**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453](http://arxiv.org/abs/2409.07453)|null|
 |**2024-09-11**|**SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**|Ben Bogin et.al.|[2409.07440](http://arxiv.org/abs/2409.07440)|**[link](https://github.com/allenai/super-benchmark)**|
