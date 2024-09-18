@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2024-09-15**|**On the Effect of Robot Errors on Human Teaching Dynamics**|Jindan Huang et.al.|[2409.09827](http://arxiv.org/abs/2409.09827)|null|
 |**2024-09-15**|**Revisiting the state-space model of unawareness**|Alex A. T. Rathke et.al.|[2409.09818](http://arxiv.org/abs/2409.09818)|null|
 |**2024-09-15**|**Social Influence and Consensus Building: Introducing a q-Voter Model with Weighted Influence**|Pratik Mullick et.al.|[2409.09817](http://arxiv.org/abs/2409.09817)|null|
-|**2024-09-15**|**Large Language Model Based Generative Error Correction: A Challenge and Baselines forSpeech Recognition, Speaker Tagging, and Emotion Recognition**|Chao-Han Huck Yang et.al.|[2409.09785](http://arxiv.org/abs/2409.09785)|null|
+|**2024-09-17**|**Large Language Model Based Generative Error Correction: A Challenge and Baselines for Speech Recognition, Speaker Tagging, and Emotion Recognition**|Chao-Han Huck Yang et.al.|[2409.09785](http://arxiv.org/abs/2409.09785)|null|
 |**2024-09-15**|**DiFSD: Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient End-to-End Autonomous Driving**|Haisheng Su et.al.|[2409.09777](http://arxiv.org/abs/2409.09777)|null|
 |**2024-09-15**|**Range-SLAM: Ultra-Wideband-Based Smoke-Resistant Real-Time Localization and Mapping**|Yi Liu et.al.|[2409.09763](http://arxiv.org/abs/2409.09763)|null|
 |**2024-09-15**|**Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents**|Justas Andriuškevičius et.al.|[2409.09717](http://arxiv.org/abs/2409.09717)|null|
@@ -154,7 +154,7 @@
 |**2024-09-10**|**Position Fair Mechanisms Allocating Indivisible Goods**|Ryoga Mahara et.al.|[2409.06423](http://arxiv.org/abs/2409.06423)|null|
 |**2024-09-10**|**Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes**|Ludvig Lemner et.al.|[2409.06416](http://arxiv.org/abs/2409.06416)|null|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
-|**2024-09-12**|**Foragax: An Agent-Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|**[link](https://github.com/i-m-iron-man/Foragax)**|
+|**2024-09-17**|**Foragax: An Agent-Based Modelling Framework Based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|**[link](https://github.com/i-m-iron-man/Foragax)**|
 |**2024-09-10**|**Towards Agentic AI on Particle Accelerators**|Antonin Sulc et.al.|[2409.06336](http://arxiv.org/abs/2409.06336)|null|
 |**2024-09-11**|**Modified Meta-Thompson Sampling for Linear Bandits and Its Bayes Regret Analysis**|Hao Li et.al.|[2409.06329](http://arxiv.org/abs/2409.06329)|null|
 |**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
@@ -623,7 +623,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
