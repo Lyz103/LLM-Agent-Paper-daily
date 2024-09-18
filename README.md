@@ -17,6 +17,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Ising model with varying spin strength on a scale-free network: scaling functions and critical amplitude ratios**|M. Krasnytska et.al.|[2409.11396](http://arxiv.org/abs/2409.11396)|null|
+|**2024-09-17**|**Distributed Perception Aware Safe Leader Follower System via Control Barrier Methods**|Richie R. Suganda et.al.|[2409.11394](http://arxiv.org/abs/2409.11394)|null|
+|**2024-09-17**|**LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless Integration of Multi Active/Passive Core-Agents**|Amine B. Hassouna et.al.|[2409.11393](http://arxiv.org/abs/2409.11393)|null|
+|**2024-09-17**|**CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark**|Zachary S. Siegel et.al.|[2409.11363](http://arxiv.org/abs/2409.11363)|**[link](https://github.com/siegelz/core-bench)**|
+|**2024-09-17**|**A Scalable Game Theoretic Approach for Coordination of Multiple Dynamic Systems**|Mostafa M. Shibl et.al.|[2409.11358](http://arxiv.org/abs/2409.11358)|null|
+|**2024-09-17**|**EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**|Zeyi Liao et.al.|[2409.11295](http://arxiv.org/abs/2409.11295)|null|
+|**2024-09-17**|**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**|Weiye Xu et.al.|[2409.11279](http://arxiv.org/abs/2409.11279)|null|
+|**2024-09-17**|**Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments**|Maria Rigaki et.al.|[2409.11276](http://arxiv.org/abs/2409.11276)|null|
+|**2024-09-17**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|null|
+|**2024-09-17**|**To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?**|Chih-Yuan Chiu et.al.|[2409.11257](http://arxiv.org/abs/2409.11257)|null|
+|**2024-09-17**|**A Continuous-time Tractable Model for Present-biased Agents**|Yasunori Akagi et.al.|[2409.11225](http://arxiv.org/abs/2409.11225)|null|
+|**2024-09-17**|**Bearing-based Target Localisation in Search and Rescue Scenarios**|Giulia Michieletto et.al.|[2409.11221](http://arxiv.org/abs/2409.11221)|null|
+|**2024-09-17**|**SuperCoder2.0: Technical Report on Exploring the feasibility of LLMs as Autonomous Programmer**|Anmol Gautam et.al.|[2409.11190](http://arxiv.org/abs/2409.11190)|null|
+|**2024-09-17**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|null|
+|**2024-09-17**|**Preventing Unconstrained CBF Safety Filters Caused by Invalid Relative Degree Assumptions**|Lukas Brunke et.al.|[2409.11171](http://arxiv.org/abs/2409.11171)|null|
+|**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/biaslab/RxEnvironments.jl)**|
+|**2024-09-17**|**Data-driven Dynamic Intervention Design in Network Games**|Xiupeng Chen et.al.|[2409.11069](http://arxiv.org/abs/2409.11069)|null|
+|**2024-09-17**|**A logical alarm for misaligned binary classifiers**|Andrés Corrada-Emmanuel et.al.|[2409.11052](http://arxiv.org/abs/2409.11052)|null|
+|**2024-09-17**|**Improving Speech Emotion Recognition in Under-Resourced Languages via Speech-to-Speech Translation with Bootstrapping Data Selection**|Hsi-Che Lin et.al.|[2409.10985](http://arxiv.org/abs/2409.10985)|null|
+|**2024-09-17**|**Label-free correlative morpho-chemical tomography of 3D kidney mesangial cells**|Ankit Butola et.al.|[2409.10971](http://arxiv.org/abs/2409.10971)|null|
+|**2024-09-17**|**Frontier Shepherding: A Bio-Mimetic Multi-robot Framework for Large-Scale Exploration**|John Lewis et.al.|[2409.10931](http://arxiv.org/abs/2409.10931)|null|
+|**2024-09-17**|**Multi-Floor Zero-Shot Object Navigation Policy**|Lingfeng Zhang et.al.|[2409.10906](http://arxiv.org/abs/2409.10906)|null|
+|**2024-09-17**|**Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections**|Viet-Anh Le et.al.|[2409.10864](http://arxiv.org/abs/2409.10864)|null|
+|**2024-09-17**|**SIFToM: Robust Spoken Instruction Following through Theory of Mind**|Lance Ying et.al.|[2409.10849](http://arxiv.org/abs/2409.10849)|null|
+|**2024-09-17**|**Improving Interface Design in Interactive Task Learning for Hierarchical Tasks based on a Qualitative Study**|Jieyu Zhou et.al.|[2409.10826](http://arxiv.org/abs/2409.10826)|null|
+|**2024-09-17**|**Consensus in Models for Opinion Dynamics with Generalized-Bias**|Juan Paz et.al.|[2409.10809](http://arxiv.org/abs/2409.10809)|null|
+|**2024-09-16**|**AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing**|Ana Nunez et.al.|[2409.10737](http://arxiv.org/abs/2409.10737)|null|
+|**2024-09-16**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
+|**2024-09-16**|**Mitigating Partial Observability in Adaptive Traffic Signal Control with Transformers**|Xiaoyu Wang et.al.|[2409.10693](http://arxiv.org/abs/2409.10693)|null|
+|**2024-09-16**|**Multi-agent Path Finding in Continuous Environment**|Kristýna Janovská et.al.|[2409.10680](http://arxiv.org/abs/2409.10680)|null|
+|**2024-09-16**|**Motion Forecasting via Model-Based Risk Minimization**|Aron Distelzweig et.al.|[2409.10585](http://arxiv.org/abs/2409.10585)|null|
+|**2024-09-16**|**Reinforcement Learning with Quasi-Hyperbolic Discounting**|S. R. Eshwar et.al.|[2409.10583](http://arxiv.org/abs/2409.10583)|null|
+|**2024-09-14**|**On the limits of agency in agent-based models**|Ayush Chopra et.al.|[2409.10568](http://arxiv.org/abs/2409.10568)|**[link](https://github.com/agenttorch/agenttorch)**|
+|**2024-09-13**|**Applying Action Masking and Curriculum Learning Techniques to Improve Data Efficiency and Overall Performance in Operational Technology Cyber Security using Reinforcement Learning**|Alec Wilson et.al.|[2409.10563](http://arxiv.org/abs/2409.10563)|null|
 |**2024-09-16**|**On interactive anisotropic walks in two dimensions generated from a three state opinion dynamics model**|Surajit Saha et.al.|[2409.10413](http://arxiv.org/abs/2409.10413)|null|
 |**2024-09-16**|**Reducing Leximin Fairness to Utilitarian Optimization**|Eden Hartman et.al.|[2409.10395](http://arxiv.org/abs/2409.10395)|null|
 |**2024-09-16**|**Decentralized and Asymmetric Multi-Agent Learning in Construction Sites**|Yakov Miron et.al.|[2409.10375](http://arxiv.org/abs/2409.10375)|null|
@@ -140,6 +174,7 @@
 |**2024-09-11**|**Randomized Strategic Facility Location with Predictions**|Eric Balkanski et.al.|[2409.07142](http://arxiv.org/abs/2409.07142)|null|
 |**2024-09-11**|**MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis**|Hanyu Jiang et.al.|[2409.07129](http://arxiv.org/abs/2409.07129)|null|
 |**2024-09-11**|**DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training**|Dongkun Huo et.al.|[2409.07127](http://arxiv.org/abs/2409.07127)|null|
+|**2024-09-17**|**Inefficient Alliance Formation in Coalitional Blotto Games**|Vade Shah et.al.|[2409.06899](http://arxiv.org/abs/2409.06899)|null|
 |**2024-09-10**|**A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps**|Cheng Qian et.al.|[2409.06888](http://arxiv.org/abs/2409.06888)|null|
 |**2024-09-10**|**Can Agents Spontaneously Form a Society? Introducing a Novel Architecture for Generative Multi-Agents to Elicit Social Emergence**|H. Zhang et.al.|[2409.06750](http://arxiv.org/abs/2409.06750)|null|
 |**2024-09-10**|**Distributed Cooperative AI for Large-Scale Eigenvalue Computations Using Neural Networks**|Ronald Katende et.al.|[2409.06746](http://arxiv.org/abs/2409.06746)|null|
