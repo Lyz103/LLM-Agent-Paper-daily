@@ -14,6 +14,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Residual Descent Differential Dynamic Game (RD3G) -- A Fast Newton Solver for Constrained General Sum Games**|Zhiyuan Zhang et.al.|[2409.12152](http://arxiv.org/abs/2409.12152)|null|
+|**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|
+|**2024-09-18**|**The Impact of Element Ordering on LM Agent Performance**|Wayne Chi et.al.|[2409.12089](http://arxiv.org/abs/2409.12089)|null|
+|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
+|**2024-09-18**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005](http://arxiv.org/abs/2409.12005)|null|
+|**2024-09-18**|**Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning**|Claude Formanek et.al.|[2409.12001](http://arxiv.org/abs/2409.12001)|null|
+|**2024-09-18**|**On the Stability of Consensus Control under Rotational Ambiguities**|Zhonggang Li et.al.|[2409.11979](http://arxiv.org/abs/2409.11979)|null|
+|**2024-09-18**|**Anomalous behavior of Replicator dynamics for the Prisoner's Dilemma on diluted lattices**|Fernanda R. Leivas et.al.|[2409.11955](http://arxiv.org/abs/2409.11955)|null|
+|**2024-09-18**|**Reinforcement Learning as an Improvement Heuristic for Real-World Production Scheduling**|Arthur Müller et.al.|[2409.11933](http://arxiv.org/abs/2409.11933)|null|
+|**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|null|
+|**2024-09-18**|**Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review**|Stefano Lambiase et.al.|[2409.11864](http://arxiv.org/abs/2409.11864)|null|
+|**2024-09-18**|**XP-MARL: Auxiliary Prioritization in Multi-Agent Reinforcement Learning to Address Non-Stationarity**|Jianye Xu et.al.|[2409.11852](http://arxiv.org/abs/2409.11852)|null|
+|**2024-09-18**|**Optimizing Job Shop Scheduling in the Furniture Industry: A Reinforcement Learning Approach Considering Machine Setup, Batch Variability, and Intralogistics**|Malte Schneevogt et.al.|[2409.11820](http://arxiv.org/abs/2409.11820)|null|
+|**2024-09-18**|**Distributed Resilient Secondary Control for Microgrids with Attention-based Weights against High-density Misbehaving Agents**|Yutong Li et.al.|[2409.11812](http://arxiv.org/abs/2409.11812)|null|
+|**2024-09-18**|**Synthesizing Evolving Symbolic Representations for Autonomous Systems**|Gabriele Sartor et.al.|[2409.11756](http://arxiv.org/abs/2409.11756)|**[link](https://github.com/gabrielesartor/discover_plan_act)**|
+|**2024-09-18**|**HARP: Human-Assisted Regrouping with Permutation Invariant Critic for Multi-Agent Reinforcement Learning**|Huawen Hu et.al.|[2409.11741](http://arxiv.org/abs/2409.11741)|null|
+|**2024-09-18**|**Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing**|Wenyuan Zhang et.al.|[2409.11726](http://arxiv.org/abs/2409.11726)|**[link](https://github.com/wyripple/rp_kw_errors)**|
+|**2024-09-18**|**Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects**|Jianhua Sun et.al.|[2409.11702](http://arxiv.org/abs/2409.11702)|null|
+|**2024-09-18**|**RMP-YOLO: A Robust Motion Predictor for Partially Observable Scenarios even if You Only Look Once**|Jiawei Sun et.al.|[2409.11696](http://arxiv.org/abs/2409.11696)|null|
+|**2024-09-18**|**Towards Explainable Goal Recognition Using Weight of Evidence (WoE): A Human-Centered Approach**|Abeer Alshehri et.al.|[2409.11675](http://arxiv.org/abs/2409.11675)|null|
+|**2024-09-18**|**Agent Aggregator with Mask Denoise Mechanism for Histopathology Whole Slide Image Analysis**|Xitong Ling et.al.|[2409.11664](http://arxiv.org/abs/2409.11664)|null|
+|**2024-09-18**|**From Data Stories to Dialogues: A Randomised Controlled Trial of Generative AI Agents and Data Storytelling in Enhancing Data Visualisation Comprehension**|Lixiang Yan et.al.|[2409.11645](http://arxiv.org/abs/2409.11645)|null|
+|**2024-09-17**|**Context-Generative Default Policy for Bounded Rational Agent**|Durgakant Pushp et.al.|[2409.11604](http://arxiv.org/abs/2409.11604)|null|
+|**2024-09-17**|**React to This! How Humans Challenge Interactive Agents using Nonverbal Behaviors**|Chuxuan Zhang et.al.|[2409.11602](http://arxiv.org/abs/2409.11602)|null|
+|**2024-09-17**|**Distributed Deep Koopman Learning for Nonlinear Dynamics**|Wenjian Hao et.al.|[2409.11586](http://arxiv.org/abs/2409.11586)|null|
+|**2024-09-17**|**PLATO: Planning with LLMs and Affordances for Tool Manipulation**|Arvind Car et.al.|[2409.11580](http://arxiv.org/abs/2409.11580)|null|
+|**2024-09-17**|**Optimal Investment with Costly Expert Opinions**|Christoph Knochenhauer et.al.|[2409.11569](http://arxiv.org/abs/2409.11569)|null|
+|**2024-09-17**|**Hyper-SAMARL: Hypergraph-based Coordinated Task Allocation and Socially-aware Navigation for Multi-Robot Systems**|Weizheng Wang et.al.|[2409.11561](http://arxiv.org/abs/2409.11561)|null|
+|**2024-09-17**|**Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent**|Fatemeh Haji et.al.|[2409.11527](http://arxiv.org/abs/2409.11527)|null|
+|**2024-09-17**|**Diffusion of knowledge and the lottery society**|Henri Berestycki et.al.|[2409.11479](http://arxiv.org/abs/2409.11479)|null|
+|**2024-09-17**|**Consensus decision making on a complete graph: complex behaviour from simple assumptions**|P. Sarkanych et.al.|[2409.11475](http://arxiv.org/abs/2409.11475)|null|
+|**2024-09-12**|**Towards Opinion Shaping: A Deep Reinforcement Learning Approach in Bot-User Interactions**|Farbod Siahkali et.al.|[2409.11426](http://arxiv.org/abs/2409.11426)|null|
 |**2024-09-17**|**Ising model with varying spin strength on a scale-free network: scaling functions and critical amplitude ratios**|M. Krasnytska et.al.|[2409.11396](http://arxiv.org/abs/2409.11396)|null|
 |**2024-09-17**|**Distributed Perception Aware Safe Leader Follower System via Control Barrier Methods**|Richie R. Suganda et.al.|[2409.11394](http://arxiv.org/abs/2409.11394)|null|
 |**2024-09-17**|**LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless Integration of Multi Active/Passive Core-Agents**|Amine B. Hassouna et.al.|[2409.11393](http://arxiv.org/abs/2409.11393)|null|
@@ -22,12 +54,12 @@ layout: default
 |**2024-09-17**|**EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**|Zeyi Liao et.al.|[2409.11295](http://arxiv.org/abs/2409.11295)|null|
 |**2024-09-17**|**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**|Weiye Xu et.al.|[2409.11279](http://arxiv.org/abs/2409.11279)|null|
 |**2024-09-17**|**Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments**|Maria Rigaki et.al.|[2409.11276](http://arxiv.org/abs/2409.11276)|null|
-|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|null|
+|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-17**|**To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?**|Chih-Yuan Chiu et.al.|[2409.11257](http://arxiv.org/abs/2409.11257)|null|
 |**2024-09-17**|**A Continuous-time Tractable Model for Present-biased Agents**|Yasunori Akagi et.al.|[2409.11225](http://arxiv.org/abs/2409.11225)|null|
 |**2024-09-17**|**Bearing-based Target Localisation in Search and Rescue Scenarios**|Giulia Michieletto et.al.|[2409.11221](http://arxiv.org/abs/2409.11221)|null|
 |**2024-09-17**|**SuperCoder2.0: Technical Report on Exploring the feasibility of LLMs as Autonomous Programmer**|Anmol Gautam et.al.|[2409.11190](http://arxiv.org/abs/2409.11190)|null|
-|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|null|
+|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|**[link](https://github.com/valeoai/mf_awta)**|
 |**2024-09-17**|**Preventing Unconstrained CBF Safety Filters Caused by Invalid Relative Degree Assumptions**|Lukas Brunke et.al.|[2409.11171](http://arxiv.org/abs/2409.11171)|null|
 |**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/biaslab/RxEnvironments.jl)**|
 |**2024-09-17**|**Data-driven Dynamic Intervention Design in Network Games**|Xiupeng Chen et.al.|[2409.11069](http://arxiv.org/abs/2409.11069)|null|
