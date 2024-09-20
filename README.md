@@ -26,7 +26,7 @@
 |**2024-09-18**|**On the Stability of Consensus Control under Rotational Ambiguities**|Zhonggang Li et.al.|[2409.11979](http://arxiv.org/abs/2409.11979)|null|
 |**2024-09-18**|**Anomalous behavior of Replicator dynamics for the Prisoner's Dilemma on diluted lattices**|Fernanda R. Leivas et.al.|[2409.11955](http://arxiv.org/abs/2409.11955)|null|
 |**2024-09-18**|**Reinforcement Learning as an Improvement Heuristic for Real-World Production Scheduling**|Arthur Müller et.al.|[2409.11933](http://arxiv.org/abs/2409.11933)|null|
-|**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|null|
+|**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|**[link](https://github.com/samysam0/babee)**|
 |**2024-09-18**|**Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review**|Stefano Lambiase et.al.|[2409.11864](http://arxiv.org/abs/2409.11864)|null|
 |**2024-09-18**|**XP-MARL: Auxiliary Prioritization in Multi-Agent Reinforcement Learning to Address Non-Stationarity**|Jianye Xu et.al.|[2409.11852](http://arxiv.org/abs/2409.11852)|null|
 |**2024-09-18**|**Optimizing Job Shop Scheduling in the Furniture Industry: A Reinforcement Learning Approach Considering Machine Setup, Batch Variability, and Intralogistics**|Malte Schneevogt et.al.|[2409.11820](http://arxiv.org/abs/2409.11820)|null|
@@ -86,14 +86,14 @@
 |**2024-09-16**|**On interactive anisotropic walks in two dimensions generated from a three state opinion dynamics model**|Surajit Saha et.al.|[2409.10413](http://arxiv.org/abs/2409.10413)|null|
 |**2024-09-16**|**Reducing Leximin Fairness to Utilitarian Optimization**|Eden Hartman et.al.|[2409.10395](http://arxiv.org/abs/2409.10395)|null|
 |**2024-09-16**|**Decentralized and Asymmetric Multi-Agent Learning in Construction Sites**|Yakov Miron et.al.|[2409.10375](http://arxiv.org/abs/2409.10375)|null|
-|**2024-09-16**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
+|**2024-09-19**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
 |**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
 |**2024-09-16**|**Partial Ordering Bayesian Logistic Regression Model for Phase I Combination Trials and Computationally Efficient Approach to Operational Prior Specification**|Weishi Chen et.al.|[2409.10352](http://arxiv.org/abs/2409.10352)|null|
-|**2024-09-16**|**Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots**|Hongming Zhang et.al.|[2409.10277](http://arxiv.org/abs/2409.10277)|null|
+|**2024-09-16**|**Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots**|Hongming Zhang et.al.|[2409.10277](http://arxiv.org/abs/2409.10277)|**[link](https://github.com/tencent-ailab/cogkernel)**|
 |**2024-09-16**|**Synchronization-Based Cooperative Distributed Model Predictive Control**|Julius Beerwerth et.al.|[2409.10215](http://arxiv.org/abs/2409.10215)|null|
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
-|**2024-09-16**|**Robust Reinforcement Learning with Dynamic Distortion Risk Measures**|Anthony Coache et.al.|[2409.10096](http://arxiv.org/abs/2409.10096)|null|
+|**2024-09-16**|**Robust Reinforcement Learning with Dynamic Distortion Risk Measures**|Anthony Coache et.al.|[2409.10096](http://arxiv.org/abs/2409.10096)|**[link](https://github.com/acoache/RL-DynamicRobustRisk)**|
 |**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089](http://arxiv.org/abs/2409.10089)|null|
 |**2024-09-19**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
 |**2024-09-16**|**A Social Force Model for Multi-Agent Systems With Application to Robots Traversal in Cluttered Environments**|Chenxi Li et.al.|[2409.10049](http://arxiv.org/abs/2409.10049)|null|
@@ -115,7 +115,7 @@
 |**2024-09-15**|**DiFSD: Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient End-to-End Autonomous Driving**|Haisheng Su et.al.|[2409.09777](http://arxiv.org/abs/2409.09777)|null|
 |**2024-09-15**|**Range-SLAM: Ultra-Wideband-Based Smoke-Resistant Real-Time Localization and Mapping**|Yi Liu et.al.|[2409.09763](http://arxiv.org/abs/2409.09763)|null|
 |**2024-09-15**|**Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents**|Justas Andriuškevičius et.al.|[2409.09717](http://arxiv.org/abs/2409.09717)|null|
-|**2024-09-15**|**Unveiling Gender Bias in Large Language Models: Using Teacher's Evaluation in Higher Education As an Example**|Yuanning Huang et.al.|[2409.09652](http://arxiv.org/abs/2409.09652)|null|
+|**2024-09-15**|**Unveiling Gender Bias in Large Language Models: Using Teacher's Evaluation in Higher Education As an Example**|Yuanning Huang et.al.|[2409.09652](http://arxiv.org/abs/2409.09652)|**[link](https://github.com/yuanninghuang/thesis)**|
 |**2024-09-15**|**RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation**|Qingyao Li et.al.|[2409.09584](http://arxiv.org/abs/2409.09584)|null|
 |**2024-09-15**|**Traffic Scene Generation from Natural Language Description for Autonomous Vehicles with Large Language Model**|Bo-Kai Ruan et.al.|[2409.09575](http://arxiv.org/abs/2409.09575)|null|
 |**2024-09-15**|**Decentralized Safe and Scalable Multi-Agent Control under Limited Actuation**|Vrushabh Zinage et.al.|[2409.09573](http://arxiv.org/abs/2409.09573)|null|
@@ -178,7 +178,7 @@
 |**2024-09-12**|**A Spatiotemporal Stealthy Backdoor Attack against Cooperative Multi-Agent Deep Reinforcement Learning**|Yinbo Yu et.al.|[2409.07775](http://arxiv.org/abs/2409.07775)|null|
 |**2024-09-12**|**Accelerated Multi-Time-Scale Stochastic Approximation: Optimal Complexity and Applications in Reinforcement Learning and Multi-Agent Games**|Sihan Zeng et.al.|[2409.07767](http://arxiv.org/abs/2409.07767)|null|
 |**2024-09-12**|**Distributed Learning Dynamics Converging to the Core of $B$ -Matchings**|Aya Hamed et.al.|[2409.07754](http://arxiv.org/abs/2409.07754)|null|
-|**2024-09-12**|**Self-similarity of temporal interaction networks arises from hyperbolic geometry with time-varying curvature**|Subhabrata Dutta et.al.|[2409.07733](http://arxiv.org/abs/2409.07733)|null|
+|**2024-09-12**|**Self-similarity of temporal interaction networks arises from hyperbolic geometry with time-varying curvature**|Subhabrata Dutta et.al.|[2409.07733](http://arxiv.org/abs/2409.07733)|**[link](https://github.com/Subha0009/Temporal-network-self-similarity)**|
 |**2024-09-12**|**A Conceptual Framework for Understanding Empathy in Physics Faculty**|Alia Hamdan et.al.|[2409.07724](http://arxiv.org/abs/2409.07724)|null|
 |**2024-09-12**|**CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model**|Yang Li et.al.|[2409.07714](http://arxiv.org/abs/2409.07714)|null|
 |**2024-09-12**|**DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?**|Liqiang Jing et.al.|[2409.07703](http://arxiv.org/abs/2409.07703)|**[link](https://github.com/liqiangjing/dsbench)**|
@@ -213,7 +213,7 @@
 |**2024-09-10**|**Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter**|Shengkai Li et.al.|[2409.06660](http://arxiv.org/abs/2409.06660)|null|
 |**2024-09-10**|**Fixed-budget and Multiple-issue Quadratic Voting**|Laura Georgescu et.al.|[2409.06614](http://arxiv.org/abs/2409.06614)|null|
 |**2024-09-10**|**On Epistemic Properties in Discrete-Event Systems: A Uniform Framework and Its Applications**|Bohan Cui et.al.|[2409.06588](http://arxiv.org/abs/2409.06588)|null|
-|**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|null|
+|**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|**[link](https://github.com/aizhouym/think-on-process)**|
 |**2024-09-10**|**Indirect Dynamic Negotiation in the Nash Demand Game**|Tatiana V. Guy et.al.|[2409.06566](http://arxiv.org/abs/2409.06566)|null|
 |**2024-09-10**|**Social Mediation through Robots -- A Scoping Review on Improving Group Interactions through Directed Robot Action using an Extended Group Process Model**|Thomas H. Weisswange et.al.|[2409.06557](http://arxiv.org/abs/2409.06557)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
