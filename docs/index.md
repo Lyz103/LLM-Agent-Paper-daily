@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -16,9 +16,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**Residual Descent Differential Dynamic Game (RD3G) -- A Fast Newton Solver for Constrained General Sum Games**|Zhiyuan Zhang et.al.|[2409.12152](http://arxiv.org/abs/2409.12152)|null|
 |**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|
-|**2024-09-18**|**The Impact of Element Ordering on LM Agent Performance**|Wayne Chi et.al.|[2409.12089](http://arxiv.org/abs/2409.12089)|null|
-|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
-|**2024-09-18**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005](http://arxiv.org/abs/2409.12005)|null|
+|**2024-09-19**|**The Impact of Element Ordering on LM Agent Performance**|Wayne Chi et.al.|[2409.12089](http://arxiv.org/abs/2409.12089)|**[link](https://github.com/waynchi/gui-agent)**|
+|**2024-09-19**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
+|**2024-09-19**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005](http://arxiv.org/abs/2409.12005)|null|
 |**2024-09-18**|**Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning**|Claude Formanek et.al.|[2409.12001](http://arxiv.org/abs/2409.12001)|null|
 |**2024-09-18**|**On the Stability of Consensus Control under Rotational Ambiguities**|Zhonggang Li et.al.|[2409.11979](http://arxiv.org/abs/2409.11979)|null|
 |**2024-09-18**|**Anomalous behavior of Replicator dynamics for the Prisoner's Dilemma on diluted lattices**|Fernanda R. Leivas et.al.|[2409.11955](http://arxiv.org/abs/2409.11955)|null|
@@ -54,7 +54,7 @@ layout: default
 |**2024-09-17**|**EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**|Zeyi Liao et.al.|[2409.11295](http://arxiv.org/abs/2409.11295)|null|
 |**2024-09-17**|**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**|Weiye Xu et.al.|[2409.11279](http://arxiv.org/abs/2409.11279)|null|
 |**2024-09-17**|**Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments**|Maria Rigaki et.al.|[2409.11276](http://arxiv.org/abs/2409.11276)|null|
-|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
+|**2024-09-19**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-17**|**To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?**|Chih-Yuan Chiu et.al.|[2409.11257](http://arxiv.org/abs/2409.11257)|null|
 |**2024-09-17**|**A Continuous-time Tractable Model for Present-biased Agents**|Yasunori Akagi et.al.|[2409.11225](http://arxiv.org/abs/2409.11225)|null|
 |**2024-09-17**|**Bearing-based Target Localisation in Search and Rescue Scenarios**|Giulia Michieletto et.al.|[2409.11221](http://arxiv.org/abs/2409.11221)|null|
@@ -92,7 +92,7 @@ layout: default
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
 |**2024-09-16**|**Robust Reinforcement Learning with Dynamic Distortion Risk Measures**|Anthony Coache et.al.|[2409.10096](http://arxiv.org/abs/2409.10096)|null|
 |**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089](http://arxiv.org/abs/2409.10089)|null|
-|**2024-09-16**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
+|**2024-09-19**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
 |**2024-09-16**|**A Social Force Model for Multi-Agent Systems With Application to Robots Traversal in Cluttered Environments**|Chenxi Li et.al.|[2409.10049](http://arxiv.org/abs/2409.10049)|null|
 |**2024-09-16**|**Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments**|Wessel Ledder et.al.|[2409.10048](http://arxiv.org/abs/2409.10048)|null|
 |**2024-09-16**|**Bearing-Distance Based Flocking with Zone-Based Interactions**|Hossein B. Jond et.al.|[2409.10047](http://arxiv.org/abs/2409.10047)|null|
@@ -129,7 +129,7 @@ layout: default
 |**2024-09-14**|**Capability Augmentation for Heterogeneous Dynamic Teaming with Temporal Logic Tasks**|Carter Berlind et.al.|[2409.09285](http://arxiv.org/abs/2409.09285)|null|
 |**2024-09-14**|**Python Symbolic Execution with LLM-powered Code Generation**|Wenhan Wang et.al.|[2409.09271](http://arxiv.org/abs/2409.09271)|null|
 |**2024-09-14**|**High-Fidelity Data-Driven Dynamics Model for Reinforcement Learning-based Magnetic Control in HL-3 Tokamak**|Niannian Wu et.al.|[2409.09238](http://arxiv.org/abs/2409.09238)|null|
-|**2024-09-13**|**Curricula for Learning Robust Policies over Factored State Representations in Changing Environments**|Panayiotis Panayiotou et.al.|[2409.09169](http://arxiv.org/abs/2409.09169)|null|
+|**2024-09-19**|**Curricula for Learning Robust Policies with Factored State Representations in Changing Environments**|Panayiotis Panayiotou et.al.|[2409.09169](http://arxiv.org/abs/2409.09169)|null|
 |**2024-09-13**|**Measure Preserving Flows for Ergodic Search in Convoluted Environments**|Albert Xu et.al.|[2409.09164](http://arxiv.org/abs/2409.09164)|null|
 |**2024-09-08**|**ELMS: Elasticized Large Language Models On Mobile Devices**|Wangsong Yin et.al.|[2409.09071](http://arxiv.org/abs/2409.09071)|null|
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
@@ -206,7 +206,7 @@ layout: default
 |**2024-09-17**|**Inefficient Alliance Formation in Coalitional Blotto Games**|Vade Shah et.al.|[2409.06899](http://arxiv.org/abs/2409.06899)|null|
 |**2024-09-10**|**A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps**|Cheng Qian et.al.|[2409.06888](http://arxiv.org/abs/2409.06888)|null|
 |**2024-09-10**|**Can Agents Spontaneously Form a Society? Introducing a Novel Architecture for Generative Multi-Agents to Elicit Social Emergence**|H. Zhang et.al.|[2409.06750](http://arxiv.org/abs/2409.06750)|null|
-|**2024-09-10**|**Distributed Cooperative AI for Large-Scale Eigenvalue Computations Using Neural Networks**|Ronald Katende et.al.|[2409.06746](http://arxiv.org/abs/2409.06746)|null|
+|**2024-09-19**|**Decentralized Neural Networks for Robust and Scalable Eigenvalue Computation**|Ronald Katende et.al.|[2409.06746](http://arxiv.org/abs/2409.06746)|null|
 |**2024-09-10**|**Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter**|Shengkai Li et.al.|[2409.06660](http://arxiv.org/abs/2409.06660)|null|
 |**2024-09-10**|**Fixed-budget and Multiple-issue Quadratic Voting**|Laura Georgescu et.al.|[2409.06614](http://arxiv.org/abs/2409.06614)|null|
 |**2024-09-10**|**On Epistemic Properties in Discrete-Event Systems: A Uniform Framework and Its Applications**|Bohan Cui et.al.|[2409.06588](http://arxiv.org/abs/2409.06588)|null|
