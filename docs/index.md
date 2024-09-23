@@ -246,7 +246,7 @@ layout: default
 |**2024-09-09**|**Distributed Robust Continuous-Time Optimization Algorithms for Time-Varying Constrained Cost**|Zeinab Ebrahimi et.al.|[2409.05293](http://arxiv.org/abs/2409.05293)|null|
 |**2024-09-09**|**Towards Fast Rates for Federated and Multi-Task Reinforcement Learning**|Feng Zhu et.al.|[2409.05291](http://arxiv.org/abs/2409.05291)|null|
 |**2024-09-08**|**COVID19-CBABM: A City-Based Agent Based Disease Spread Modeling Framework**|Raunak Sarbajna et.al.|[2409.05235](http://arxiv.org/abs/2409.05235)|null|
-|**2024-09-08**|**Banded phases in topological flocks**|Charles R. Packard et.al.|[2409.05198](http://arxiv.org/abs/2409.05198)|null|
+|**2024-09-08**|**Banded phases in topological flocks**|Charles R. Packard et.al.|[2409.05198](http://arxiv.org/abs/2409.05198)|**[link](https://github.com/sussmanLab/topologicalFlocking)**|
 |**2024-09-08**|**Difference Between Cyclic and Distributed Approach in Stochastic Optimization for Multi-agent System**|Jiahao Shi et.al.|[2409.05155](http://arxiv.org/abs/2409.05155)|null|
 |**2024-09-08**|**Nonlinear Cooperative Output Regulation with Input Delay Compensation**|Shiqi Zheng et.al.|[2409.05113](http://arxiv.org/abs/2409.05113)|null|
 |**2024-09-11**|**Decentralized Control of Multi-Agent Systems Under Acyclic Spatio-Temporal Task Dependencies**|Gregorio Marchesini et.al.|[2409.05106](http://arxiv.org/abs/2409.05106)|null|
@@ -339,7 +339,7 @@ layout: default
 |**2024-09-03**|**Multi-Agent Reinforcement Learning for Joint Police Patrol and Dispatch**|Matthew Repasky et.al.|[2409.02246](http://arxiv.org/abs/2409.02246)|null|
 |**2024-09-02**|**AutoEncoder Convolutional Neural Network for Pneumonia Detection**|Michael Nosa-Omoruyi et.al.|[2409.02142](http://arxiv.org/abs/2409.02142)|null|
 |**2024-09-01**|**TrajWeaver: Trajectory Recovery with State Propagation Diffusion Model**|Jinming Wang et.al.|[2409.02124](http://arxiv.org/abs/2409.02124)|null|
-|**2024-09-05**|**Noise-free comparison of stochastic agent-based simulations using common random numbers**|Daniel J. Klein et.al.|[2409.02086](http://arxiv.org/abs/2409.02086)|null|
+|**2024-09-05**|**Noise-free comparison of stochastic agent-based simulations using common random numbers**|Daniel J. Klein et.al.|[2409.02086](http://arxiv.org/abs/2409.02086)|**[link](https://github.com/starsimhub/crn_paper)**|
 |**2024-09-03**|**A Modern Take on Visual Relationship Reasoning for Grasp Planning**|Paolo Rabino et.al.|[2409.02035](http://arxiv.org/abs/2409.02035)|null|
 |**2024-09-03**|**Optimal allocations with capacity constrained verification**|Albin Erlanson et.al.|[2409.02031](http://arxiv.org/abs/2409.02031)|null|
 |**2024-09-03**|**Planning to avoid ambiguous states through Gaussian approximations to non-linear sensors in active inference agents**|Wouter M. Kouw et.al.|[2409.01974](http://arxiv.org/abs/2409.01974)|null|
@@ -347,7 +347,7 @@ layout: default
 |**2024-09-03**|**Achieving Maximin Share and EFX/EF1 Guarantees Simultaneously**|Hannaneh Akrami et.al.|[2409.01963](http://arxiv.org/abs/2409.01963)|null|
 |**2024-09-03**|**Learning Resilient Formation Control of Drones with Graph Attention Network**|Jiaping Xiao et.al.|[2409.01953](http://arxiv.org/abs/2409.01953)|null|
 |**2024-09-03**|**From Grounding to Planning: Benchmarking Bottlenecks in Web Agents**|Segev Shlomov et.al.|[2409.01927](http://arxiv.org/abs/2409.01927)|null|
-|**2024-09-03**|**Focus Agent: LLM-Powered Virtual Focus Group**|Taiyu Zhang et.al.|[2409.01907](http://arxiv.org/abs/2409.01907)|null|
+|**2024-09-03**|**Focus Agent: LLM-Powered Virtual Focus Group**|Taiyu Zhang et.al.|[2409.01907](http://arxiv.org/abs/2409.01907)|**[link](https://github.com/AriaXR/FocusAgent)**|
 |**2024-09-03**|**What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices**|Zhi Chen et.al.|[2409.01893](http://arxiv.org/abs/2409.01893)|**[link](https://github.com/wowcz/longmit)**|
 |**2024-09-03**|**AgentRE: An Agent-Based Framework for Navigating Complex Information Landscapes in Relation Extraction**|Yuchen Shi et.al.|[2409.01854](http://arxiv.org/abs/2409.01854)|**[link](https://github.com/lightblues/agentre)**|
 |**2024-09-03**|**Segmenting Object Affordances: Reproducibility and Sensitivity to Scale**|Tommaso Apicella et.al.|[2409.01814](http://arxiv.org/abs/2409.01814)|**[link](https://github.com/apicis/aff-seg)**|
