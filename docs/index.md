@@ -25,7 +25,7 @@ layout: default
 |**2024-09-18**|**Reinforcement Learning as an Improvement Heuristic for Real-World Production Scheduling**|Arthur Müller et.al.|[2409.11933](http://arxiv.org/abs/2409.11933)|null|
 |**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|**[link](https://github.com/samysam0/babee)**|
 |**2024-09-18**|**Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review**|Stefano Lambiase et.al.|[2409.11864](http://arxiv.org/abs/2409.11864)|null|
-|**2024-09-18**|**XP-MARL: Auxiliary Prioritization in Multi-Agent Reinforcement Learning to Address Non-Stationarity**|Jianye Xu et.al.|[2409.11852](http://arxiv.org/abs/2409.11852)|null|
+|**2024-09-18**|**XP-MARL: Auxiliary Prioritization in Multi-Agent Reinforcement Learning to Address Non-Stationarity**|Jianye Xu et.al.|[2409.11852](http://arxiv.org/abs/2409.11852)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
 |**2024-09-18**|**Optimizing Job Shop Scheduling in the Furniture Industry: A Reinforcement Learning Approach Considering Machine Setup, Batch Variability, and Intralogistics**|Malte Schneevogt et.al.|[2409.11820](http://arxiv.org/abs/2409.11820)|null|
 |**2024-09-18**|**Distributed Resilient Secondary Control for Microgrids with Attention-based Weights against High-density Misbehaving Agents**|Yutong Li et.al.|[2409.11812](http://arxiv.org/abs/2409.11812)|null|
 |**2024-09-18**|**Synthesizing Evolving Symbolic Representations for Autonomous Systems**|Gabriele Sartor et.al.|[2409.11756](http://arxiv.org/abs/2409.11756)|**[link](https://github.com/gabrielesartor/discover_plan_act)**|
@@ -85,7 +85,7 @@ layout: default
 |**2024-09-16**|**Decentralized and Asymmetric Multi-Agent Learning in Construction Sites**|Yakov Miron et.al.|[2409.10375](http://arxiv.org/abs/2409.10375)|null|
 |**2024-09-19**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
 |**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
-|**2024-09-16**|**Partial Ordering Bayesian Logistic Regression Model for Phase I Combination Trials and Computationally Efficient Approach to Operational Prior Specification**|Weishi Chen et.al.|[2409.10352](http://arxiv.org/abs/2409.10352)|null|
+|**2024-09-16**|**Partial Ordering Bayesian Logistic Regression Model for Phase I Combination Trials and Computationally Efficient Approach to Operational Prior Specification**|Weishi Chen et.al.|[2409.10352](http://arxiv.org/abs/2409.10352)|**[link](https://github.com/WeishiC/Partial-Ordering-BLRM)**|
 |**2024-09-16**|**Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots**|Hongming Zhang et.al.|[2409.10277](http://arxiv.org/abs/2409.10277)|**[link](https://github.com/tencent-ailab/cogkernel)**|
 |**2024-09-16**|**Synchronization-Based Cooperative Distributed Model Predictive Control**|Julius Beerwerth et.al.|[2409.10215](http://arxiv.org/abs/2409.10215)|null|
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
@@ -116,7 +116,7 @@ layout: default
 |**2024-09-15**|**RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation**|Qingyao Li et.al.|[2409.09584](http://arxiv.org/abs/2409.09584)|null|
 |**2024-09-15**|**Traffic Scene Generation from Natural Language Description for Autonomous Vehicles with Large Language Model**|Bo-Kai Ruan et.al.|[2409.09575](http://arxiv.org/abs/2409.09575)|null|
 |**2024-09-15**|**Decentralized Safe and Scalable Multi-Agent Control under Limited Actuation**|Vrushabh Zinage et.al.|[2409.09573](http://arxiv.org/abs/2409.09573)|null|
-|**2024-09-14**|**Swarm Algorithms for Dynamic Task Allocation in Unknown Environments**|Adithya Balachandran et.al.|[2409.09550](http://arxiv.org/abs/2409.09550)|null|
+|**2024-09-14**|**Swarm Algorithms for Dynamic Task Allocation in Unknown Environments**|Adithya Balachandran et.al.|[2409.09550](http://arxiv.org/abs/2409.09550)|**[link](https://github.com/adithyab100/swarm-dyn-task)**|
 |**2024-09-20**|**Autonomous Goal Detection and Cessation in Reinforcement Learning: A Case Study on Source Term Estimation**|Yiwei Shi et.al.|[2409.09541](http://arxiv.org/abs/2409.09541)|null|
 |**2024-09-21**|**Ensuring System-Level Protection against Eavesdropping Adversaries in Distributed Dynamical Systems**|Dipankar Maity et.al.|[2409.09539](http://arxiv.org/abs/2409.09539)|null|
 |**2024-09-14**|**Planning Transformer: Long-Horizon Offline Reinforcement Learning with Planning Tokens**|Joseph Clinton et.al.|[2409.09513](http://arxiv.org/abs/2409.09513)|null|
@@ -134,7 +134,7 @@ layout: default
 |**2024-09-08**|**ELMS: Elasticized Large Language Models On Mobile Devices**|Wangsong Yin et.al.|[2409.09071](http://arxiv.org/abs/2409.09071)|null|
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
 |**2024-09-13**|**Optically-Validated Microvascular Phantom for Super-Resolution Ultrasound Imaging**|Jaime Parra Raad et.al.|[2409.09031](http://arxiv.org/abs/2409.09031)|null|
-|**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
+|**2024-09-23**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanlin Wang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
 |**2024-09-13**|**AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents**|Zhe Su et.al.|[2409.09013](http://arxiv.org/abs/2409.09013)|null|
 |**2024-09-13**|**Mechanism Design for Extending the Accessibility of Facilities**|Hau Chan et.al.|[2409.08993](http://arxiv.org/abs/2409.08993)|null|
 |**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
