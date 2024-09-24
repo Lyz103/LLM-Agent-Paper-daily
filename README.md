@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -76,7 +76,7 @@
 |**2024-09-17**|**Improving Interface Design in Interactive Task Learning for Hierarchical Tasks based on a Qualitative Study**|Jieyu Zhou et.al.|[2409.10826](http://arxiv.org/abs/2409.10826)|null|
 |**2024-09-17**|**Consensus in Models for Opinion Dynamics with Generalized-Bias**|Juan Paz et.al.|[2409.10809](http://arxiv.org/abs/2409.10809)|null|
 |**2024-09-16**|**AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing**|Ana Nunez et.al.|[2409.10737](http://arxiv.org/abs/2409.10737)|null|
-|**2024-09-16**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
+|**2024-09-20**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
 |**2024-09-16**|**Mitigating Partial Observability in Adaptive Traffic Signal Control with Transformers**|Xiaoyu Wang et.al.|[2409.10693](http://arxiv.org/abs/2409.10693)|null|
 |**2024-09-16**|**Multi-agent Path Finding in Continuous Environment**|Kristýna Janovská et.al.|[2409.10680](http://arxiv.org/abs/2409.10680)|null|
 |**2024-09-20**|**Motion Forecasting via Model-Based Risk Minimization**|Aron Distelzweig et.al.|[2409.10585](http://arxiv.org/abs/2409.10585)|null|
@@ -121,7 +121,7 @@
 |**2024-09-15**|**Decentralized Safe and Scalable Multi-Agent Control under Limited Actuation**|Vrushabh Zinage et.al.|[2409.09573](http://arxiv.org/abs/2409.09573)|null|
 |**2024-09-14**|**Swarm Algorithms for Dynamic Task Allocation in Unknown Environments**|Adithya Balachandran et.al.|[2409.09550](http://arxiv.org/abs/2409.09550)|null|
 |**2024-09-20**|**Autonomous Goal Detection and Cessation in Reinforcement Learning: A Case Study on Source Term Estimation**|Yiwei Shi et.al.|[2409.09541](http://arxiv.org/abs/2409.09541)|null|
-|**2024-09-14**|**Ensuring System-Level Protection against Eavesdropping Adversaries in Distributed Dynamical Systems**|Dipankar Maity et.al.|[2409.09539](http://arxiv.org/abs/2409.09539)|null|
+|**2024-09-21**|**Ensuring System-Level Protection against Eavesdropping Adversaries in Distributed Dynamical Systems**|Dipankar Maity et.al.|[2409.09539](http://arxiv.org/abs/2409.09539)|null|
 |**2024-09-14**|**Planning Transformer: Long-Horizon Offline Reinforcement Learning with Planning Tokens**|Joseph Clinton et.al.|[2409.09513](http://arxiv.org/abs/2409.09513)|null|
 |**2024-09-14**|**Learning Nudges for Conditional Cooperation: A Multi-Agent Reinforcement Learning Model**|Shatayu Kulkarni et.al.|[2409.09509](http://arxiv.org/abs/2409.09509)|null|
 |**2024-09-14**|**Learning Keypoints for Multi-Agent Behavior Analysis using Self-Supervision**|Daniel Khalil et.al.|[2409.09455](http://arxiv.org/abs/2409.09455)|null|
@@ -184,7 +184,7 @@
 |**2024-09-12**|**DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?**|Liqiang Jing et.al.|[2409.07703](http://arxiv.org/abs/2409.07703)|**[link](https://github.com/liqiangjing/dsbench)**|
 |**2024-09-11**|**SimulBench: Evaluating Language Models with Creative Simulation Tasks**|Qi Jia et.al.|[2409.07641](http://arxiv.org/abs/2409.07641)|null|
 |**2024-09-11**|**HERL: Tiered Federated Learning with Adaptive Homomorphic Encryption using Reinforcement Learning**|Jiaxang Tang et.al.|[2409.07631](http://arxiv.org/abs/2409.07631)|null|
-|**2024-09-11**|**A Survey of Inverse Constrained Reinforcement Learning: Definitions, Progress and Challenges**|Guiliang Liu et.al.|[2409.07569](http://arxiv.org/abs/2409.07569)|null|
+|**2024-09-21**|**A Comprehensive Survey on Inverse Constrained Reinforcement Learning: Definitions, Progress and Challenges**|Guiliang Liu et.al.|[2409.07569](http://arxiv.org/abs/2409.07569)|null|
 |**2024-09-11**|**Connecting extended Wigner's friend arguments and noncontextuality**|Laurens Walleghem et.al.|[2409.07537](http://arxiv.org/abs/2409.07537)|null|
 |**2024-09-13**|**MoA is All You Need: Building LLM Research Team using Mixture of Agents**|Sandy Chen et.al.|[2409.07487](http://arxiv.org/abs/2409.07487)|null|
 |**2024-09-04**|**MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model**|Junjie Li et.al.|[2409.07486](http://arxiv.org/abs/2409.07486)|null|
@@ -210,7 +210,7 @@
 |**2024-09-10**|**A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps**|Cheng Qian et.al.|[2409.06888](http://arxiv.org/abs/2409.06888)|null|
 |**2024-09-10**|**Can Agents Spontaneously Form a Society? Introducing a Novel Architecture for Generative Multi-Agents to Elicit Social Emergence**|H. Zhang et.al.|[2409.06750](http://arxiv.org/abs/2409.06750)|null|
 |**2024-09-19**|**Decentralized Neural Networks for Robust and Scalable Eigenvalue Computation**|Ronald Katende et.al.|[2409.06746](http://arxiv.org/abs/2409.06746)|null|
-|**2024-09-10**|**Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter**|Shengkai Li et.al.|[2409.06660](http://arxiv.org/abs/2409.06660)|null|
+|**2024-09-21**|**Memory and Personality Shape Ideological Polarization**|Shengkai Li et.al.|[2409.06660](http://arxiv.org/abs/2409.06660)|null|
 |**2024-09-10**|**Fixed-budget and Multiple-issue Quadratic Voting**|Laura Georgescu et.al.|[2409.06614](http://arxiv.org/abs/2409.06614)|null|
 |**2024-09-10**|**On Epistemic Properties in Discrete-Event Systems: A Uniform Framework and Its Applications**|Bohan Cui et.al.|[2409.06588](http://arxiv.org/abs/2409.06588)|null|
 |**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|**[link](https://github.com/aizhouym/think-on-process)**|
@@ -690,7 +690,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
