@@ -99,7 +99,7 @@
 |**2024-09-16**|**A Social Force Model for Multi-Agent Systems With Application to Robots Traversal in Cluttered Environments**|Chenxi Li et.al.|[2409.10049](http://arxiv.org/abs/2409.10049)|null|
 |**2024-09-16**|**Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments**|Wessel Ledder et.al.|[2409.10048](http://arxiv.org/abs/2409.10048)|null|
 |**2024-09-16**|**Bearing-Distance Based Flocking with Zone-Based Interactions**|Hossein B. Jond et.al.|[2409.10047](http://arxiv.org/abs/2409.10047)|null|
-|**2024-09-16**|**E2Map: Experience-and-Emotion Map for Self-Reflective Robot Navigation with Language Models**|Chan Kim et.al.|[2409.10027](http://arxiv.org/abs/2409.10027)|null|
+|**2024-09-16**|**E2Map: Experience-and-Emotion Map for Self-Reflective Robot Navigation with Language Models**|Chan Kim et.al.|[2409.10027](http://arxiv.org/abs/2409.10027)|**[link](https://github.com/knwoo/e2map)**|
 |**2024-09-16**|**Reinforcement learning-based statistical search strategy for an axion model from flavor**|Satsuki Nishimura et.al.|[2409.10023](http://arxiv.org/abs/2409.10023)|null|
 |**2024-09-16**|**SHIRE: Enhancing Sample Efficiency using Human Intuition in REinforcement Learning**|Amogh Joshi et.al.|[2409.09990](http://arxiv.org/abs/2409.09990)|null|
 |**2024-09-16**|**Optimality Gap of Decentralized Submodular Maximization under Probabilistic Communication**|Joan Vendrell et.al.|[2409.09979](http://arxiv.org/abs/2409.09979)|null|
