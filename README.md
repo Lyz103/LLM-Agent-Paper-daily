@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,9 +47,9 @@
 |**2024-09-17**|**Hyper-SAMARL: Hypergraph-based Coordinated Task Allocation and Socially-aware Navigation for Multi-Robot Systems**|Weizheng Wang et.al.|[2409.11561](http://arxiv.org/abs/2409.11561)|null|
 |**2024-09-17**|**Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent**|Fatemeh Haji et.al.|[2409.11527](http://arxiv.org/abs/2409.11527)|null|
 |**2024-09-17**|**Diffusion of knowledge and the lottery society**|Henri Berestycki et.al.|[2409.11479](http://arxiv.org/abs/2409.11479)|null|
-|**2024-09-17**|**Consensus decision making on a complete graph: complex behaviour from simple assumptions**|P. Sarkanych et.al.|[2409.11475](http://arxiv.org/abs/2409.11475)|null|
+|**2024-09-24**|**Consensus decision making on a complete graph: complex behaviour from simple assumptions**|P. Sarkanych et.al.|[2409.11475](http://arxiv.org/abs/2409.11475)|null|
 |**2024-09-12**|**Towards Opinion Shaping: A Deep Reinforcement Learning Approach in Bot-User Interactions**|Farbod Siahkali et.al.|[2409.11426](http://arxiv.org/abs/2409.11426)|null|
-|**2024-09-17**|**Ising model with varying spin strength on a scale-free network: scaling functions and critical amplitude ratios**|M. Krasnytska et.al.|[2409.11396](http://arxiv.org/abs/2409.11396)|null|
+|**2024-09-24**|**Ising model with varying spin strength on a scale-free network: scaling functions and critical amplitude ratios**|M. Krasnytska et.al.|[2409.11396](http://arxiv.org/abs/2409.11396)|null|
 |**2024-09-17**|**Distributed Perception Aware Safe Leader Follower System via Control Barrier Methods**|Richie R. Suganda et.al.|[2409.11394](http://arxiv.org/abs/2409.11394)|null|
 |**2024-09-17**|**LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless Integration of Multi Active/Passive Core-Agents**|Amine B. Hassouna et.al.|[2409.11393](http://arxiv.org/abs/2409.11393)|null|
 |**2024-09-17**|**CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark**|Zachary S. Siegel et.al.|[2409.11363](http://arxiv.org/abs/2409.11363)|**[link](https://github.com/siegelz/core-bench)**|
@@ -64,7 +64,7 @@
 |**2024-09-17**|**SuperCoder2.0: Technical Report on Exploring the feasibility of LLMs as Autonomous Programmer**|Anmol Gautam et.al.|[2409.11190](http://arxiv.org/abs/2409.11190)|null|
 |**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|**[link](https://github.com/valeoai/mf_awta)**|
 |**2024-09-17**|**Preventing Unconstrained CBF Safety Filters Caused by Invalid Relative Degree Assumptions**|Lukas Brunke et.al.|[2409.11171](http://arxiv.org/abs/2409.11171)|null|
-|**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/biaslab/RxEnvironments.jl)**|
+|**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/wouterwln/rxenvironments-examples)**|
 |**2024-09-17**|**Data-driven Dynamic Intervention Design in Network Games**|Xiupeng Chen et.al.|[2409.11069](http://arxiv.org/abs/2409.11069)|null|
 |**2024-09-17**|**A logical alarm for misaligned binary classifiers**|Andrés Corrada-Emmanuel et.al.|[2409.11052](http://arxiv.org/abs/2409.11052)|null|
 |**2024-09-17**|**Improving Speech Emotion Recognition in Under-Resourced Languages via Speech-to-Speech Translation with Bootstrapping Data Selection**|Hsi-Che Lin et.al.|[2409.10985](http://arxiv.org/abs/2409.10985)|null|
@@ -690,7 +690,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
