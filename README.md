@@ -17,6 +17,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**StackGen: Generating Stable Structures from Silhouettes via Diffusion**|Luzhe Sun et.al.|[2409.18098](http://arxiv.org/abs/2409.18098)|null|
+|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073](http://arxiv.org/abs/2409.18073)|null|
+|**2024-09-26**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052](http://arxiv.org/abs/2409.18052)|null|
+|**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051](http://arxiv.org/abs/2409.18051)|null|
+|**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
+|**2024-09-26**|**Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving**|Haochen Liu et.al.|[2409.18031](http://arxiv.org/abs/2409.18031)|null|
+|**2024-09-26**|**Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective**|Yotam Wolf et.al.|[2409.18028](http://arxiv.org/abs/2409.18028)|null|
+|**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009](http://arxiv.org/abs/2409.18009)|**[link](https://github.com/yuchenxia/llm4ias)**|
+|**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997](http://arxiv.org/abs/2409.17997)|null|
+|**2024-09-26**|**Nonparametric Inference Framework for Time-dependent Epidemic Models**|Son Luu et.al.|[2409.17968](http://arxiv.org/abs/2409.17968)|null|
+|**2024-09-26**|**Filtering-Linearization: A First-Order Method for Nonconvex Trajectory Optimization with Filter-Based Warm-Starting**|Minsen Yuan et.al.|[2409.17944](http://arxiv.org/abs/2409.17944)|null|
+|**2024-09-26**|**Adaptive Stream Processing on Edge Devices through Active Inference**|Boris Sedlak et.al.|[2409.17937](http://arxiv.org/abs/2409.17937)|null|
+|**2024-09-26**|**Navigation in a simplified Urban Flow through Deep Reinforcement Learning**|Federica Tonti et.al.|[2409.17922](http://arxiv.org/abs/2409.17922)|null|
+|**2024-09-26**|**Model-Free versus Model-Based Reinforcement Learning for Fixed-Wing UAV Attitude Control Under Varying Wind Conditions**|David Olivares et.al.|[2409.17896](http://arxiv.org/abs/2409.17896)|null|
+|**2024-09-26**|**Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience**|Leonard Bärmann et.al.|[2409.17702](http://arxiv.org/abs/2409.17702)|null|
+|**2024-09-26**|**AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment**|Nan Sun et.al.|[2409.17655](http://arxiv.org/abs/2409.17655)|null|
+|**2024-09-26**|**FactorSim: Generative Simulation via Factorized Representation**|Fan-Yun Sun et.al.|[2409.17652](http://arxiv.org/abs/2409.17652)|null|
+|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
+|**2024-09-26**|**From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection**|Xinlei Wang et.al.|[2409.17515](http://arxiv.org/abs/2409.17515)|null|
+|**2024-09-26**|**Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD**|Jie Hu et.al.|[2409.17499](http://arxiv.org/abs/2409.17499)|null|
+|**2024-09-26**|**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**|Hanbo Bi et.al.|[2409.17453](http://arxiv.org/abs/2409.17453)|null|
+|**2024-09-26**|**Cat-and-Mouse Satellite Dynamics: Divergent Adversarial Reinforcement Learning for Contested Multi-Agent Space Operations**|Cameron Mehlman et.al.|[2409.17443](http://arxiv.org/abs/2409.17443)|null|
+|**2024-09-25**|**Data-efficient Trajectory Prediction via Coreset Selection**|Ruining Yang et.al.|[2409.17385](http://arxiv.org/abs/2409.17385)|null|
+|**2024-09-25**|**Learning Utilities from Demonstrations in Markov Decision Processes**|Filippo Lazzati et.al.|[2409.17355](http://arxiv.org/abs/2409.17355)|null|
+|**2024-09-25**|**Language Grounded Multi-agent Communication for Ad-hoc Teamwork**|Huao Li et.al.|[2409.17348](http://arxiv.org/abs/2409.17348)|null|
+|**2024-09-25**|**AAPM: Large Language Model Agent-based Asset Pricing Models**|Junyan Cheng et.al.|[2409.17266](http://arxiv.org/abs/2409.17266)|null|
+|**2024-09-25**|**Grounded Predictions of Teamwork as a One-Shot Game: A Multiagent Multi-Armed Bandits Approach**|Alejandra López de Aberasturi Gómez et.al.|[2409.17214](http://arxiv.org/abs/2409.17214)|null|
+|**2024-09-25**|**Plurals: A System for Guiding LLMs Via Simulated Social Ensembles**|Joshua Ashkinaze et.al.|[2409.17213](http://arxiv.org/abs/2409.17213)|**[link](https://github.com/josh-ashkinaze/plurals)**|
+|**2024-09-25**|**Exploring the Roles of NLP-based Dialog Indicators in Predicting User Experience in interacting with Large Language Model System**|Eason Chen et.al.|[2409.17204](http://arxiv.org/abs/2409.17204)|null|
+|**2024-09-25**|**Agent modelling, statistical control, and the strength of middle knowledge**|Thomas Chesney et.al.|[2409.17196](http://arxiv.org/abs/2409.17196)|null|
+|**2024-09-25**|**Decentralized Federated Learning with Gradient Tracking over Time-Varying Directed Networks**|Duong Thuy Anh Nguyen et.al.|[2409.17189](http://arxiv.org/abs/2409.17189)|null|
 |**2024-09-25**|**Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents**|Junting Lu et.al.|[2409.17140](http://arxiv.org/abs/2409.17140)|null|
 |**2024-09-25**|**Collision-free time-optimal path parameterization for multi-robot teams**|Katherine Mao et.al.|[2409.17079](http://arxiv.org/abs/2409.17079)|null|
 |**2024-09-25**|**AI-Driven Risk-Aware Scheduling for Active Debris Removal Missions**|Antoine Poupon et.al.|[2409.17012](http://arxiv.org/abs/2409.17012)|null|
@@ -43,7 +74,7 @@
 |**2024-09-24**|**MBC: Multi-Brain Collaborative Control for Quadruped Robots**|Hang Liu et.al.|[2409.16460](http://arxiv.org/abs/2409.16460)|null|
 |**2024-09-24**|**MultiTalk: Introspective and Extrospective Dialogue for Human-Environment-LLM Alignment**|Venkata Naren Devarakonda et.al.|[2409.16455](http://arxiv.org/abs/2409.16455)|null|
 |**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|null|
-|**2024-09-24**|**HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions**|Xuhui Zhou et.al.|[2409.16427](http://arxiv.org/abs/2409.16427)|null|
+|**2024-09-26**|**HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions**|Xuhui Zhou et.al.|[2409.16427](http://arxiv.org/abs/2409.16427)|null|
 |**2024-09-24**|**Rao-Blackwellized POMDP Planning**|Jiho Lee et.al.|[2409.16392](http://arxiv.org/abs/2409.16392)|null|
 |**2024-09-24**|**Patch-Based Contrastive Learning and Memory Consolidation for Online Unsupervised Continual Learning**|Cameron Taylor et.al.|[2409.16391](http://arxiv.org/abs/2409.16391)|null|
 |**2024-09-24**|**Opinion polarisation in social networks driven by cognitive dissonance avoidance**|Zoltan Kovács et.al.|[2409.16343](http://arxiv.org/abs/2409.16343)|null|
@@ -139,11 +170,11 @@
 |**2024-09-20**|**Self-organized attractoring in locomoting animals and robots: an emerging field**|Bulcsú Sándor et.al.|[2409.13581](http://arxiv.org/abs/2409.13581)|null|
 |**2024-09-20**|**Scalable Multi-agent Reinforcement Learning for Factory-wide Dynamic Scheduling**|Jaeyeon Jang et.al.|[2409.13571](http://arxiv.org/abs/2409.13571)|null|
 |**2024-09-20**|**Optimal control of a kinetic model describing social interactions on a graph**|Jonathan Franceschi et.al.|[2409.13542](http://arxiv.org/abs/2409.13542)|null|
-|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537](http://arxiv.org/abs/2409.13537)|null|
+|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537](http://arxiv.org/abs/2409.13537)|**[link](https://github.com/zaiwen/cropgpt)**|
 |**2024-09-20**|**Using High-Level Patterns to Estimate How Humans Predict a Robot will Behave**|Sagar Parekh et.al.|[2409.13533](http://arxiv.org/abs/2409.13533)|null|
-|**2024-09-20**|**Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts**|Ming Wang et.al.|[2409.13449](http://arxiv.org/abs/2409.13449)|null|
+|**2024-09-20**|**Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts**|Ming Wang et.al.|[2409.13449](http://arxiv.org/abs/2409.13449)|**[link](https://github.com/sci-m-wang/minstrel)**|
 |**2024-09-23**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447](http://arxiv.org/abs/2409.13447)|null|
-|**2024-09-20**|**Selective Exploration and Information Gathering in Search and Rescue Using Hierarchical Learning Guided by Natural Language Input**|Dimitrios Panagopoulos et.al.|[2409.13445](http://arxiv.org/abs/2409.13445)|null|
+|**2024-09-20**|**Selective Exploration and Information Gathering in Search and Rescue Using Hierarchical Learning Guided by Natural Language Input**|Dimitrios Panagopoulos et.al.|[2409.13445](http://arxiv.org/abs/2409.13445)|**[link](https://github.com/dimipan/hrl-llm)**|
 |**2024-09-20**|**Field theories and quantum methods for stochastic reaction-diffusion systems**|Mauricio J. del Razo et.al.|[2409.13377](http://arxiv.org/abs/2409.13377)|null|
 |**2024-09-20**|**LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench**|Karthik Valmeekam et.al.|[2409.13373](http://arxiv.org/abs/2409.13373)|null|
 |**2024-09-20**|**Model Predictive Control For Multiple Castaway Tracking with an Autonomous Aerial Agent**|Andreas Anastasiou et.al.|[2409.13305](http://arxiv.org/abs/2409.13305)|null|
