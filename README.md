@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2024-09-25**|**Uncertainty Quantification for Agent Based Models: A Tutorial**|Louise Kimpton et.al.|[2409.16776](http://arxiv.org/abs/2409.16776)|null|
 |**2024-09-25**|**Dashing for the Golden Snitch: Multi-Drone Time-Optimal Motion Planning with Multi-Agent Reinforcement Learning**|Xian Wang et.al.|[2409.16720](http://arxiv.org/abs/2409.16720)|null|
 |**2024-09-25**|**MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making**|Dayuan Fu et.al.|[2409.16686](http://arxiv.org/abs/2409.16686)|null|
-|**2024-09-25**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/abs/2409.16663)|null|
+|**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/abs/2409.16663)|null|
 |**2024-09-25**|**Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing**|Pei Xu et.al.|[2409.16629](http://arxiv.org/abs/2409.16629)|**[link](https://github.com/xupei0610/guitar)**|
 |**2024-09-25**|**The Impact of Designated Market Makers on Market Liquidity and Competition: A Simulation Approach**|Cong Zhou et.al.|[2409.16589](http://arxiv.org/abs/2409.16589)|null|
 |**2024-09-25**|**Friend- and Enemy-oriented Hedonic Games With Strangers Full Version**|TJ Schlueter et.al.|[2409.16579](http://arxiv.org/abs/2409.16579)|null|
@@ -852,7 +852,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
