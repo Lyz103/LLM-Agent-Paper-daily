@@ -256,7 +256,7 @@
 |**2024-09-17**|**Bearing-based Target Localisation in Search and Rescue Scenarios**|Giulia Michieletto et.al.|[2409.11221](http://arxiv.org/abs/2409.11221)|null|
 |**2024-09-17**|**SuperCoder2.0: Technical Report on Exploring the feasibility of LLMs as Autonomous Programmer**|Anmol Gautam et.al.|[2409.11190](http://arxiv.org/abs/2409.11190)|null|
 |**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|**[link](https://github.com/valeoai/mf_awta)**|
-|**2024-09-17**|**Preventing Unconstrained CBF Safety Filters Caused by Invalid Relative Degree Assumptions**|Lukas Brunke et.al.|[2409.11171](http://arxiv.org/abs/2409.11171)|null|
+|**2024-09-17**|**Preventing Unconstrained CBF Safety Filters Caused by Invalid Relative Degree Assumptions**|Lukas Brunke et.al.|[2409.11171](http://arxiv.org/abs/2409.11171)|**[link](https://github.com/lukasbrunke/multi-cbf)**|
 |**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/wouterwln/rxenvironments-examples)**|
 |**2024-09-17**|**Data-driven Dynamic Intervention Design in Network Games**|Xiupeng Chen et.al.|[2409.11069](http://arxiv.org/abs/2409.11069)|null|
 |**2024-09-17**|**A logical alarm for misaligned binary classifiers**|Andrés Corrada-Emmanuel et.al.|[2409.11052](http://arxiv.org/abs/2409.11052)|null|
@@ -453,7 +453,7 @@
 |**2024-09-08**|**A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**|Huan Zhang et.al.|[2409.05001](http://arxiv.org/abs/2409.05001)|**[link](https://github.com/nju-websoft/paircoder)**|
 |**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|null|
 |**2024-09-07**|**DEPLOYERS: An agent based modeling tool for multi country real world data**|Martin Jaraiz et.al.|[2409.04876](http://arxiv.org/abs/2409.04876)|null|
-|**2024-09-07**|**Adaptation Procedure in Misinformation Games**|Konstantinos Varsos et.al.|[2409.04854](http://arxiv.org/abs/2409.04854)|null|
+|**2024-09-07**|**Adaptation Procedure in Misinformation Games**|Konstantinos Varsos et.al.|[2409.04854](http://arxiv.org/abs/2409.04854)|**[link](https://github.com/merkouris148/adaptation-procedure-misinformation-games)**|
 |**2024-09-07**|**Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation**|Hung-Ting Su et.al.|[2409.04837](http://arxiv.org/abs/2409.04837)|null|
 |**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744](http://arxiv.org/abs/2409.04744)|null|
 |**2024-09-07**|**Algorithmic Scenario Generation as Quality Diversity Optimization**|Stefanos Nikolaidis et.al.|[2409.04711](http://arxiv.org/abs/2409.04711)|null|
@@ -805,7 +805,7 @@
 |**2024-08-20**|**PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection**|Tri Cao et.al.|[2408.10738](http://arxiv.org/abs/2408.10738)|null|
 |**2024-08-20**|**Investigating Context Effects in Similarity Judgements in Large Language Models**|Sagar Uprety et.al.|[2408.10711](http://arxiv.org/abs/2408.10711)|null|
 |**2024-08-20**|**Genesis: Towards the Automation of Systems Biology Research**|Ievgeniia A. Tiukova et.al.|[2408.10689](http://arxiv.org/abs/2408.10689)|null|
-|**2024-08-20**|**Neural Exploratory Landscape Analysis**|Zeyuan Ma et.al.|[2408.10672](http://arxiv.org/abs/2408.10672)|null|
+|**2024-08-20**|**Neural Exploratory Landscape Analysis**|Zeyuan Ma et.al.|[2408.10672](http://arxiv.org/abs/2408.10672)|**[link](https://github.com/GMC-DRL/Neur-ELA)**|
 |**2024-08-20**|**Incorporating a 'ladder of trust' into dynamic Allocation of Function in Human-Autonomous Agent Collectives**|Chris Baber et.al.|[2408.10654](http://arxiv.org/abs/2408.10654)|null|
 |**2024-08-20**|**Variations on distributed belief**|John Lindqvist et.al.|[2408.10637](http://arxiv.org/abs/2408.10637)|null|
 |**2024-08-20**|**Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search**|Jonathan Light et.al.|[2408.10635](http://arxiv.org/abs/2408.10635)|null|
