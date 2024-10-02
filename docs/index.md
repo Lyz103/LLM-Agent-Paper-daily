@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -37,7 +37,7 @@ layout: default
 |**2024-09-30**|**Personalisation via Dynamic Policy Fusion**|Ajsal Shereef Palattuparambil et.al.|[2409.20016](http://arxiv.org/abs/2409.20016)|null|
 |**2024-09-30**|**Variational Auto-encoder Based Solutions to Interactive Dynamic Influence Diagrams**|Yinghui Pan et.al.|[2409.19965](http://arxiv.org/abs/2409.19965)|null|
 |**2024-09-30**|**Classification with a Network of Partially Informative Agents: Enabling Wise Crowds from Individually Myopic Classifiers**|Tong Yao et.al.|[2409.19947](http://arxiv.org/abs/2409.19947)|null|
-|**2024-09-30**|**TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation**|Zhiqiang Yuan et.al.|[2409.19894](http://arxiv.org/abs/2409.19894)|null|
+|**2024-10-01**|**TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation**|Zhiqiang Yuan et.al.|[2409.19894](http://arxiv.org/abs/2409.19894)|null|
 |**2024-09-30**|**A Distributed Malicious Agent Detection Scheme for Resilient Power Apportioning in Microgrids**|Vivek Khatana et.al.|[2409.19861](http://arxiv.org/abs/2409.19861)|null|
 |**2024-09-30**|**Discrete Distributionally Robust Optimal Control with Explicitly Constrained Optimization**|Yuma Shida et.al.|[2409.19860](http://arxiv.org/abs/2409.19860)|null|
 |**2024-09-30**|**Mixing, Enhanced Dissipation and Phase Transition in the Kinetic Vicsek Model**|Mengyang Gu et.al.|[2409.19859](http://arxiv.org/abs/2409.19859)|null|
@@ -67,7 +67,7 @@ layout: default
 |**2024-09-27**|**Calibrating microscopic traffic models with macroscopic data**|Yanbing Wang et.al.|[2409.19090](http://arxiv.org/abs/2409.19090)|null|
 |**2024-09-27**|**Intention-aware policy graphs: answering what, how, and why in opaque agents**|Victor Gimenez-Abalos et.al.|[2409.19038](http://arxiv.org/abs/2409.19038)|null|
 |**2024-09-27**|**Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control**|Samy Wu Fung et.al.|[2409.18945](http://arxiv.org/abs/2409.18945)|null|
-|**2024-09-27**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
+|**2024-10-01**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
 |**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Best Arm Identification with Minimal Regret**|Junwen Yang et.al.|[2409.18909](http://arxiv.org/abs/2409.18909)|null|
 |**2024-09-27**|**Simulating Dynamic Tumor Contrast Enhancement in Breast MRI using Conditional Generative Adversarial Networks**|Richard Osuala et.al.|[2409.18872](http://arxiv.org/abs/2409.18872)|null|
@@ -87,7 +87,7 @@ layout: default
 |**2024-09-27**|**Exploiting Physical Human-Robot Interaction to Provide a Unique Rolling Experience with a Riding Ballbot**|Chenzhang Xiao et.al.|[2409.18452](http://arxiv.org/abs/2409.18452)|null|
 |**2024-09-27**|**Multi-agent Reinforcement Learning for Dynamic Dispatching in Material Handling Systems**|Xian Yeow Lee et.al.|[2409.18435](http://arxiv.org/abs/2409.18435)|null|
 |**2024-09-27**|**CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills using Large Language Models**|Kanghyun Ryu et.al.|[2409.18382](http://arxiv.org/abs/2409.18382)|**[link](https://github.com/labicon/curricullm)**|
-|**2024-09-30**|**iWalker: Imperative Visual Planning for Walking Humanoid Robot**|Xiao Lin et.al.|[2409.18361](http://arxiv.org/abs/2409.18361)|null|
+|**2024-10-01**|**iWalker: Imperative Visual Planning for Walking Humanoid Robot**|Xiao Lin et.al.|[2409.18361](http://arxiv.org/abs/2409.18361)|null|
 |**2024-09-26**|**Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving**|Zhenghao Peng et.al.|[2409.18343](http://arxiv.org/abs/2409.18343)|null|
 |**2024-09-26**|**A Fairness-Driven Method for Learning Human-Compatible Negotiation Strategies**|Ryan Shea et.al.|[2409.18335](http://arxiv.org/abs/2409.18335)|null|
 |**2024-09-26**|**DMC-VB: A Benchmark for Representation Learning for Control with Visual Distractors**|Joseph Ortiz et.al.|[2409.18330](http://arxiv.org/abs/2409.18330)|**[link](https://github.com/google-deepmind/dmc_vision_benchmark)**|
