@@ -57,7 +57,7 @@ layout: default
 |**2024-09-28**|**Value-Based Deep Multi-Agent Reinforcement Learning with Dynamic Sparse Training**|Pihe Hu et.al.|[2409.19391](http://arxiv.org/abs/2409.19391)|null|
 |**2024-09-28**|**Learning Strategy Representation for Imitation Learning in Multi-Agent Games**|Shiqi Lei et.al.|[2409.19363](http://arxiv.org/abs/2409.19363)|null|
 |**2024-09-28**|**Decoding Echo Chambers: LLM-Powered Simulations Revealing Polarization in Social Networks**|Chenxi Wang et.al.|[2409.19338](http://arxiv.org/abs/2409.19338)|null|
-|**2024-09-28**|**AgentBasedModeling.jl: a tool for stochastic simulation of structured population dynamics**|Paul Piho et.al.|[2409.19294](http://arxiv.org/abs/2409.19294)|null|
+|**2024-10-01**|**AgentBasedModeling.jl: a tool for stochastic simulation of structured population dynamics**|Paul Piho et.al.|[2409.19294](http://arxiv.org/abs/2409.19294)|null|
 |**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
 |**2024-09-28**|**Distributed Optimization via Energy Conservation Laws in Dilated Coordinates**|Mayank Baranwal et.al.|[2409.19279](http://arxiv.org/abs/2409.19279)|null|
 |**2024-09-28**|**Time-Consistent Portfolio Selection for Rank-Dependent Utilities in an Incomplete Market**|Jiaqin Wei et.al.|[2409.19259](http://arxiv.org/abs/2409.19259)|null|
@@ -68,7 +68,7 @@ layout: default
 |**2024-09-27**|**Intention-aware policy graphs: answering what, how, and why in opaque agents**|Victor Gimenez-Abalos et.al.|[2409.19038](http://arxiv.org/abs/2409.19038)|null|
 |**2024-09-27**|**Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control**|Samy Wu Fung et.al.|[2409.18945](http://arxiv.org/abs/2409.18945)|null|
 |**2024-10-01**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
-|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
+|**2024-10-01**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Best Arm Identification with Minimal Regret**|Junwen Yang et.al.|[2409.18909](http://arxiv.org/abs/2409.18909)|null|
 |**2024-09-27**|**Simulating Dynamic Tumor Contrast Enhancement in Breast MRI using Conditional Generative Adversarial Networks**|Richard Osuala et.al.|[2409.18872](http://arxiv.org/abs/2409.18872)|null|
 |**2024-09-27**|**Safe Decentralized Multi-Agent Control using Black-Box Predictors, Conformal Decision Policies, and Control Barrier Functions**|Sacha Huriot et.al.|[2409.18862](http://arxiv.org/abs/2409.18862)|null|
@@ -206,7 +206,7 @@ layout: default
 |**2024-09-25**|**Towards a Realistic Long-Term Benchmark for Open-Web Research Agents**|Peter Mühlbacher et.al.|[2409.14913](http://arxiv.org/abs/2409.14913)|null|
 |**2024-09-23**|**KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems**|Zixuan Wang et.al.|[2409.14908](http://arxiv.org/abs/2409.14908)|null|
 |**2024-09-23**|**CON: Continual Object Navigation via Data-Free Inter-Agent Knowledge Transfer in Unseen and Unfamiliar Places**|Kouki Terashima et.al.|[2409.14899](http://arxiv.org/abs/2409.14899)|null|
-|**2024-09-23**|**Observe Then Act: Asynchronous Active Vision-Action Model for Robotic Manipulation**|Guokang Wang et.al.|[2409.14891](http://arxiv.org/abs/2409.14891)|null|
+|**2024-10-01**|**Observe Then Act: Asynchronous Active Vision-Action Model for Robotic Manipulation**|Guokang Wang et.al.|[2409.14891](http://arxiv.org/abs/2409.14891)|null|
 |**2024-09-23**|**A novel agent with formal goal-reaching guarantees: an experimental study with a mobile robot**|Grigory Yaremenko et.al.|[2409.14867](http://arxiv.org/abs/2409.14867)|**[link](https://github.com/thd-research/calf-rl-mobile-robot)**|
 |**2024-09-23**|**SymAware: A Software Development Framework for Trustworthy Multi-Agent Systems with Situational Awareness**|Ernesto Casablanca et.al.|[2409.14833](http://arxiv.org/abs/2409.14833)|null|
 |**2024-09-23**|**MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding**|Qinzhuo Wu et.al.|[2409.14818](http://arxiv.org/abs/2409.14818)|null|
