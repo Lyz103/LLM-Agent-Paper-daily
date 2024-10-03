@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -27,8 +27,8 @@ layout: default
 |**2024-09-30**|**HEADS-UP: Head-Mounted Egocentric Dataset for Trajectory Prediction in Blind Assistance Systems**|Yasaman Haghighi et.al.|[2409.20324](http://arxiv.org/abs/2409.20324)|null|
 |**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289](http://arxiv.org/abs/2409.20289)|null|
 |**2024-09-30**|**Learning to Ground Existentially Quantified Goals**|Martin Funkquist et.al.|[2409.20259](http://arxiv.org/abs/2409.20259)|null|
-|**2024-09-30**|**Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning**|Junlin Lu et.al.|[2409.20258](http://arxiv.org/abs/2409.20258)|null|
-|**2024-09-30**|**Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models**|David Castillo-Bolado et.al.|[2409.20222](http://arxiv.org/abs/2409.20222)|null|
+|**2024-09-30**|**Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning**|Junlin Lu et.al.|[2409.20258](http://arxiv.org/abs/2409.20258)|**[link](https://github.com/JLu2022/DWPI)**|
+|**2024-09-30**|**Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models**|David Castillo-Bolado et.al.|[2409.20222](http://arxiv.org/abs/2409.20222)|**[link](https://github.com/GoodAI/goodai-ltm-benchmark)**|
 |**2024-09-30**|**MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants**|Zeyu Zhang et.al.|[2409.20163](http://arxiv.org/abs/2409.20163)|**[link](https://github.com/nuster1128/memsim)**|
 |**2024-09-30**|**DRLinSPH: An open-source platform using deep reinforcement learning and SPHinXsys for fluid-structure-interaction problems**|Mai Ye et.al.|[2409.20134](http://arxiv.org/abs/2409.20134)|null|
 |**2024-09-30**|**ACE: Abstractions for Communicating Efficiently**|Jonathan D. Thomas et.al.|[2409.20120](http://arxiv.org/abs/2409.20120)|null|
@@ -44,7 +44,7 @@ layout: default
 |**2024-09-30**|**Mechanism Design with Endogenous Perception**|Benjamin Balzer et.al.|[2409.19853](http://arxiv.org/abs/2409.19853)|null|
 |**2024-09-30**|**Utilizing Priors in Sampling-based Cost Minimization**|Yuan-Yao Lou et.al.|[2409.19834](http://arxiv.org/abs/2409.19834)|null|
 |**2024-09-30**|**Enabling Multi-Robot Collaboration from Single-Human Guidance**|Zhengran Ji et.al.|[2409.19831](http://arxiv.org/abs/2409.19831)|null|
-|**2024-09-29**|**T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**|Chen Yeh et.al.|[2409.19734](http://arxiv.org/abs/2409.19734)|**[link](https://github.com/nctu-eva-lab/vhd11k)**|
+|**2024-10-02**|**T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**|Chen Yeh et.al.|[2409.19734](http://arxiv.org/abs/2409.19734)|**[link](https://github.com/nctu-eva-lab/vhd11k)**|
 |**2024-09-29**|**A Comprehensive Guide to Simulation-based Inference in Computational Biology**|Xiaoyu Wang et.al.|[2409.19675](http://arxiv.org/abs/2409.19675)|null|
 |**2024-09-29**|**Grounding 3D Scene Affordance From Egocentric Interactions**|Cuiyu Liu et.al.|[2409.19650](http://arxiv.org/abs/2409.19650)|null|
 |**2024-09-29**|**An action language-based formalisation of an abstract argumentation framework**|Yann Munro et.al.|[2409.19625](http://arxiv.org/abs/2409.19625)|null|
@@ -57,7 +57,7 @@ layout: default
 |**2024-09-28**|**Value-Based Deep Multi-Agent Reinforcement Learning with Dynamic Sparse Training**|Pihe Hu et.al.|[2409.19391](http://arxiv.org/abs/2409.19391)|null|
 |**2024-09-28**|**Learning Strategy Representation for Imitation Learning in Multi-Agent Games**|Shiqi Lei et.al.|[2409.19363](http://arxiv.org/abs/2409.19363)|null|
 |**2024-09-28**|**Decoding Echo Chambers: LLM-Powered Simulations Revealing Polarization in Social Networks**|Chenxi Wang et.al.|[2409.19338](http://arxiv.org/abs/2409.19338)|null|
-|**2024-10-01**|**AgentBasedModeling.jl: a tool for stochastic simulation of structured population dynamics**|Paul Piho et.al.|[2409.19294](http://arxiv.org/abs/2409.19294)|null|
+|**2024-10-02**|**AgentBasedModeling.jl: a tool for stochastic simulation of structured population dynamics**|Paul Piho et.al.|[2409.19294](http://arxiv.org/abs/2409.19294)|null|
 |**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
 |**2024-09-28**|**Distributed Optimization via Energy Conservation Laws in Dilated Coordinates**|Mayank Baranwal et.al.|[2409.19279](http://arxiv.org/abs/2409.19279)|null|
 |**2024-09-28**|**Time-Consistent Portfolio Selection for Rank-Dependent Utilities in an Incomplete Market**|Jiaqin Wei et.al.|[2409.19259](http://arxiv.org/abs/2409.19259)|null|
@@ -70,8 +70,8 @@ layout: default
 |**2024-10-01**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
 |**2024-10-01**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Best Arm Identification with Minimal Regret**|Junwen Yang et.al.|[2409.18909](http://arxiv.org/abs/2409.18909)|null|
-|**2024-09-27**|**Simulating Dynamic Tumor Contrast Enhancement in Breast MRI using Conditional Generative Adversarial Networks**|Richard Osuala et.al.|[2409.18872](http://arxiv.org/abs/2409.18872)|null|
-|**2024-09-27**|**Safe Decentralized Multi-Agent Control using Black-Box Predictors, Conformal Decision Policies, and Control Barrier Functions**|Sacha Huriot et.al.|[2409.18862](http://arxiv.org/abs/2409.18862)|null|
+|**2024-09-27**|**Simulating Dynamic Tumor Contrast Enhancement in Breast MRI using Conditional Generative Adversarial Networks**|Richard Osuala et.al.|[2409.18872](http://arxiv.org/abs/2409.18872)|**[link](https://github.com/RichardObi/SimulatingDCE)**|
+|**2024-10-01**|**Safe Decentralized Multi-Agent Control using Black-Box Predictors, Conformal Decision Policies, and Control Barrier Functions**|Sacha Huriot et.al.|[2409.18862](http://arxiv.org/abs/2409.18862)|null|
 |**2024-09-27**|**ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning**|Jannis Becktepe et.al.|[2409.18827](http://arxiv.org/abs/2409.18827)|**[link](https://github.com/automl/arlbench)**|
 |**2024-09-27**|**Facility Location Problem with Aleatory Agents**|Gennaro Auricchio et.al.|[2409.18817](http://arxiv.org/abs/2409.18817)|null|
 |**2024-09-27**|**Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs**|Yanyuan Qiao et.al.|[2409.18794](http://arxiv.org/abs/2409.18794)|null|
@@ -91,13 +91,13 @@ layout: default
 |**2024-09-26**|**Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving**|Zhenghao Peng et.al.|[2409.18343](http://arxiv.org/abs/2409.18343)|null|
 |**2024-09-26**|**A Fairness-Driven Method for Learning Human-Compatible Negotiation Strategies**|Ryan Shea et.al.|[2409.18335](http://arxiv.org/abs/2409.18335)|null|
 |**2024-09-26**|**DMC-VB: A Benchmark for Representation Learning for Control with Visual Distractors**|Joseph Ortiz et.al.|[2409.18330](http://arxiv.org/abs/2409.18330)|**[link](https://github.com/google-deepmind/dmc_vision_benchmark)**|
-|**2024-09-26**|**Embodied-RAG: General non-parametric Embodied Memory for Retrieval and Generation**|Quanting Xie et.al.|[2409.18313](http://arxiv.org/abs/2409.18313)|null|
+|**2024-10-01**|**Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation**|Quanting Xie et.al.|[2409.18313](http://arxiv.org/abs/2409.18313)|null|
 |**2024-09-26**|**Criticality and Safety Margins for Reinforcement Learning**|Alexander Grushin et.al.|[2409.18289](http://arxiv.org/abs/2409.18289)|null|
 |**2024-09-26**|**Autonomous Network Defence using Reinforcement Learning**|Myles Foley et.al.|[2409.18197](http://arxiv.org/abs/2409.18197)|null|
 |**2024-09-26**|**Advanced Targeted Drug Delivery for Colon Cancer Using Pristine and Surface-modified Hydroxyapatite Nanoparticles: Synthesis, Characterization, and pH-Responsive Release**|Alexander David McGuire Withrow et.al.|[2409.18192](http://arxiv.org/abs/2409.18192)|null|
 |**2024-09-25**|**Reinforcement Learning for Finite Space Mean-Field Type Games**|Kai Shao et.al.|[2409.18152](http://arxiv.org/abs/2409.18152)|null|
 |**2024-09-26**|**StackGen: Generating Stable Structures from Silhouettes via Diffusion**|Luzhe Sun et.al.|[2409.18098](http://arxiv.org/abs/2409.18098)|null|
-|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073](http://arxiv.org/abs/2409.18073)|null|
+|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073](http://arxiv.org/abs/2409.18073)|**[link](https://github.com/simon-wan/fiser)**|
 |**2024-09-27**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052](http://arxiv.org/abs/2409.18052)|null|
 |**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051](http://arxiv.org/abs/2409.18051)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
@@ -116,12 +116,12 @@ layout: default
 |**2024-09-27**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
 |**2024-09-26**|**From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection**|Xinlei Wang et.al.|[2409.17515](http://arxiv.org/abs/2409.17515)|null|
 |**2024-09-26**|**Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD**|Jie Hu et.al.|[2409.17499](http://arxiv.org/abs/2409.17499)|null|
-|**2024-09-26**|**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**|Hanbo Bi et.al.|[2409.17453](http://arxiv.org/abs/2409.17453)|null|
+|**2024-09-26**|**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**|Hanbo Bi et.al.|[2409.17453](http://arxiv.org/abs/2409.17453)|**[link](https://github.com/HanboBizl/AgMTR)**|
 |**2024-09-26**|**Cat-and-Mouse Satellite Dynamics: Divergent Adversarial Reinforcement Learning for Contested Multi-Agent Space Operations**|Cameron Mehlman et.al.|[2409.17443](http://arxiv.org/abs/2409.17443)|null|
 |**2024-09-25**|**Data-efficient Trajectory Prediction via Coreset Selection**|Ruining Yang et.al.|[2409.17385](http://arxiv.org/abs/2409.17385)|null|
 |**2024-09-25**|**Learning Utilities from Demonstrations in Markov Decision Processes**|Filippo Lazzati et.al.|[2409.17355](http://arxiv.org/abs/2409.17355)|null|
 |**2024-09-25**|**Language Grounded Multi-agent Communication for Ad-hoc Teamwork**|Huao Li et.al.|[2409.17348](http://arxiv.org/abs/2409.17348)|null|
-|**2024-09-25**|**AAPM: Large Language Model Agent-based Asset Pricing Models**|Junyan Cheng et.al.|[2409.17266](http://arxiv.org/abs/2409.17266)|null|
+|**2024-09-25**|**AAPM: Large Language Model Agent-based Asset Pricing Models**|Junyan Cheng et.al.|[2409.17266](http://arxiv.org/abs/2409.17266)|**[link](https://github.com/chengjunyan1/aapm)**|
 |**2024-09-25**|**Grounded Predictions of Teamwork as a One-Shot Game: A Multiagent Multi-Armed Bandits Approach**|Alejandra López de Aberasturi Gómez et.al.|[2409.17214](http://arxiv.org/abs/2409.17214)|null|
 |**2024-09-27**|**Plurals: A System for Guiding LLMs Via Simulated Social Ensembles**|Joshua Ashkinaze et.al.|[2409.17213](http://arxiv.org/abs/2409.17213)|**[link](https://github.com/josh-ashkinaze/plurals)**|
 |**2024-09-25**|**Exploring the Roles of NLP-based Dialog Indicators in Predicting User Experience in interacting with Large Language Model System**|Eason Chen et.al.|[2409.17204](http://arxiv.org/abs/2409.17204)|null|
@@ -155,7 +155,7 @@ layout: default
 |**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|null|
 |**2024-09-26**|**HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions**|Xuhui Zhou et.al.|[2409.16427](http://arxiv.org/abs/2409.16427)|null|
 |**2024-09-24**|**Rao-Blackwellized POMDP Planning**|Jiho Lee et.al.|[2409.16392](http://arxiv.org/abs/2409.16392)|null|
-|**2024-09-24**|**Patch-Based Contrastive Learning and Memory Consolidation for Online Unsupervised Continual Learning**|Cameron Taylor et.al.|[2409.16391](http://arxiv.org/abs/2409.16391)|null|
+|**2024-09-24**|**Patch-Based Contrastive Learning and Memory Consolidation for Online Unsupervised Continual Learning**|Cameron Taylor et.al.|[2409.16391](http://arxiv.org/abs/2409.16391)|**[link](https://github.com/CameronTaylorFL/upl-benchmark)**|
 |**2024-09-24**|**Opinion polarisation in social networks driven by cognitive dissonance avoidance**|Zoltan Kovács et.al.|[2409.16343](http://arxiv.org/abs/2409.16343)|null|
 |**2024-09-24**|**Context-Based Meta Reinforcement Learning for Robust and Adaptable Peg-in-Hole Assembly Tasks**|Ahmed Shokry et.al.|[2409.16208](http://arxiv.org/abs/2409.16208)|null|
 |**2024-09-25**|**Extending Stable and Popular Matching Algorithms from Bipartite to Arbitrary Instances**|Gergely Csáji et.al.|[2409.16173](http://arxiv.org/abs/2409.16173)|null|
