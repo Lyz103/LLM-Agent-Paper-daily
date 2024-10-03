@@ -14,6 +14,58 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Windowed MAPF with Completeness Guarantees**|Rishi Veerapaneni et.al.|[2410.01798](http://arxiv.org/abs/2410.01798)|null|
+|**2024-10-02**|**Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning**|Prasanth Sengadu Suresh et.al.|[2410.01790](http://arxiv.org/abs/2410.01790)|null|
+|**2024-10-02**|**Social coordination perpetuates stereotypic expectations and behaviors across generations in deep multi-agent reinforcement learning**|Rebekah A. Gelpí et.al.|[2410.01763](http://arxiv.org/abs/2410.01763)|null|
+|**2024-10-02**|**PreND: Enhancing Intrinsic Motivation in Reinforcement Learning through Pre-trained Network Distillation**|Mohammadamin Davoodabadi et.al.|[2410.01745](http://arxiv.org/abs/2410.01745)|null|
+|**2024-10-02**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739](http://arxiv.org/abs/2410.01739)|null|
+|**2024-10-02**|**Performant, Memory Efficient and Scalable Multi-Agent Reinforcement Learning**|Omayma Mahjoub et.al.|[2410.01706](http://arxiv.org/abs/2410.01706)|null|
+|**2024-10-02**|**Stable Offline Value Function Learning with Bisimulation-based Representations**|Brahma S. Pavse et.al.|[2410.01643](http://arxiv.org/abs/2410.01643)|null|
+|**2024-10-02**|**Moral Alignment for LLM Agents**|Elizaveta Tennant et.al.|[2410.01639](http://arxiv.org/abs/2410.01639)|null|
+|**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[2410.01628](http://arxiv.org/abs/2410.01628)|null|
+|**2024-10-02**|**Automated Red Teaming with GOAT: the Generative Offensive Agent Tester**|Maya Pavlova et.al.|[2410.01606](http://arxiv.org/abs/2410.01606)|null|
+|**2024-10-02**|**Computing Ex Ante Equilibrium in Heterogeneous Zero-Sum Team Games**|Naming Liu et.al.|[2410.01575](http://arxiv.org/abs/2410.01575)|null|
+|**2024-10-02**|**From Reward Shaping to Q-Shaping: Achieving Unbiased Learning with LLM-Guided Knowledge**|Xiefeng Wu et.al.|[2410.01458](http://arxiv.org/abs/2410.01458)|null|
+|**2024-10-02**|**Agent-Driven Large Language Models for Mandarin Lyric Generation**|Hong-Hsiang Liu et.al.|[2410.01450](http://arxiv.org/abs/2410.01450)|null|
+|**2024-10-02**|**Closed-loop Long-horizon Robotic Planning via Equilibrium Sequence Modeling**|Jinghan Li et.al.|[2410.01440](http://arxiv.org/abs/2410.01440)|**[link](https://github.com/singularity0104/equilibrium-planner)**|
+|**2024-10-02**|**Scalable Reinforcement Learning-based Neural Architecture Search**|Amber Cassimon et.al.|[2410.01431](http://arxiv.org/abs/2410.01431)|null|
+|**2024-10-02**|**Robust forward investment and consumption under drift and volatility uncertainties: A randomization approach**|Wing Fung Chong et.al.|[2410.01378](http://arxiv.org/abs/2410.01378)|null|
+|**2024-10-02**|**MARLens: Understanding Multi-agent Reinforcement Learning for Traffic Signal Control via Visual Analytics**|Yutian Zhang et.al.|[2410.01364](http://arxiv.org/abs/2410.01364)|null|
+|**2024-10-02**|**Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?**|Zhenyu Pan et.al.|[2410.01353](http://arxiv.org/abs/2410.01353)|**[link](https://github.com/LingmaTongyi/Codev-Bench)**|
+|**2024-10-02**|**Mean field equilibrium asset pricing model under partial observation: An exponential quadratic Gaussian approach**|Masashi Sekine et.al.|[2410.01352](http://arxiv.org/abs/2410.01352)|null|
+|**2024-10-02**|**Life, uh, Finds a Way: Systematic Neural Search**|Alex Baranski et.al.|[2410.01349](http://arxiv.org/abs/2410.01349)|null|
+|**2024-10-02**|**FanCric : Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams**|Mohit Bhatnagar et.al.|[2410.01307](http://arxiv.org/abs/2410.01307)|null|
+|**2024-10-02**|**Uncertainty-aware Human Mobility Modeling and Anomaly Detection**|Haomin Wen et.al.|[2410.01281](http://arxiv.org/abs/2410.01281)|null|
+|**2024-10-02**|**A Control Barrier Function Candidate for Limited Field of View Sensors**|Biagio Trimarchi et.al.|[2410.01277](http://arxiv.org/abs/2410.01277)|null|
+|**2024-10-02**|**RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance**|Haolin Jin et.al.|[2410.01242](http://arxiv.org/abs/2410.01242)|null|
+|**2024-10-02**|**Absolute State-wise Constrained Policy Optimization: High-Probability State-wise Constraints Satisfaction**|Weiye Zhao et.al.|[2410.01212](http://arxiv.org/abs/2410.01212)|null|
+|**2024-10-02**|**Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**|Yue Zhong et.al.|[2410.01176](http://arxiv.org/abs/2410.01176)|null|
+|**2024-10-01**|**Learning to Build by Building Your Own Instructions**|Aaron Walsman et.al.|[2410.01111](http://arxiv.org/abs/2410.01111)|**[link](https://github.com/aaronwalsman/ltron-torch)**|
+|**2024-10-01**|**Exploiting Structure in Offline Multi-Agent RL: The Benefits of Low Interaction Rank**|Wenhao Zhan et.al.|[2410.01101](http://arxiv.org/abs/2410.01101)|null|
+|**2024-10-01**|**From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls**|Tomas Goldsack et.al.|[2410.01039](http://arxiv.org/abs/2410.01039)|null|
+|**2024-10-01**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011](http://arxiv.org/abs/2410.01011)|null|
+|**2024-10-01**|**Fast-and-flexible decision-making with modulatory interactions**|Rodrigo Moreno-Morton et.al.|[2410.00798](http://arxiv.org/abs/2410.00798)|null|
+|**2024-10-01**|**LTLf Synthesis on First-Order Action Theories**|Till Hofmann et.al.|[2410.00726](http://arxiv.org/abs/2410.00726)|null|
+|**2024-10-01**|**Contrastive Abstraction for Reinforcement Learning**|Vihang Patil et.al.|[2410.00704](http://arxiv.org/abs/2410.00704)|null|
+|**2024-10-01**|**Multimodal Auto Validation For Self-Refinement in Web Agents**|Ruhana Azam et.al.|[2410.00689](http://arxiv.org/abs/2410.00689)|null|
+|**2024-10-01**|**Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining**|Jie Cheng et.al.|[2410.00564](http://arxiv.org/abs/2410.00564)|**[link](https://github.com/cjreinforce/jowa)**|
+|**2024-10-01**|**Human-Robot Collaborative Minimum Time Search through Sub-priors in Ant Colony Optimization**|Oscar Gil Viyuela et.al.|[2410.00517](http://arxiv.org/abs/2410.00517)|null|
+|**2024-10-01**|**Dynamic Planning for LLM-based Graphical User Interface Automation**|Shaoqing Zhang et.al.|[2410.00467](http://arxiv.org/abs/2410.00467)|**[link](https://github.com/sqzhang-lazy/d-pot)**|
+|**2024-10-01**|**Absolute centrality in a signed Friedkin-Johnsen based model: a graphical characterisation of influence**|Aashi Shrinate et.al.|[2410.00456](http://arxiv.org/abs/2410.00456)|null|
+|**2024-10-01**|**Complete vortex shedding suppression in highly slender elliptical cylinders through deep reinforcement learning-driven flow control**|Wang Jia et.al.|[2410.00421](http://arxiv.org/abs/2410.00421)|null|
+|**2024-10-01**|**Self-controller: Controlling LLMs with Multi-round Step-by-step Self-awareness**|Xiao Peng et.al.|[2410.00359](http://arxiv.org/abs/2410.00359)|null|
+|**2024-10-01**|**Hierarchical Organization Simulacra in the Investment Sector**|Chung-Chi Chen et.al.|[2410.00354](http://arxiv.org/abs/2410.00354)|null|
+|**2024-09-30**|**Embodied Visuomotor Representation**|Levi Burner et.al.|[2410.00287](http://arxiv.org/abs/2410.00287)|null|
+|**2024-09-30**|**Decentralized Input and State Estimation for Multi-agent System with Dynamic Topology and Heterogeneous Sensor Network**|Zida Wu et.al.|[2410.00272](http://arxiv.org/abs/2410.00272)|null|
+|**2024-09-30**|**Possible principles for aligned structure learning agents**|Lancelot Da Costa et.al.|[2410.00258](http://arxiv.org/abs/2410.00258)|null|
+|**2024-09-30**|**Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning**|Weitai Kang et.al.|[2410.00255](http://arxiv.org/abs/2410.00255)|**[link](https://github.com/weitaikang/robin3d)**|
+|**2024-09-30**|**Demonstrating the Continual Learning Capabilities and Practical Application of Discrete-Time Active Inference**|Rithvik Prakki et.al.|[2410.00240](http://arxiv.org/abs/2410.00240)|null|
+|**2024-09-30**|**The Patterns of Life Human Mobility Simulation**|Hossein Amiri et.al.|[2410.00185](http://arxiv.org/abs/2410.00185)|null|
+|**2024-09-30**|**Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation**|Pedro Henrique Paiola et.al.|[2410.00163](http://arxiv.org/abs/2410.00163)|null|
+|**2024-09-30**|**Resonance Reduction Against Adversarial Attacks in Dynamic Networks via Eigenspectrum Optimization**|Alp Sahin et.al.|[2410.00126](http://arxiv.org/abs/2410.00126)|null|
+|**2024-09-30**|**ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer**|Zhen Han et.al.|[2410.00086](http://arxiv.org/abs/2410.00086)|null|
+|**2024-09-30**|**From homeostasis to resource sharing: Biologically and economically compatible multi-objective multi-agent AI safety benchmarks**|Roland Pihlakas et.al.|[2410.00081](http://arxiv.org/abs/2410.00081)|**[link](https://github.com/levitation-opensource/ai-safety-gridworlds)**|
+|**2024-09-30**|**Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface**|Wenyue Hua et.al.|[2410.00079](http://arxiv.org/abs/2410.00079)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
 |**2024-09-30**|**Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**|Md Mohaiminul Islam et.al.|[2409.20557](http://arxiv.org/abs/2409.20557)|null|
 |**2024-09-30**|**Direct Multipath-Based SLAM**|Mingchao Liang et.al.|[2409.20552](http://arxiv.org/abs/2409.20552)|null|
