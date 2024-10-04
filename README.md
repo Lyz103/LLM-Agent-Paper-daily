@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,7 +54,7 @@
 |**2024-10-01**|**Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining**|Jie Cheng et.al.|[2410.00564](http://arxiv.org/abs/2410.00564)|**[link](https://github.com/cjreinforce/jowa)**|
 |**2024-10-01**|**Human-Robot Collaborative Minimum Time Search through Sub-priors in Ant Colony Optimization**|Oscar Gil Viyuela et.al.|[2410.00517](http://arxiv.org/abs/2410.00517)|null|
 |**2024-10-01**|**Dynamic Planning for LLM-based Graphical User Interface Automation**|Shaoqing Zhang et.al.|[2410.00467](http://arxiv.org/abs/2410.00467)|**[link](https://github.com/sqzhang-lazy/d-pot)**|
-|**2024-10-01**|**Absolute centrality in a signed Friedkin-Johnsen based model: a graphical characterisation of influence**|Aashi Shrinate et.al.|[2410.00456](http://arxiv.org/abs/2410.00456)|null|
+|**2024-10-03**|**Absolute centrality in a signed Friedkin-Johnsen based model: a graphical characterisation of influence**|Aashi Shrinate et.al.|[2410.00456](http://arxiv.org/abs/2410.00456)|null|
 |**2024-10-01**|**Complete vortex shedding suppression in highly slender elliptical cylinders through deep reinforcement learning-driven flow control**|Wang Jia et.al.|[2410.00421](http://arxiv.org/abs/2410.00421)|null|
 |**2024-10-01**|**Self-controller: Controlling LLMs with Multi-round Step-by-step Self-awareness**|Xiao Peng et.al.|[2410.00359](http://arxiv.org/abs/2410.00359)|null|
 |**2024-10-01**|**Hierarchical Organization Simulacra in the Investment Sector**|Chung-Chi Chen et.al.|[2410.00354](http://arxiv.org/abs/2410.00354)|null|
@@ -89,7 +89,7 @@
 |**2024-09-30**|**ACE: Abstractions for Communicating Efficiently**|Jonathan D. Thomas et.al.|[2409.20120](http://arxiv.org/abs/2409.20120)|null|
 |**2024-09-30**|**Can We Break the Curse of Multiagency in Robust Multi-Agent Reinforcement Learning?**|Laixi Shi et.al.|[2409.20067](http://arxiv.org/abs/2409.20067)|null|
 |**2024-09-30**|**Fuel tax loss in a world of electric mobility: A window of opportunity for congestion pricing**|Thi Ngoc Nguyen et.al.|[2409.20033](http://arxiv.org/abs/2409.20033)|null|
-|**2024-09-30**|**Personalisation via Dynamic Policy Fusion**|Ajsal Shereef Palattuparambil et.al.|[2409.20016](http://arxiv.org/abs/2409.20016)|null|
+|**2024-10-03**|**Personalisation via Dynamic Policy Fusion**|Ajsal Shereef Palattuparambil et.al.|[2409.20016](http://arxiv.org/abs/2409.20016)|null|
 |**2024-09-30**|**Variational Auto-encoder Based Solutions to Interactive Dynamic Influence Diagrams**|Yinghui Pan et.al.|[2409.19965](http://arxiv.org/abs/2409.19965)|null|
 |**2024-09-30**|**Classification with a Network of Partially Informative Agents: Enabling Wise Crowds from Individually Myopic Classifiers**|Tong Yao et.al.|[2409.19947](http://arxiv.org/abs/2409.19947)|null|
 |**2024-10-01**|**TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation**|Zhiqiang Yuan et.al.|[2409.19894](http://arxiv.org/abs/2409.19894)|null|
@@ -1017,7 +1017,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
