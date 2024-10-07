@@ -328,7 +328,7 @@ layout: default
 |**2024-09-21**|**R-AIF: Solving Sparse-Reward Robotic Tasks from Pixels with Active Inference and World Models**|Viet Dung Nguyen et.al.|[2409.14216](http://arxiv.org/abs/2409.14216)|**[link](https://github.com/NACLab/robust-active-inference)**|
 |**2024-09-21**|**Stabilization of vertical motion of a vehicle on bumpy terrain using deep reinforcement learning**|Ameya Salvi et.al.|[2409.14207](http://arxiv.org/abs/2409.14207)|null|
 |**2024-09-21**|**Mining Causality: AI-Assisted Search for Instrumental Variables**|Sukjin Han et.al.|[2409.14202](http://arxiv.org/abs/2409.14202)|null|
-|**2024-09-21**|**Advancing Employee Behavior Analysis through Synthetic Data: Leveraging ABMs, GANs, and Statistical Models for Enhanced Organizational Efficiency**|Rakshitha Jayashankar et.al.|[2409.14197](http://arxiv.org/abs/2409.14197)|null|
+|**2024-09-21**|**Advancing Employee Behavior Analysis through Synthetic Data: Leveraging ABMs, GANs, and Statistical Models for Enhanced Organizational Efficiency**|Rakshitha Jayashankar et.al.|[2409.14197](http://arxiv.org/abs/2409.14197)|**[link](https://github.com/rakshithajayashankar/SyntheticDataforEmployeeBehavior)**|
 |**2024-09-21**|**Adversarial and Reactive Traffic Agents for Realistic Driving Simulation**|Joshua Ransiek et.al.|[2409.14196](http://arxiv.org/abs/2409.14196)|null|
 |**2024-09-21**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|null|
 |**2024-09-21**|**One-shot World Models Using a Transformer Trained on a Synthetic Prior**|Fabio Ferreira et.al.|[2409.14084](http://arxiv.org/abs/2409.14084)|null|
@@ -806,7 +806,7 @@ layout: default
 |**2024-08-29**|**Autocorrelation properties of temporal networks governed by dynamic node variables**|Harrison Hartle et.al.|[2408.16270](http://arxiv.org/abs/2408.16270)|null|
 |**2024-08-29**|**Action potential dynamics on heterogenous neural networks: from kinetic to macroscopic equations**|Marzia Bisi et.al.|[2408.16214](http://arxiv.org/abs/2408.16214)|null|
 |**2024-08-28**|**DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly**|Giulio Giacomuzzo et.al.|[2408.16125](http://arxiv.org/abs/2408.16125)|null|
-|**2024-08-28**|**EPO: Hierarchical LLM Agents with Environment Preference Optimization**|Qi Zhao et.al.|[2408.16090](http://arxiv.org/abs/2408.16090)|null|
+|**2024-08-28**|**EPO: Hierarchical LLM Agents with Environment Preference Optimization**|Qi Zhao et.al.|[2408.16090](http://arxiv.org/abs/2408.16090)|**[link](https://github.com/kevinz8866/epo)**|
 |**2024-08-28**|**Logic-Enhanced Language Model Agents for Trustworthy Social Simulations**|Agnieszka Mensfelt et.al.|[2408.16081](http://arxiv.org/abs/2408.16081)|**[link](https://github.com/dicelab-rhul/lelma)**|
 |**2024-08-28**|**Hitting the Gym: Reinforcement Learning Control of Exercise-Strengthened Biohybrid Robots in Simulation**|Saul Schaffer et.al.|[2408.16069](http://arxiv.org/abs/2408.16069)|null|
 |**2024-08-28**|**An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders**|Shuang Feng et.al.|[2408.16032](http://arxiv.org/abs/2408.16032)|null|
