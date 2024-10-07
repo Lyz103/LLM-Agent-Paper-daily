@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -67,7 +67,7 @@
 |**2024-10-02**|**Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning**|Prasanth Sengadu Suresh et.al.|[2410.01790](http://arxiv.org/abs/2410.01790)|null|
 |**2024-10-02**|**Social coordination perpetuates stereotypic expectations and behaviors across generations in deep multi-agent reinforcement learning**|Rebekah A. Gelpí et.al.|[2410.01763](http://arxiv.org/abs/2410.01763)|null|
 |**2024-10-02**|**PreND: Enhancing Intrinsic Motivation in Reinforcement Learning through Pre-trained Network Distillation**|Mohammadamin Davoodabadi et.al.|[2410.01745](http://arxiv.org/abs/2410.01745)|null|
-|**2024-10-02**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739](http://arxiv.org/abs/2410.01739)|null|
+|**2024-10-03**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739](http://arxiv.org/abs/2410.01739)|null|
 |**2024-10-02**|**Performant, Memory Efficient and Scalable Multi-Agent Reinforcement Learning**|Omayma Mahjoub et.al.|[2410.01706](http://arxiv.org/abs/2410.01706)|null|
 |**2024-10-02**|**Stable Offline Value Function Learning with Bisimulation-based Representations**|Brahma S. Pavse et.al.|[2410.01643](http://arxiv.org/abs/2410.01643)|null|
 |**2024-10-02**|**Moral Alignment for LLM Agents**|Elizaveta Tennant et.al.|[2410.01639](http://arxiv.org/abs/2410.01639)|null|
@@ -76,7 +76,7 @@
 |**2024-10-02**|**Computing Ex Ante Equilibrium in Heterogeneous Zero-Sum Team Games**|Naming Liu et.al.|[2410.01575](http://arxiv.org/abs/2410.01575)|null|
 |**2024-10-02**|**From Reward Shaping to Q-Shaping: Achieving Unbiased Learning with LLM-Guided Knowledge**|Xiefeng Wu et.al.|[2410.01458](http://arxiv.org/abs/2410.01458)|null|
 |**2024-10-02**|**Agent-Driven Large Language Models for Mandarin Lyric Generation**|Hong-Hsiang Liu et.al.|[2410.01450](http://arxiv.org/abs/2410.01450)|null|
-|**2024-10-02**|**Closed-loop Long-horizon Robotic Planning via Equilibrium Sequence Modeling**|Jinghan Li et.al.|[2410.01440](http://arxiv.org/abs/2410.01440)|**[link](https://github.com/singularity0104/equilibrium-planner)**|
+|**2024-10-03**|**Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling**|Jinghan Li et.al.|[2410.01440](http://arxiv.org/abs/2410.01440)|**[link](https://github.com/singularity0104/equilibrium-planner)**|
 |**2024-10-02**|**Scalable Reinforcement Learning-based Neural Architecture Search**|Amber Cassimon et.al.|[2410.01431](http://arxiv.org/abs/2410.01431)|null|
 |**2024-10-02**|**Robust forward investment and consumption under drift and volatility uncertainties: A randomization approach**|Wing Fung Chong et.al.|[2410.01378](http://arxiv.org/abs/2410.01378)|null|
 |**2024-10-02**|**MARLens: Understanding Multi-agent Reinforcement Learning for Traffic Signal Control via Visual Analytics**|Yutian Zhang et.al.|[2410.01364](http://arxiv.org/abs/2410.01364)|null|
@@ -92,7 +92,7 @@
 |**2024-10-01**|**Learning to Build by Building Your Own Instructions**|Aaron Walsman et.al.|[2410.01111](http://arxiv.org/abs/2410.01111)|**[link](https://github.com/aaronwalsman/ltron-torch)**|
 |**2024-10-01**|**Exploiting Structure in Offline Multi-Agent RL: The Benefits of Low Interaction Rank**|Wenhao Zhan et.al.|[2410.01101](http://arxiv.org/abs/2410.01101)|null|
 |**2024-10-01**|**From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls**|Tomas Goldsack et.al.|[2410.01039](http://arxiv.org/abs/2410.01039)|null|
-|**2024-10-01**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011](http://arxiv.org/abs/2410.01011)|null|
+|**2024-10-03**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011](http://arxiv.org/abs/2410.01011)|null|
 |**2024-10-01**|**Fast-and-flexible decision-making with modulatory interactions**|Rodrigo Moreno-Morton et.al.|[2410.00798](http://arxiv.org/abs/2410.00798)|null|
 |**2024-10-01**|**LTLf Synthesis on First-Order Action Theories**|Till Hofmann et.al.|[2410.00726](http://arxiv.org/abs/2410.00726)|null|
 |**2024-10-01**|**Contrastive Abstraction for Reinforcement Learning**|Vihang Patil et.al.|[2410.00704](http://arxiv.org/abs/2410.00704)|null|
@@ -1063,7 +1063,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
