@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -53,7 +53,7 @@ layout: default
 |**2024-10-09**|**Fostering Intrinsic Motivation in Reinforcement Learning with Pretrained Foundation Models**|Alain Andres et.al.|[2410.07404](http://arxiv.org/abs/2410.07404)|null|
 |**2024-10-09**|**Structured Spatial Reasoning with Open Vocabulary Object Detectors**|Negar Nejatishahidin et.al.|[2410.07394](http://arxiv.org/abs/2410.07394)|null|
 |**2024-10-09**|**Generating Origin-Destination Matrices in Neural Spatial Interaction Models**|Ioannis Zachos et.al.|[2410.07352](http://arxiv.org/abs/2410.07352)|null|
-|**2024-10-09**|**DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models**|Yiming Huang et.al.|[2410.07331](http://arxiv.org/abs/2410.07331)|null|
+|**2024-10-11**|**DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models**|Yiming Huang et.al.|[2410.07331](http://arxiv.org/abs/2410.07331)|null|
 |**2024-10-09**|**How Social Network Structure Impacts the Ability of Zealots to Promote Weak Opinions**|Thomas Tunstall et.al.|[2410.07288](http://arxiv.org/abs/2410.07288)|null|
 |**2024-10-09**|**Crafting desirable climate trajectories with RL explored socio-environmental simulations**|James Rudd-Jones et.al.|[2410.07287](http://arxiv.org/abs/2410.07287)|**[link](https://github.com/JamesR-J/multi_agent_climate_pathways)**|
 |**2024-10-09**|**Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems**|Donghyun Lee et.al.|[2410.07283](http://arxiv.org/abs/2410.07283)|null|
@@ -103,7 +103,7 @@ layout: default
 |**2024-10-08**|**Listen to the Patient: Enhancing Medical Dialogue Generation with Patient Hallucination Detection and Mitigation**|Lang Qin et.al.|[2410.06094](http://arxiv.org/abs/2410.06094)|null|
 |**2024-10-08**|**Packing a Knapsack with Items Owned by Strategic Agents**|Javier Cembrano et.al.|[2410.06080](http://arxiv.org/abs/2410.06080)|null|
 |**2024-10-08**|**A note on existence and asymptotic behavior of Lagrangian equilibria for first-order optimal-exit mean field games**|Guilherme Mazanti et.al.|[2410.06073](http://arxiv.org/abs/2410.06073)|null|
-|**2024-10-08**|**Nationally Scalable Hydrogen Fueling Infrastructure Deployment: A Megaregion Analysis and Optimization Approach**|Vivek Sujan et.al.|[2410.06033](http://arxiv.org/abs/2410.06033)|null|
+|**2024-10-10**|**Nationally Scalable Hydrogen Fueling Infrastructure Deployment: A Megaregion Analysis and Optimization Approach**|Vivek Sujan et.al.|[2410.06033](http://arxiv.org/abs/2410.06033)|null|
 |**2024-10-08**|**Large Language Model Enhanced Text-to-SQL Generation: A Survey**|Xiaohu Zhu et.al.|[2410.06011](http://arxiv.org/abs/2410.06011)|null|
 |**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[2410.06007](http://arxiv.org/abs/2410.06007)|null|
 |**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|**[link](https://github.com/fudan-zvg/demo)**|
@@ -126,7 +126,7 @@ layout: default
 |**2024-10-07**|**Room-temperature decomposition of the ethaline deep eutectic solvent**|Julia H. Yang et.al.|[2410.05498](http://arxiv.org/abs/2410.05498)|null|
 |**2024-10-07**|**Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback**|Sanjiban Choudhury et.al.|[2410.05434](http://arxiv.org/abs/2410.05434)|null|
 |**2024-10-07**|**Diffusion Imitation from Observation**|Bo-Ruei Huang et.al.|[2410.05429](http://arxiv.org/abs/2410.05429)|null|
-|**2024-10-07**|**Designing a Classifier for Active Fire Detection from Multispectral Satellite Imagery Using Neural Architecture Search**|Amber Cassimon et.al.|[2410.05425](http://arxiv.org/abs/2410.05425)|null|
+|**2024-10-11**|**Designing a Classifier for Active Fire Detection from Multispectral Satellite Imagery Using Neural Architecture Search**|Amber Cassimon et.al.|[2410.05425](http://arxiv.org/abs/2410.05425)|null|
 |**2024-10-04**|**An Intelligent Native Network Slicing Security Architecture Empowered by Federated Learning**|Rodrigo Moreira et.al.|[2410.05312](http://arxiv.org/abs/2410.05312)|null|
 |**2024-10-03**|**AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs**|Xiaogeng Liu et.al.|[2410.05295](http://arxiv.org/abs/2410.05295)|**[link](https://github.com/safolab-wisc/autodan-turbo)**|
 |**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
