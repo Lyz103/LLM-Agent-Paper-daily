@@ -17,6 +17,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
+|**2024-10-11**|**From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts**|Zhuohao Jerry Zhang et.al.|[2410.09006](http://arxiv.org/abs/2410.09006)|null|
+|**2024-10-11**|**Cyclic jetting enables microbubble-mediated drug delivery**|Marco Cattaneo et.al.|[2410.08990](http://arxiv.org/abs/2410.08990)|null|
+|**2024-10-11**|**Best-of-Both-Worlds Fairness of the Envy-Cycle-Elimination Algorithm**|Jugal Garg et.al.|[2410.08986](http://arxiv.org/abs/2410.08986)|null|
+|**2024-10-11**|**Optimal Allocation with Peer Information**|Axel Niemeyer et.al.|[2410.08954](http://arxiv.org/abs/2410.08954)|null|
+|**2024-10-11**|**Transferable Belief Model on Quantum Circuits**|Qianli Zhou et.al.|[2410.08949](http://arxiv.org/abs/2410.08949)|null|
+|**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[2410.08948](http://arxiv.org/abs/2410.08948)|null|
+|**2024-10-11**|**Hyperspectral fluorescence imaging using a high-speed silicon photomultiplier array**|Chi Z. Huang et.al.|[2410.08936](http://arxiv.org/abs/2410.08936)|null|
+|**2024-10-11**|**MAD-TD: Model-Augmented Data stabilizes High Update Ratio RL**|Claas A Voelcker et.al.|[2410.08896](http://arxiv.org/abs/2410.08896)|null|
+|**2024-10-11**|**Conditional Generative Models for Contrast-Enhanced Synthesis of T1w and T1 Maps in Brain MRI**|Moritz Piening et.al.|[2410.08894](http://arxiv.org/abs/2410.08894)|null|
+|**2024-10-11**|**Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time**|Lorenzo Magnino et.al.|[2410.08850](http://arxiv.org/abs/2410.08850)|null|
+|**2024-10-11**|**Learning Spatial Bimanual Action Models Based on Affordance Regions and Human Demonstrations**|Björn S. Plonka et.al.|[2410.08848](http://arxiv.org/abs/2410.08848)|null|
+|**2024-10-11**|**SOLD: Reinforcement Learning with Slot Object-Centric Latent Dynamics**|Malte Mosbach et.al.|[2410.08822](http://arxiv.org/abs/2410.08822)|null|
+|**2024-10-11**|**F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents**|Yupeng Ren et.al.|[2410.08776](http://arxiv.org/abs/2410.08776)|null|
+|**2024-10-11**|**Unlocking FedNL: Self-Contained Compute-Optimized Implementation**|Konstantin Burlachenko et.al.|[2410.08760](http://arxiv.org/abs/2410.08760)|null|
+|**2024-10-11**|**Who should fight the spread of fake news?**|Diana Riazi et.al.|[2410.08753](http://arxiv.org/abs/2410.08753)|null|
+|**2024-10-11**|**Zero-Shot Offline Imitation Learning via Optimal Transport**|Thomas Rupf et.al.|[2410.08751](http://arxiv.org/abs/2410.08751)|null|
+|**2024-10-11**|**Last-iterate Convergence in Regularized Graphon Mean Field Game**|Jing Dong et.al.|[2410.08746](http://arxiv.org/abs/2410.08746)|null|
+|**2024-10-11**|**No Tick-Size Too Small: A General Method for Modelling Small Tick Limit Order Books**|Konark Jain et.al.|[2410.08744](http://arxiv.org/abs/2410.08744)|null|
+|**2024-10-11**|**Efficiently Scanning and Resampling Spatio-Temporal Tasks with Irregular Observations**|Bryce Ferenczi et.al.|[2410.08681](http://arxiv.org/abs/2410.08681)|null|
+|**2024-10-11**|**SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction**|Yang Zhou et.al.|[2410.08669](http://arxiv.org/abs/2410.08669)|**[link](https://github.com/youngzhou1999/smartpretrain)**|
+|**2024-10-11**|**RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process**|Peiran Wang et.al.|[2410.08660](http://arxiv.org/abs/2410.08660)|null|
+|**2024-10-11**|**FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots**|Clément Gaspard et.al.|[2410.08655](http://arxiv.org/abs/2410.08655)|null|
+|**2024-10-11**|**Edge AI Collaborative Learning: Bayesian Approaches to Uncertainty Estimation**|Gleb Radchenko et.al.|[2410.08651](http://arxiv.org/abs/2410.08651)|null|
+|**2024-10-11**|**Words as Beacons: Guiding RL Agents with High-Level Language Prompts**|Unai Ruiz-Gonzalez et.al.|[2410.08632](http://arxiv.org/abs/2410.08632)|null|
+|**2024-10-11**|**Making a Mess and Getting Away with it: Traveling Salesperson Problem with Circle Placement for Dubins Vehicles**|David Woller et.al.|[2410.08627](http://arxiv.org/abs/2410.08627)|null|
+|**2024-10-11**|**Derivation of macroscopic epidemic models from multi-agent systems**|Mattia Zanella et.al.|[2410.08610](http://arxiv.org/abs/2410.08610)|null|
+|**2024-10-11**|**What killed the cat? Towards a logical formalization of curiosity (and suspense, and surprise) in narratives**|Florence Dupin de Saint-Cyr et.al.|[2410.08597](http://arxiv.org/abs/2410.08597)|null|
+|**2024-10-11**|**DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention**|Nguyen Huu Bao Long et.al.|[2410.08582](http://arxiv.org/abs/2410.08582)|**[link](https://github.com/maclong01/DeBiFormer)**|
+|**2024-10-11**|**End-to-end design of multicolor scintillators for enhanced energy resolution in X-ray imaging**|Seokhwan Min et.al.|[2410.08543](http://arxiv.org/abs/2410.08543)|null|
+|**2024-10-11**|**Kaleidoscope: Learnable Masks for Heterogeneous Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2410.08540](http://arxiv.org/abs/2410.08540)|**[link](https://github.com/lxxxxr/kaleidoscope)**|
+|**2024-10-11**|**Aerial Vision-and-Language Navigation via Semantic-Topo-Metric Representation Guided LLM Reasoning**|Yunpeng Gao et.al.|[2410.08500](http://arxiv.org/abs/2410.08500)|null|
+|**2024-10-11**|**CAS-GAN for Contrast-free Angiography Synthesis**|De-Xing Huang et.al.|[2410.08490](http://arxiv.org/abs/2410.08490)|null|
+|**2024-10-11**|**Slow Convergence of Interacting Kalman Filters in Word-of-Mouth Social Learning**|Vikram Krishnamurthy et.al.|[2410.08447](http://arxiv.org/abs/2410.08447)|null|
+|**2024-10-11**|**Distributed Adaptive Consensus with Obstacle and Collision Avoidance for Networks of Heterogeneous Multi-Agent Systems**|Armel Koulong et.al.|[2410.08440](http://arxiv.org/abs/2410.08440)|null|
+|**2024-10-10**|**VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis**|Andrew Hoopes et.al.|[2410.08397](http://arxiv.org/abs/2410.08397)|null|
+|**2024-10-10**|**GUS-Net: Social Bias Classification in Text with Generalizations, Unfairness, and Stereotypes**|Maximus Powers et.al.|[2410.08388](http://arxiv.org/abs/2410.08388)|**[link](https://github.com/ethical-spectacle/fair-ly)**|
+|**2024-10-10**|**Dynamic task delegation for hierarchical agents**|Sophie Libkind et.al.|[2410.08373](http://arxiv.org/abs/2410.08373)|null|
+|**2024-10-10**|**ElasticTok: Adaptive Tokenization for Image and Video**|Wilson Yan et.al.|[2410.08368](http://arxiv.org/abs/2410.08368)|null|
+|**2024-10-10**|**Minimax Hypothesis Testing for the Bradley-Terry-Luce Model**|Anuran Makur et.al.|[2410.08360](http://arxiv.org/abs/2410.08360)|null|
+|**2024-10-10**|**Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations**|Henry Gasztowtt et.al.|[2410.08345](http://arxiv.org/abs/2410.08345)|**[link](https://github.com/hegasz/large-legislative-models)**|
+|**2024-10-10**|**Exploring Natural Language-Based Strategies for Efficient Number Learning in Children through Reinforcement Learning**|Tirthankar Mittra et.al.|[2410.08334](http://arxiv.org/abs/2410.08334)|null|
+|**2024-10-10**|**Agents Thinking Fast and Slow: A Talker-Reasoner Architecture**|Konstantina Christakopoulou et.al.|[2410.08328](http://arxiv.org/abs/2410.08328)|null|
 |**2024-10-10**|**Agent S: An Open Agentic Framework that Uses Computers Like a Human**|Saaket Agashe et.al.|[2410.08164](http://arxiv.org/abs/2410.08164)|**[link](https://github.com/simular-ai/agent-s)**|
 |**2024-10-10**|**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**|Yutong Wang et.al.|[2410.08143](http://arxiv.org/abs/2410.08143)|**[link](https://github.com/yutongwang1216/docmtagent)**|
 |**2024-10-10**|**SoundScape: A Human-AI Co-Creation System Making Your Memories Heard**|Chongjun Zhong et.al.|[2410.08136](http://arxiv.org/abs/2410.08136)|null|
