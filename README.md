@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -103,7 +103,7 @@
 |**2024-10-11**|**FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots**|Clément Gaspard et.al.|[2410.08655](http://arxiv.org/abs/2410.08655)|null|
 |**2024-10-11**|**Edge AI Collaborative Learning: Bayesian Approaches to Uncertainty Estimation**|Gleb Radchenko et.al.|[2410.08651](http://arxiv.org/abs/2410.08651)|null|
 |**2024-10-11**|**Words as Beacons: Guiding RL Agents with High-Level Language Prompts**|Unai Ruiz-Gonzalez et.al.|[2410.08632](http://arxiv.org/abs/2410.08632)|null|
-|**2024-10-11**|**Making a Mess and Getting Away with it: Traveling Salesperson Problem with Circle Placement for Dubins Vehicles**|David Woller et.al.|[2410.08627](http://arxiv.org/abs/2410.08627)|null|
+|**2024-10-15**|**Making a Complete Mess and Getting Away with it: Traveling Salesperson Problems with Circle Placement Variants**|David Woller et.al.|[2410.08627](http://arxiv.org/abs/2410.08627)|null|
 |**2024-10-11**|**Derivation of macroscopic epidemic models from multi-agent systems**|Mattia Zanella et.al.|[2410.08610](http://arxiv.org/abs/2410.08610)|null|
 |**2024-10-11**|**What killed the cat? Towards a logical formalization of curiosity (and suspense, and surprise) in narratives**|Florence Dupin de Saint-Cyr et.al.|[2410.08597](http://arxiv.org/abs/2410.08597)|null|
 |**2024-10-11**|**DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention**|Nguyen Huu Bao Long et.al.|[2410.08582](http://arxiv.org/abs/2410.08582)|**[link](https://github.com/maclong01/DeBiFormer)**|
@@ -180,7 +180,7 @@
 |**2024-10-09**|**Cooperate or Compete: Coalition Formation in Congestion Games**|Riya Sultana et.al.|[2410.06797](http://arxiv.org/abs/2410.06797)|null|
 |**2024-10-10**|**ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents**|Ido Levy et.al.|[2410.06703](http://arxiv.org/abs/2410.06703)|null|
 |**2024-10-09**|**Barter Exchange with Bounded Trading Cycles**|Yuval Emek et.al.|[2410.06683](http://arxiv.org/abs/2410.06683)|null|
-|**2024-10-09**|**M ${}^{3}$ Bench: Benchmarking Whole-body Motion Generation for Mobile Manipulation in 3D Scenes**|Zeyu Zhang et.al.|[2410.06678](http://arxiv.org/abs/2410.06678)|null|
+|**2024-10-15**|**M3Bench: Benchmarking Whole-body Motion Generation for Mobile Manipulation in 3D Scenes**|Zeyu Zhang et.al.|[2410.06678](http://arxiv.org/abs/2410.06678)|null|
 |**2024-10-09**|**Data-informed modeling of the formation, persistence, and evolution of social norms and conventions**|Mengbin Ye et.al.|[2410.06663](http://arxiv.org/abs/2410.06663)|null|
 |**2024-10-09**|**Variations in Multi-Agent Actor-Critic Frameworks for Joint Optimizations in UAV Swarm Networks: Recent Evolution, Challenges, and Directions**|Muhammad Morshed Alam et.al.|[2410.06627](http://arxiv.org/abs/2410.06627)|null|
 |**2024-10-09**|**Effective Exploration Based on the Structural Information Principles**|Xianghua Zeng et.al.|[2410.06621](http://arxiv.org/abs/2410.06621)|**[link](https://github.com/SELGroup/SI2E)**|
@@ -1360,7 +1360,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
