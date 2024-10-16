@@ -17,6 +17,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Molecular Quantum Control Algorithm Design by Reinforcement Learning**|Anastasia Pipi et.al.|[2410.11839](http://arxiv.org/abs/2410.11839)|null|
+|**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782](http://arxiv.org/abs/2410.11782)|null|
+|**2024-10-15**|**BlendRL: A Framework for Merging Symbolic and Neural Policy Learning**|Hikaru Shindo et.al.|[2410.11689](http://arxiv.org/abs/2410.11689)|null|
+|**2024-10-15**|**Optimal Mediation Mechanisms in Bilateral Trade**|Zhikang Fan et.al.|[2410.11683](http://arxiv.org/abs/2410.11683)|null|
+|**2024-10-15**|**Safety Filtering While Training: Improving the Performance and Sample Efficiency of Reinforcement Learning Agents**|Federico Pizarro Bejarano et.al.|[2410.11671](http://arxiv.org/abs/2410.11671)|**[link](https://github.com/federico-pizarrobejarano/safe-control-gym)**|
+|**2024-10-15**|**Markov-Nash equilibria in mean-field games under model uncertainty**|Johannes Langner et.al.|[2410.11652](http://arxiv.org/abs/2410.11652)|null|
+|**2024-10-15**|**Improve Value Estimation of Q Function and Reshape Reward with Monte Carlo Tree Search**|Jiamian Li et.al.|[2410.11642](http://arxiv.org/abs/2410.11642)|null|
+|**2024-10-15**|**Findings of the WMT 2024 Shared Task on Chat Translation**|Wafaa Mohammed et.al.|[2410.11624](http://arxiv.org/abs/2410.11624)|null|
+|**2024-10-15**|**Temporal Hyperproperties for Population Protocols**|Nicolas Waldburger et.al.|[2410.11572](http://arxiv.org/abs/2410.11572)|null|
+|**2024-10-15**|**Demo: Testing AI-driven MAC Learning in Autonomic Networks**|Leonard Paeleke et.al.|[2410.11565](http://arxiv.org/abs/2410.11565)|null|
+|**2024-10-15**|**AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data**|Xinjie Zhao et.al.|[2410.11531](http://arxiv.org/abs/2410.11531)|null|
+|**2024-10-15**|**Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs**|Wanying Wang et.al.|[2410.11507](http://arxiv.org/abs/2410.11507)|null|
+|**2024-10-15**|**Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement**|Zhi Wang et.al.|[2410.11448](http://arxiv.org/abs/2410.11448)|**[link](https://github.com/nju-rl/meta-dt)**|
+|**2024-10-15**|**Agent-Based Modelling of Older Adult Needs for Autonomous Mobility-on-Demand: A Case Study in Winnipeg, Canada**|Manon Prédhumeau et.al.|[2410.11416](http://arxiv.org/abs/2410.11416)|null|
+|**2024-10-15**|**A Case for AI Consciousness: Language Agents and Global Workspace Theory**|Simon Goldstein et.al.|[2410.11407](http://arxiv.org/abs/2410.11407)|null|
+|**2024-10-15**|**M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes**|Sixu Yan et.al.|[2410.11402](http://arxiv.org/abs/2410.11402)|null|
+|**2024-10-15**|**LLM2Swarm: Robot Swarms that Responsively Reason, Plan, and Collaborate through LLMs**|Volker Strobel et.al.|[2410.11387](http://arxiv.org/abs/2410.11387)|null|
+|**2024-10-15**|**Diffusion-Based Offline RL for Improved Decision-Making in Augmented ARC Task**|Yunho Kim et.al.|[2410.11324](http://arxiv.org/abs/2410.11324)|null|
+|**2024-10-15**|**Strategic and Fair Aggregator Interactions in Energy Markets: Mutli-agent Dynamics and Quasiconcave Games**|Jiayi Li et.al.|[2410.11296](http://arxiv.org/abs/2410.11296)|null|
+|**2024-10-15**|**Multi-Objective-Optimization Multi-AUV Assisted Data Collection Framework for IoUT Based on Offline Reinforcement Learning**|Yimian Ding et.al.|[2410.11282](http://arxiv.org/abs/2410.11282)|null|
+|**2024-10-15**|**Unveiling Options with Neural Decomposition**|Mahdi Alikhasi et.al.|[2410.11262](http://arxiv.org/abs/2410.11262)|null|
+|**2024-10-15**|**Rethinking the Role of Infrastructure in Collaborative Perception**|Hyunchul Bae et.al.|[2410.11259](http://arxiv.org/abs/2410.11259)|null|
+|**2024-10-15**|**Disentangled Unsupervised Skill Discovery for Efficient Hierarchical Reinforcement Learning**|Jiaheng Hu et.al.|[2410.11251](http://arxiv.org/abs/2410.11251)|null|
+|**2024-10-15**|**Learning Agents With Prioritization and Parameter Noise in Continuous State and Action Space**|Rajesh Mangannavar et.al.|[2410.11250](http://arxiv.org/abs/2410.11250)|null|
+|**2024-10-15**|**HR-Agent: A Task-Oriented Dialogue (TOD) LLM Agent Tailored for HR Applications**|Weijie Xu et.al.|[2410.11239](http://arxiv.org/abs/2410.11239)|null|
+|**2024-10-15**|**Biologically Inspired Swarm Dynamic Target Tracking and Obstacle Avoidance**|Lucas Page et.al.|[2410.11237](http://arxiv.org/abs/2410.11237)|null|
+|**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
+|**2024-10-15**|**Latent-Predictive Empowerment: Measuring Empowerment without a Simulator**|Andrew Levy et.al.|[2410.11155](http://arxiv.org/abs/2410.11155)|null|
+|**2024-10-14**|**Embodied Active Learning of Generative Sensor-Object Models**|Allison Pinosky et.al.|[2410.11130](http://arxiv.org/abs/2410.11130)|null|
+|**2024-10-14**|**SecCodePLT: A Unified Platform for Evaluating the Security of Code GenAI**|Yu Yang et.al.|[2410.11096](http://arxiv.org/abs/2410.11096)|null|
+|**2024-10-14**|**Action Gaps and Advantages in Continuous-Time Distributional Reinforcement Learning**|Harley Wiltzer et.al.|[2410.11022](http://arxiv.org/abs/2410.11022)|null|
+|**2024-10-14**|**Agent-as-a-Judge: Evaluate Agents with Agents**|Mingchen Zhuge et.al.|[2410.10934](http://arxiv.org/abs/2410.10934)|null|
 |**2024-10-14**|**AFlow: Automating Agentic Workflow Generation**|Jiayi Zhang et.al.|[2410.10762](http://arxiv.org/abs/2410.10762)|**[link](https://github.com/geekan/metagpt)**|
 |**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
 |**2024-10-14**|**DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model**|Yuqi Wang et.al.|[2410.10738](http://arxiv.org/abs/2410.10738)|null|
@@ -159,7 +191,7 @@
 |**2024-10-09**|**Learning responsibility allocations for multi-agent interactions: A differentiable optimization approach with control barrier functions**|Isaac Remy et.al.|[2410.07409](http://arxiv.org/abs/2410.07409)|null|
 |**2024-10-09**|**Fostering Intrinsic Motivation in Reinforcement Learning with Pretrained Foundation Models**|Alain Andres et.al.|[2410.07404](http://arxiv.org/abs/2410.07404)|null|
 |**2024-10-09**|**Structured Spatial Reasoning with Open Vocabulary Object Detectors**|Negar Nejatishahidin et.al.|[2410.07394](http://arxiv.org/abs/2410.07394)|null|
-|**2024-10-09**|**Generating Origin-Destination Matrices in Neural Spatial Interaction Models**|Ioannis Zachos et.al.|[2410.07352](http://arxiv.org/abs/2410.07352)|null|
+|**2024-10-09**|**Generating Origin-Destination Matrices in Neural Spatial Interaction Models**|Ioannis Zachos et.al.|[2410.07352](http://arxiv.org/abs/2410.07352)|**[link](https://github.com/YannisZa/GeNSIT)**|
 |**2024-10-11**|**DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models**|Yiming Huang et.al.|[2410.07331](http://arxiv.org/abs/2410.07331)|null|
 |**2024-10-09**|**How Social Network Structure Impacts the Ability of Zealots to Promote Weak Opinions**|Thomas Tunstall et.al.|[2410.07288](http://arxiv.org/abs/2410.07288)|null|
 |**2024-10-09**|**Crafting desirable climate trajectories with RL explored socio-environmental simulations**|James Rudd-Jones et.al.|[2410.07287](http://arxiv.org/abs/2410.07287)|**[link](https://github.com/JamesR-J/multi_agent_climate_pathways)**|
