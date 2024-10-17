@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -25,7 +25,7 @@ layout: default
 |**2024-10-15**|**Temporal Hyperproperties for Population Protocols**|Nicolas Waldburger et.al.|[2410.11572](http://arxiv.org/abs/2410.11572)|null|
 |**2024-10-15**|**Demo: Testing AI-driven MAC Learning in Autonomic Networks**|Leonard Paeleke et.al.|[2410.11565](http://arxiv.org/abs/2410.11565)|null|
 |**2024-10-15**|**AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data**|Xinjie Zhao et.al.|[2410.11531](http://arxiv.org/abs/2410.11531)|null|
-|**2024-10-15**|**Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs**|Wanying Wang et.al.|[2410.11507](http://arxiv.org/abs/2410.11507)|null|
+|**2024-10-16**|**Revisiting Benchmark and Assessment: An Agent-based Exploratory Dynamic Evaluation Framework for LLMs**|Wanying Wang et.al.|[2410.11507](http://arxiv.org/abs/2410.11507)|null|
 |**2024-10-15**|**Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement**|Zhi Wang et.al.|[2410.11448](http://arxiv.org/abs/2410.11448)|**[link](https://github.com/nju-rl/meta-dt)**|
 |**2024-10-15**|**Agent-Based Modelling of Older Adult Needs for Autonomous Mobility-on-Demand: A Case Study in Winnipeg, Canada**|Manon Prédhumeau et.al.|[2410.11416](http://arxiv.org/abs/2410.11416)|null|
 |**2024-10-15**|**A Case for AI Consciousness: Language Agents and Global Workspace Theory**|Simon Goldstein et.al.|[2410.11407](http://arxiv.org/abs/2410.11407)|null|
@@ -60,7 +60,7 @@ layout: default
 |**2024-10-14**|**Cooperative nonlinear distributed model predictive control with dissimilar control horizons**|Paula Chanfreut et.al.|[2410.10428](http://arxiv.org/abs/2410.10428)|null|
 |**2024-10-14**|**Coupled autoregressive active inference agents for control of multi-joint dynamical systems**|Tim N. Nisslbeck et.al.|[2410.10415](http://arxiv.org/abs/2410.10415)|**[link](https://github.com/biaslab/iwai2024-carxefe)**|
 |**2024-10-14**|**FairMindSim: Alignment of Behavior, Emotion, and Belief in Humans and LLM Agents Amid Ethical Dilemmas**|Yu Lei et.al.|[2410.10398](http://arxiv.org/abs/2410.10398)|null|
-|**2024-10-14**|**PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation**|Kaidong Zhang et.al.|[2410.10394](http://arxiv.org/abs/2410.10394)|null|
+|**2024-10-16**|**PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation**|Kaidong Zhang et.al.|[2410.10394](http://arxiv.org/abs/2410.10394)|null|
 |**2024-10-14**|**Augmenting In-Context-Learning in LLMs via Automatic Data Labeling and Refinement**|Joseph Shtok et.al.|[2410.10348](http://arxiv.org/abs/2410.10348)|null|
 |**2024-10-14**|**Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies**|Jiajie Yu et.al.|[2410.10212](http://arxiv.org/abs/2410.10212)|null|
 |**2024-10-14**|**Beyond-RAG: Question Identification and Answer Generation in Real-Time Conversations**|Garima Agrawal et.al.|[2410.10136](http://arxiv.org/abs/2410.10136)|null|
@@ -196,14 +196,14 @@ layout: default
 |**2024-10-09**|**Mitigation of gender bias in automatic facial non-verbal behaviors generation**|Alice Delbosc et.al.|[2410.07274](http://arxiv.org/abs/2410.07274)|null|
 |**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
 |**2024-10-09**|**Spatiotemporal Modeling and Forecasting at Scale with Dynamic Generalized Linear Models**|Pranay Pherwani et.al.|[2410.07161](http://arxiv.org/abs/2410.07161)|null|
-|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|**[link](https://github.com/mobs-fbk/llm_interaction_simulator)**|
+|**2024-10-16**|**I Want to Break Free! Persuasion and Anti-Social Behavior of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|**[link](https://github.com/mobs-fbk/llm_interaction_simulator)**|
 |**2024-10-13**|**Identifying and Addressing Delusions for Target-Directed Decision-Making**|Mingde Zhao et.al.|[2410.07096](http://arxiv.org/abs/2410.07096)|**[link](https://github.com/pwnerharry/delusions)**|
 |**2024-10-09**|**MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering**|Jun Shern Chan et.al.|[2410.07095](http://arxiv.org/abs/2410.07095)|**[link](https://github.com/openai/mle-bench)**|
 |**2024-10-10**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
 |**2024-10-12**|**MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses**|Zonglin Yang et.al.|[2410.07076](http://arxiv.org/abs/2410.07076)|**[link](https://github.com/ZonglinY/MOOSE-Chem)**|
 |**2024-10-09**|**Retrieval-Augmented Decision Transformer: External Memory for In-context RL**|Thomas Schmied et.al.|[2410.07071](http://arxiv.org/abs/2410.07071)|**[link](https://github.com/ml-jku/RA-DT)**|
 |**2024-10-09**|**Mechanism Design for Exchange Markets**|Yusen Zheng et.al.|[2410.07023](http://arxiv.org/abs/2410.07023)|null|
-|**2024-10-09**|**Seeker: Enhancing Exception Handling in Code with LLM-based Multi-Agent Approach**|Xuanming Zhang et.al.|[2410.06949](http://arxiv.org/abs/2410.06949)|**[link](https://github.com/XMZhangAI/Seeker)**|
+|**2024-10-16**|**Seeker: Enhancing Exception Handling in Code with LLM-based Multi-Agent Approach**|Xuanming Zhang et.al.|[2410.06949](http://arxiv.org/abs/2410.06949)|**[link](https://github.com/XMZhangAI/Seeker)**|
 |**2024-10-09**|**Reproducing and Extending Experiments in Behavioral Strategy with Large Language Models**|Daniel Albert et.al.|[2410.06932](http://arxiv.org/abs/2410.06932)|null|
 |**2024-10-09**|**Best-of-Both-Worlds Fair Allocation of Indivisible and Mixed Goods**|Xiaolin Bu et.al.|[2410.06877](http://arxiv.org/abs/2410.06877)|null|
 |**2024-10-09**|**Cooperate or Compete: Coalition Formation in Congestion Games**|Riya Sultana et.al.|[2410.06797](http://arxiv.org/abs/2410.06797)|null|
