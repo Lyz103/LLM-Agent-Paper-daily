@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,17 +28,17 @@
 |**2024-10-16**|**A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems**|Gregorio Marchesini et.al.|[2410.12563](http://arxiv.org/abs/2410.12563)|null|
 |**2024-10-16**|**Nash equilibria in scalar discrete-time linear quadratic games**|Giulio Salizzoni et.al.|[2410.12544](http://arxiv.org/abs/2410.12544)|null|
 |**2024-10-16**|**Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making**|Stelios Triantafyllou et.al.|[2410.12539](http://arxiv.org/abs/2410.12539)|null|
-|**2024-10-16**|**MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**|Jinjie Wei et.al.|[2410.12532](http://arxiv.org/abs/2410.12532)|null|
+|**2024-10-17**|**MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**|Jinjie Wei et.al.|[2410.12532](http://arxiv.org/abs/2410.12532)|null|
 |**2024-10-16**|**Zombie Epidemic -- on Modeling the Effect of Interventions**|Kaisa Ek et.al.|[2410.12502](http://arxiv.org/abs/2410.12502)|null|
 |**2024-10-16**|**Price impact and long-term profitability of energy storage**|Roxana Dumitrescu et.al.|[2410.12495](http://arxiv.org/abs/2410.12495)|null|
 |**2024-10-16**|**SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling**|Loris Gaven et.al.|[2410.12481](http://arxiv.org/abs/2410.12481)|null|
 |**2024-10-16**|**Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering**|Lu Shi et.al.|[2410.12475](http://arxiv.org/abs/2410.12475)|null|
 |**2024-10-16**|**Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios**|Zhi Chen et.al.|[2410.12468](http://arxiv.org/abs/2410.12468)|null|
-|**2024-10-16**|**Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning**|Qian Wang et.al.|[2410.12464](http://arxiv.org/abs/2410.12464)|null|
+|**2024-10-17**|**Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning**|Qian Wang et.al.|[2410.12464](http://arxiv.org/abs/2410.12464)|null|
 |**2024-10-16**|**Revealing the Barriers of Language Agents in Planning**|Jian Xie et.al.|[2410.12409](http://arxiv.org/abs/2410.12409)|null|
 |**2024-10-16**|**Corridor Generating Algorithm for Multi-Agent Pathfinding**|Arseniy Pertzovsky et.al.|[2410.12397](http://arxiv.org/abs/2410.12397)|null|
 |**2024-10-16**|**ShapefileGPT: A Multi-Agent Large Language Model Framework for Automated Shapefile Processing**|Qingming Lin et.al.|[2410.12376](http://arxiv.org/abs/2410.12376)|null|
-|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375](http://arxiv.org/abs/2410.12375)|null|
+|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375](http://arxiv.org/abs/2410.12375)|**[link](https://github.com/lamm-mit/PRefLexOR)**|
 |**2024-10-16**|**GAN Based Top-Down View Synthesis in Reinforcement Learning Environments**|Usama Younus et.al.|[2410.12372](http://arxiv.org/abs/2410.12372)|null|
 |**2024-10-16**|**Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance**|Yaxi Lu et.al.|[2410.12361](http://arxiv.org/abs/2410.12361)|null|
 |**2024-10-16**|**Guaranteeing MMS for All but One Agent When Allocating Indivisible Chores**|Jiawei Qiu et.al.|[2410.12347](http://arxiv.org/abs/2410.12347)|null|
@@ -91,7 +91,7 @@
 |**2024-10-14**|**Embodied Active Learning of Generative Sensor-Object Models**|Allison Pinosky et.al.|[2410.11130](http://arxiv.org/abs/2410.11130)|null|
 |**2024-10-14**|**SecCodePLT: A Unified Platform for Evaluating the Security of Code GenAI**|Yu Yang et.al.|[2410.11096](http://arxiv.org/abs/2410.11096)|null|
 |**2024-10-14**|**Action Gaps and Advantages in Continuous-Time Distributional Reinforcement Learning**|Harley Wiltzer et.al.|[2410.11022](http://arxiv.org/abs/2410.11022)|null|
-|**2024-10-14**|**Agent-as-a-Judge: Evaluate Agents with Agents**|Mingchen Zhuge et.al.|[2410.10934](http://arxiv.org/abs/2410.10934)|null|
+|**2024-10-16**|**Agent-as-a-Judge: Evaluate Agents with Agents**|Mingchen Zhuge et.al.|[2410.10934](http://arxiv.org/abs/2410.10934)|null|
 |**2024-10-14**|**AFlow: Automating Agentic Workflow Generation**|Jiayi Zhang et.al.|[2410.10762](http://arxiv.org/abs/2410.10762)|**[link](https://github.com/geekan/metagpt)**|
 |**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
 |**2024-10-14**|**DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model**|Yuqi Wang et.al.|[2410.10738](http://arxiv.org/abs/2410.10738)|null|
@@ -1435,7 +1435,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
