@@ -14,6 +14,53 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
+|**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
+|**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
+|**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
+|**2024-10-17**|**MobA: A Two-Level Agent System for Efficient Mobile Task Automation**|Zichen Zhu et.al.|[2410.13757](http://arxiv.org/abs/2410.13757)|null|
+|**2024-10-17**|**Interacting humans and robots can improve sensory prediction by adapting their viscoelasticity**|Xiaoxiao Cheng et.al.|[2410.13755](http://arxiv.org/abs/2410.13755)|null|
+|**2024-10-17**|**Real Eventual Exponential Positivity of Complex-valued Laplacians: Applications to Consensus in Multi-agent Systems**|Aditi Saxena et.al.|[2410.13700](http://arxiv.org/abs/2410.13700)|null|
+|**2024-10-17**|**ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization**|Xiutian Zhao et.al.|[2410.13667](http://arxiv.org/abs/2410.13667)|**[link](https://github.com/xiutian/orchid)**|
+|**2024-10-17**|**A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**|Siwei Wu et.al.|[2410.13639](http://arxiv.org/abs/2410.13639)|**[link](https://github.com/open-source-o1/o1_reasoning_patterns_study)**|
+|**2024-10-17**|**Phenotype structuring in collective cell migration:a tutorial of mathematical models and methods**|Tommaso Lorenzi et.al.|[2410.13629](http://arxiv.org/abs/2410.13629)|null|
+|**2024-10-17**|**Optimal MEV Extraction Using Absolute Commitments**|Daji Landis et.al.|[2410.13624](http://arxiv.org/abs/2410.13624)|null|
+|**2024-10-17**|**MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling**|Yakun Zhu et.al.|[2410.13610](http://arxiv.org/abs/2410.13610)|null|
+|**2024-10-17**|**EFX Exists for Three Types of Agents**|Vishwa Prakash H. V. et.al.|[2410.13580](http://arxiv.org/abs/2410.13580)|null|
+|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
+|**2024-10-17**|**Integrating Temporal Representations for Dynamic Memory Retrieval and Management in Large Language Models**|Yuki Hou et.al.|[2410.13553](http://arxiv.org/abs/2410.13553)|null|
+|**2024-10-17**|**Connect-while-in-range: modelling the impact of spatial constraints on dynamic communication network structures**|Niek Kerssies et.al.|[2410.13527](http://arxiv.org/abs/2410.13527)|**[link](https://github.com/niekkerssies/Range-model)**|
+|**2024-10-17**|**Contracting With a Reinforcement Learning Agent by Playing Trick or Treat**|Matteo Bollini et.al.|[2410.13520](http://arxiv.org/abs/2410.13520)|null|
+|**2024-10-17**|**RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards**|Xinze Li et.al.|[2410.13509](http://arxiv.org/abs/2410.13509)|**[link](https://github.com/openmatch/rag-ddr)**|
+|**2024-10-17**|**Integrating Large Language Models and Reinforcement Learning for Non-Linear Reasoning**|Yoav Alon et.al.|[2410.13501](http://arxiv.org/abs/2410.13501)|null|
+|**2024-10-17**|**Novelty-based Sample Reuse for Continuous Robotics Control**|Ke Duan et.al.|[2410.13490](http://arxiv.org/abs/2410.13490)|**[link](https://github.com/ppksigs/nsr_ddpg_her_for_manipulation)**|
+|**2024-10-17**|**Advocate -- Trustworthy Evidence in Cloud Systems**|Sebastian Werner et.al.|[2410.13477](http://arxiv.org/abs/2410.13477)|null|
+|**2024-10-17**|**Truncating Trajectories in Monte Carlo Policy Evaluation: an Adaptive Approach**|Riccardo Poiani et.al.|[2410.13463](http://arxiv.org/abs/2410.13463)|null|
+|**2024-10-17**|**Byzantine-Resilient Output Optimization of Multiagent via Self-Triggered Hybrid Detection Approach**|Chenhang Yan et.al.|[2410.13454](http://arxiv.org/abs/2410.13454)|null|
+|**2024-10-17**|**Cooperative Visual Convex Area Coverage using a Tessellation-free Strategy**|Sotiris Papatheodorou et.al.|[2410.13422](http://arxiv.org/abs/2410.13422)|null|
+|**2024-10-17**|**BestMan: A Modular Mobile Manipulator Platform for Embodied AI with Unified Simulation-Hardware APIs**|Kui Yang et.al.|[2410.13407](http://arxiv.org/abs/2410.13407)|null|
+|**2024-10-17**|**Metacognitive Monitoring: A Human Ability Beyond Generative Artificial Intelligence**|Markus Huff et.al.|[2410.13392](http://arxiv.org/abs/2410.13392)|null|
+|**2024-10-17**|**Graph Exploration: The Impact of a Distance Constraint**|Stéphane Devismes et.al.|[2410.13386](http://arxiv.org/abs/2410.13386)|null|
+|**2024-10-17**|**RescueADI: Adaptive Disaster Interpretation in Remote Sensing Images with Autonomous Agents**|Zhuoran Liu et.al.|[2410.13384](http://arxiv.org/abs/2410.13384)|null|
+|**2024-10-17**|**A modified Hegselmann-Krause model for interacting voters and political parties**|Patrick H. Cahill et.al.|[2410.13378](http://arxiv.org/abs/2410.13378)|null|
+|**2024-10-17**|**Assessing the techno-economic benefits of LEMs for different grid topologies and prosumer shares**|Markus Doepfert et.al.|[2410.13330](http://arxiv.org/abs/2410.13330)|null|
+|**2024-10-17**|**Active inference and deep generative modeling for cognitive ultrasound**|Ruud JG van Sloun et.al.|[2410.13310](http://arxiv.org/abs/2410.13310)|null|
+|**2024-10-17**|**Continuous agent-based modeling of adult-child pairs based on a pseudo-energy: Relevance for public safety and egress efficiency**|Chuan-Zhi Thomas Xie et.al.|[2410.13266](http://arxiv.org/abs/2410.13266)|null|
+|**2024-10-17**|**Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation**|Hyungjoo Chae et.al.|[2410.13232](http://arxiv.org/abs/2410.13232)|null|
+|**2024-10-17**|**Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents**|Long Li et.al.|[2410.13185](http://arxiv.org/abs/2410.13185)|null|
+|**2024-10-17**|**AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning**|Hao Sun et.al.|[2410.13181](http://arxiv.org/abs/2410.13181)|null|
+|**2024-10-17**|**A Selfish Herd with a Target**|Thomas Stemler et.al.|[2410.13167](http://arxiv.org/abs/2410.13167)|null|
+|**2024-10-17**|**Delegated portfolio management with random default**|Alberto Gennaro et.al.|[2410.13103](http://arxiv.org/abs/2410.13103)|null|
+|**2024-10-16**|**Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models**|Linhao Luo et.al.|[2410.13080](http://arxiv.org/abs/2410.13080)|**[link](https://github.com/RManLuo/graph-constrained-reasoning)**|
+|**2024-10-16**|**Systems with Switching Causal Relations: A Meta-Causal Perspective**|Moritz Willig et.al.|[2410.13054](http://arxiv.org/abs/2410.13054)|null|
+|**2024-10-16**|**Truthful High Dimensional Sparse Linear Regression**|Liyang Zhu et.al.|[2410.13046](http://arxiv.org/abs/2410.13046)|null|
+|**2024-10-16**|**Flex: End-to-End Text-Instructed Visual Navigation with Foundation Models**|Makram Chahine et.al.|[2410.13002](http://arxiv.org/abs/2410.13002)|null|
+|**2024-10-16**|**Reinforcement Learning with Euclidean Data Augmentation for State-Based Continuous Control**|Jinzhu Luo et.al.|[2410.12983](http://arxiv.org/abs/2410.12983)|**[link](https://github.com/jinzhuluo/euclideanda)**|
+|**2024-10-16**|**EF1 for Mixed Manna with Unequal Entitlements**|Jugal Garg et.al.|[2410.12966](http://arxiv.org/abs/2410.12966)|null|
+|**2024-10-16**|**Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning**|Mingyang Chen et.al.|[2410.12952](http://arxiv.org/abs/2410.12952)|null|
+|**2024-10-16**|**Using Protected Attributes to Consider Fairness in Multi-Agent Systems**|Gabriele La Malfa et.al.|[2410.12889](http://arxiv.org/abs/2410.12889)|null|
+|**2024-10-13**|**IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery**|Agasthya Gangavarapu et.al.|[2410.12868](http://arxiv.org/abs/2410.12868)|null|
+|**2024-10-11**|**JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework**|Fan Liu et.al.|[2410.12855](http://arxiv.org/abs/2410.12855)|null|
 |**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784](http://arxiv.org/abs/2410.12784)|null|
 |**2024-10-16**|**Prophet Upper Bounds for Online Matching and Auctions**|José Soto et.al.|[2410.12756](http://arxiv.org/abs/2410.12756)|null|
 |**2024-10-16**|**HEnRY: A Multi-Agent System Framework for Multi-Domain Contexts**|Emmanuele Lacavalla et.al.|[2410.12720](http://arxiv.org/abs/2410.12720)|**[link](https://github.com/2mmanu/henry)**|
@@ -29,7 +76,7 @@ layout: default
 |**2024-10-16**|**Zombie Epidemic -- on Modeling the Effect of Interventions**|Kaisa Ek et.al.|[2410.12502](http://arxiv.org/abs/2410.12502)|null|
 |**2024-10-16**|**Price impact and long-term profitability of energy storage**|Roxana Dumitrescu et.al.|[2410.12495](http://arxiv.org/abs/2410.12495)|null|
 |**2024-10-16**|**SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling**|Loris Gaven et.al.|[2410.12481](http://arxiv.org/abs/2410.12481)|null|
-|**2024-10-16**|**Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering**|Lu Shi et.al.|[2410.12475](http://arxiv.org/abs/2410.12475)|null|
+|**2024-10-17**|**Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering**|Lu Shi et.al.|[2410.12475](http://arxiv.org/abs/2410.12475)|null|
 |**2024-10-16**|**Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios**|Zhi Chen et.al.|[2410.12468](http://arxiv.org/abs/2410.12468)|null|
 |**2024-10-17**|**Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning**|Qian Wang et.al.|[2410.12464](http://arxiv.org/abs/2410.12464)|null|
 |**2024-10-16**|**Revealing the Barriers of Language Agents in Planning**|Jian Xie et.al.|[2410.12409](http://arxiv.org/abs/2410.12409)|null|
@@ -47,7 +94,7 @@ layout: default
 |**2024-10-16**|**Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay**|Yuyang Chen et.al.|[2410.12236](http://arxiv.org/abs/2410.12236)|null|
 |**2024-10-16**|**Improving the Generalization of Unseen Crowd Behaviors for Reinforcement Learning based Local Motion Planners**|Wen Zheng Terence Ng et.al.|[2410.12232](http://arxiv.org/abs/2410.12232)|null|
 |**2024-10-16**|**Potential-Based Intrinsic Motivation: Preserving Optimality With Complex, Non-Markovian Shaping Rewards**|Grant C. Forbes et.al.|[2410.12197](http://arxiv.org/abs/2410.12197)|null|
-|**2024-10-16**|**DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing**|Shreya Shankar et.al.|[2410.12189](http://arxiv.org/abs/2410.12189)|null|
+|**2024-10-16**|**DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing**|Shreya Shankar et.al.|[2410.12189](http://arxiv.org/abs/2410.12189)|**[link](https://github.com/ucbepic/docetl)**|
 |**2024-10-16**|**TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration**|Yiwei Guo et.al.|[2410.12183](http://arxiv.org/abs/2410.12183)|null|
 |**2024-10-16**|**Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**|Kui Wang et.al.|[2410.12163](http://arxiv.org/abs/2410.12163)|null|
 |**2024-10-15**|**The Moral Case for Using Language Model Agents for Recommendation**|Seth Lazar et.al.|[2410.12123](http://arxiv.org/abs/2410.12123)|null|
@@ -88,7 +135,7 @@ layout: default
 |**2024-10-14**|**Embodied Active Learning of Generative Sensor-Object Models**|Allison Pinosky et.al.|[2410.11130](http://arxiv.org/abs/2410.11130)|null|
 |**2024-10-14**|**SecCodePLT: A Unified Platform for Evaluating the Security of Code GenAI**|Yu Yang et.al.|[2410.11096](http://arxiv.org/abs/2410.11096)|null|
 |**2024-10-14**|**Action Gaps and Advantages in Continuous-Time Distributional Reinforcement Learning**|Harley Wiltzer et.al.|[2410.11022](http://arxiv.org/abs/2410.11022)|null|
-|**2024-10-16**|**Agent-as-a-Judge: Evaluate Agents with Agents**|Mingchen Zhuge et.al.|[2410.10934](http://arxiv.org/abs/2410.10934)|null|
+|**2024-10-16**|**Agent-as-a-Judge: Evaluate Agents with Agents**|Mingchen Zhuge et.al.|[2410.10934](http://arxiv.org/abs/2410.10934)|**[link](https://github.com/metauto-ai/agent-as-a-judge)**|
 |**2024-10-14**|**AFlow: Automating Agentic Workflow Generation**|Jiayi Zhang et.al.|[2410.10762](http://arxiv.org/abs/2410.10762)|**[link](https://github.com/geekan/metagpt)**|
 |**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
 |**2024-10-14**|**DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model**|Yuqi Wang et.al.|[2410.10738](http://arxiv.org/abs/2410.10738)|null|
@@ -102,7 +149,7 @@ layout: default
 |**2024-10-14**|**Routing on Sparse Graphs with Non-metric Costs for the Prize-collecting Travelling Salesperson Problem**|Patrick O'Hara et.al.|[2410.10440](http://arxiv.org/abs/2410.10440)|null|
 |**2024-10-14**|**Cooperative nonlinear distributed model predictive control with dissimilar control horizons**|Paula Chanfreut et.al.|[2410.10428](http://arxiv.org/abs/2410.10428)|null|
 |**2024-10-14**|**Coupled autoregressive active inference agents for control of multi-joint dynamical systems**|Tim N. Nisslbeck et.al.|[2410.10415](http://arxiv.org/abs/2410.10415)|**[link](https://github.com/biaslab/iwai2024-carxefe)**|
-|**2024-10-14**|**FairMindSim: Alignment of Behavior, Emotion, and Belief in Humans and LLM Agents Amid Ethical Dilemmas**|Yu Lei et.al.|[2410.10398](http://arxiv.org/abs/2410.10398)|null|
+|**2024-10-17**|**FairMindSim: Alignment of Behavior, Emotion, and Belief in Humans and LLM Agents Amid Ethical Dilemmas**|Yu Lei et.al.|[2410.10398](http://arxiv.org/abs/2410.10398)|null|
 |**2024-10-16**|**PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation**|Kaidong Zhang et.al.|[2410.10394](http://arxiv.org/abs/2410.10394)|null|
 |**2024-10-14**|**Augmenting In-Context-Learning in LLMs via Automatic Data Labeling and Refinement**|Joseph Shtok et.al.|[2410.10348](http://arxiv.org/abs/2410.10348)|null|
 |**2024-10-14**|**Large Language Model-Enhanced Reinforcement Learning for Generic Bus Holding Control Strategies**|Jiajie Yu et.al.|[2410.10212](http://arxiv.org/abs/2410.10212)|null|
@@ -155,7 +202,7 @@ layout: default
 |**2024-10-11**|**Cyclic jetting enables microbubble-mediated drug delivery**|Marco Cattaneo et.al.|[2410.08990](http://arxiv.org/abs/2410.08990)|null|
 |**2024-10-11**|**Best-of-Both-Worlds Fairness of the Envy-Cycle-Elimination Algorithm**|Jugal Garg et.al.|[2410.08986](http://arxiv.org/abs/2410.08986)|null|
 |**2024-10-11**|**Optimal Allocation with Peer Information**|Axel Niemeyer et.al.|[2410.08954](http://arxiv.org/abs/2410.08954)|null|
-|**2024-10-11**|**Transferable Belief Model on Quantum Circuits**|Qianli Zhou et.al.|[2410.08949](http://arxiv.org/abs/2410.08949)|null|
+|**2024-10-17**|**Transferable Belief Model on Quantum Circuits**|Qianli Zhou et.al.|[2410.08949](http://arxiv.org/abs/2410.08949)|null|
 |**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[2410.08948](http://arxiv.org/abs/2410.08948)|null|
 |**2024-10-11**|**Hyperspectral fluorescence imaging using a high-speed silicon photomultiplier array**|Chi Z. Huang et.al.|[2410.08936](http://arxiv.org/abs/2410.08936)|null|
 |**2024-10-11**|**MAD-TD: Model-Augmented Data stabilizes High Update Ratio RL**|Claas A Voelcker et.al.|[2410.08896](http://arxiv.org/abs/2410.08896)|null|
