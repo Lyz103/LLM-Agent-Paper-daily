@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.18
+## Updated on 2024.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -146,7 +146,7 @@ layout: default
 |**2024-10-14**|**STACKFEED: Structured Textual Actor-Critic Knowledge Base Editing with FeedBack**|Naman Gupta et.al.|[2410.10584](http://arxiv.org/abs/2410.10584)|null|
 |**2024-10-14**|**Consensus in Multiagent Systems with lack of connection**|Mohamed Bentaibi et.al.|[2410.10486](http://arxiv.org/abs/2410.10486)|null|
 |**2024-10-14**|**Compositional Shielding and Reinforcement Learning for Multi-Agent Systems**|Asger Horn Brorholt et.al.|[2410.10460](http://arxiv.org/abs/2410.10460)|null|
-|**2024-10-14**|**Routing on Sparse Graphs with Non-metric Costs for the Prize-collecting Travelling Salesperson Problem**|Patrick O'Hara et.al.|[2410.10440](http://arxiv.org/abs/2410.10440)|null|
+|**2024-10-14**|**Routing on Sparse Graphs with Non-metric Costs for the Prize-collecting Travelling Salesperson Problem**|Patrick O'Hara et.al.|[2410.10440](http://arxiv.org/abs/2410.10440)|**[link](https://github.com/PatrickOHara/pctsp)**|
 |**2024-10-14**|**Cooperative nonlinear distributed model predictive control with dissimilar control horizons**|Paula Chanfreut et.al.|[2410.10428](http://arxiv.org/abs/2410.10428)|null|
 |**2024-10-14**|**Coupled autoregressive active inference agents for control of multi-joint dynamical systems**|Tim N. Nisslbeck et.al.|[2410.10415](http://arxiv.org/abs/2410.10415)|**[link](https://github.com/biaslab/iwai2024-carxefe)**|
 |**2024-10-17**|**FairMindSim: Alignment of Behavior, Emotion, and Belief in Humans and LLM Agents Amid Ethical Dilemmas**|Yu Lei et.al.|[2410.10398](http://arxiv.org/abs/2410.10398)|null|
