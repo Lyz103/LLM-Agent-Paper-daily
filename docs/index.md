@@ -193,9 +193,9 @@ layout: default
 |**2024-10-11**|**SoK: Verifiable Cross-Silo FL**|Aleksei Korneev et.al.|[2410.09124](http://arxiv.org/abs/2410.09124)|null|
 |**2024-10-10**|**REDO: Execution-Free Runtime Error Detection for COding Agents**|Shou Li et.al.|[2410.09117](http://arxiv.org/abs/2410.09117)|null|
 |**2024-10-10**|**Catastrophic Cyber Capabilities Benchmark (3CB): Robustly Evaluating LLM Agent Cyber Offense Capabilities**|Andrey Anurin et.al.|[2410.09114](http://arxiv.org/abs/2410.09114)|null|
-|**2024-10-10**|**HLM-Cite: Hybrid Language Model Workflow for Text-based Scientific Citation Prediction**|Qianyue Hao et.al.|[2410.09112](http://arxiv.org/abs/2410.09112)|null|
+|**2024-10-10**|**HLM-Cite: Hybrid Language Model Workflow for Text-based Scientific Citation Prediction**|Qianyue Hao et.al.|[2410.09112](http://arxiv.org/abs/2410.09112)|**[link](https://github.com/tsinghua-fib-lab/H-LM)**|
 |**2024-10-10**|**Federated Learning for Data Market: Shapley-UCB for Seller Selection and Incentives**|Kongyang Chen et.al.|[2410.09107](http://arxiv.org/abs/2410.09107)|null|
-|**2024-10-09**|**Adaptive Active Inference Agents for Heterogeneous and Lifelong Federated Learning**|Anastasiya Danilenka et.al.|[2410.09099](http://arxiv.org/abs/2410.09099)|null|
+|**2024-10-09**|**Adaptive Active Inference Agents for Heterogeneous and Lifelong Federated Learning**|Anastasiya Danilenka et.al.|[2410.09099](http://arxiv.org/abs/2410.09099)|**[link](https://github.com/adanilenka/adaptive_aif_agents_for_fl)**|
 |**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
 |**2024-10-14**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
 |**2024-10-11**|**From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts**|Zhuohao Jerry Zhang et.al.|[2410.09006](http://arxiv.org/abs/2410.09006)|null|
@@ -254,7 +254,7 @@ layout: default
 |**2024-10-10**|**Variational Inequality Methods for Multi-Agent Reinforcement Learning: Performance and Stability Gains**|Baraah A. M. Sidahmed et.al.|[2410.07976](http://arxiv.org/abs/2410.07976)|null|
 |**2024-10-10**|**Dynamic Programming based Local Search approaches for Multi-Agent Path Finding problems on Directed Graphs**|Irene Saccani et.al.|[2410.07954](http://arxiv.org/abs/2410.07954)|null|
 |**2024-10-10**|**Meta-Learning Integration in Hierarchical Reinforcement Learning for Advanced Task Complexity**|Arash Khajooeinejad et.al.|[2410.07921](http://arxiv.org/abs/2410.07921)|**[link](https://github.com/Arashkhajooei/Meta-Learning-Integration-in-Hierarchical-Reinforcement-Learning-for-Advanced-Task-Complexity)**|
-|**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869](http://arxiv.org/abs/2410.07869)|null|
+|**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869](http://arxiv.org/abs/2410.07869)|**[link](https://github.com/zjunlp/worfbench)**|
 |**2024-10-10**|**Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games**|Fanqi Kong et.al.|[2410.07863](http://arxiv.org/abs/2410.07863)|null|
 |**2024-10-10**|**SwarmPath: Drone Swarm Navigation through Cluttered Environments Leveraging Artificial Potential Field and Impedance Control**|Roohan Ahmed Khan et.al.|[2410.07848](http://arxiv.org/abs/2410.07848)|null|
 |**2024-10-13**|**Masked Generative Priors Improve World Models Sequence Modelling Capabilities**|Cristian Meo et.al.|[2410.07836](http://arxiv.org/abs/2410.07836)|null|
@@ -435,7 +435,7 @@ layout: default
 |**2024-09-27**|**DANA: Domain-Aware Neurosymbolic Agents for Consistency and Accuracy**|Vinh Luong et.al.|[2410.02823](http://arxiv.org/abs/2410.02823)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-03**|**Grounding Large Language Models In Embodied Environment With Imperfect World Models**|Haolan Liu et.al.|[2410.02742](http://arxiv.org/abs/2410.02742)|null|
-|**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|null|
+|**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|**[link](https://github.com/zhaowei-wang-nlp/divscene)**|
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721](http://arxiv.org/abs/2410.02721)|null|
 |**2024-10-03**|**Grounded Answers for Multi-agent Decision-making Problem through Generative World Model**|Zeyang Liu et.al.|[2410.02664](http://arxiv.org/abs/2410.02664)|null|
 |**2024-10-03**|**Undesirable Memorization in Large Language Models: A Survey**|Ali Satvaty et.al.|[2410.02650](http://arxiv.org/abs/2410.02650)|null|
@@ -985,8 +985,8 @@ layout: default
 |**2024-09-11**|**Policy consequences of the new neuroeconomic framework**|A. David Redish et.al.|[2409.07373](http://arxiv.org/abs/2409.07373)|null|
 |**2024-09-11**|**Online Decision MetaMorphFormer: A Casual Transformer-Based Reinforcement Learning Framework of Universal Embodied Intelligence**|Luo Ji et.al.|[2409.07341](http://arxiv.org/abs/2409.07341)|null|
 |**2024-09-11**|**Explanation, Debate, Align: A Weak-to-Strong Framework for Language Model Generalization**|Mehrdad Zakershahrak et.al.|[2409.07335](http://arxiv.org/abs/2409.07335)|null|
-|**2024-09-11**|**Using Generative Agents to Create Tip Sheets for Investigative Data Reporting**|Joris Veerbeek et.al.|[2409.07286](http://arxiv.org/abs/2409.07286)|null|
-|**2024-09-11**|**Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences**|Ziang Liu et.al.|[2409.07268](http://arxiv.org/abs/2409.07268)|null|
+|**2024-09-11**|**Using Generative Agents to Create Tip Sheets for Investigative Data Reporting**|Joris Veerbeek et.al.|[2409.07286](http://arxiv.org/abs/2409.07286)|**[link](https://github.com/veerbeek/agents)**|
+|**2024-09-11**|**Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences**|Ziang Liu et.al.|[2409.07268](http://arxiv.org/abs/2409.07268)|**[link](https://github.com/feicuilengmmbb/paper_mtpl)**|
 |**2024-09-11**|**Cross-Dialect Text-To-Speech in Pitch-Accent Language Incorporating Multi-Dialect Phoneme-Level BERT**|Kazuki Yamauchi et.al.|[2409.07265](http://arxiv.org/abs/2409.07265)|null|
 |**2024-09-11**|**Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs**|Firoj Alam et.al.|[2409.07246](http://arxiv.org/abs/2409.07246)|null|
 |**2024-09-11**|**A Perspective on AI-Guided Molecular Simulations in VR: Exploring Strategies for Imitation Learning in Hyperdimensional Molecular Systems**|Mohamed Dhouioui et.al.|[2409.07189](http://arxiv.org/abs/2409.07189)|null|
@@ -1238,7 +1238,7 @@ layout: default
 |**2024-08-28**|**Retrieval-Augmented Instruction Tuning for Automated Process Engineering Calculations : A Tool-Chaining Problem-Solving Framework with Attributable Reflection**|Sagar Srinivas Sakhinana et.al.|[2408.15866](http://arxiv.org/abs/2408.15866)|null|
 |**2024-08-28**|**FlowAct: A Proactive Multimodal Human-robot Interaction System with Continuous Flow of Perception and Modular Action Sub-systems**|Timothée Dhaussy et.al.|[2408.15864](http://arxiv.org/abs/2408.15864)|null|
 |**2024-08-28**|**Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions**|Huachuan Qiu et.al.|[2408.15787](http://arxiv.org/abs/2408.15787)|**[link](https://github.com/qiuhuachuan/interactive-agents)**|
-|**2024-09-05**|**LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models**|Jiayi Gui et.al.|[2408.15778](http://arxiv.org/abs/2408.15778)|null|
+|**2024-09-05**|**LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models**|Jiayi Gui et.al.|[2408.15778](http://arxiv.org/abs/2408.15778)|**[link](https://github.com/hypatiaalegra/logicgame-data)**|
 |**2024-08-28**|**A Survey on Evaluation of Multimodal Large Language Models**|Jiaxing Huang et.al.|[2408.15769](http://arxiv.org/abs/2408.15769)|null|
 |**2024-08-28**|**Evaluating and Comparing Crowd Simulations: Perspectives from a Crowd Authoring Tool**|Gabriel Fonseca Silva et.al.|[2408.15762](http://arxiv.org/abs/2408.15762)|null|
 |**2024-09-01**|**Reinforcement Learning for Adaptive Traffic Signal Control: Turn-Based and Time-Based Approaches to Reduce Congestion**|Muhammad Tahir Rafique et.al.|[2408.15751](http://arxiv.org/abs/2408.15751)|null|
