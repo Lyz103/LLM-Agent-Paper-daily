@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-10-21**|**Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**|Ryan Li et.al.|[2410.16232](http://arxiv.org/abs/2410.16232)|null|
 |**2024-10-21**|**Role of obstacle softness in the diffusive behavior of active Particles**|Ankit Gupta et.al.|[2410.16223](http://arxiv.org/abs/2410.16223)|null|
 |**2024-10-21**|**CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning**|Kumar Manas et.al.|[2410.16207](http://arxiv.org/abs/2410.16207)|null|
-|**2024-10-21**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[2410.16197](http://arxiv.org/abs/2410.16197)|null|
+|**2024-10-22**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[2410.16197](http://arxiv.org/abs/2410.16197)|null|
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175](http://arxiv.org/abs/2410.16175)|null|
 |**2024-10-21**|**A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns**|Tianyi Men et.al.|[2410.16155](http://arxiv.org/abs/2410.16155)|null|
 |**2024-10-21**|**AdChain: Decentralized Header Bidding**|Behkish Nassirzadeh et.al.|[2410.16141](http://arxiv.org/abs/2410.16141)|null|
@@ -37,7 +37,7 @@
 |**2024-10-21**|**FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL**|Woosung Koh et.al.|[2410.15876](http://arxiv.org/abs/2410.15876)|null|
 |**2024-10-21**|**Towards Efficient Collaboration via Graph Modeling in Reinforcement Learning**|Wenzhe Fan et.al.|[2410.15841](http://arxiv.org/abs/2410.15841)|null|
 |**2024-10-21**|**Long-distance Geomagnetic Navigation in GNSS-denied Environments with Deep Reinforcement Learning**|Wenqi Bai et.al.|[2410.15837](http://arxiv.org/abs/2410.15837)|null|
-|**2024-10-21**|**Three connected problems: principal with multiple agents in cooperation, Principal--Agent with Mckean--Vlasov dynamics and multitask Principal--Agent**|Mao Fabrice Djete et.al.|[2410.15818](http://arxiv.org/abs/2410.15818)|null|
+|**2024-10-22**|**Three connected problems: principal with multiple agents in cooperation, Principal--Agent with Mckean--Vlasov dynamics and multitask Principal--Agent**|Mao Fabrice Djete et.al.|[2410.15818](http://arxiv.org/abs/2410.15818)|null|
 |**2024-10-21**|**A Fair Allocation is Approximately Optimal for Indivisible Chores, or Is It?**|Bo Li et.al.|[2410.15738](http://arxiv.org/abs/2410.15738)|null|
 |**2024-10-21**|**Two-stage Learning-to-Defer for Multi-Task Learning**|Montreuil Yannis et.al.|[2410.15729](http://arxiv.org/abs/2410.15729)|null|
 |**2024-10-21**|**Hierarchical Search-Based Cooperative Motion Planning**|Yuchen Wu et.al.|[2410.15710](http://arxiv.org/abs/2410.15710)|null|
@@ -87,8 +87,8 @@
 |**2024-10-19**|**MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning**|Suning Huang et.al.|[2410.14972](http://arxiv.org/abs/2410.14972)|null|
 |**2024-10-19**|**Optimizing Individualized Incentives from Grid Measurements and Limited Knowledge of Agent Behavior**|Adam Lechowicz et.al.|[2410.14936](http://arxiv.org/abs/2410.14936)|null|
 |**2024-10-19**|**Hierarchical Reinforced Trader (HRT): A Bi-Level Approach for Optimizing Stock Selection and Execution**|Zijie Zhao et.al.|[2410.14927](http://arxiv.org/abs/2410.14927)|null|
-|**2024-10-19**|**Imprompter: Tricking LLM Agents into Improper Tool Use**|Xiaohan Fu et.al.|[2410.14923](http://arxiv.org/abs/2410.14923)|**[link](https://github.com/Reapor-Yurnero/imprompter)**|
-|**2024-10-19**|**Cooperation and Fairness in Multi-Agent Reinforcement Learning**|Jasmine Jerry Aloor et.al.|[2410.14916](http://arxiv.org/abs/2410.14916)|null|
+|**2024-10-22**|**Imprompter: Tricking LLM Agents into Improper Tool Use**|Xiaohan Fu et.al.|[2410.14923](http://arxiv.org/abs/2410.14923)|**[link](https://github.com/Reapor-Yurnero/imprompter)**|
+|**2024-10-19**|**Cooperation and Fairness in Multi-Agent Reinforcement Learning**|Jasmine Jerry Aloor et.al.|[2410.14916](http://arxiv.org/abs/2410.14916)|**[link](https://github.com/Jaroan/Fair-MARL)**|
 |**2024-10-19**|**ReeFRAME: Reeb Graph based Trajectory Analysis Framework to Capture Top-Down and Bottom-Up Patterns of Life**|Chandrakanth Gudavalli et.al.|[2410.14913](http://arxiv.org/abs/2410.14913)|null|
 |**2024-10-18**|**Reasoning, Memorization, and Fine-Tuning Language Models for Non-Cooperative Games**|Yunhao Yang et.al.|[2410.14890](http://arxiv.org/abs/2410.14890)|null|
 |**2024-10-18**|**DFlow: Diverse Dialogue Flow Simulation with Large Language Models**|Wanyu Du et.al.|[2410.14853](http://arxiv.org/abs/2410.14853)|null|
@@ -119,7 +119,7 @@
 |**2024-10-18**|**Game Theory with Simulation in the Presence of Unpredictable Randomisation**|Vojtech Kovarik et.al.|[2410.14311](http://arxiv.org/abs/2410.14311)|null|
 |**2024-10-18**|**Envy-Free and Efficient Allocations for Graphical Valuations**|Neeldhara Misra et.al.|[2410.14272](http://arxiv.org/abs/2410.14272)|null|
 |**2024-10-18**|**Error Decomposition for Hybrid Localization Systems**|Benedict Flade et.al.|[2410.14264](http://arxiv.org/abs/2410.14264)|null|
-|**2024-10-18**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Edward et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
+|**2024-10-22**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Ted Kwartler et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
 |**2024-10-18**|**Harmony: A Home Agent for Responsive Management and Action Optimization with a Locally Deployed Large Language Model**|Ziqi Yin et.al.|[2410.14252](http://arxiv.org/abs/2410.14252)|null|
 |**2024-10-18**|**Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation**|Shuo Tang et.al.|[2410.14251](http://arxiv.org/abs/2410.14251)|null|
 |**2024-10-18**|**Vision-Language Navigation with Energy-Based Policy**|Rui Liu et.al.|[2410.14250](http://arxiv.org/abs/2410.14250)|null|
@@ -1609,7 +1609,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
