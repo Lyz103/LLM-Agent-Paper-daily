@@ -17,6 +17,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
+|**2024-10-23**|**The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**|Raman Ebrahimi et.al.|[2410.18066](http://arxiv.org/abs/2410.18066)|null|
+|**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
+|**2024-10-23**|**A Comparative Assessment of Technology Acceptance and Learning Outcomes in Computer-based versus VR-based Pedagogical Agents**|Aimilios Hadjiliasi et.al.|[2410.18048](http://arxiv.org/abs/2410.18048)|null|
+|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032](http://arxiv.org/abs/2410.18032)|**[link](https://github.com/bupt-gamma/graphteam)**|
+|**2024-10-23**|**MiniFed : Integrating LLM-based Agentic-Workflow for Simulating FOMC Meeting**|Sungil Seok et.al.|[2410.18012](http://arxiv.org/abs/2410.18012)|null|
+|**2024-10-23**|**Dynamic models of gentrification**|Giovanni Mauro et.al.|[2410.18004](http://arxiv.org/abs/2410.18004)|null|
+|**2024-10-23**|**POMDP-Driven Cognitive Massive MIMO Radar: Joint Target Detection-Tracking In Unknown Disturbances**|Imad Bouhou et.al.|[2410.17967](http://arxiv.org/abs/2410.17967)|null|
+|**2024-10-23**|**On Regularity and Normalization in Sequential Screening**|Ian Ball et.al.|[2410.17962](http://arxiv.org/abs/2410.17962)|null|
+|**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|null|
+|**2024-10-23**|**Reinforcement Learning under Latent Dynamics: Toward Statistical and Algorithmic Modularity**|Philip Amortila et.al.|[2410.17904](http://arxiv.org/abs/2410.17904)|null|
+|**2024-10-23**|**Scalable Offline Reinforcement Learning for Mean Field Games**|Axel Brunnbauer et.al.|[2410.17898](http://arxiv.org/abs/2410.17898)|null|
+|**2024-10-23**|**Lightweight Neural App Control**|Filippos Christianos et.al.|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
+|**2024-10-23**|**Analysis of Parallel Boarding Methods in a Multi-Aisle Flying Wing Aircraft**|Emil Ryd et.al.|[2410.17870](http://arxiv.org/abs/2410.17870)|null|
+|**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
+|**2024-10-23**|**TranSPORTmer: A Holistic Approach to Trajectory Understanding in Multi-Agent Sports**|Guillem Capellera et.al.|[2410.17785](http://arxiv.org/abs/2410.17785)|null|
+|**2024-10-23**|**ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents**|Yusheng Liao et.al.|[2410.17657](http://arxiv.org/abs/2410.17657)|null|
+|**2024-10-23**|**Entity-based Reinforcement Learning for Autonomous Cyber Defence**|Isaac Symes Thompson et.al.|[2410.17647](http://arxiv.org/abs/2410.17647)|null|
+|**2024-10-23**|**Collision-free Exploration by Mobile Agents Using Pebbles**|Sajal K. Das et.al.|[2410.17542](http://arxiv.org/abs/2410.17542)|null|
+|**2024-10-23**|**Navigate Complex Physical Worlds via Geometrically Constrained LLM**|Yongqiang Huang et.al.|[2410.17529](http://arxiv.org/abs/2410.17529)|null|
+|**2024-10-23**|**MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control**|Juyong Lee et.al.|[2410.17520](http://arxiv.org/abs/2410.17520)|null|
+|**2024-10-23**|**Bridging Swarm Intelligence and Reinforcement Learning**|Karthik Soma et.al.|[2410.17517](http://arxiv.org/abs/2410.17517)|null|
+|**2024-10-23**|**Learning Fair and Preferable Allocations through Neural Network**|Ryota Maruo et.al.|[2410.17500](http://arxiv.org/abs/2410.17500)|null|
+|**2024-10-22**|**Evolution with Opponent-Learning Awareness**|Yann Bouteiller et.al.|[2410.17466](http://arxiv.org/abs/2410.17466)|null|
+|**2024-10-22**|**Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation**|Minhua Lin et.al.|[2410.17462](http://arxiv.org/abs/2410.17462)|null|
+|**2024-10-22**|**Gains-from-Trade in Bilateral Trade with a Broker**|Ilya Hajiaghayi et.al.|[2410.17444](http://arxiv.org/abs/2410.17444)|null|
+|**2024-10-22**|**AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
+|**2024-10-22**|**Cooperative Multi-Agent Constrained Stochastic Linear Bandits**|Amirhossein Afsharrad et.al.|[2410.17382](http://arxiv.org/abs/2410.17382)|null|
+|**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[2410.17373](http://arxiv.org/abs/2410.17373)|null|
+|**2024-10-22**|**Hierarchical Multi-agent Reinforcement Learning for Cyber Network Defense**|Aditya Vikram Singh et.al.|[2410.17351](http://arxiv.org/abs/2410.17351)|null|
 |**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238](http://arxiv.org/abs/2410.17238)|**[link](https://github.com/geekan/metagpt)**|
 |**2024-10-22**|**Large Language Models Empowered Personalized Web Agents**|Hongru Cai et.al.|[2410.17236](http://arxiv.org/abs/2410.17236)|null|
 |**2024-10-22**|**Responsibility in a Multi-Value Strategic Setting**|Timothy Parker et.al.|[2410.17229](http://arxiv.org/abs/2410.17229)|null|
@@ -52,7 +83,7 @@
 |**2024-10-21**|**Beyond Browsing: API-Based Web Agents**|Yueqi Song et.al.|[2410.16464](http://arxiv.org/abs/2410.16464)|**[link](https://github.com/yueqis/api-based-agent)**|
 |**2024-10-21**|**Agent-Based Emulation for Deploying Robot Swarm Behaviors**|Ricardo Vega et.al.|[2410.16444](http://arxiv.org/abs/2410.16444)|null|
 |**2024-10-21**|**Policies with Sparse Inter-Agent Dependencies in Dynamic Games: A Dynamic Programming Approach**|Xinjie Liu et.al.|[2410.16441](http://arxiv.org/abs/2410.16441)|null|
-|**2024-10-21**|**Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives**|Angelo Moroncelli et.al.|[2410.16411](http://arxiv.org/abs/2410.16411)|null|
+|**2024-10-21**|**Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives**|Angelo Moroncelli et.al.|[2410.16411](http://arxiv.org/abs/2410.16411)|**[link](https://github.com/clmoro/robotics-rl-fms-integration)**|
 |**2024-10-21**|**VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use**|Zhehao Zhang et.al.|[2410.16400](http://arxiv.org/abs/2410.16400)|null|
 |**2024-10-21**|**Designing Robust Cyber-Defense Agents with Evolving Behavior Trees**|Nicholas Potteiger et.al.|[2410.16383](http://arxiv.org/abs/2410.16383)|null|
 |**2024-10-18**|**CybORG++: An Enhanced Gym for the Development of Autonomous Cyber Agents**|Harry Emerson et.al.|[2410.16324](http://arxiv.org/abs/2410.16324)|null|
