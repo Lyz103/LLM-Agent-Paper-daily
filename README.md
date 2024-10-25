@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2024-10-23**|**Reinforcement Learning under Latent Dynamics: Toward Statistical and Algorithmic Modularity**|Philip Amortila et.al.|[2410.17904](http://arxiv.org/abs/2410.17904)|null|
 |**2024-10-23**|**Scalable Offline Reinforcement Learning for Mean Field Games**|Axel Brunnbauer et.al.|[2410.17898](http://arxiv.org/abs/2410.17898)|null|
 |**2024-10-23**|**Lightweight Neural App Control**|Filippos Christianos et.al.|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
-|**2024-10-23**|**Analysis of Parallel Boarding Methods in a Multi-Aisle Flying Wing Aircraft**|Emil Ryd et.al.|[2410.17870](http://arxiv.org/abs/2410.17870)|null|
+|**2024-10-24**|**Analysis of Parallel Boarding Methods in a Multi-Aisle Flying Wing Aircraft**|Emil Ryd et.al.|[2410.17870](http://arxiv.org/abs/2410.17870)|null|
 |**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
 |**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
 |**2024-10-23**|**TranSPORTmer: A Holistic Approach to Trajectory Understanding in Multi-Agent Sports**|Guillem Capellera et.al.|[2410.17785](http://arxiv.org/abs/2410.17785)|null|
@@ -146,7 +146,7 @@
 |**2024-10-19**|**Linguistic Fuzzy Information Evolution with Random Leader Election Mechanism for Decision-Making Systems**|Qianlei Jia et.al.|[2410.15171](http://arxiv.org/abs/2410.15171)|null|
 |**2024-10-19**|**An Electoral Approach to Diversify LLM-based Multi-Agent Collective Decision-Making**|Xiutian Zhao et.al.|[2410.15168](http://arxiv.org/abs/2410.15168)|**[link](https://github.com/xiutian/GEDI)**|
 |**2024-10-19**|**SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation**|Jingxuan Chen et.al.|[2410.15164](http://arxiv.org/abs/2410.15164)|null|
-|**2024-10-19**|**Optimizing Large Language Models for Dynamic Constraints through Human-in-the-Loop Discriminators**|Timothy Wei et.al.|[2410.15163](http://arxiv.org/abs/2410.15163)|null|
+|**2024-10-24**|**Optimizing Large Language Models for Dynamic Constraints through Human-in-the-Loop Discriminators**|Timothy Wei et.al.|[2410.15163](http://arxiv.org/abs/2410.15163)|null|
 |**2024-10-19**|**Simulation-Based Optimistic Policy Iteration For Multi-Agent MDPs with Kullback-Leibler Control Cost**|Khaled Nakhleh et.al.|[2410.15156](http://arxiv.org/abs/2410.15156)|null|
 |**2024-10-19**|**Collaborative State Fusion in Partially Known Multi-agent Environments**|Tianlong Zhou et.al.|[2410.15137](http://arxiv.org/abs/2410.15137)|null|
 |**2024-10-19**|**Tuning the shear and extensional rheology of semi-flexible polyelectrolyte solutions**|H. Moon et.al.|[2410.15132](http://arxiv.org/abs/2410.15132)|null|
@@ -1679,7 +1679,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
