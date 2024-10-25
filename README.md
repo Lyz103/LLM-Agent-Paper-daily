@@ -17,6 +17,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964](http://arxiv.org/abs/2410.18964)|null|
+|**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963](http://arxiv.org/abs/2410.18963)|null|
+|**2024-10-24**|**Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play**|Sha Li et.al.|[2410.18935](http://arxiv.org/abs/2410.18935)|null|
+|**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907](http://arxiv.org/abs/2410.18907)|null|
+|**2024-10-24**|**Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks**|Graziano A. Manduzio et.al.|[2410.18890](http://arxiv.org/abs/2410.18890)|null|
+|**2024-10-24**|**Learning Collusion in Episodic, Inventory-Constrained Markets**|Paul Friedrich et.al.|[2410.18871](http://arxiv.org/abs/2410.18871)|null|
+|**2024-10-24**|**An LLM Agent for Automatic Geospatial Data Analysis**|Yuxing Chen et.al.|[2410.18792](http://arxiv.org/abs/2410.18792)|null|
+|**2024-10-24**|**Applying Neural Monte Carlo Tree Search to Unsignalized Multi-intersection Scheduling for Autonomous Vehicles**|Yucheng Shi et.al.|[2410.18786](http://arxiv.org/abs/2410.18786)|null|
+|**2024-10-24**|**Active Target Tracking Using Bearing-only Measurements With Gaussian Process Learning**|Yingbo Fu et.al.|[2410.18669](http://arxiv.org/abs/2410.18669)|null|
+|**2024-10-24**|**Approximate EFX and Exact tEFX Allocations for Indivisible Chores: Improved Algorithms**|Mahyar Afshinmehr et.al.|[2410.18655](http://arxiv.org/abs/2410.18655)|null|
+|**2024-10-24**|**A distributed and parallel $(k, n)$ QSS scheme with verification capability**|Theodore Andronikos et.al.|[2410.18643](http://arxiv.org/abs/2410.18643)|null|
+|**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
+|**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636](http://arxiv.org/abs/2410.18636)|null|
+|**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631](http://arxiv.org/abs/2410.18631)|null|
+|**2024-10-24**|**Evolutionary Dispersal of Ecological Species via Multi-Agent Deep Reinforcement Learning**|Wonhyung Choi et.al.|[2410.18621](http://arxiv.org/abs/2410.18621)|null|
+|**2024-10-24**|**AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant**|Chengyou Jia et.al.|[2410.18603](http://arxiv.org/abs/2410.18603)|null|
+|**2024-10-24**|**Incentives for Early Arrival in Cost Sharing**|Junyu Zhang et.al.|[2410.18586](http://arxiv.org/abs/2410.18586)|null|
+|**2024-10-24**|**PRACT: Optimizing Principled Reasoning and Acting of LLM Agent**|Zhiwei Liu et.al.|[2410.18528](http://arxiv.org/abs/2410.18528)|null|
+|**2024-10-24**|**LLM as a code generator in Agile Model Driven Development**|Ahmed R. Sadik et.al.|[2410.18489](http://arxiv.org/abs/2410.18489)|null|
+|**2024-10-24**|**Bearing-Only Solution for Fermat-Weber Location Problem: Generalized Algorithms**|Nhat-Minh Le-Phan et.al.|[2410.18470](http://arxiv.org/abs/2410.18470)|null|
+|**2024-10-24**|**Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**|Lachlan Mares et.al.|[2410.18462](http://arxiv.org/abs/2410.18462)|null|
+|**2024-10-24**|**ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**|Zezhong Wang et.al.|[2410.18447](http://arxiv.org/abs/2410.18447)|null|
+|**2024-10-24**|**Observer-Based Event-Triggered Secure Consensus Control for Multi-Agent Systems**|Jingyao Wang et.al.|[2410.18440](http://arxiv.org/abs/2410.18440)|null|
+|**2024-10-24**|**SkiLD: Unsupervised Skill Discovery Guided by Factor Interactions**|Zizhao Wang et.al.|[2410.18416](http://arxiv.org/abs/2410.18416)|null|
+|**2024-10-24**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
+|**2024-10-23**|**Countering Autonomous Cyber Threats**|Kade M. Heckel et.al.|[2410.18312](http://arxiv.org/abs/2410.18312)|null|
+|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|null|
+|**2024-10-23**|**Navigating the Landscape of Reproducible Research: A Predictive Modeling Approach**|Akhil Pandey Akella et.al.|[2410.18276](http://arxiv.org/abs/2410.18276)|null|
+|**2024-10-23**|**Human-Agent Coordination in Games under Incomplete Information via Multi-Step Intent**|Shenghui Chen et.al.|[2410.18242](http://arxiv.org/abs/2410.18242)|null|
+|**2024-10-23**|**Periodic portfolio selection with quasi-hyperbolic discounting**|Yushi Hamaguchi et.al.|[2410.18240](http://arxiv.org/abs/2410.18240)|null|
+|**2024-10-23**|**PyTSC: A Unified Platform for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Rohit Bokade et.al.|[2410.18202](http://arxiv.org/abs/2410.18202)|**[link](https://github.com/rbokade/pytsc)**|
+|**2024-10-23**|**Personalized Instance-based Navigation Toward User-Specific Objects in Realistic Environments**|Luca Barsellotti et.al.|[2410.18195](http://arxiv.org/abs/2410.18195)|**[link](https://github.com/aimagelab/pin)**|
+|**2024-10-23**|**What resources do agents need to acquire knowledge in Quantum Thermodynamics?**|Jake Xuereb et.al.|[2410.18167](http://arxiv.org/abs/2410.18167)|null|
+|**2024-10-22**|**A minimal model of money creation under regulatory constraints**|Victor Le Coz et.al.|[2410.18145](http://arxiv.org/abs/2410.18145)|null|
 |**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
 |**2024-10-23**|**The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**|Raman Ebrahimi et.al.|[2410.18066](http://arxiv.org/abs/2410.18066)|null|
 |**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
@@ -26,9 +60,9 @@
 |**2024-10-23**|**Dynamic models of gentrification**|Giovanni Mauro et.al.|[2410.18004](http://arxiv.org/abs/2410.18004)|null|
 |**2024-10-23**|**POMDP-Driven Cognitive Massive MIMO Radar: Joint Target Detection-Tracking In Unknown Disturbances**|Imad Bouhou et.al.|[2410.17967](http://arxiv.org/abs/2410.17967)|null|
 |**2024-10-23**|**On Regularity and Normalization in Sequential Screening**|Ian Ball et.al.|[2410.17962](http://arxiv.org/abs/2410.17962)|null|
-|**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|null|
+|**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
 |**2024-10-23**|**Reinforcement Learning under Latent Dynamics: Toward Statistical and Algorithmic Modularity**|Philip Amortila et.al.|[2410.17904](http://arxiv.org/abs/2410.17904)|null|
-|**2024-10-23**|**Scalable Offline Reinforcement Learning for Mean Field Games**|Axel Brunnbauer et.al.|[2410.17898](http://arxiv.org/abs/2410.17898)|null|
+|**2024-10-23**|**Scalable Offline Reinforcement Learning for Mean Field Games**|Axel Brunnbauer et.al.|[2410.17898](http://arxiv.org/abs/2410.17898)|**[link](https://github.com/axelbr/offline-mmd)**|
 |**2024-10-23**|**Lightweight Neural App Control**|Filippos Christianos et.al.|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
 |**2024-10-24**|**Analysis of Parallel Boarding Methods in a Multi-Aisle Flying Wing Aircraft**|Emil Ryd et.al.|[2410.17870](http://arxiv.org/abs/2410.17870)|null|
 |**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
@@ -47,7 +81,7 @@
 |**2024-10-22**|**AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
 |**2024-10-22**|**Cooperative Multi-Agent Constrained Stochastic Linear Bandits**|Amirhossein Afsharrad et.al.|[2410.17382](http://arxiv.org/abs/2410.17382)|null|
 |**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[2410.17373](http://arxiv.org/abs/2410.17373)|null|
-|**2024-10-22**|**Hierarchical Multi-agent Reinforcement Learning for Cyber Network Defense**|Aditya Vikram Singh et.al.|[2410.17351](http://arxiv.org/abs/2410.17351)|null|
+|**2024-10-24**|**Hierarchical Multi-agent Reinforcement Learning for Cyber Network Defense**|Aditya Vikram Singh et.al.|[2410.17351](http://arxiv.org/abs/2410.17351)|null|
 |**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238](http://arxiv.org/abs/2410.17238)|**[link](https://github.com/geekan/metagpt)**|
 |**2024-10-22**|**Large Language Models Empowered Personalized Web Agents**|Hongru Cai et.al.|[2410.17236](http://arxiv.org/abs/2410.17236)|null|
 |**2024-10-22**|**Responsibility in a Multi-Value Strategic Setting**|Timothy Parker et.al.|[2410.17229](http://arxiv.org/abs/2410.17229)|null|
@@ -92,7 +126,7 @@
 |**2024-10-21**|**Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**|Ryan Li et.al.|[2410.16232](http://arxiv.org/abs/2410.16232)|null|
 |**2024-10-21**|**Role of obstacle softness in the diffusive behavior of active Particles**|Ankit Gupta et.al.|[2410.16223](http://arxiv.org/abs/2410.16223)|null|
 |**2024-10-21**|**CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning**|Kumar Manas et.al.|[2410.16207](http://arxiv.org/abs/2410.16207)|null|
-|**2024-10-22**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[2410.16197](http://arxiv.org/abs/2410.16197)|null|
+|**2024-10-24**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[2410.16197](http://arxiv.org/abs/2410.16197)|**[link](https://github.com/CXYyp5SkNg/CXYyp5SkNg.github.io)**|
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175](http://arxiv.org/abs/2410.16175)|null|
 |**2024-10-21**|**A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns**|Tianyi Men et.al.|[2410.16155](http://arxiv.org/abs/2410.16155)|null|
 |**2024-10-21**|**AdChain: Decentralized Header Bidding**|Behkish Nassirzadeh et.al.|[2410.16141](http://arxiv.org/abs/2410.16141)|null|
