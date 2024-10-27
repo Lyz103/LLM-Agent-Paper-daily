@@ -44,7 +44,7 @@
 |**2024-10-24**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
 |**2024-10-23**|**Countering Autonomous Cyber Threats**|Kade M. Heckel et.al.|[2410.18312](http://arxiv.org/abs/2410.18312)|null|
 |**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|null|
-|**2024-10-23**|**Navigating the Landscape of Reproducible Research: A Predictive Modeling Approach**|Akhil Pandey Akella et.al.|[2410.18276](http://arxiv.org/abs/2410.18276)|null|
+|**2024-10-23**|**Navigating the Landscape of Reproducible Research: A Predictive Modeling Approach**|Akhil Pandey Akella et.al.|[2410.18276](http://arxiv.org/abs/2410.18276)|**[link](https://github.com/reproducibilityproject/nlrr)**|
 |**2024-10-23**|**Human-Agent Coordination in Games under Incomplete Information via Multi-Step Intent**|Shenghui Chen et.al.|[2410.18242](http://arxiv.org/abs/2410.18242)|null|
 |**2024-10-23**|**Periodic portfolio selection with quasi-hyperbolic discounting**|Yushi Hamaguchi et.al.|[2410.18240](http://arxiv.org/abs/2410.18240)|null|
 |**2024-10-23**|**PyTSC: A Unified Platform for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Rohit Bokade et.al.|[2410.18202](http://arxiv.org/abs/2410.18202)|**[link](https://github.com/rbokade/pytsc)**|
@@ -92,7 +92,7 @@
 |**2024-10-22**|**Mechanistic interplay between information spreading and opinion polarization**|Kleber A. Oliveira et.al.|[2410.17151](http://arxiv.org/abs/2410.17151)|null|
 |**2024-10-22**|**Advancing lunar exploration through virtual reality simulations: a framework for future human missions**|Giacomo Franchini et.al.|[2410.17132](http://arxiv.org/abs/2410.17132)|null|
 |**2024-10-22**|**Exploration and Persuasion**|Aleksandrs Slivkins et.al.|[2410.17086](http://arxiv.org/abs/2410.17086)|null|
-|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|null|
+|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|**[link](https://github.com/oxwhirl/pymarl)**|
 |**2024-10-22**|**EFX Allocations and Orientations on Bipartite Multi-graphs: A Complete Picture**|Mahyar Afshinmehr et.al.|[2410.17002](http://arxiv.org/abs/2410.17002)|null|
 |**2024-10-22**|**Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In**|Itay Nakash et.al.|[2410.16950](http://arxiv.org/abs/2410.16950)|null|
 |**2024-10-22**|**Self-Evolving Multi-Agent Collaboration Networks for Software Development**|Yue Hu et.al.|[2410.16946](http://arxiv.org/abs/2410.16946)|null|
