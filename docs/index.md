@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -20,7 +20,7 @@ layout: default
 |**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907](http://arxiv.org/abs/2410.18907)|null|
 |**2024-10-24**|**Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks**|Graziano A. Manduzio et.al.|[2410.18890](http://arxiv.org/abs/2410.18890)|null|
 |**2024-10-24**|**Learning Collusion in Episodic, Inventory-Constrained Markets**|Paul Friedrich et.al.|[2410.18871](http://arxiv.org/abs/2410.18871)|null|
-|**2024-10-24**|**An LLM Agent for Automatic Geospatial Data Analysis**|Yuxing Chen et.al.|[2410.18792](http://arxiv.org/abs/2410.18792)|null|
+|**2024-10-25**|**An LLM Agent for Automatic Geospatial Data Analysis**|Yuxing Chen et.al.|[2410.18792](http://arxiv.org/abs/2410.18792)|null|
 |**2024-10-24**|**Applying Neural Monte Carlo Tree Search to Unsignalized Multi-intersection Scheduling for Autonomous Vehicles**|Yucheng Shi et.al.|[2410.18786](http://arxiv.org/abs/2410.18786)|null|
 |**2024-10-24**|**Active Target Tracking Using Bearing-only Measurements With Gaussian Process Learning**|Yingbo Fu et.al.|[2410.18669](http://arxiv.org/abs/2410.18669)|null|
 |**2024-10-24**|**Approximate EFX and Exact tEFX Allocations for Indivisible Chores: Improved Algorithms**|Mahyar Afshinmehr et.al.|[2410.18655](http://arxiv.org/abs/2410.18655)|null|
@@ -49,11 +49,11 @@ layout: default
 |**2024-10-23**|**What resources do agents need to acquire knowledge in Quantum Thermodynamics?**|Jake Xuereb et.al.|[2410.18167](http://arxiv.org/abs/2410.18167)|null|
 |**2024-10-22**|**A minimal model of money creation under regulatory constraints**|Victor Le Coz et.al.|[2410.18145](http://arxiv.org/abs/2410.18145)|null|
 |**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
-|**2024-10-23**|**The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**|Raman Ebrahimi et.al.|[2410.18066](http://arxiv.org/abs/2410.18066)|null|
+|**2024-10-25**|**The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**|Raman Ebrahimi et.al.|[2410.18066](http://arxiv.org/abs/2410.18066)|null|
 |**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
 |**2024-10-23**|**A Comparative Assessment of Technology Acceptance and Learning Outcomes in Computer-based versus VR-based Pedagogical Agents**|Aimilios Hadjiliasi et.al.|[2410.18048](http://arxiv.org/abs/2410.18048)|null|
 |**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032](http://arxiv.org/abs/2410.18032)|**[link](https://github.com/bupt-gamma/graphteam)**|
-|**2024-10-23**|**MiniFed : Integrating LLM-based Agentic-Workflow for Simulating FOMC Meeting**|Sungil Seok et.al.|[2410.18012](http://arxiv.org/abs/2410.18012)|null|
+|**2024-10-25**|**MiniFed : Integrating LLM-based Agentic-Workflow for Simulating FOMC Meeting**|Sungil Seok et.al.|[2410.18012](http://arxiv.org/abs/2410.18012)|null|
 |**2024-10-23**|**Dynamic models of gentrification**|Giovanni Mauro et.al.|[2410.18004](http://arxiv.org/abs/2410.18004)|null|
 |**2024-10-23**|**POMDP-Driven Cognitive Massive MIMO Radar: Joint Target Detection-Tracking In Unknown Disturbances**|Imad Bouhou et.al.|[2410.17967](http://arxiv.org/abs/2410.17967)|null|
 |**2024-10-23**|**On Regularity and Normalization in Sequential Screening**|Ian Ball et.al.|[2410.17962](http://arxiv.org/abs/2410.17962)|null|
@@ -72,7 +72,7 @@ layout: default
 |**2024-10-23**|**MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control**|Juyong Lee et.al.|[2410.17520](http://arxiv.org/abs/2410.17520)|null|
 |**2024-10-23**|**Bridging Swarm Intelligence and Reinforcement Learning**|Karthik Soma et.al.|[2410.17517](http://arxiv.org/abs/2410.17517)|null|
 |**2024-10-23**|**Learning Fair and Preferable Allocations through Neural Network**|Ryota Maruo et.al.|[2410.17500](http://arxiv.org/abs/2410.17500)|null|
-|**2024-10-22**|**Evolution with Opponent-Learning Awareness**|Yann Bouteiller et.al.|[2410.17466](http://arxiv.org/abs/2410.17466)|null|
+|**2024-10-24**|**Evolution with Opponent-Learning Awareness**|Yann Bouteiller et.al.|[2410.17466](http://arxiv.org/abs/2410.17466)|null|
 |**2024-10-22**|**Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation**|Minhua Lin et.al.|[2410.17462](http://arxiv.org/abs/2410.17462)|null|
 |**2024-10-22**|**Gains-from-Trade in Bilateral Trade with a Broker**|Ilya Hajiaghayi et.al.|[2410.17444](http://arxiv.org/abs/2410.17444)|null|
 |**2024-10-22**|**AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
@@ -194,7 +194,7 @@ layout: default
 |**2024-10-18**|**Reasoning, Memorization, and Fine-Tuning Language Models for Non-Cooperative Games**|Yunhao Yang et.al.|[2410.14890](http://arxiv.org/abs/2410.14890)|null|
 |**2024-10-18**|**DFlow: Diverse Dialogue Flow Simulation with Large Language Models**|Wanyu Du et.al.|[2410.14853](http://arxiv.org/abs/2410.14853)|null|
 |**2024-10-18**|**Aligning AI Agents via Information-Directed Sampling**|Hong Jun Jeon et.al.|[2410.14807](http://arxiv.org/abs/2410.14807)|null|
-|**2024-10-18**|**DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents**|Taiyi Wang et.al.|[2410.14803](http://arxiv.org/abs/2410.14803)|null|
+|**2024-10-25**|**DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents**|Taiyi Wang et.al.|[2410.14803](http://arxiv.org/abs/2410.14803)|null|
 |**2024-10-16**|**Agent Skill Acquisition for Large Language Models via CycleQD**|So Kuroki et.al.|[2410.14735](http://arxiv.org/abs/2410.14735)|null|
 |**2024-10-16**|**Security Threats in Agentic AI System**|Raihan Khan et.al.|[2410.14728](http://arxiv.org/abs/2410.14728)|null|
 |**2024-10-18**|**Teaching Models to Balance Resisting and Accepting Persuasion**|Elias Stengel-Eskin et.al.|[2410.14596](http://arxiv.org/abs/2410.14596)|**[link](https://github.com/esteng/persuasion_balanced_training)**|
