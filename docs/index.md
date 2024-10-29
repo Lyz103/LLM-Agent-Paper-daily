@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -83,7 +83,7 @@ layout: default
 |**2024-10-24**|**SkiLD: Unsupervised Skill Discovery Guided by Factor Interactions**|Zizhao Wang et.al.|[2410.18416](http://arxiv.org/abs/2410.18416)|null|
 |**2024-10-24**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
 |**2024-10-23**|**Countering Autonomous Cyber Threats**|Kade M. Heckel et.al.|[2410.18312](http://arxiv.org/abs/2410.18312)|null|
-|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|null|
+|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|**[link](https://github.com/Budapest-Quantum-Computing-Group/hybrid_latent_qrl)**|
 |**2024-10-23**|**Navigating the Landscape of Reproducible Research: A Predictive Modeling Approach**|Akhil Pandey Akella et.al.|[2410.18276](http://arxiv.org/abs/2410.18276)|**[link](https://github.com/reproducibilityproject/nlrr)**|
 |**2024-10-23**|**Human-Agent Coordination in Games under Incomplete Information via Multi-Step Intent**|Shenghui Chen et.al.|[2410.18242](http://arxiv.org/abs/2410.18242)|null|
 |**2024-10-23**|**Periodic portfolio selection with quasi-hyperbolic discounting**|Yushi Hamaguchi et.al.|[2410.18240](http://arxiv.org/abs/2410.18240)|null|
@@ -133,7 +133,7 @@ layout: default
 |**2024-10-22**|**Advancing lunar exploration through virtual reality simulations: a framework for future human missions**|Giacomo Franchini et.al.|[2410.17132](http://arxiv.org/abs/2410.17132)|null|
 |**2024-10-22**|**Exploration and Persuasion**|Aleksandrs Slivkins et.al.|[2410.17086](http://arxiv.org/abs/2410.17086)|null|
 |**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|**[link](https://github.com/oxwhirl/pymarl)**|
-|**2024-10-22**|**EFX Allocations and Orientations on Bipartite Multi-graphs: A Complete Picture**|Mahyar Afshinmehr et.al.|[2410.17002](http://arxiv.org/abs/2410.17002)|null|
+|**2024-10-26**|**EFX Allocations and Orientations on Bipartite Multi-graphs: A Complete Picture**|Mahyar Afshinmehr et.al.|[2410.17002](http://arxiv.org/abs/2410.17002)|null|
 |**2024-10-22**|**Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In**|Itay Nakash et.al.|[2410.16950](http://arxiv.org/abs/2410.16950)|null|
 |**2024-10-22**|**Self-Evolving Multi-Agent Collaboration Networks for Software Development**|Yue Hu et.al.|[2410.16946](http://arxiv.org/abs/2410.16946)|null|
 |**2024-10-22**|**Impact of Cognitive Dissonance on Social Hysteresis: Insights fromthe Expressed and Private Opinions Model**|Kamińska Barbara et.al.|[2410.16934](http://arxiv.org/abs/2410.16934)|null|
@@ -153,7 +153,7 @@ layout: default
 |**2024-10-21**|**Distributed Online Life-Long Learning (DOL3) for Multi-agent Trust and Reputation Assessment in E-commerce**|Hariprasauth Ramamoorthy et.al.|[2410.16529](http://arxiv.org/abs/2410.16529)|null|
 |**2024-10-21**|**RGMDT: Return-Gap-Minimizing Decision Tree Extraction in Non-Euclidean Metric Space**|Jingdi Chen et.al.|[2410.16517](http://arxiv.org/abs/2410.16517)|null|
 |**2024-10-21**|**ER = EPR is an operational theorem**|Chris Fields et.al.|[2410.16496](http://arxiv.org/abs/2410.16496)|null|
-|**2024-10-21**|**Survival Multiarmed Bandits with Boostrapping Methods**|Peter Veroutis et.al.|[2410.16486](http://arxiv.org/abs/2410.16486)|null|
+|**2024-10-25**|**Survival Multiarmed Bandits with Bootstrapping Methods**|Peter Veroutis et.al.|[2410.16486](http://arxiv.org/abs/2410.16486)|null|
 |**2024-10-21**|**Beyond Browsing: API-Based Web Agents**|Yueqi Song et.al.|[2410.16464](http://arxiv.org/abs/2410.16464)|**[link](https://github.com/yueqis/api-based-agent)**|
 |**2024-10-21**|**Agent-Based Emulation for Deploying Robot Swarm Behaviors**|Ricardo Vega et.al.|[2410.16444](http://arxiv.org/abs/2410.16444)|null|
 |**2024-10-21**|**Policies with Sparse Inter-Agent Dependencies in Dynamic Games: A Dynamic Programming Approach**|Xinjie Liu et.al.|[2410.16441](http://arxiv.org/abs/2410.16441)|null|
