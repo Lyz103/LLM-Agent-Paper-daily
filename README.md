@@ -17,6 +17,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
+|**2024-10-31**|**DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**|Zhenyu Jiang et.al.|[2410.24185](http://arxiv.org/abs/2410.24185)|null|
+|**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
+|**2024-10-31**|**Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis**|Jia Lin Hau et.al.|[2410.24128](http://arxiv.org/abs/2410.24128)|null|
+|**2024-10-31**|**Progressive Safeguards for Safe and Model-Agnostic Reinforcement Learning**|Nabil Omi et.al.|[2410.24096](http://arxiv.org/abs/2410.24096)|null|
+|**2024-10-31**|**Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks**|Yingzhe Peng et.al.|[2410.24032](http://arxiv.org/abs/2410.24032)|null|
+|**2024-10-31**|**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**|Yifan Xu et.al.|[2410.24024](http://arxiv.org/abs/2410.24024)|null|
+|**2024-10-31**|**Optimal control problems driven by nonlinear degenerate Fokker-Planck equations**|Francesca Anceschi et.al.|[2410.24000](http://arxiv.org/abs/2410.24000)|null|
+|**2024-10-31**|**Persuading a Credible Agent**|Jiarui Gan et.al.|[2410.23989](http://arxiv.org/abs/2410.23989)|null|
+|**2024-10-31**|**Fair Division of Chores with Budget Constraints**|Edith Elkind et.al.|[2410.23979](http://arxiv.org/abs/2410.23979)|null|
+|**2024-10-31**|**GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance**|Shuaihang Yuan et.al.|[2410.23978](http://arxiv.org/abs/2410.23978)|null|
+|**2024-10-31**|**Representative Social Choice: From Learning Theory to AI Alignment**|Tianyi Qiu et.al.|[2410.23953](http://arxiv.org/abs/2410.23953)|null|
+|**2024-10-31**|**'No' Matters: Out-of-Distribution Detection in Multimodality Long Dialogue**|Rena Gao et.al.|[2410.23883](http://arxiv.org/abs/2410.23883)|null|
+|**2024-10-31**|**QuACK: A Multipurpose Queuing Algorithm for Cooperative $k$ -Armed Bandits**|Benjamin Howson et.al.|[2410.23867](http://arxiv.org/abs/2410.23867)|null|
+|**2024-10-31**|**Deterministic Exploration via Stationary Bellman Error Maximization**|Sebastian Griesbach et.al.|[2410.23840](http://arxiv.org/abs/2410.23840)|null|
+|**2024-10-31**|**CALE: Continuous Arcade Learning Environment**|Jesse Farebrother et.al.|[2410.23810](http://arxiv.org/abs/2410.23810)|**[link](https://github.com/farama-foundation/arcade-learning-environment)**|
+|**2024-10-31**|**What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective**|Ming Li et.al.|[2410.23743](http://arxiv.org/abs/2410.23743)|null|
+|**2024-10-31**|**Edges' Riemannian energy analysis for synchronization of multi-agent nonlinear systems over undirected weighted graphs**|Vincent Andrieu et.al.|[2410.23700](http://arxiv.org/abs/2410.23700)|null|
+|**2024-10-31**|**Anytime-Constrained Multi-Agent Reinforcement Learning**|Jeremy McMahan et.al.|[2410.23637](http://arxiv.org/abs/2410.23637)|null|
+|**2024-10-31**|**Adaptive Distributed Observer-based Model Predictive Control for Multi-agent Formation with Resilience to Communication Link Faults**|Binyan Xu et.al.|[2410.23592](http://arxiv.org/abs/2410.23592)|null|
+|**2024-10-31**|**Dual Agent Learning Based Aerial Trajectory Tracking**|Shaswat Garg et.al.|[2410.23571](http://arxiv.org/abs/2410.23571)|null|
+|**2024-10-31**|**RA-PbRL: Provably Efficient Risk-Aware Preference-Based Reinforcement Learning**|Yujie Zhao et.al.|[2410.23569](http://arxiv.org/abs/2410.23569)|null|
+|**2024-10-31**|**Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models**|Yiqi Yang et.al.|[2410.23558](http://arxiv.org/abs/2410.23558)|null|
+|**2024-10-31**|**From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents**|Nalin Tiwary et.al.|[2410.23555](http://arxiv.org/abs/2410.23555)|null|
+|**2024-10-31**|**Prosody as a Teaching Signal for Agent Learning: Exploratory Studies and Algorithmic Implications**|Matilda Knierim et.al.|[2410.23554](http://arxiv.org/abs/2410.23554)|null|
+|**2024-10-31**|**Simulating User Agents for Embodied Conversational-AI**|Daniel Philipov et.al.|[2410.23535](http://arxiv.org/abs/2410.23535)|null|
+|**2024-10-30**|**Keep on Swimming: Real Attackers Only Need Partial Knowledge of a Multi-Model System**|Julian Collado et.al.|[2410.23483](http://arxiv.org/abs/2410.23483)|null|
+|**2024-10-30**|**Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations?**|Yue Huang et.al.|[2410.23426](http://arxiv.org/abs/2410.23426)|null|
+|**2024-10-30**|**Stepping Out of the Shadows: Reinforcement Learning in Shadow Mode**|Philipp Gassert et.al.|[2410.23419](http://arxiv.org/abs/2410.23419)|null|
+|**2024-10-30**|**Temporal Fair Division**|Benjamin Cookson et.al.|[2410.23416](http://arxiv.org/abs/2410.23416)|null|
+|**2024-10-30**|**Adaptive Network Intervention for Complex Systems: A Hierarchical Graph Reinforcement Learning Approach**|Qiliang Chen et.al.|[2410.23396](http://arxiv.org/abs/2410.23396)|null|
+|**2024-10-30**|**Resource Governance in Networked Systems via Integrated Variational Autoencoders and Reinforcement Learning**|Qiliang Chen et.al.|[2410.23393](http://arxiv.org/abs/2410.23393)|null|
+|**2024-10-30**|**Relational Weight Optimization for Enhancing Team Performance in Multi-Agent Multi-Armed Bandits**|Monish Reddy Kotturu et.al.|[2410.23379](http://arxiv.org/abs/2410.23379)|null|
 |**2024-10-30**|**Proportional Fairness in Non-Centroid Clustering**|Ioannis Caragiannis et.al.|[2410.23273](http://arxiv.org/abs/2410.23273)|null|
 |**2024-10-30**|**Evaluating Cultural and Social Awareness of LLM Web Agents**|Haoyi Qiu et.al.|[2410.23252](http://arxiv.org/abs/2410.23252)|null|
 |**2024-10-30**|**Carrot and Stick: Eliciting Comparison Data and Beyond**|Yiling Chen et.al.|[2410.23243](http://arxiv.org/abs/2410.23243)|null|
