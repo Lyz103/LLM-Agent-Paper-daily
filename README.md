@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,12 +33,12 @@
 |**2024-10-31**|**QuACK: A Multipurpose Queuing Algorithm for Cooperative $k$ -Armed Bandits**|Benjamin Howson et.al.|[2410.23867](http://arxiv.org/abs/2410.23867)|null|
 |**2024-10-31**|**Deterministic Exploration via Stationary Bellman Error Maximization**|Sebastian Griesbach et.al.|[2410.23840](http://arxiv.org/abs/2410.23840)|null|
 |**2024-10-31**|**CALE: Continuous Arcade Learning Environment**|Jesse Farebrother et.al.|[2410.23810](http://arxiv.org/abs/2410.23810)|**[link](https://github.com/farama-foundation/arcade-learning-environment)**|
-|**2024-10-31**|**What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective**|Ming Li et.al.|[2410.23743](http://arxiv.org/abs/2410.23743)|null|
+|**2024-10-31**|**What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective**|Ming Li et.al.|[2410.23743](http://arxiv.org/abs/2410.23743)|**[link](https://github.com/mingliiii/layer_gradient)**|
 |**2024-10-31**|**Edges' Riemannian energy analysis for synchronization of multi-agent nonlinear systems over undirected weighted graphs**|Vincent Andrieu et.al.|[2410.23700](http://arxiv.org/abs/2410.23700)|null|
 |**2024-10-31**|**Anytime-Constrained Multi-Agent Reinforcement Learning**|Jeremy McMahan et.al.|[2410.23637](http://arxiv.org/abs/2410.23637)|null|
 |**2024-10-31**|**Adaptive Distributed Observer-based Model Predictive Control for Multi-agent Formation with Resilience to Communication Link Faults**|Binyan Xu et.al.|[2410.23592](http://arxiv.org/abs/2410.23592)|null|
 |**2024-10-31**|**Dual Agent Learning Based Aerial Trajectory Tracking**|Shaswat Garg et.al.|[2410.23571](http://arxiv.org/abs/2410.23571)|null|
-|**2024-10-31**|**RA-PbRL: Provably Efficient Risk-Aware Preference-Based Reinforcement Learning**|Yujie Zhao et.al.|[2410.23569](http://arxiv.org/abs/2410.23569)|null|
+|**2024-10-31**|**RA-PbRL: Provably Efficient Risk-Aware Preference-Based Reinforcement Learning**|Yujie Zhao et.al.|[2410.23569](http://arxiv.org/abs/2410.23569)|**[link](https://github.com/aguilarjose11/pbrlneurips)**|
 |**2024-10-31**|**Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models**|Yiqi Yang et.al.|[2410.23558](http://arxiv.org/abs/2410.23558)|null|
 |**2024-10-31**|**From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents**|Nalin Tiwary et.al.|[2410.23555](http://arxiv.org/abs/2410.23555)|null|
 |**2024-10-31**|**Prosody as a Teaching Signal for Agent Learning: Exploratory Studies and Algorithmic Implications**|Matilda Knierim et.al.|[2410.23554](http://arxiv.org/abs/2410.23554)|null|
@@ -94,7 +94,7 @@
 |**2024-10-29**|**EconoJax: A Fast & Scalable Economic Simulation in Jax**|Koen Ponse et.al.|[2410.22165](http://arxiv.org/abs/2410.22165)|**[link](https://github.com/ponseko/econojax)**|
 |**2024-10-29**|**Improving Performance of Commercially Available AI Products in a Multi-Agent Configuration**|Cory Hymel et.al.|[2410.22129](http://arxiv.org/abs/2410.22129)|null|
 |**2024-10-29**|**Inverse Design Method with Enhanced Sampling for Complex Open Crystals: Application to Novel Zeolite Self-Assembly in a Coarse-Grained Model**|Chaohong Wang et.al.|[2410.22111](http://arxiv.org/abs/2410.22111)|null|
-|**2024-10-31**|**An LLM-based Simulation Framework for Embodied Conversational Agents in Psychological Counseling**|Lixiu Wu et.al.|[2410.22041](http://arxiv.org/abs/2410.22041)|null|
+|**2024-10-31**|**An LLM-based Simulation Framework for Embodied Conversational Agents in Psychological Counseling**|Lixiu Wu et.al.|[2410.22041](http://arxiv.org/abs/2410.22041)|**[link](https://github.com/air-discover/ecas-dataset)**|
 |**2024-10-29**|**Markov Stochastic Choice**|Kremena Valkanova et.al.|[2410.22001](http://arxiv.org/abs/2410.22001)|null|
 |**2024-10-29**|**On the Consistency of Partial Ordering Continual Reassessment Method with Model and Ordering Misspecification**|Weishi Chen et.al.|[2410.21989](http://arxiv.org/abs/2410.21989)|null|
 |**2024-10-29**|**Human-Readable Programs as Actors of Reinforcement Learning Agents Using Critic-Moderated Evolution**|Senne Deproost et.al.|[2410.21940](http://arxiv.org/abs/2410.21940)|**[link](https://github.com/SenneDeproost/CM-GP)**|
@@ -122,7 +122,7 @@
 |**2024-10-28**|**Magnetic Milli-spinner for Robotic Endovascular Surgery**|Shuai Wu et.al.|[2410.21112](http://arxiv.org/abs/2410.21112)|null|
 |**2024-10-28**|**Dual-Agent Deep Reinforcement Learning for Dynamic Pricing and Replenishment**|Yi Zheng et.al.|[2410.21109](http://arxiv.org/abs/2410.21109)|null|
 |**2024-10-28**|**LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition**|Naga Venkata Sai Raviteja Chappa et.al.|[2410.21108](http://arxiv.org/abs/2410.21108)|null|
-|**2024-10-28**|**Topological Identification of Agent Status in Information Contagions: Application to Financial Markets**|Anubha Goel et.al.|[2410.21104](http://arxiv.org/abs/2410.21104)|null|
+|**2024-10-28**|**Topological Identification of Agent Status in Information Contagions: Application to Financial Markets**|Anubha Goel et.al.|[2410.21104](http://arxiv.org/abs/2410.21104)|**[link](https://github.com/anubha0812/gpd)**|
 |**2024-10-28**|**Automatic Generation of Benchmarks and Reliable LLM Judgment for Code Tasks**|Eitan Farchi et.al.|[2410.21071](http://arxiv.org/abs/2410.21071)|null|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
 |**2024-10-28**|**Getting By Goal Misgeneralization With a Little Help From a Mentor**|Tu Trinh et.al.|[2410.21052](http://arxiv.org/abs/2410.21052)|null|
@@ -145,14 +145,14 @@
 |**2024-10-27**|**Implementation and Application of an Intelligibility Protocol for Interaction with an LLM**|Ashwin Srinivasan et.al.|[2410.20600](http://arxiv.org/abs/2410.20600)|**[link](https://github.com/karannb/interact)**|
 |**2024-10-27**|**Deep Reinforcement Learning Agents for Strategic Production Policies in Microeconomic Market Simulations**|Eduardo C. Garrido-Merchán et.al.|[2410.20550](http://arxiv.org/abs/2410.20550)|**[link](https://github.com/EduardoGarrido90/micro_agents)**|
 |**2024-10-27**|**A Cournot-Nash Model for a Coupled Hydrogen and Electricity Market**|Pavel Dvurechensky et.al.|[2410.20534](http://arxiv.org/abs/2410.20534)|null|
-|**2024-10-27**|**Tests of thermal macroeconomic theory on simulated micro-economies**|Yihang Luo et.al.|[2410.20497](http://arxiv.org/abs/2410.20497)|null|
+|**2024-10-27**|**Tests of thermal macroeconomic theory on simulated micro-economies**|Yihang Luo et.al.|[2410.20497](http://arxiv.org/abs/2410.20497)|**[link](https://github.com/YihangLuo99/Thermoeconomics)**|
 |**2024-10-27**|**Efficient Diversity-based Experience Replay for Deep Reinforcement Learning**|Kaiyan Zhao et.al.|[2410.20487](http://arxiv.org/abs/2410.20487)|null|
 |**2024-10-27**|**Understanding Communication Preferences of Information Workers in Engagement with Text-Based Conversational Agents**|Ananya Bhattacharjee et.al.|[2410.20468](http://arxiv.org/abs/2410.20468)|null|
 |**2024-10-27**|**TrajAgent: An Agent Framework for Unified Trajectory Modelling**|Yuwei Du et.al.|[2410.20445](http://arxiv.org/abs/2410.20445)|**[link](https://github.com/tsinghua-fib-lab/trajagent)**|
 |**2024-10-29**|**AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions**|Ziming Li et.al.|[2410.20424](http://arxiv.org/abs/2410.20424)|**[link](https://github.com/multimodal-art-projection/AutoKaggle)**|
 |**2024-10-27**|**Logarithmically Quantized Distributed Optimization over Dynamic Multi-Agent Networks**|Mohammadreza Doostmohammadian et.al.|[2410.20345](http://arxiv.org/abs/2410.20345)|null|
 |**2024-10-26**|**Who is Responsible? Explaining Safety Violations in Multi-Agent Cyber-Physical Systems**|Luyao Niu et.al.|[2410.20288](http://arxiv.org/abs/2410.20288)|null|
-|**2024-10-29**|**SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement**|Antonis Antoniades et.al.|[2410.20285](http://arxiv.org/abs/2410.20285)|null|
+|**2024-10-29**|**SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement**|Antonis Antoniades et.al.|[2410.20285](http://arxiv.org/abs/2410.20285)|**[link](https://github.com/aorwall/moatless-tree-search)**|
 |**2024-10-26**|**EfficientEQA: An Efficient Approach for Open Vocabulary Embodied Question Answering**|Kai Cheng et.al.|[2410.20263](http://arxiv.org/abs/2410.20263)|null|
 |**2024-10-26**|**Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning**|Sullam Jeoung et.al.|[2410.20252](http://arxiv.org/abs/2410.20252)|null|
 |**2024-10-26**|**Beyond Simple Sum of Delayed Rewards: Non-Markovian Reward Modeling for Reinforcement Learning**|Yuting Tang et.al.|[2410.20176](http://arxiv.org/abs/2410.20176)|null|
@@ -1909,7 +1909,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
