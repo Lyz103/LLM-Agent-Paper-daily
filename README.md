@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -96,7 +96,7 @@
 |**2024-10-31**|**Measuring Responsibility in Multi-Agent Systems**|Chunyan Mu et.al.|[2411.00887](http://arxiv.org/abs/2411.00887)|null|
 |**2024-10-30**|**Mechanistic Interpretability of Reinforcement Learning Agents**|Tristan Trim et.al.|[2411.00867](http://arxiv.org/abs/2411.00867)|null|
 |**2024-10-28**|**AutoGLM: Autonomous Foundation Agents for GUIs**|Xiao Liu et.al.|[2411.00820](http://arxiv.org/abs/2411.00820)|null|
-|**2024-11-01**|**LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation**|Bowen Li et.al.|[2411.00773](http://arxiv.org/abs/2411.00773)|null|
+|**2024-11-01**|**LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation**|Bowen Li et.al.|[2411.00773](http://arxiv.org/abs/2411.00773)|**[link](https://github.com/Jaraxxus-Me/LogiCity)**|
 |**2024-11-01**|**Cross-Field Diffusion Effects on Particle Transport in a Solar Coronal Flux Rope**|Edin Husidic et.al.|[2411.00738](http://arxiv.org/abs/2411.00738)|null|
 |**2024-11-01**|**Multi-Agent Deep Q-Network with Layer-based Communication Channel for Autonomous Internal Logistics Vehicle Scheduling in Smart Manufacturing**|Mohammad Feizabadi et.al.|[2411.00728](http://arxiv.org/abs/2411.00728)|null|
 |**2024-11-01**|**Formation of stationary periodic patterns in a model of two competing populations with chemotaxis**|Valentina Bucur et.al.|[2411.00724](http://arxiv.org/abs/2411.00724)|null|
@@ -2025,7 +2025,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
