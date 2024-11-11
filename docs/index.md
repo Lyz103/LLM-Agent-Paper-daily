@@ -14,6 +14,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Topology-aware Reinforcement Feature Space Reconstruction for Graph Data**|Wangyang Ying et.al.|[2411.05742](http://arxiv.org/abs/2411.05742)|null|
+|**2024-11-08**|**A Retrospective on the Robot Air Hockey Challenge: Benchmarking Robust, Reliable, and Safe Learning Techniques for Real-world Robotics**|Puze Liu et.al.|[2411.05718](http://arxiv.org/abs/2411.05718)|null|
+|**2024-11-08**|**Settling the Complexity of Popularity in Additively Separable and Fractional Hedonic Games**|Martin Bullinger et.al.|[2411.05713](http://arxiv.org/abs/2411.05713)|null|
+|**2024-11-08**|**Data-Driven Distributed Common Operational Picture from Heterogeneous Platforms using Multi-Agent Reinforcement Learning**|Indranil Sur et.al.|[2411.05683](http://arxiv.org/abs/2411.05683)|null|
+|**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
+|**2024-11-08**|**LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution**|Yuheng Zhao et.al.|[2411.05651](http://arxiv.org/abs/2411.05651)|null|
+|**2024-11-08**|**Expectation vs. Reality: Towards Verification of Psychological Games**|Marta Kwiatkowska et.al.|[2411.05599](http://arxiv.org/abs/2411.05599)|null|
+|**2024-11-08**|**Smart navigation through a rotating barrier: Deep reinforcement learning with application to size-based separation of active microagents**|Mohammad Hossein Masoudi et.al.|[2411.05587](http://arxiv.org/abs/2411.05587)|null|
+|**2024-11-08**|**Tangled Program Graphs as an alternative to DRL-based control algorithms for UAVs**|Hubert Szolc et.al.|[2411.05586](http://arxiv.org/abs/2411.05586)|null|
+|**2024-11-08**|**Parameterized Voter Relevance in Facility Location Games with Tree-Shaped Invitation Graphs**|Ryoto Ando et.al.|[2411.05574](http://arxiv.org/abs/2411.05574)|null|
+|**2024-11-08**|**Time-to-reach Bounds for Verification of Dynamical Systems Using the Koopman Spectrum**|Jianqiang Ding et.al.|[2411.05554](http://arxiv.org/abs/2411.05554)|null|
+|**2024-11-08**|**Evolution of cooperation in a three-strategy game combining snowdrift and stag hunt games**|Hirofumi Takesue et.al.|[2411.05543](http://arxiv.org/abs/2411.05543)|null|
+|**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|null|
+|**2024-11-08**|**Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction**|Émiland Garrabé et.al.|[2411.05474](http://arxiv.org/abs/2411.05474)|null|
+|**2024-11-08**|**Emergent Cooperative Strategies for Multi-Agent Shepherding via Reinforcement Learning**|Italo Napolitano et.al.|[2411.05454](http://arxiv.org/abs/2411.05454)|null|
+|**2024-11-08**|**WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models**|Shengda Fan et.al.|[2411.05451](http://arxiv.org/abs/2411.05451)|**[link](https://github.com/openbmb/workflowllm)**|
+|**2024-11-08**|**VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM**|Jeongwoo Lee et.al.|[2411.05423](http://arxiv.org/abs/2411.05423)|null|
+|**2024-11-08**|**Towards Low-Resource Harmful Meme Detection with LMM Agents**|Jianzhao Huang et.al.|[2411.05383](http://arxiv.org/abs/2411.05383)|**[link](https://github.com/jianzhao-huang/lorehm)**|
+|**2024-11-08**|**Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework**|Honghao Shi et.al.|[2411.05349](http://arxiv.org/abs/2411.05349)|null|
+|**2024-11-08**|**LLM-PySC2: Starcraft II learning environment for Large Language Models**|Zongyuan Li et.al.|[2411.05348](http://arxiv.org/abs/2411.05348)|null|
+|**2024-11-08**|**A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents**|Liming Dong et.al.|[2411.05285](http://arxiv.org/abs/2411.05285)|null|
+|**2024-11-07**|**An Integrated Epidemic Simulation Workflow for Submodular Intervention Strategies**|Reet Barik et.al.|[2411.05243](http://arxiv.org/abs/2411.05243)|null|
+|**2024-11-07**|**Performative Reinforcement Learning with Linear Markov Decision Process**|Debmalya Mandal et.al.|[2411.05234](http://arxiv.org/abs/2411.05234)|null|
+|**2024-11-07**|**Alopex: A Computational Framework for Enabling On-Device Function Calls with LLMs**|Yide Ran et.al.|[2411.05209](http://arxiv.org/abs/2411.05209)|null|
+|**2024-11-07**|**Maximizing User Connectivity in AI-Enabled Multi-UAV Networks: A Distributed Strategy Generalized to Arbitrary User Distributions**|Bowei Li et.al.|[2411.05205](http://arxiv.org/abs/2411.05205)|null|
+|**2024-11-07**|**Interactive Dialogue Agents via Reinforcement Learning on Hindsight Regenerations**|Joey Hong et.al.|[2411.05194](http://arxiv.org/abs/2411.05194)|null|
+|**2024-11-07**|**PentestAgent: Incorporating LLM Agents to Automated Penetration Testing**|Xiangmin Shen et.al.|[2411.05185](http://arxiv.org/abs/2411.05185)|null|
+|**2024-11-06**|**Market efficiency, informational asymmetry and pseudo-collusion of adaptively learning agents**|Aleksei Pastushkov et.al.|[2411.05032](http://arxiv.org/abs/2411.05032)|null|
 |**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[2411.04987](http://arxiv.org/abs/2411.04987)|null|
 |**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976](http://arxiv.org/abs/2411.04976)|**[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)**|
 |**2024-11-07**|**StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration**|Panwen Hu et.al.|[2411.04925](http://arxiv.org/abs/2411.04925)|null|
@@ -22,7 +50,7 @@ layout: default
 |**2024-11-07**|**GUI Agents with Foundation Models: A Comprehensive Survey**|Shuai Wang et.al.|[2411.04890](http://arxiv.org/abs/2411.04890)|null|
 |**2024-11-07**|**Think Smart, Act SMARL! Analyzing Probabilistic Logic Driven Safety in Multi-Agent Reinforcement Learning**|Satchit Chatterji et.al.|[2411.04867](http://arxiv.org/abs/2411.04867)|**[link](https://github.com/satchitchatterji/shieldedmarlthesis)**|
 |**2024-11-07**|**Robust Regulation of Labour Contracts**|Théo Durandard et.al.|[2411.04841](http://arxiv.org/abs/2411.04841)|null|
-|**2024-11-07**|**Plasticity Loss in Deep Reinforcement Learning: A Survey**|Timo Klein et.al.|[2411.04832](http://arxiv.org/abs/2411.04832)|null|
+|**2024-11-08**|**Plasticity Loss in Deep Reinforcement Learning: A Survey**|Timo Klein et.al.|[2411.04832](http://arxiv.org/abs/2411.04832)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-11-07**|**A Continuification-Based Control Solution for Large-Scale Shepherding**|Beniamino Di Lorenzo et.al.|[2411.04791](http://arxiv.org/abs/2411.04791)|null|
 |**2024-11-07**|**Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research**|Xuewen Han et.al.|[2411.04788](http://arxiv.org/abs/2411.04788)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
@@ -91,7 +119,7 @@ layout: default
 |**2024-11-04**|**Fine Grained Insider Risk Detection**|Birkett Huber et.al.|[2411.02645](http://arxiv.org/abs/2411.02645)|null|
 |**2024-11-07**|**Learning to Assist Humans without Inferring Rewards**|Vivek Myers et.al.|[2411.02623](http://arxiv.org/abs/2411.02623)|**[link](https://github.com/vivekmyers/empowerment_successor_representations)**|
 |**2024-11-04**|**Multi-Agent Decision Transformers for Dynamic Dispatching in Material Handling Systems Leveraging Enterprise Big Data**|Xian Yeow Lee et.al.|[2411.02584](http://arxiv.org/abs/2411.02584)|null|
-|**2024-11-04**|**Fast and Robust Information Spreading in the Noisy PULL Model**|Niccolò D'Archivio et.al.|[2411.02560](http://arxiv.org/abs/2411.02560)|null|
+|**2024-11-08**|**Fast and Robust Information Spreading in the Noisy PULL Model**|Niccolò D'Archivio et.al.|[2411.02560](http://arxiv.org/abs/2411.02560)|null|
 |**2024-11-04**|**Modeling and Simulation of a Multi Robot System Architecture**|Ahmed R. Sadik et.al.|[2411.02468](http://arxiv.org/abs/2411.02468)|null|
 |**2024-11-04**|**A Multi-Task Role-Playing Agent Capable of Imitating Character Linguistic Styles**|Siyuan Chen et.al.|[2411.02457](http://arxiv.org/abs/2411.02457)|null|
 |**2024-11-03**|**Learning World Models for Unconstrained Goal Navigation**|Yuanlin Duan et.al.|[2411.02446](http://arxiv.org/abs/2411.02446)|**[link](https://github.com/RU-Automated-Reasoning-Group/MUN)**|
@@ -116,7 +144,7 @@ layout: default
 |**2024-11-04**|**DynaSaur: Large Language Agents Beyond Predefined Actions**|Dang Nguyen et.al.|[2411.01747](http://arxiv.org/abs/2411.01747)|null|
 |**2024-11-04**|**Role of Non-Exponential Reversal times in Aggregation Models of Bacterial Populations**|Michael Batista et.al.|[2411.01735](http://arxiv.org/abs/2411.01735)|null|
 |**2024-11-03**|**Large-Scale Multi-Robot Coverage Path Planning on Grids with Path Deconfliction**|Jingtao Tang et.al.|[2411.01707](http://arxiv.org/abs/2411.01707)|**[link](https://github.com/reso1/ls-mcpp)**|
-|**2024-11-03**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683](http://arxiv.org/abs/2411.01683)|**[link](https://github.com/salmank255/ROAD_Waymo_Baseline)**|
+|**2024-11-08**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683](http://arxiv.org/abs/2411.01683)|**[link](https://github.com/salmank255/ROAD_Waymo_Baseline)**|
 |**2024-11-03**|**Linear Quadratic Mean Field Games with Quantile-Dependent Cost Coefficients**|Shuang Gao et.al.|[2411.01668](http://arxiv.org/abs/2411.01668)|null|
 |**2024-11-03**|**EcoAct: Economic Agent Determines When to Register What Action**|Shaokun Zhang et.al.|[2411.01643](http://arxiv.org/abs/2411.01643)|null|
 |**2024-11-03**|**GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making**|Xingyu Hu et.al.|[2411.01608](http://arxiv.org/abs/2411.01608)|null|
