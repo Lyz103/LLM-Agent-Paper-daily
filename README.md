@@ -385,7 +385,7 @@
 |**2024-10-24**|**Quantifying the Value of Revert Protection**|Brian Z. Zhu et.al.|[2410.19106](http://arxiv.org/abs/2410.19106)|null|
 |**2024-10-24**|**VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks**|Lawrence Jang et.al.|[2410.19100](http://arxiv.org/abs/2410.19100)|null|
 |**2024-10-24**|**From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution**|Yuhan Liu et.al.|[2410.19064](http://arxiv.org/abs/2410.19064)|null|
-|**2024-10-24**|**Infogent: An Agent-Based Framework for Web Information Aggregation**|Revanth Gangi Reddy et.al.|[2410.19054](http://arxiv.org/abs/2410.19054)|null|
+|**2024-10-24**|**Infogent: An Agent-Based Framework for Web Information Aggregation**|Revanth Gangi Reddy et.al.|[2410.19054](http://arxiv.org/abs/2410.19054)|**[link](https://github.com/gangiswag/infogent)**|
 |**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964](http://arxiv.org/abs/2410.18964)|null|
 |**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963](http://arxiv.org/abs/2410.18963)|null|
 |**2024-10-24**|**Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play**|Sha Li et.al.|[2410.18935](http://arxiv.org/abs/2410.18935)|null|
@@ -1437,7 +1437,7 @@
 |**2024-09-17**|**PLATO: Planning with LLMs and Affordances for Tool Manipulation**|Arvind Car et.al.|[2409.11580](http://arxiv.org/abs/2409.11580)|null|
 |**2024-09-17**|**Optimal Investment with Costly Expert Opinions**|Christoph Knochenhauer et.al.|[2409.11569](http://arxiv.org/abs/2409.11569)|null|
 |**2024-09-17**|**Hyper-SAMARL: Hypergraph-based Coordinated Task Allocation and Socially-aware Navigation for Multi-Robot Systems**|Weizheng Wang et.al.|[2409.11561](http://arxiv.org/abs/2409.11561)|null|
-|**2024-09-17**|**Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent**|Fatemeh Haji et.al.|[2409.11527](http://arxiv.org/abs/2409.11527)|null|
+|**2024-09-17**|**Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent**|Fatemeh Haji et.al.|[2409.11527](http://arxiv.org/abs/2409.11527)|**[link](https://github.com/secureaiautonomylab/ma-tot)**|
 |**2024-09-17**|**Diffusion of knowledge and the lottery society**|Henri Berestycki et.al.|[2409.11479](http://arxiv.org/abs/2409.11479)|null|
 |**2024-09-24**|**Consensus decision making on a complete graph: complex behaviour from simple assumptions**|P. Sarkanych et.al.|[2409.11475](http://arxiv.org/abs/2409.11475)|null|
 |**2024-09-12**|**Towards Opinion Shaping: A Deep Reinforcement Learning Approach in Bot-User Interactions**|Farbod Siahkali et.al.|[2409.11426](http://arxiv.org/abs/2409.11426)|null|
