@@ -17,6 +17,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
+|**2024-11-12**|**Incentive Design with Spillovers**|Krishna Dasaratha et.al.|[2411.08026](http://arxiv.org/abs/2411.08026)|null|
+|**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965](http://arxiv.org/abs/2411.07965)|null|
+|**2024-11-12**|**Learning Memory Mechanisms for Decision Making through Demonstrations**|William Yue et.al.|[2411.07954](http://arxiv.org/abs/2411.07954)|**[link](https://github.com/williamyue37/attentiontuner)**|
+|**2024-11-12**|**RedCode: Risky Code Execution and Generation Benchmark for Code Agents**|Chengquan Guo et.al.|[2411.07781](http://arxiv.org/abs/2411.07781)|null|
+|**2024-11-12**|**Efficiency of energy-consuming random walkers: Variability in energy helps**|Mohsen Ghasemi Nezhadhaghighi et.al.|[2411.07771](http://arxiv.org/abs/2411.07771)|null|
+|**2024-11-12**|**Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows**|Fangyu Lei et.al.|[2411.07763](http://arxiv.org/abs/2411.07763)|null|
+|**2024-11-12**|**Test Where Decisions Matter: Importance-driven Testing for Deep Reinforcement Learning**|Stefan Pranger et.al.|[2411.07700](http://arxiv.org/abs/2411.07700)|null|
+|**2024-11-12**|**World Models: The Safety Perspective**|Zifan Zeng et.al.|[2411.07690](http://arxiv.org/abs/2411.07690)|null|
+|**2024-11-12**|**Safe Exploitative Play with Untrusted Type Beliefs**|Tongxin Li et.al.|[2411.07679](http://arxiv.org/abs/2411.07679)|null|
+|**2024-11-12**|**The relationship between general equilibrium models with infinite-lived agents and overlapping generations models, and some applications**|Ngoc-Sang Pham et.al.|[2411.07674](http://arxiv.org/abs/2411.07674)|null|
+|**2024-11-12**|**Mitigating Bias in Queer Representation within Large Language Models: A Collaborative Agent Approach**|Tianyi Huang et.al.|[2411.07656](http://arxiv.org/abs/2411.07656)|**[link](https://github.com/tonyhrule/queer-bias-llms)**|
+|**2024-11-12**|**Exploring Multi-Agent Reinforcement Learning for Unrelated Parallel Machine Scheduling**|Maria Zampella et.al.|[2411.07634](http://arxiv.org/abs/2411.07634)|null|
+|**2024-11-12**|**A Simple Multi-agent Joint Prediction Method for Autonomous Driving**|Mingyi Wang et.al.|[2411.07612](http://arxiv.org/abs/2411.07612)|null|
+|**2024-11-12**|**Multiple Non-cooperative Targets Encirclement by Relative Distance based Positioning and Neural Anti-Synchronization Control**|Fen Liu et.al.|[2411.07590](http://arxiv.org/abs/2411.07590)|null|
+|**2024-11-12**|**Reinforcement Learning Framework for Quantitative Trading**|Alhassan S. Yasin et.al.|[2411.07585](http://arxiv.org/abs/2411.07585)|null|
+|**2024-11-12**|**Stability for a stochastic fractional differential variational inequality with Lévy jump**|Yue Zeng et.al.|[2411.07557](http://arxiv.org/abs/2411.07557)|null|
+|**2024-11-12**|**Collaborative and Federated Black-box Optimization: A Bayesian Optimization Perspective**|Raed Al Kontar et.al.|[2411.07523](http://arxiv.org/abs/2411.07523)|null|
+|**2024-11-12**|**Two-Layer Attention Optimization for Bimanual Coordination**|Justin Ting et.al.|[2411.07470](http://arxiv.org/abs/2411.07470)|null|
+|**2024-11-12**|**BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks**|Shubham Gandhi et.al.|[2411.07464](http://arxiv.org/abs/2411.07464)|null|
+|**2024-11-11**|**Using Generative AI and Multi-Agents to Provide Automatic Feedback**|Shuchen Guo et.al.|[2411.07407](http://arxiv.org/abs/2411.07407)|null|
+|**2024-11-11**|**Coupled Wasserstein Gradient Flows for Min-Max and Cooperative Games**|Lauren Conger et.al.|[2411.07403](http://arxiv.org/abs/2411.07403)|null|
+|**2024-11-11**|**Factorised Active Inference for Strategic Multi-Agent Interactions**|Jaime Ruiz-Serra et.al.|[2411.07362](http://arxiv.org/abs/2411.07362)|null|
+|**2024-11-11**|**Strategyproof Learning with Advice**|Eric Balkanski et.al.|[2411.07354](http://arxiv.org/abs/2411.07354)|null|
+|**2024-11-11**|**Mean-field analysis for cognitively-grounded opinion dynamics with confirmation bias**|Sven Banisch et.al.|[2411.07323](http://arxiv.org/abs/2411.07323)|null|
+|**2024-11-10**|**Multi-hop Upstream Preemptive Traffic Signal Control with Deep Reinforcement Learning**|Xiaocan Li et.al.|[2411.07271](http://arxiv.org/abs/2411.07271)|null|
+|**2024-11-09**|**A Survey on Data Markets**|Jiayao Zhang et.al.|[2411.07267](http://arxiv.org/abs/2411.07267)|null|
 |**2024-11-11**|**Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving**|Botao Yu et.al.|[2411.07228](http://arxiv.org/abs/2411.07228)|null|
 |**2024-11-11**|**Grounding Video Models to Actions through Goal Conditioned Exploration**|Yunhao Luo et.al.|[2411.07223](http://arxiv.org/abs/2411.07223)|null|
 |**2024-11-11**|**'Explaining RL Decisions with Trajectories': A Reproducibility Study**|Karim Abdel Sadek et.al.|[2411.07200](http://arxiv.org/abs/2411.07200)|**[link](https://github.com/karim-abdel/fact)**|
@@ -38,7 +65,7 @@
 |**2024-11-11**|**Streetwise Agents: Empowering Offline RL Policies to Outsmart Exogenous Stochastic Disturbances in RTC**|Aditya Soni et.al.|[2411.06815](http://arxiv.org/abs/2411.06815)|null|
 |**2024-11-11**|**Generative midtended cognition and Artificial Intelligence. Thinging with thinging things**|Xabier E. Barandiaran et.al.|[2411.06812](http://arxiv.org/abs/2411.06812)|null|
 |**2024-11-11**|**Data-Driven Control of Large-Scale Networks with Formal Guarantees: A Small-Gain Free Approach**|Behrad Samari et.al.|[2411.06743](http://arxiv.org/abs/2411.06743)|null|
-|**2024-11-11**|**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**|Junyeong Park et.al.|[2411.06736](http://arxiv.org/abs/2411.06736)|null|
+|**2024-11-12**|**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**|Junyeong Park et.al.|[2411.06736](http://arxiv.org/abs/2411.06736)|null|
 |**2024-11-11**|**Script-Strategy Aligned Generation: Aligning LLMs with Expert-Crafted Dialogue Scripts and Therapeutic Strategies for Psychotherapy**|Xin Sun et.al.|[2411.06723](http://arxiv.org/abs/2411.06723)|null|
 |**2024-11-11**|**Ambient AI Scribing Support: Comparing the Performance of Specialized AI Agentic Architecture to Leading Foundational Models**|Chanseo Lee et.al.|[2411.06713](http://arxiv.org/abs/2411.06713)|null|
 |**2024-11-11**|**Two Kinds of Learning Algorithms for Continuous-Time VWAP Targeting Execution**|Xingyu Zhou et.al.|[2411.06645](http://arxiv.org/abs/2411.06645)|null|
@@ -55,12 +82,12 @@
 |**2024-11-09**|**Predictability Awareness for Efficient and Robust Multi-Agent Coordination**|Roman Chiva Gil et.al.|[2411.06223](http://arxiv.org/abs/2411.06223)|null|
 |**2024-11-09**|**IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization**|Xinghua Zhang et.al.|[2411.06208](http://arxiv.org/abs/2411.06208)|null|
 |**2024-11-09**|**From References to Insights: Collaborative Knowledge Minigraph Agents for Automating Scholarly Literature Review**|Zhi Zhang et.al.|[2411.06159](http://arxiv.org/abs/2411.06159)|null|
-|**2024-11-09**|**Cross-Domain Transfer Learning using Attention Latent Features for Multi-Agent Trajectory Prediction**|Jia Quan Loh et.al.|[2411.06087](http://arxiv.org/abs/2411.06087)|null|
+|**2024-11-12**|**Cross-Domain Transfer Learning using Attention Latent Features for Multi-Agent Trajectory Prediction**|Jia Quan Loh et.al.|[2411.06087](http://arxiv.org/abs/2411.06087)|null|
 |**2024-11-09**|**CROPS: A Deployable Crop Management System Over All Possible State Availabilities**|Jing Wu et.al.|[2411.06034](http://arxiv.org/abs/2411.06034)|null|
 |**2024-11-09**|**Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab**|Zan Chen et.al.|[2411.06029](http://arxiv.org/abs/2411.06029)|null|
 |**2024-11-09**|**TourSynbio-Search: A Large Language Model Driven Agent Framework for Unified Search Method for Protein Engineering**|Yungeng Liu et.al.|[2411.06024](http://arxiv.org/abs/2411.06024)|null|
 |**2024-11-08**|**Exploring the Impact of Reflexivity Theory and Cognitive Social Structures on the Dynamics of Doctor-Patient Social System**|Al Saqib Majumder et.al.|[2411.06011](http://arxiv.org/abs/2411.06011)|**[link](https://github.com/al-saqib/cognitive-social-system)**|
-|**2024-11-08**|**Game-theoretic LLM: Agent Workflow for Negotiation Games**|Wenyue Hua et.al.|[2411.05990](http://arxiv.org/abs/2411.05990)|**[link](https://github.com/wenyueh/game_theory)**|
+|**2024-11-12**|**Game-theoretic LLM: Agent Workflow for Negotiation Games**|Wenyue Hua et.al.|[2411.05990](http://arxiv.org/abs/2411.05990)|**[link](https://github.com/wenyueh/game_theory)**|
 |**2024-11-08**|**A Passivity Analysis for Nonlinear Consensus on Balanced Digraphs**|Feng-Yu Yue et.al.|[2411.05933](http://arxiv.org/abs/2411.05933)|null|
 |**2024-11-08**|**Autonomous Industrial Control using an Agentic Framework with Large Language Models**|Javal Vyas et.al.|[2411.05904](http://arxiv.org/abs/2411.05904)|null|
 |**2024-11-08**|**Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent**|Linfeng He et.al.|[2411.05898](http://arxiv.org/abs/2411.05898)|null|
@@ -76,7 +103,7 @@
 |**2024-11-08**|**Expectation vs. Reality: Towards Verification of Psychological Games**|Marta Kwiatkowska et.al.|[2411.05599](http://arxiv.org/abs/2411.05599)|null|
 |**2024-11-08**|**Smart navigation through a rotating barrier: Deep reinforcement learning with application to size-based separation of active microagents**|Mohammad Hossein Masoudi et.al.|[2411.05587](http://arxiv.org/abs/2411.05587)|null|
 |**2024-11-08**|**Tangled Program Graphs as an alternative to DRL-based control algorithms for UAVs**|Hubert Szolc et.al.|[2411.05586](http://arxiv.org/abs/2411.05586)|**[link](https://github.com/vision-agh/drone_forest)**|
-|**2024-11-08**|**Parameterized Voter Relevance in Facility Location Games with Tree-Shaped Invitation Graphs**|Ryoto Ando et.al.|[2411.05574](http://arxiv.org/abs/2411.05574)|null|
+|**2024-11-11**|**Parameterized Voter Relevance in Facility Location Games with Tree-Shaped Invitation Graphs**|Ryoto Ando et.al.|[2411.05574](http://arxiv.org/abs/2411.05574)|null|
 |**2024-11-08**|**Time-to-reach Bounds for Verification of Dynamical Systems Using the Koopman Spectrum**|Jianqiang Ding et.al.|[2411.05554](http://arxiv.org/abs/2411.05554)|null|
 |**2024-11-08**|**Evolution of cooperation in a three-strategy game combining snowdrift and stag hunt games**|Hirofumi Takesue et.al.|[2411.05543](http://arxiv.org/abs/2411.05543)|null|
 |**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|**[link](https://github.com/giuliacencetti/surrogate_net_generation)**|
