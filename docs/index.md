@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -25,7 +25,7 @@ layout: default
 |**2024-11-14**|**Artificial Theory of Mind and Self-Guided Social Organisation**|Michael S. Harré et.al.|[2411.09169](http://arxiv.org/abs/2411.09169)|null|
 |**2024-11-14**|**Theory of Mind Enhances Collective Intelligence**|Michael S. Harré et.al.|[2411.09168](http://arxiv.org/abs/2411.09168)|null|
 |**2024-11-14**|**Rationality based Innate-Values-driven Reinforcement Learning**|Qin Yang et.al.|[2411.09160](http://arxiv.org/abs/2411.09160)|null|
-|**2024-11-14**|**The \emph{Optimist}: Towards Fully Automated Graph Theory Research**|Randy Davila et.al.|[2411.09158](http://arxiv.org/abs/2411.09158)|null|
+|**2024-11-14**|**The \emph{Optimist}: Towards Fully Automated Graph Theory Research**|Randy Davila et.al.|[2411.09158](http://arxiv.org/abs/2411.09158)|**[link](https://github.com/randyrdavila/the-optimist)**|
 |**2024-11-14**|**Personalized Help for Optimizing Low-Skilled Users' Strategy**|Feng Gu et.al.|[2411.09109](http://arxiv.org/abs/2411.09109)|null|
 |**2024-11-13**|**Pheromone-Guided Navigation of Potential Mates: A Distinct Exploration Strategy**|Nick Dashti et.al.|[2411.09092](http://arxiv.org/abs/2411.09092)|null|
 |**2024-11-13**|**Microfoundation Inference for Strategic Prediction**|Daniele Bracale et.al.|[2411.08998](http://arxiv.org/abs/2411.08998)|null|
@@ -57,7 +57,7 @@ layout: default
 |**2024-11-12**|**Virtual Buddy: Redefining Conversational AI Interactions for Individuals with Hand Motor Disabilities**|Atieh Taheri et.al.|[2411.08228](http://arxiv.org/abs/2411.08228)|null|
 |**2024-11-12**|**Collision-Free Multi-Agent Coverage Control for Non-Cooperating Swarms: Preliminary Results**|Karolina Schmidt et.al.|[2411.08190](http://arxiv.org/abs/2411.08190)|null|
 |**2024-11-12**|**Multi-Agent Stochastic Bandits Robust to Adversarial Corruptions**|Fatemeh Ghaffari et.al.|[2411.08167](http://arxiv.org/abs/2411.08167)|null|
-|**2024-11-12**|**Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization**|Dinesh Srivasthav P et.al.|[2411.08148](http://arxiv.org/abs/2411.08148)|**[link](https://github.com/dineshsrivasthav/adaptive_meta_learning_with_multi_agent_framework)**|
+|**2024-11-12**|**Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization**|Dinesh Srivasthav P et.al.|[2411.08148](http://arxiv.org/abs/2411.08148)|null|
 |**2024-11-10**|**MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration**|Ziqi Ni et.al.|[2411.08063](http://arxiv.org/abs/2411.08063)|null|
 |**2024-11-09**|**Segmentized quarantine policy for managing a tradeoff between containment of infectious disease and social cost of quarantine**|Jungwoo Kim et.al.|[2411.08059](http://arxiv.org/abs/2411.08059)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
@@ -104,7 +104,7 @@ layout: default
 |**2024-11-11**|**Enhancing Robot Assistive Behaviour with Reinforcement Learning and Theory of Mind**|Antonio Andriella et.al.|[2411.07003](http://arxiv.org/abs/2411.07003)|**[link](https://github.com/prisca-lab/q-learning_concentration)**|
 |**2024-11-11**|**Maximizing Nash Social Welfare in 2-Value Instances: A Simpler Proof for the Half-Integer Case**|Kurt Mehlhorn et.al.|[2411.06924](http://arxiv.org/abs/2411.06924)|null|
 |**2024-11-11**|**Scalable Distributed Least Squares Algorithm for Linear Algebraic Equations via Scheduling**|Shenyu Liu et.al.|[2411.06883](http://arxiv.org/abs/2411.06883)|null|
-|**2024-11-11**|**Distributed Graph Augmentation Protocols to Achieve Strong Connectivity in Multi-Agent Networks**|Guilherme Ramos et.al.|[2411.06880](http://arxiv.org/abs/2411.06880)|null|
+|**2024-11-11**|**Distributed Graph Augmentation Protocols to Achieve Strong Connectivity in Multi-Agent Networks**|Guilherme Ramos et.al.|[2411.06880](http://arxiv.org/abs/2411.06880)|**[link](https://github.com/xuizy/distributed_network_augmentation)**|
 |**2024-11-11**|**Streetwise Agents: Empowering Offline RL Policies to Outsmart Exogenous Stochastic Disturbances in RTC**|Aditya Soni et.al.|[2411.06815](http://arxiv.org/abs/2411.06815)|null|
 |**2024-11-11**|**Generative midtended cognition and Artificial Intelligence. Thinging with thinging things**|Xabier E. Barandiaran et.al.|[2411.06812](http://arxiv.org/abs/2411.06812)|null|
 |**2024-11-11**|**Data-Driven Control of Large-Scale Networks with Formal Guarantees: A Small-Gain Free Approach**|Behrad Samari et.al.|[2411.06743](http://arxiv.org/abs/2411.06743)|null|
@@ -113,7 +113,7 @@ layout: default
 |**2024-11-11**|**Ambient AI Scribing Support: Comparing the Performance of Specialized AI Agentic Architecture to Leading Foundational Models**|Chanseo Lee et.al.|[2411.06713](http://arxiv.org/abs/2411.06713)|null|
 |**2024-11-11**|**Two Kinds of Learning Algorithms for Continuous-Time VWAP Targeting Execution**|Xingyu Zhou et.al.|[2411.06645](http://arxiv.org/abs/2411.06645)|null|
 |**2024-11-10**|**OffLight: An Offline Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Rohit Bokade et.al.|[2411.06601](http://arxiv.org/abs/2411.06601)|null|
-|**2024-11-10**|**Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents**|Yu Gu et.al.|[2411.06559](http://arxiv.org/abs/2411.06559)|null|
+|**2024-11-10**|**Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents**|Yu Gu et.al.|[2411.06559](http://arxiv.org/abs/2411.06559)|**[link](https://github.com/osu-nlp-group/webdreamer)**|
 |**2024-11-10**|**Real-time Deformation-aware Control for Autonomous Robotic Subretinal Injection under iOCT Guidance**|Demir Arikan et.al.|[2411.06557](http://arxiv.org/abs/2411.06557)|null|
 |**2024-11-10**|**A dynamic auction for multilateral collaboration**|Chao Huang et.al.|[2411.06545](http://arxiv.org/abs/2411.06545)|null|
 |**2024-11-10**|**Individual Regret in Cooperative Stochastic Multi-Armed Bandits**|Idan Barnea et.al.|[2411.06501](http://arxiv.org/abs/2411.06501)|null|
