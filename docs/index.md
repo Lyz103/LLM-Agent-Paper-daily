@@ -14,6 +14,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Fair Division via the Cake-Cutting Share**|Yannan Bai et.al.|[2411.10434](http://arxiv.org/abs/2411.10434)|null|
+|**2024-11-15**|**Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash**|Parsa Hejabi et.al.|[2411.10422](http://arxiv.org/abs/2411.10422)|**[link](https://github.com/parsahejabi/simulation-framework-for-multi-agent-balderdash)**|
+|**2024-11-15**|**The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use**|Siyuan Hu et.al.|[2411.10323](http://arxiv.org/abs/2411.10323)|**[link](https://github.com/showlab/computer_use_ootb)**|
+|**2024-11-15**|**Static network structure cannot stabilize cooperation among Large Language Model agents**|Jin Han et.al.|[2411.10294](http://arxiv.org/abs/2411.10294)|null|
+|**2024-11-15**|**Towards Sample-Efficiency and Generalization of Transfer and Inverse Reinforcement Learning: A Comprehensive Literature Review**|Hossein Hassani et.al.|[2411.10268](http://arxiv.org/abs/2411.10268)|null|
+|**2024-11-15**|**Visual-Linguistic Agent: Towards Collaborative Contextual Object Reasoning**|Jingru Yang et.al.|[2411.10252](http://arxiv.org/abs/2411.10252)|null|
+|**2024-11-15**|**An Empirical Study on LLM-based Agents for Automated Bug Fixing**|Xiangxin Meng et.al.|[2411.10213](http://arxiv.org/abs/2411.10213)|null|
+|**2024-11-15**|**Agentic LLMs in the Supply Chain: Towards Autonomous Multi-Agent Consensus-Seeking**|Valeria Jannelli et.al.|[2411.10184](http://arxiv.org/abs/2411.10184)|null|
+|**2024-11-15**|**Let people fail! Exploring the influence of explainable virtual and robotic agents in learning-by-doing tasks**|Marco Matarese et.al.|[2411.10176](http://arxiv.org/abs/2411.10176)|null|
+|**2024-11-15**|**The Surprising Ineffectiveness of Pre-Trained Visual Representations for Model-Based Reinforcement Learning**|Moritz Schneider et.al.|[2411.10175](http://arxiv.org/abs/2411.10175)|null|
+|**2024-11-15**|**Semantics and Spatiality of Emergent Communication**|Rotem Ben Zion et.al.|[2411.10173](http://arxiv.org/abs/2411.10173)|null|
+|**2024-11-15**|**Multi-UAV Search and Rescue in Wilderness Using Smart Agent-Based Probability Models**|Zijian Ge et.al.|[2411.10148](http://arxiv.org/abs/2411.10148)|null|
+|**2024-11-15**|**Omnichain Web: The Universal Framework for Streamlined Chain Abstraction and Cross-Layer Interaction**|Hardik Gajera et.al.|[2411.10132](http://arxiv.org/abs/2411.10132)|null|
+|**2024-11-15**|**Generative Agent Simulations of 1,000 People**|Joon Sung Park et.al.|[2411.10109](http://arxiv.org/abs/2411.10109)|null|
+|**2024-11-15**|**Neural Port-Hamiltonian Models for Nonlinear Distributed Control: An Unconstrained Parametrization Approach**|Muhammad Zakwan et.al.|[2411.10096](http://arxiv.org/abs/2411.10096)|null|
+|**2024-11-15**|**Enforcing Cooperative Safety for Reinforcement Learning-based Mixed-Autonomy Platoon Control**|Jingyuan Zhou et.al.|[2411.10031](http://arxiv.org/abs/2411.10031)|null|
+|**2024-11-15**|**Orca: Enhancing Role-Playing Abilities of Large Language Models by Integrating Personality Traits**|Yuxuan Huang et.al.|[2411.10006](http://arxiv.org/abs/2411.10006)|null|
+|**2024-11-15**|**Solvated Electrons and Hydroxyl Radicals at the Plasma-Liquid Interface**|Seungjun Lee et.al.|[2411.09991](http://arxiv.org/abs/2411.09991)|null|
+|**2024-11-15**|**Large Language Models as User-Agents for Evaluating Task-Oriented-Dialogue Systems**|Taaha Kazi et.al.|[2411.09972](http://arxiv.org/abs/2411.09972)|null|
+|**2024-11-15**|**Sublinear-time Collision Detection with a Polynomial Number of States in Population Protocols**|Takumi Araya et.al.|[2411.09957](http://arxiv.org/abs/2411.09957)|null|
+|**2024-11-15**|**Reaching Resilient Leader-Follower Consensus in Time-Varying Networks via Multi-Hop Relays**|Liwei Yuan et.al.|[2411.09954](http://arxiv.org/abs/2411.09954)|null|
+|**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893](http://arxiv.org/abs/2411.09893)|null|
+|**2024-11-15**|**Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**|Tian Niu et.al.|[2411.09887](http://arxiv.org/abs/2411.09887)|null|
+|**2024-11-15**|**InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma**|Xiaoxuan Hou et.al.|[2411.09856](http://arxiv.org/abs/2411.09856)|null|
+|**2024-11-15**|**KULCQ: An Unsupervised Keyword-based Utterance Level Clustering Quality Metric**|Pranav Guruprasad et.al.|[2411.09853](http://arxiv.org/abs/2411.09853)|null|
+|**2024-11-14**|**Self-Propelled Agents and Group Social Force**|Peng Wang et.al.|[2411.09840](http://arxiv.org/abs/2411.09840)|null|
+|**2024-11-14**|**Video Denoising in Fluorescence Guided Surgery**|Trevor Seets et.al.|[2411.09798](http://arxiv.org/abs/2411.09798)|null|
+|**2024-11-14**|**Reinforced Disentanglers on Random Unitary Circuits**|Ning Bao et.al.|[2411.09784](http://arxiv.org/abs/2411.09784)|null|
 |**2024-11-14**|**Nash equilibrium seeking for a class of quadratic-bilinear Wasserstein distributionally robust games**|Georgios Pantazis et.al.|[2411.09636](http://arxiv.org/abs/2411.09636)|null|
 |**2024-11-14**|**Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents**|Yuyou Gan et.al.|[2411.09523](http://arxiv.org/abs/2411.09523)|null|
 |**2024-11-14**|**Randomized Truthful Auctions with Learning Agents**|Gagan Aggarwal et.al.|[2411.09517](http://arxiv.org/abs/2411.09517)|null|
