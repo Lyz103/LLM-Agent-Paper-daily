@@ -14,7 +14,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
+|**2024-11-19**|**Reinforcement Learning, Collusion, and the Folk Theorem**|Galit Askenazi-Golan et.al.|[2411.12725](http://arxiv.org/abs/2411.12725)|null|
+|**2024-11-19**|**UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**|Chunru Lin et.al.|[2411.12711](http://arxiv.org/abs/2411.12711)|null|
+|**2024-11-19**|**Weighted Envy Freeness With Limited Subsidies**|Noga Klein Elmalem et.al.|[2411.12696](http://arxiv.org/abs/2411.12696)|null|
+|**2024-11-19**|**Quasi-stability notions in two-sided matching models**|Nadia Guiñazú et.al.|[2411.12533](http://arxiv.org/abs/2411.12533)|null|
+|**2024-11-19**|**Coevolution of relationship-driven cooperation under recommendation protocol on multiplex networks**|Hongyu Yue et.al.|[2411.12436](http://arxiv.org/abs/2411.12436)|null|
+|**2024-11-19**|**Instrumentation of Software Systems with OpenTelemetry for Software Visualization**|Malte Hansen et.al.|[2411.12380](http://arxiv.org/abs/2411.12380)|null|
+|**2024-11-19**|**C $^{2}$ INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[2411.12313](http://arxiv.org/abs/2411.12313)|null|
+|**2024-11-19**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308](http://arxiv.org/abs/2411.12308)|null|
+|**2024-11-19**|**Emergence of Implicit World Models from Mortal Agents**|Kazuya Horibe et.al.|[2411.12304](http://arxiv.org/abs/2411.12304)|null|
+|**2024-11-19**|**Could Humans Outshine AI in Visual Data Analysis?**|Ratanond Koonchanok et.al.|[2411.12299](http://arxiv.org/abs/2411.12299)|null|
+|**2024-11-19**|**Efficient Training in Multi-Agent Reinforcement Learning: A Communication-Free Framework for the Box-Pushing Problem**|David Ge et.al.|[2411.12246](http://arxiv.org/abs/2411.12246)|null|
+|**2024-11-19**|**Safe Navigation in Dynamic Environments using Density Functions**|Sriram S. K. S Narayanan et.al.|[2411.12206](http://arxiv.org/abs/2411.12206)|null|
+|**2024-11-19**|**A More Advanced Group Polarization Measurement Approach Based on LLM-Based Agents and Graphs**|Zixin Liu et.al.|[2411.12196](http://arxiv.org/abs/2411.12196)|null|
+|**2024-11-19**|**Action-Attentive Deep Reinforcement Learning for Autonomous Alignment of Beamlines**|Siyu Wang et.al.|[2411.12183](http://arxiv.org/abs/2411.12183)|null|
+|**2024-11-19**|**A Combined Encoder and Transformer Approach for Coherent and High-Quality Text Generation**|Jiajing Chen et.al.|[2411.12157](http://arxiv.org/abs/2411.12157)|null|
+|**2024-11-19**|**Reinforcement Learning with Action Sequence for Data-Efficient Robot Learning**|Younggyo Seo et.al.|[2411.12155](http://arxiv.org/abs/2411.12155)|null|
+|**2024-11-19**|**HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments**|Shuijing Liu et.al.|[2411.12150](http://arxiv.org/abs/2411.12150)|null|
+|**2024-11-19**|**Hierarchical Trait-State Model for Decoding Dyadic Social Interactions**|Qianying Wu et.al.|[2411.12145](http://arxiv.org/abs/2411.12145)|null|
+|**2024-11-19**|**Adversarial Multi-Agent Reinforcement Learning for Proactive False Data Injection Detection**|Kejun Chen et.al.|[2411.12130](http://arxiv.org/abs/2411.12130)|null|
+|**2024-11-18**|**On-the-Go Path Planning and Repair in Static and Dynamic Scenarios**|Daniel Ajeleye et.al.|[2411.12014](http://arxiv.org/abs/2411.12014)|null|
+|**2024-11-18**|**Newclid: A User-Friendly Replacement for AlphaGeometry**|Vladmir Sicca et.al.|[2411.11938](http://arxiv.org/abs/2411.11938)|**[link](https://github.com/lmcrc/newclid)**|
+|**2024-11-18**|**From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing**|Jingxuan Wei et.al.|[2411.11916](http://arxiv.org/abs/2411.11916)|null|
+|**2024-11-17**|**ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling**|Zikang Zhou et.al.|[2411.11911](http://arxiv.org/abs/2411.11911)|null|
+|**2024-11-17**|**AIGS: Generating Science from AI-Powered Automated Falsification**|Zijun Liu et.al.|[2411.11910](http://arxiv.org/abs/2411.11910)|null|
+|**2024-11-19**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
 |**2024-11-18**|**Reinterpreting Delay and Procrastination**|Conrad Kosowsky et.al.|[2411.11828](http://arxiv.org/abs/2411.11828)|null|
 |**2024-11-18**|**Competing Bandits in Decentralized Large Contextual Matching Markets**|Satush Parikh et.al.|[2411.11794](http://arxiv.org/abs/2411.11794)|null|
 |**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779](http://arxiv.org/abs/2411.11779)|null|
@@ -25,12 +49,12 @@ layout: default
 |**2024-11-18**|**TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World**|Xianlong Wang et.al.|[2411.11683](http://arxiv.org/abs/2411.11683)|null|
 |**2024-11-18**|**Artificial Scientific Discovery**|Antonio Norelli et.al.|[2411.11672](http://arxiv.org/abs/2411.11672)|null|
 |**2024-11-18**|**No-regret Exploration in Shuffle Private Reinforcement Learning**|Shaojie Bai et.al.|[2411.11647](http://arxiv.org/abs/2411.11647)|null|
-|**2024-11-18**|**Signaling and Social Learning in Swarms of Robots**|Leo Cazenille et.al.|[2411.11616](http://arxiv.org/abs/2411.11616)|null|
+|**2024-11-19**|**Signaling and Social Learning in Swarms of Robots**|Leo Cazenille et.al.|[2411.11616](http://arxiv.org/abs/2411.11616)|null|
 |**2024-11-18**|**OASIS: Open Agents Social Interaction Simulations on One Million Agents**|Ziyi Yang et.al.|[2411.11581](http://arxiv.org/abs/2411.11581)|null|
 |**2024-11-18**|**A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation**|Hanxiang Xu et.al.|[2411.11532](http://arxiv.org/abs/2411.11532)|null|
 |**2024-11-18**|**Structure learning with Temporal Gaussian Mixture for model-based Reinforcement Learning**|Théophile Champion et.al.|[2411.11511](http://arxiv.org/abs/2411.11511)|null|
 |**2024-11-18**|**Timescale-agnostic characterisation for collective attention events**|Tristan J. B. Cann et.al.|[2411.11500](http://arxiv.org/abs/2411.11500)|null|
-|**2024-11-18**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|null|
+|**2024-11-19**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|null|
 |**2024-11-18**|**Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts**|Jingxuan Li et.al.|[2411.11479](http://arxiv.org/abs/2411.11479)|null|
 |**2024-11-18**|**Distributed Learning with Partial Information Sharing**|P Raghavendra Rao et.al.|[2411.11411](http://arxiv.org/abs/2411.11411)|null|
 |**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409](http://arxiv.org/abs/2411.11409)|null|
@@ -39,7 +63,7 @@ layout: default
 |**2024-11-18**|**Syllabus: Portable Curricula for Reinforcement Learning Agents**|Ryan Sullivan et.al.|[2411.11318](http://arxiv.org/abs/2411.11318)|null|
 |**2024-11-18**|**Facilitating a 3D granular flow with an obstruction**|Abhijit Sinha et.al.|[2411.11264](http://arxiv.org/abs/2411.11264)|null|
 |**2024-11-17**|**AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers**|Jake Grigsby et.al.|[2411.11188](http://arxiv.org/abs/2411.11188)|null|
-|**2024-11-17**|**Competition, Persuasion, and Search**|Teddy Mekonnen et.al.|[2411.11183](http://arxiv.org/abs/2411.11183)|null|
+|**2024-11-19**|**Competition, Persuasion, and Search**|Teddy Mekonnen et.al.|[2411.11183](http://arxiv.org/abs/2411.11183)|null|
 |**2024-11-17**|**Robust Defense Against Extreme Grid Events Using Dual-Policy Reinforcement Learning Agents**|Benjamin M. Peter et.al.|[2411.11180](http://arxiv.org/abs/2411.11180)|null|
 |**2024-11-17**|**Emergent Structure in Multi-agent Systems Using Geometric Embeddings**|Dimitria Silveria et.al.|[2411.11142](http://arxiv.org/abs/2411.11142)|null|
 |**2024-11-17**|**On Truthful Mechanisms without Pareto-efficiency: Characterizations and Fairness**|Moshe Babaioff et.al.|[2411.11131](http://arxiv.org/abs/2411.11131)|null|
@@ -124,7 +148,7 @@ layout: default
 |**2024-11-13**|**Robot See, Robot Do: Imitation Reward for Noisy Financial Environments**|Sven Goluža et.al.|[2411.08637](http://arxiv.org/abs/2411.08637)|null|
 |**2024-11-13**|**On the Application of Model Predictive Control to a Weighted Coverage Path Planning Problem**|Kilian Schweppe et.al.|[2411.08634](http://arxiv.org/abs/2411.08634)|null|
 |**2024-11-13**|**NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation**|Youzhi Liu et.al.|[2411.08579](http://arxiv.org/abs/2411.08579)|null|
-|**2024-11-13**|**Grammarization-Based Grasping with Deep Multi-Autoencoder Latent Space Exploration by Reinforcement Learning Agent**|Leonidas Askianakis et.al.|[2411.08566](http://arxiv.org/abs/2411.08566)|null|
+|**2024-11-19**|**Grammarization-Based Grasping with Deep Multi-Autoencoder Latent Space Exploration by Reinforcement Learning Agent**|Leonidas Askianakis et.al.|[2411.08566](http://arxiv.org/abs/2411.08566)|null|
 |**2024-11-13**|**TimeLess: A Vision for the Next Generation of Software Development**|Zeeshan Rasheed et.al.|[2411.08507](http://arxiv.org/abs/2411.08507)|null|
 |**2024-11-14**|**Towards Objective and Unbiased Decision Assessments with LLM-Enhanced Hierarchical Attention Networks**|Junhua Liu et.al.|[2411.08504](http://arxiv.org/abs/2411.08504)|**[link](https://github.com/junhua/bgm-han)**|
 |**2024-11-13**|**AD-DINO: Attention-Dynamic DINO for Distance-Aware Embodied Reference Understanding**|Hao Guo et.al.|[2411.08451](http://arxiv.org/abs/2411.08451)|null|
