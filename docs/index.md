@@ -14,6 +14,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
+|**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
+|**2024-11-20**|**A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback**|Alireza Rashidi Laleh et.al.|[2411.13410](http://arxiv.org/abs/2411.13410)|null|
+|**2024-11-20**|**Simulating Liquidity: Agent-Based Modeling of Illiquid Markets for Fractional Ownership**|Lars Fluri et.al.|[2411.13381](http://arxiv.org/abs/2411.13381)|null|
+|**2024-11-20**|**WHALES: A Multi-agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving**|Siwei Chen et.al.|[2411.13340](http://arxiv.org/abs/2411.13340)|**[link](https://github.com/chensiweithu/whales)**|
+|**2024-11-20**|**Revealed Information**|Laura Doval et.al.|[2411.13293](http://arxiv.org/abs/2411.13293)|null|
+|**2024-11-20**|**Transforming the Hybrid Cloud for Emerging AI Workloads**|Deming Chen et.al.|[2411.13239](http://arxiv.org/abs/2411.13239)|null|
+|**2024-11-20**|**Extremum and Nash Equilibrium Seeking with Delays and PDEs: Designs & Applications**|Tiago Roux Oliveira et.al.|[2411.13234](http://arxiv.org/abs/2411.13234)|null|
+|**2024-11-20**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
+|**2024-11-20**|**Engagement-Driven Content Generation with Large Language Models**|Erica Coppolillo et.al.|[2411.13187](http://arxiv.org/abs/2411.13187)|null|
+|**2024-11-20**|**Cyborg Insect Factory: Automatic Assembly System to Build up Insect-computer Hybrid Robot Based on Vision-guided Robotic Arm Manipulation of Custom Bipolar Electrodes**|Qifeng Lin et.al.|[2411.13164](http://arxiv.org/abs/2411.13164)|null|
+|**2024-11-20**|**Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning**|Zhi Luo et.al.|[2411.13116](http://arxiv.org/abs/2411.13116)|null|
+|**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
+|**2024-11-20**|**AMaze: An intuitive benchmark generator for fast prototyping of generalizable agents**|Kevin Godin-Dubois et.al.|[2411.13072](http://arxiv.org/abs/2411.13072)|null|
+|**2024-11-20**|**Breaking the Cycle of Recurring Failures: Applying Generative AI to Root Cause Analysis in Legacy Banking Systems**|Siyuan Jin et.al.|[2411.13017](http://arxiv.org/abs/2411.13017)|null|
+|**2024-11-20**|**MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning**|Mircea Lică et.al.|[2411.12977](http://arxiv.org/abs/2411.12977)|null|
+|**2024-11-19**|**Non-Newtonian corrections to radiative viscosity: Israel-Stewart theory as a viscosity limiter**|Lorenzo Gavassino et.al.|[2411.12929](http://arxiv.org/abs/2411.12929)|null|
+|**2024-11-19**|**Human-In-the-Loop Software Development Agents**|Wannita Takerngsaksiri et.al.|[2411.12924](http://arxiv.org/abs/2411.12924)|null|
+|**2024-11-19**|**Non-unique water and contrast agent solutions in dual-energy CT**|JP Phillips et.al.|[2411.12862](http://arxiv.org/abs/2411.12862)|null|
+|**2024-11-19**|**Matching Design with Sufficiency and Applications to Child Welfare**|Terence Highsmith Ii et.al.|[2411.12860](http://arxiv.org/abs/2411.12860)|null|
+|**2024-11-19**|**Probing the Capacity of Language Model Agents to Operationalize Disparate Experiential Context Despite Distraction**|Sonny George et.al.|[2411.12828](http://arxiv.org/abs/2411.12828)|**[link](https://github.com/sonnygeorge/oedd)**|
+|**2024-11-19**|**Conversational Medical AI: Ready for Practice**|Antoine Lizée et.al.|[2411.12808](http://arxiv.org/abs/2411.12808)|null|
+|**2024-11-16**|**Education in the Era of Neurosymbolic AI**|Chris Davis Jaldi et.al.|[2411.12763](http://arxiv.org/abs/2411.12763)|null|
 |**2024-11-19**|**Reinforcement Learning, Collusion, and the Folk Theorem**|Galit Askenazi-Golan et.al.|[2411.12725](http://arxiv.org/abs/2411.12725)|null|
 |**2024-11-19**|**UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**|Chunru Lin et.al.|[2411.12711](http://arxiv.org/abs/2411.12711)|null|
 |**2024-11-19**|**Weighted Envy Freeness With Limited Subsidies**|Noga Klein Elmalem et.al.|[2411.12696](http://arxiv.org/abs/2411.12696)|null|
@@ -177,7 +202,7 @@ layout: default
 |**2024-11-12**|**Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows**|Fangyu Lei et.al.|[2411.07763](http://arxiv.org/abs/2411.07763)|null|
 |**2024-11-12**|**Test Where Decisions Matter: Importance-driven Testing for Deep Reinforcement Learning**|Stefan Pranger et.al.|[2411.07700](http://arxiv.org/abs/2411.07700)|null|
 |**2024-11-12**|**World Models: The Safety Perspective**|Zifan Zeng et.al.|[2411.07690](http://arxiv.org/abs/2411.07690)|null|
-|**2024-11-12**|**Safe Exploitative Play with Untrusted Type Beliefs**|Tongxin Li et.al.|[2411.07679](http://arxiv.org/abs/2411.07679)|null|
+|**2024-11-20**|**Safe Exploitative Play with Untrusted Type Beliefs**|Tongxin Li et.al.|[2411.07679](http://arxiv.org/abs/2411.07679)|null|
 |**2024-11-12**|**The relationship between general equilibrium models with infinite-lived agents and overlapping generations models, and some applications**|Ngoc-Sang Pham et.al.|[2411.07674](http://arxiv.org/abs/2411.07674)|null|
 |**2024-11-12**|**Mitigating Bias in Queer Representation within Large Language Models: A Collaborative Agent Approach**|Tianyi Huang et.al.|[2411.07656](http://arxiv.org/abs/2411.07656)|**[link](https://github.com/tonyhrule/queer-bias-llms)**|
 |**2024-11-12**|**Exploring Multi-Agent Reinforcement Learning for Unrelated Parallel Machine Scheduling**|Maria Zampella et.al.|[2411.07634](http://arxiv.org/abs/2411.07634)|null|
