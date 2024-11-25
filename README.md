@@ -236,7 +236,7 @@
 |**2024-11-12**|**Incentive Design with Spillovers**|Krishna Dasaratha et.al.|[2411.08026](http://arxiv.org/abs/2411.08026)|null|
 |**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965](http://arxiv.org/abs/2411.07965)|null|
 |**2024-11-13**|**Learning Memory Mechanisms for Decision Making through Demonstrations**|William Yue et.al.|[2411.07954](http://arxiv.org/abs/2411.07954)|**[link](https://github.com/williamyue37/attentiontuner)**|
-|**2024-11-12**|**RedCode: Risky Code Execution and Generation Benchmark for Code Agents**|Chengquan Guo et.al.|[2411.07781](http://arxiv.org/abs/2411.07781)|null|
+|**2024-11-12**|**RedCode: Risky Code Execution and Generation Benchmark for Code Agents**|Chengquan Guo et.al.|[2411.07781](http://arxiv.org/abs/2411.07781)|**[link](https://github.com/ai-secure/redcode)**|
 |**2024-11-12**|**Efficiency of energy-consuming random walkers: Variability in energy helps**|Mohsen Ghasemi Nezhadhaghighi et.al.|[2411.07771](http://arxiv.org/abs/2411.07771)|null|
 |**2024-11-12**|**Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows**|Fangyu Lei et.al.|[2411.07763](http://arxiv.org/abs/2411.07763)|null|
 |**2024-11-12**|**Test Where Decisions Matter: Importance-driven Testing for Deep Reinforcement Learning**|Stefan Pranger et.al.|[2411.07700](http://arxiv.org/abs/2411.07700)|null|
@@ -328,7 +328,7 @@
 |**2024-11-08**|**VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM**|Jeongwoo Lee et.al.|[2411.05423](http://arxiv.org/abs/2411.05423)|null|
 |**2024-11-08**|**Towards Low-Resource Harmful Meme Detection with LMM Agents**|Jianzhao Huang et.al.|[2411.05383](http://arxiv.org/abs/2411.05383)|**[link](https://github.com/jianzhao-huang/lorehm)**|
 |**2024-11-08**|**Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework**|Honghao Shi et.al.|[2411.05349](http://arxiv.org/abs/2411.05349)|null|
-|**2024-11-08**|**LLM-PySC2: Starcraft II learning environment for Large Language Models**|Zongyuan Li et.al.|[2411.05348](http://arxiv.org/abs/2411.05348)|null|
+|**2024-11-08**|**LLM-PySC2: Starcraft II learning environment for Large Language Models**|Zongyuan Li et.al.|[2411.05348](http://arxiv.org/abs/2411.05348)|**[link](https://github.com/nkai-decision-team/llm-pysc2)**|
 |**2024-11-08**|**A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents**|Liming Dong et.al.|[2411.05285](http://arxiv.org/abs/2411.05285)|null|
 |**2024-11-07**|**An Integrated Epidemic Simulation Workflow for Submodular Intervention Strategies**|Reet Barik et.al.|[2411.05243](http://arxiv.org/abs/2411.05243)|null|
 |**2024-11-07**|**Performative Reinforcement Learning with Linear Markov Decision Process**|Debmalya Mandal et.al.|[2411.05234](http://arxiv.org/abs/2411.05234)|null|
@@ -1119,7 +1119,7 @@
 |**2024-10-10**|**HLM-Cite: Hybrid Language Model Workflow for Text-based Scientific Citation Prediction**|Qianyue Hao et.al.|[2410.09112](http://arxiv.org/abs/2410.09112)|**[link](https://github.com/tsinghua-fib-lab/H-LM)**|
 |**2024-10-10**|**Federated Learning for Data Market: Shapley-UCB for Seller Selection and Incentives**|Kongyang Chen et.al.|[2410.09107](http://arxiv.org/abs/2410.09107)|null|
 |**2024-10-09**|**Adaptive Active Inference Agents for Heterogeneous and Lifelong Federated Learning**|Anastasiya Danilenka et.al.|[2410.09099](http://arxiv.org/abs/2410.09099)|**[link](https://github.com/adanilenka/adaptive_aif_agents_for_fl)**|
-|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|**[link](https://github.com/xyin-anl/Nodeology)**|
 |**2024-10-14**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
 |**2024-10-11**|**From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts**|Zhuohao Jerry Zhang et.al.|[2410.09006](http://arxiv.org/abs/2410.09006)|null|
 |**2024-10-11**|**Cyclic jetting enables microbubble-mediated drug delivery**|Marco Cattaneo et.al.|[2410.08990](http://arxiv.org/abs/2410.08990)|null|
@@ -1353,7 +1353,7 @@
 |**2024-10-03**|**Bayesian Mechanics of Synaptic Learning under the Free Energy Principle**|Chang Sub Kim et.al.|[2410.02972](http://arxiv.org/abs/2410.02972)|null|
 |**2024-10-03**|**AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML**|Patara Trirat et.al.|[2410.02958](http://arxiv.org/abs/2410.02958)|null|
 |**2024-10-03**|**Acoustic signaling enables collective perception and control in active matter systems**|Alexander Ziepke et.al.|[2410.02940](http://arxiv.org/abs/2410.02940)|null|
-|**2024-10-03**|**NNetscape Navigator: Complex Demonstrations for Web Agents Without a Demonstrator**|Shikhar Murty et.al.|[2410.02907](http://arxiv.org/abs/2410.02907)|null|
+|**2024-10-03**|**NNetscape Navigator: Complex Demonstrations for Web Agents Without a Demonstrator**|Shikhar Murty et.al.|[2410.02907](http://arxiv.org/abs/2410.02907)|**[link](https://github.com/MurtyShikhar/NNetnav)**|
 |**2024-10-01**|**LLMs May Not Be Human-Level Players, But They Can Be Testers: Measuring Game Difficulty with LLM Agents**|Chang Xiao et.al.|[2410.02829](http://arxiv.org/abs/2410.02829)|null|
 |**2024-09-27**|**DANA: Domain-Aware Neurosymbolic Agents for Consistency and Accuracy**|Vinh Luong et.al.|[2410.02823](http://arxiv.org/abs/2410.02823)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
