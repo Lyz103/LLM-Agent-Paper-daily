@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -70,7 +70,7 @@ layout: default
 |**2024-11-27**|**AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions**|Xinchen Wang et.al.|[2411.18015](http://arxiv.org/abs/2411.18015)|null|
 |**2024-11-26**|**AI2T: Building Trustable AI Tutors by Interactively Teaching a Self-Aware Learning Agent**|Daniel Weitekamp et.al.|[2411.17924](http://arxiv.org/abs/2411.17924)|null|
 |**2024-11-26**|**Immobility of isolated swarmer cells due to local liquid depletion**|Ajesh Jose et.al.|[2411.17842](http://arxiv.org/abs/2411.17842)|null|
-|**2024-11-28**|**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**|Xinhao Liu et.al.|[2411.17820](http://arxiv.org/abs/2411.17820)|null|
+|**2024-11-28**|**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**|Xinhao Liu et.al.|[2411.17820](http://arxiv.org/abs/2411.17820)|**[link](https://github.com/ai4ce/CityWalker)**|
 |**2024-11-26**|**Joint Resource Optimization, Computation Offloading and Resource Slicing for Multi-Edge Traffic-Cognitive Networks**|Ting Xiaoyang et.al.|[2411.17782](http://arxiv.org/abs/2411.17782)|null|
 |**2024-11-25**|**Will an AI with Private Information Allow Itself to Be Switched Off?**|Andrew Garber et.al.|[2411.17749](http://arxiv.org/abs/2411.17749)|null|
 |**2024-11-23**|**SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**|Yuncong Yang et.al.|[2411.17735](http://arxiv.org/abs/2411.17735)|null|
