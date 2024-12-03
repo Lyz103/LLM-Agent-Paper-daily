@@ -20,7 +20,7 @@
 |**2024-11-29**|**EF1 Allocations for Identical Trilean and Separable Single-Peaked Valuations**|Umang Bhaskar et.al.|[2411.19881](http://arxiv.org/abs/2411.19881)|null|
 |**2024-11-29**|**Neuroplasticity and Psychedelics: a comprehensive examination of classic and non-classic compounds in pre and clinical models**|Claudio Agnorelli et.al.|[2411.19840](http://arxiv.org/abs/2411.19840)|null|
 |**2024-11-29**|**Advanced System Integration: Analyzing OpenAPI Chunking for Retrieval-Augmented Generation**|Robin D. Pesl et.al.|[2411.19804](http://arxiv.org/abs/2411.19804)|null|
-|**2024-11-29**|**CAREL: Instruction-guided reinforcement learning with cross-modal auxiliary objectives**|Armin Saghafian et.al.|[2411.19787](http://arxiv.org/abs/2411.19787)|null|
+|**2024-11-29**|**CAREL: Instruction-guided reinforcement learning with cross-modal auxiliary objectives**|Armin Saghafian et.al.|[2411.19787](http://arxiv.org/abs/2411.19787)|**[link](https://github.com/ArminS03/CAREL)**|
 |**2024-11-29**|**The 2024 Motile Active Matter Roadmap**|Gerhard Gompper et.al.|[2411.19783](http://arxiv.org/abs/2411.19783)|null|
 |**2024-11-29**|**HVAC-DPT: A Decision Pretrained Transformer for HVAC Control**|Anaïs Berkes et.al.|[2411.19746](http://arxiv.org/abs/2411.19746)|null|
 |**2024-11-29**|**Relative Representations of Latent Spaces enable Efficient Semantic Channel Equalization**|Tomás Hüttebräucker et.al.|[2411.19719](http://arxiv.org/abs/2411.19719)|null|
@@ -29,6 +29,7 @@
 |**2024-11-29**|**Solving Rubik's Cube Without Tricky Sampling**|Yicheng Lin et.al.|[2411.19583](http://arxiv.org/abs/2411.19583)|null|
 |**2024-11-29**|**Early Versus Late Traffic Management For Autonomous Agents**|Salman Ghori et.al.|[2411.19582](http://arxiv.org/abs/2411.19582)|null|
 |**2024-11-29**|**The ATTUNE model for Artificial Trust Towards Human Operators**|Giannis Petousakis et.al.|[2411.19580](http://arxiv.org/abs/2411.19580)|null|
+|**2024-12-02**|**Fixed-relative-switch strategies for learning based event-triggered control of nonlinear multiagent systems**|Ziming Wang et.al.|[2411.19571](http://arxiv.org/abs/2411.19571)|null|
 |**2024-11-29**|**Training Agents with Weakly Supervised Feedback from Large Language Models**|Dihong Gong et.al.|[2411.19547](http://arxiv.org/abs/2411.19547)|null|
 |**2024-11-29**|**A Local Information Aggregation based Multi-Agent Reinforcement Learning for Robot Swarm Dynamic Task Allocation**|Yang Lv et.al.|[2411.19526](http://arxiv.org/abs/2411.19526)|null|
 |**2024-11-29**|**RL-MILP Solver: A Reinforcement Learning Approach for Solving Mixed-Integer Linear Programs with Graph Neural Networks**|Tae-Hoon Lee et.al.|[2411.19517](http://arxiv.org/abs/2411.19517)|null|
@@ -42,7 +43,7 @@
 |**2024-11-28**|**A Game-Theoretic Approach to the Study of Blockchain's Robustness**|Ulysse Pavloff et.al.|[2411.19175](http://arxiv.org/abs/2411.19175)|null|
 |**2024-11-28**|**Lost & Found: Updating Dynamic 3D Scene Graphs from Egocentric Observations**|Tjark Behrens et.al.|[2411.19162](http://arxiv.org/abs/2411.19162)|null|
 |**2024-11-28**|**TEA: Trajectory Encoding Augmentation for Robust and Transferable Policies in Offline Reinforcement Learning**|Batıkan Bora Ormancı et.al.|[2411.19133](http://arxiv.org/abs/2411.19133)|null|
-|**2024-11-28**|**Using a Feedback Loop for LLM-based Infrastructure as Code Generation**|Mayur Amarnath Palavalli et.al.|[2411.19043](http://arxiv.org/abs/2411.19043)|null|
+|**2024-11-28**|**Using a Feedback Loop for LLM-based Infrastructure as Code Generation**|Mayur Amarnath Palavalli et.al.|[2411.19043](http://arxiv.org/abs/2411.19043)|**[link](https://github.com/Mayur-Palavalli/LLM-IaC-generation)**|
 |**2024-11-28**|**Mars-PO: Multi-Agent Reasoning System Preference Optimization**|Xiaoxuan Lou et.al.|[2411.19039](http://arxiv.org/abs/2411.19039)|null|
 |**2024-11-28**|**A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence**|Chenyu Tang et.al.|[2411.19000](http://arxiv.org/abs/2411.19000)|null|
 |**2024-11-28**|**SPAgent: Adaptive Task Decomposition and Model Selection for General Video Generation and Editing**|Rong-Cheng Tu et.al.|[2411.18983](http://arxiv.org/abs/2411.18983)|null|
@@ -60,7 +61,7 @@
 |**2024-11-27**|**Is my Meeting Summary Good? Estimating Quality with a Multi-LLM Evaluator**|Frederic Kirstein et.al.|[2411.18444](http://arxiv.org/abs/2411.18444)|null|
 |**2024-11-28**|**A Multi-Agent Dual Dialogue System to Support Mental Health Care Providers**|Onno P. Kampman et.al.|[2411.18429](http://arxiv.org/abs/2411.18429)|null|
 |**2024-11-27**|**Application of Soft Actor-Critic Algorithms in Optimizing Wastewater Treatment with Time Delays Integration**|Esmaeel Mohammadi et.al.|[2411.18305](http://arxiv.org/abs/2411.18305)|null|
-|**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
+|**2024-11-30**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 |**2024-11-28**|**Large Language Model-Brained GUI Agents: A Survey**|Chaoyun Zhang et.al.|[2411.18279](http://arxiv.org/abs/2411.18279)|**[link](https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey)**|
 |**2024-11-27**|**Grid-augumented vision: A simple yet effective approach for enhanced spatial understanding in multi-modal agents**|Joongwon Chae et.al.|[2411.18270](http://arxiv.org/abs/2411.18270)|null|
 |**2024-11-28**|**Wearable intelligent throat enables natural speech in stroke patients with dysarthria**|Chenyu Tang et.al.|[2411.18266](http://arxiv.org/abs/2411.18266)|null|
@@ -90,7 +91,7 @@
 |**2024-11-26**|**Joint Combinatorial Node Selection and Resource Allocations in the Lightning Network using Attention-based Reinforcement Learning**|Mahdi Salahshour et.al.|[2411.17353](http://arxiv.org/abs/2411.17353)|null|
 |**2024-11-26**|**Towards Intention Recognition for Robotic Assistants Through Online POMDP Planning**|Juan Carlos Saborio et.al.|[2411.17326](http://arxiv.org/abs/2411.17326)|null|
 |**2024-11-26**|**A "Breathing" Mobile Communication Network**|Chao Ge et.al.|[2411.17290](http://arxiv.org/abs/2411.17290)|null|
-|**2024-11-26**|**APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents**|Jun Yu Chen et.al.|[2411.17255](http://arxiv.org/abs/2411.17255)|**[link](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)**|
+|**2024-11-29**|**APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents**|Jun Yu Chen et.al.|[2411.17255](http://arxiv.org/abs/2411.17255)|**[link](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)**|
 |**2024-11-26**|**Short-duration gamma-ray bursts from Kerr-Newman black hole mergers**|Shad Ali et.al.|[2411.17205](http://arxiv.org/abs/2411.17205)|null|
 |**2024-11-26**|**P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching**|Yaowei Jin et.al.|[2411.17196](http://arxiv.org/abs/2411.17196)|**[link](https://github.com/bleach366/p2dflow)**|
 |**2024-11-26**|**Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment**|Dongping Chen et.al.|[2411.17188](http://arxiv.org/abs/2411.17188)|null|
@@ -128,7 +129,7 @@
 |**2024-11-25**|**UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation**|Guangzhao Dai et.al.|[2411.16053](http://arxiv.org/abs/2411.16053)|null|
 |**2024-11-25**|**Agent-Based Modelling Meets Generative AI in Social Network Simulations**|Antonino Ferraro et.al.|[2411.16031](http://arxiv.org/abs/2411.16031)|null|
 |**2024-11-24**|**PIANIST: Learning Partially Observable World Models with LLMs for Multi-Agent Decision Making**|Jonathan Light et.al.|[2411.15998](http://arxiv.org/abs/2411.15998)|null|
-|**2024-11-24**|**Generative Context Distillation**|Haebin Shin et.al.|[2411.15927](http://arxiv.org/abs/2411.15927)|null|
+|**2024-11-24**|**Generative Context Distillation**|Haebin Shin et.al.|[2411.15927](http://arxiv.org/abs/2411.15927)|**[link](https://github.com/kaistai/generative-context-distillation)**|
 |**2024-11-24**|**From Laws to Motivation: Guiding Exploration through Law-Based Reasoning and Rewards**|Ziyu Chen et.al.|[2411.15891](http://arxiv.org/abs/2411.15891)|null|
 |**2024-11-24**|**Further extensions on the successive approximation method for hierarchical optimal control problems and its application to learning**|Getachew K. Befekadu et.al.|[2411.15889](http://arxiv.org/abs/2411.15889)|null|
 |**2024-11-29**|**Reinforcement Learning Enhancing Entanglement for Two-Photon-Driven Rabi Model**|Tingting Li et.al.|[2411.15841](http://arxiv.org/abs/2411.15841)|null|
@@ -154,12 +155,12 @@
 |**2024-11-22**|**On the Linear Speedup of Personalized Federated Reinforcement Learning with Shared Representations**|Guojun Xiong et.al.|[2411.15014](http://arxiv.org/abs/2411.15014)|null|
 |**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|null|
 |**2024-11-22**|**Free Energy Projective Simulation (FEPS): Active inference with interpretability**|Joséphine Pazem et.al.|[2411.14991](http://arxiv.org/abs/2411.14991)|null|
-|**2024-11-27**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|null|
+|**2024-11-27**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|**[link](https://github.com/HorizonRobotics/BIP3D)**|
 |**2024-11-22**|**Universal and Context-Independent Triggers for Precise Control of LLM Outputs**|Jiashuo Liang et.al.|[2411.14738](http://arxiv.org/abs/2411.14738)|null|
 |**2024-11-22**|**Enhancing Clinical Trial Patient Matching through Knowledge Augmentation with Multi-Agents**|Hanwen Shi et.al.|[2411.14637](http://arxiv.org/abs/2411.14637)|null|
 |**2024-11-21**|**Learning Autonomous Surgical Irrigation and Suction with the da Vinci Research Kit Using Reinforcement Learning**|Yafei Ou et.al.|[2411.14622](http://arxiv.org/abs/2411.14622)|null|
 |**2024-11-21**|**A Systematic Study of Multi-Agent Deep Reinforcement Learning for Safe and Robust Autonomous Highway Ramp Entry**|Larry Schester et.al.|[2411.14593](http://arxiv.org/abs/2411.14593)|null|
-|**2024-11-21**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592](http://arxiv.org/abs/2411.14592)|**[link](https://github.com/RadeenXALNW/G-RAG_1.0)**|
+|**2024-12-01**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592](http://arxiv.org/abs/2411.14592)|**[link](https://github.com/RadeenXALNW/G-RAG_1.0)**|
 |**2024-11-21**|**SRSA: A Cost-Efficient Strategy-Router Search Agent for Real-world Human-Machine Interactions**|Yaqi Wang et.al.|[2411.14574](http://arxiv.org/abs/2411.14574)|null|
 |**2024-11-21**|**Energy Efficient Automated Driving as a GNEP: Vehicle-in-the-loop Experiments**|Viranjan Bhattacharyya et.al.|[2411.14567](http://arxiv.org/abs/2411.14567)|null|
 |**2024-11-21**|**Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning**|Hang Zhou et.al.|[2411.14497](http://arxiv.org/abs/2411.14497)|**[link](https://github.com/CANGLETIAN/Star-Agents)**|
