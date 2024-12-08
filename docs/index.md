@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.07
+## Updated on 2024.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -108,7 +108,7 @@ layout: default
 |**2024-12-02**|**On the Theoretical Foundations of Data Exchange Economies**|Hannaneh Akrami et.al.|[2412.01968](http://arxiv.org/abs/2412.01968)|null|
 |**2024-12-02**|**MALT: Improving Reasoning with Multi-Agent LLM Training**|Sumeet Ramesh Motwani et.al.|[2412.01928](http://arxiv.org/abs/2412.01928)|null|
 |**2024-11-30**|**Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation**|Yiyuan Pan et.al.|[2412.01857](http://arxiv.org/abs/2412.01857)|null|
-|**2024-12-02**|**V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction**|Zewei Zhou et.al.|[2412.01812](http://arxiv.org/abs/2412.01812)|null|
+|**2024-12-02**|**V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction**|Zewei Zhou et.al.|[2412.01812](http://arxiv.org/abs/2412.01812)|**[link](https://github.com/Zewei-Zhou/V2XPnP)**|
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
 |**2024-12-02**|**HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing**|Lajos Muzsai et.al.|[2412.01778](http://arxiv.org/abs/2412.01778)|**[link](https://github.com/aielte-research/HackSynth)**|
 |**2024-12-02**|**Commit0: Library Generation from Scratch**|Wenting Zhao et.al.|[2412.01769](http://arxiv.org/abs/2412.01769)|**[link](https://github.com/commit-0/commit0)**|
