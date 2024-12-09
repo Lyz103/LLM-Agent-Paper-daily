@@ -309,7 +309,7 @@ layout: default
 |**2024-11-22**|**On Multi-Agent Inverse Reinforcement Learning**|Till Freihaut et.al.|[2411.15046](http://arxiv.org/abs/2411.15046)|null|
 |**2024-11-22**|**Safe Multi-Agent Reinforcement Learning with Convergence to Generalized Nash Equilibrium**|Zeyang Li et.al.|[2411.15036](http://arxiv.org/abs/2411.15036)|null|
 |**2024-11-22**|**On the Linear Speedup of Personalized Federated Reinforcement Learning with Shared Representations**|Guojun Xiong et.al.|[2411.15014](http://arxiv.org/abs/2411.15014)|null|
-|**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|null|
+|**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|**[link](https://github.com/colonylabs/ScribeAgent)**|
 |**2024-11-22**|**Free Energy Projective Simulation (FEPS): Active inference with interpretability**|Joséphine Pazem et.al.|[2411.14991](http://arxiv.org/abs/2411.14991)|null|
 |**2024-11-27**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|**[link](https://github.com/HorizonRobotics/BIP3D)**|
 |**2024-11-22**|**Universal and Context-Independent Triggers for Precise Control of LLM Outputs**|Jiashuo Liang et.al.|[2411.14738](http://arxiv.org/abs/2411.14738)|null|
@@ -672,7 +672,7 @@ layout: default
 |**2024-11-07**|**Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks**|Adam Fourney et.al.|[2411.04468](http://arxiv.org/abs/2411.04468)|null|
 |**2024-11-07**|**Enabling Adaptive Agent Training in Open-Ended Simulators by Targeting Diversity**|Robby Costales et.al.|[2411.04466](http://arxiv.org/abs/2411.04466)|null|
 |**2024-11-07**|**Can CDT rationalise the ex ante optimal policy via modified anthropics?**|Emery Cooper et.al.|[2411.04462](http://arxiv.org/abs/2411.04462)|null|
-|**2024-11-07**|**AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering**|Yungeng Liu et.al.|[2411.04440](http://arxiv.org/abs/2411.04440)|null|
+|**2024-11-07**|**AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering**|Yungeng Liu et.al.|[2411.04440](http://arxiv.org/abs/2411.04440)|**[link](https://github.com/tsynbio/autope)**|
 |**2024-11-07**|**Scaling Laws for Pre-training Agents and World Models**|Tim Pearce et.al.|[2411.04434](http://arxiv.org/abs/2411.04434)|null|
 |**2024-11-07**|**Improved Maximin Share Approximations for Chores by Bin Packing**|Jugal Garg et.al.|[2411.04391](http://arxiv.org/abs/2411.04391)|null|
 |**2024-11-07**|**UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection**|Xinhua Jiang et.al.|[2411.04348](http://arxiv.org/abs/2411.04348)|null|
@@ -725,7 +725,7 @@ layout: default
 |**2024-11-04**|**Modeling and Simulation of a Multi Robot System Architecture**|Ahmed R. Sadik et.al.|[2411.02468](http://arxiv.org/abs/2411.02468)|null|
 |**2024-11-04**|**A Multi-Task Role-Playing Agent Capable of Imitating Character Linguistic Styles**|Siyuan Chen et.al.|[2411.02457](http://arxiv.org/abs/2411.02457)|null|
 |**2024-11-03**|**Learning World Models for Unconstrained Goal Navigation**|Yuanlin Duan et.al.|[2411.02446](http://arxiv.org/abs/2411.02446)|**[link](https://github.com/RU-Automated-Reasoning-Group/MUN)**|
-|**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
+|**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|**[link](https://github.com/SALT-NLP/PopupAttack)**|
 |**2024-11-04**|**Two-Sided Learning in Decentralized Matching Markets**|Vade Shah et.al.|[2411.02377](http://arxiv.org/abs/2411.02377)|null|
 |**2024-11-04**|**Social-RAG: Retrieving from Group Interactions to Socially Ground Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353](http://arxiv.org/abs/2411.02353)|null|
 |**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|**[link](https://github.com/THUDM/WebRL)**|
@@ -1175,7 +1175,7 @@ layout: default
 |**2024-10-19**|**Enhancing Robot Navigation Policies with Task-Specific Uncertainty Management**|Gokul Puthumanaillam et.al.|[2410.15178](http://arxiv.org/abs/2410.15178)|null|
 |**2024-10-19**|**Linguistic Fuzzy Information Evolution with Random Leader Election Mechanism for Decision-Making Systems**|Qianlei Jia et.al.|[2410.15171](http://arxiv.org/abs/2410.15171)|null|
 |**2024-10-19**|**An Electoral Approach to Diversify LLM-based Multi-Agent Collective Decision-Making**|Xiutian Zhao et.al.|[2410.15168](http://arxiv.org/abs/2410.15168)|**[link](https://github.com/xiutian/GEDI)**|
-|**2024-10-19**|**SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation**|Jingxuan Chen et.al.|[2410.15164](http://arxiv.org/abs/2410.15164)|null|
+|**2024-10-19**|**SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation**|Jingxuan Chen et.al.|[2410.15164](http://arxiv.org/abs/2410.15164)|**[link](https://github.com/ai-agents-2030/SPA-Bench)**|
 |**2024-10-24**|**Optimizing Large Language Models for Dynamic Constraints through Human-in-the-Loop Discriminators**|Timothy Wei et.al.|[2410.15163](http://arxiv.org/abs/2410.15163)|null|
 |**2024-10-19**|**Simulation-Based Optimistic Policy Iteration For Multi-Agent MDPs with Kullback-Leibler Control Cost**|Khaled Nakhleh et.al.|[2410.15156](http://arxiv.org/abs/2410.15156)|null|
 |**2024-10-19**|**Collaborative State Fusion in Partially Known Multi-agent Environments**|Tianlong Zhou et.al.|[2410.15137](http://arxiv.org/abs/2410.15137)|null|
@@ -1561,7 +1561,7 @@ layout: default
 |**2024-10-08**|**A note on existence and asymptotic behavior of Lagrangian equilibria for first-order optimal-exit mean field games**|Guilherme Mazanti et.al.|[2410.06073](http://arxiv.org/abs/2410.06073)|null|
 |**2024-10-10**|**Nationally Scalable Hydrogen Fueling Infrastructure Deployment: A Megaregion Analysis and Optimization Approach**|Vivek Sujan et.al.|[2410.06033](http://arxiv.org/abs/2410.06033)|null|
 |**2024-10-08**|**Large Language Model Enhanced Text-to-SQL Generation: A Survey**|Xiaohu Zhu et.al.|[2410.06011](http://arxiv.org/abs/2410.06011)|null|
-|**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[2410.06007](http://arxiv.org/abs/2410.06007)|null|
+|**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[2410.06007](http://arxiv.org/abs/2410.06007)|**[link](https://github.com/fudan-zvg/realmotion)**|
 |**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|**[link](https://github.com/fudan-zvg/demo)**|
 |**2024-10-08**|**Stochastic Bandits for Egalitarian Assignment**|Eugene Lim et.al.|[2410.05856](http://arxiv.org/abs/2410.05856)|null|
 |**2024-10-08**|**A Zero-Shot approach to the Conversational Tree Search Task**|Dirk Väth et.al.|[2410.05821](http://arxiv.org/abs/2410.05821)|null|
@@ -1956,7 +1956,7 @@ layout: default
 |**2024-10-01**|**Observe Then Act: Asynchronous Active Vision-Action Model for Robotic Manipulation**|Guokang Wang et.al.|[2409.14891](http://arxiv.org/abs/2409.14891)|null|
 |**2024-09-23**|**A novel agent with formal goal-reaching guarantees: an experimental study with a mobile robot**|Grigory Yaremenko et.al.|[2409.14867](http://arxiv.org/abs/2409.14867)|**[link](https://github.com/thd-research/calf-rl-mobile-robot)**|
 |**2024-09-23**|**SymAware: A Software Development Framework for Trustworthy Multi-Agent Systems with Situational Awareness**|Ernesto Casablanca et.al.|[2409.14833](http://arxiv.org/abs/2409.14833)|null|
-|**2024-09-23**|**MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding**|Qinzhuo Wu et.al.|[2409.14818](http://arxiv.org/abs/2409.14818)|null|
+|**2024-09-23**|**MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding**|Qinzhuo Wu et.al.|[2409.14818](http://arxiv.org/abs/2409.14818)|**[link](https://github.com/xiaomi/mobilevlm)**|
 |**2024-09-23**|**Interpreting Multi-band Galaxy Observations with Large Language Model-Based Agents**|Zechang Sun et.al.|[2409.14807](http://arxiv.org/abs/2409.14807)|null|
 |**2024-09-23**|**AmpAgent: An LLM-based Multi-Agent System for Multi-stage Amplifier Schematic Design from Literature for Process and Performance Porting**|Chengjie Liu et.al.|[2409.14739](http://arxiv.org/abs/2409.14739)|null|
 |**2024-09-23**|**ERABAL: Enhancing Role-Playing Agents through Boundary-Aware Learning**|Yihong Tang et.al.|[2409.14710](http://arxiv.org/abs/2409.14710)|null|
@@ -2277,7 +2277,7 @@ layout: default
 |**2024-09-08**|**Towards Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control**|Kang Wang et.al.|[2409.05037](http://arxiv.org/abs/2409.05037)|null|
 |**2024-09-08**|**Cooperative Learning-Based Framework for VNF Caching and Placement Optimization over Low Earth Orbit Satellite Networks**|Khai Doan et.al.|[2409.05025](http://arxiv.org/abs/2409.05025)|null|
 |**2024-09-08**|**A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**|Huan Zhang et.al.|[2409.05001](http://arxiv.org/abs/2409.05001)|**[link](https://github.com/nju-websoft/paircoder)**|
-|**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|null|
+|**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|**[link](https://github.com/radetzkyli/multi-v2x)**|
 |**2024-09-07**|**DEPLOYERS: An agent based modeling tool for multi country real world data**|Martin Jaraiz et.al.|[2409.04876](http://arxiv.org/abs/2409.04876)|null|
 |**2024-09-07**|**Adaptation Procedure in Misinformation Games**|Konstantinos Varsos et.al.|[2409.04854](http://arxiv.org/abs/2409.04854)|**[link](https://github.com/merkouris148/adaptation-procedure-misinformation-games)**|
 |**2024-09-07**|**Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation**|Hung-Ting Su et.al.|[2409.04837](http://arxiv.org/abs/2409.04837)|null|
