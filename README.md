@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -139,7 +139,7 @@
 |**2024-12-09**|**A Logic for Paraconsistent Belief Revision based on Epistemic Entrenchment**|Marcelo E. Coniglio et.al.|[2412.06117](http://arxiv.org/abs/2412.06117)|null|
 |**2024-12-08**|**The AI Double Standard: Humans Judge All AIs for the Actions of One**|Aikaterina Manoli et.al.|[2412.06040](http://arxiv.org/abs/2412.06040)|null|
 |**2024-12-08**|**The emergence of chaos in population game dynamics induced by comparisons**|Jakub Bielawski et.al.|[2412.06037](http://arxiv.org/abs/2412.06037)|null|
-|**2024-12-12**|**Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension**|Adem Ait et.al.|[2412.05958](http://arxiv.org/abs/2412.05958)|null|
+|**2024-12-12**|**Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension**|Adem Ait et.al.|[2412.05958](http://arxiv.org/abs/2412.05958)|**[link](https://github.com/besser-pearl/agentic-bpmn)**|
 |**2024-12-08**|**Accelerating Manufacturing Scale-Up from Material Discovery Using Agentic Web Navigation and Retrieval-Augmented AI for Process Engineering Schematics Design**|Sakhinana Sagar Srinivas et.al.|[2412.05937](http://arxiv.org/abs/2412.05937)|null|
 |**2024-12-08**|**Cooperative SQL Generation for Segmented Databases By Using Multi-functional LLM Agents**|Zhiguang Wu et.al.|[2412.05850](http://arxiv.org/abs/2412.05850)|null|
 |**2024-12-08**|**A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data**|Aniruddha Salve et.al.|[2412.05838](http://arxiv.org/abs/2412.05838)|null|
@@ -2873,7 +2873,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
