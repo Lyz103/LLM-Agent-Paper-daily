@@ -688,7 +688,7 @@
 |**2024-11-14**|**Towards Objective and Unbiased Decision Assessments with LLM-Enhanced Hierarchical Attention Networks**|Junhua Liu et.al.|[2411.08504](http://arxiv.org/abs/2411.08504)|**[link](https://github.com/junhua/bgm-han)**|
 |**2024-11-13**|**AD-DINO: Attention-Dynamic DINO for Distance-Aware Embodied Reference Understanding**|Hao Guo et.al.|[2411.08451](http://arxiv.org/abs/2411.08451)|null|
 |**2024-11-18**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449](http://arxiv.org/abs/2411.08449)|null|
-|**2024-11-13**|**Learning Dynamic Cognitive Map with Autonomous Navigation**|Daria de Tinguy et.al.|[2411.08447](http://arxiv.org/abs/2411.08447)|null|
+|**2024-11-13**|**Learning Dynamic Cognitive Map with Autonomous Navigation**|Daria de Tinguy et.al.|[2411.08447](http://arxiv.org/abs/2411.08447)|**[link](https://github.com/my-name-is-D/high_level_nav_planning)**|
 |**2024-11-13**|**Anonymous Distributed Localisation via Spatial Population Protocols**|Leszek Gąsieniec et.al.|[2411.08434](http://arxiv.org/abs/2411.08434)|null|
 |**2024-11-13**|**One STEP at a time: Language Agents are Stepwise Planners**|Minh Nguyen et.al.|[2411.08432](http://arxiv.org/abs/2411.08432)|**[link](https://github.com/minhtuong201/step)**|
 |**2024-11-13**|**Enhanced Classroom Dialogue Sequences Analysis with a Hybrid AI Agent: Merging Expert Rule-Base with Large Language Models**|Yun Long et.al.|[2411.08418](http://arxiv.org/abs/2411.08418)|null|
@@ -700,7 +700,7 @@
 |**2024-11-12**|**Virtual Buddy: Redefining Conversational AI Interactions for Individuals with Hand Motor Disabilities**|Atieh Taheri et.al.|[2411.08228](http://arxiv.org/abs/2411.08228)|null|
 |**2024-11-12**|**Collision-Free Multi-Agent Coverage Control for Non-Cooperating Swarms: Preliminary Results**|Karolina Schmidt et.al.|[2411.08190](http://arxiv.org/abs/2411.08190)|null|
 |**2024-11-12**|**Multi-Agent Stochastic Bandits Robust to Adversarial Corruptions**|Fatemeh Ghaffari et.al.|[2411.08167](http://arxiv.org/abs/2411.08167)|null|
-|**2024-11-12**|**Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization**|Dinesh Srivasthav P et.al.|[2411.08148](http://arxiv.org/abs/2411.08148)|null|
+|**2024-11-12**|**Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization**|Dinesh Srivasthav P et.al.|[2411.08148](http://arxiv.org/abs/2411.08148)|**[link](https://github.com/dineshsrivasthav/adaptive_meta_learning_with_multi_agent_framework)**|
 |**2024-11-10**|**MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration**|Ziqi Ni et.al.|[2411.08063](http://arxiv.org/abs/2411.08063)|null|
 |**2024-11-09**|**Segmentized quarantine policy for managing a tradeoff between containment of infectious disease and social cost of quarantine**|Jungwoo Kim et.al.|[2411.08059](http://arxiv.org/abs/2411.08059)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
@@ -1229,7 +1229,7 @@
 |**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|**[link](https://github.com/Kaiwen-Zhu/AgenticIR)**|
 |**2024-10-23**|**TranSPORTmer: A Holistic Approach to Trajectory Understanding in Multi-Agent Sports**|Guillem Capellera et.al.|[2410.17785](http://arxiv.org/abs/2410.17785)|null|
 |**2024-10-23**|**ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents**|Yusheng Liao et.al.|[2410.17657](http://arxiv.org/abs/2410.17657)|null|
-|**2024-10-23**|**Entity-based Reinforcement Learning for Autonomous Cyber Defence**|Isaac Symes Thompson et.al.|[2410.17647](http://arxiv.org/abs/2410.17647)|null|
+|**2024-10-23**|**Entity-based Reinforcement Learning for Autonomous Cyber Defence**|Isaac Symes Thompson et.al.|[2410.17647](http://arxiv.org/abs/2410.17647)|**[link](https://github.com/alan-turing-institute/Entity-Based-Yawning-Titan)**|
 |**2024-10-23**|**Collision-free Exploration by Mobile Agents Using Pebbles**|Sajal K. Das et.al.|[2410.17542](http://arxiv.org/abs/2410.17542)|null|
 |**2024-10-23**|**Navigate Complex Physical Worlds via Geometrically Constrained LLM**|Yongqiang Huang et.al.|[2410.17529](http://arxiv.org/abs/2410.17529)|null|
 |**2024-10-23**|**MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control**|Juyong Lee et.al.|[2410.17520](http://arxiv.org/abs/2410.17520)|**[link](https://github.com/jylee425/mobilesafetybench)**|
@@ -1387,7 +1387,7 @@
 |**2024-10-18**|**Harmony: A Home Agent for Responsive Management and Action Optimization with a Locally Deployed Large Language Model**|Ziqi Yin et.al.|[2410.14252](http://arxiv.org/abs/2410.14252)|null|
 |**2024-10-18**|**Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation**|Shuo Tang et.al.|[2410.14251](http://arxiv.org/abs/2410.14251)|**[link](https://github.com/shuotang123/matrix-gen)**|
 |**2024-10-18**|**Vision-Language Navigation with Energy-Based Policy**|Rui Liu et.al.|[2410.14250](http://arxiv.org/abs/2410.14250)|null|
-|**2024-10-18**|**Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents**|Zihan Liu et.al.|[2410.14209](http://arxiv.org/abs/2410.14209)|null|
+|**2024-10-18**|**Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents**|Zihan Liu et.al.|[2410.14209](http://arxiv.org/abs/2410.14209)|**[link](https://github.com/Luoji-zju/Agents4PLC_release)**|
 |**2024-10-18**|**Rationale Behind Essay Scores: Enhancing S-LLM's Multi-Trait Essay Scoring with Rationale Generated by LLMs**|SeongYeub Chu et.al.|[2410.14202](http://arxiv.org/abs/2410.14202)|null|
 |**2024-10-18**|**SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent**|Jiarui Ji et.al.|[2410.14152](http://arxiv.org/abs/2410.14152)|**[link](https://github.com/jijiarui-cather/srapagent_framework)**|
 |**2024-10-18**|**CAPE: A Chinese Dataset for Appraisal-based Emotional Generation using Large Language Models**|June M. Liu et.al.|[2410.14145](http://arxiv.org/abs/2410.14145)|null|
@@ -1896,7 +1896,7 @@
 |**2024-10-02**|**FanCric : Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams**|Mohit Bhatnagar et.al.|[2410.01307](http://arxiv.org/abs/2410.01307)|null|
 |**2024-10-02**|**Uncertainty-aware Human Mobility Modeling and Anomaly Detection**|Haomin Wen et.al.|[2410.01281](http://arxiv.org/abs/2410.01281)|null|
 |**2024-10-02**|**A Control Barrier Function Candidate for Limited Field of View Sensors**|Biagio Trimarchi et.al.|[2410.01277](http://arxiv.org/abs/2410.01277)|null|
-|**2024-10-03**|**RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance**|Haolin Jin et.al.|[2410.01242](http://arxiv.org/abs/2410.01242)|null|
+|**2024-10-03**|**RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance**|Haolin Jin et.al.|[2410.01242](http://arxiv.org/abs/2410.01242)|**[link](https://github.com/DokiHollin/Multi-LLM-Based-Agent-RGD)**|
 |**2024-10-02**|**Absolute State-wise Constrained Policy Optimization: High-Probability State-wise Constraints Satisfaction**|Weiye Zhao et.al.|[2410.01212](http://arxiv.org/abs/2410.01212)|null|
 |**2024-10-02**|**Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**|Yue Zhong et.al.|[2410.01176](http://arxiv.org/abs/2410.01176)|null|
 |**2024-10-01**|**Learning to Build by Building Your Own Instructions**|Aaron Walsman et.al.|[2410.01111](http://arxiv.org/abs/2410.01111)|**[link](https://github.com/aaronwalsman/ltron-torch)**|
@@ -2611,7 +2611,7 @@
 |**2024-08-29**|**A Bibliometric Analysis of Trust in Conversational Agents over the Past Fifteen Years**|Meltem Aksoy et.al.|[2408.16837](http://arxiv.org/abs/2408.16837)|null|
 |**2024-08-29**|**Maelstrom Networks**|Matthew Evanusa et.al.|[2408.16632](http://arxiv.org/abs/2408.16632)|null|
 |**2024-08-29**|**On the data-sparsity of the solution of Riccati equations with applications to feedback control**|Stefano Massei et.al.|[2408.16569](http://arxiv.org/abs/2408.16569)|null|
-|**2024-08-29**|**CooTest: An Automated Testing Approach for V2X Communication Systems**|An Guo et.al.|[2408.16470](http://arxiv.org/abs/2408.16470)|null|
+|**2024-08-29**|**CooTest: An Automated Testing Approach for V2X Communication Systems**|An Guo et.al.|[2408.16470](http://arxiv.org/abs/2408.16470)|**[link](https://github.com/meng2180/CooTest)**|
 |**2024-08-29**|**Consensus Planning with Primal, Dual, and Proximal Agents**|Alvaro Maggiar et.al.|[2408.16462](http://arxiv.org/abs/2408.16462)|null|
 |**2024-08-29**|**3D Topological Modeling and Multi-Agent Movement Simulation for Viral Infection Risk Analysis**|Wassim Jabi et.al.|[2408.16417](http://arxiv.org/abs/2408.16417)|null|
 |**2024-09-04**|**Efficient Multi-agent Navigation with Lightweight DRL Policy**|Xingrong Diao et.al.|[2408.16370](http://arxiv.org/abs/2408.16370)|null|
@@ -2688,7 +2688,7 @@
 |**2024-08-26**|**AgentMove: Predicting Human Mobility Anywhere Using Large Language Model based Agentic Framework**|Jie Feng et.al.|[2408.13986](http://arxiv.org/abs/2408.13986)|**[link](https://github.com/tsinghua-fib-lab/agentmove)**|
 |**2024-08-25**|**CoT Rerailer: Enhancing the Reliability of Large Language Models in Complex Reasoning Tasks through Error Detection and Correction**|Guangya Wan et.al.|[2408.13940](http://arxiv.org/abs/2408.13940)|null|
 |**2024-08-25**|**Safe Policy Exploration Improvement via Subgoals**|Brian Angulo et.al.|[2408.13881](http://arxiv.org/abs/2408.13881)|null|
-|**2024-08-25**|**Flexible game-playing AI with AlphaViT: adapting to multiple games and board sizes**|Kazuhisa Fujita et.al.|[2408.13871](http://arxiv.org/abs/2408.13871)|null|
+|**2024-08-25**|**Flexible game-playing AI with AlphaViT: adapting to multiple games and board sizes**|Kazuhisa Fujita et.al.|[2408.13871](http://arxiv.org/abs/2408.13871)|**[link](https://github.com/kazuhisafujita/alphavit)**|
 |**2024-08-25**|**Informativeness and Trust in Bayesian Persuasion**|Reema Deori et.al.|[2408.13822](http://arxiv.org/abs/2408.13822)|null|
 |**2024-08-25**|**Optical Inversion Using Plasmonic Contrast Agents**|Xinlin Cao et.al.|[2408.13793](http://arxiv.org/abs/2408.13793)|null|
 |**2024-08-25**|**Demo: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3 (GenOnet)**|Farhad Rezazadeh et.al.|[2408.13781](http://arxiv.org/abs/2408.13781)|null|
