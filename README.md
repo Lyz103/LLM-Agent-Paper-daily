@@ -17,6 +17,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining**|Zhiqi Ge et.al.|[2412.10342](http://arxiv.org/abs/2412.10342)|null|
+|**2024-12-13**|**Reciprocity in Interbank Markets**|Lutz Honvehlmann et.al.|[2412.10329](http://arxiv.org/abs/2412.10329)|null|
+|**2024-12-13**|**MeshA*: Efficient Path Planing With Motion Primitives**|Marat Agranovskiy et.al.|[2412.10320](http://arxiv.org/abs/2412.10320)|null|
+|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
+|**2024-12-13**|**Cultural Evolution of Cooperation among LLM Agents**|Aron Vallinder et.al.|[2412.10270](http://arxiv.org/abs/2412.10270)|null|
+|**2024-12-13**|**ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL**|Yang Qin et.al.|[2412.10138](http://arxiv.org/abs/2412.10138)|**[link](https://github.com/alibaba/route)**|
+|**2024-12-13**|**You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects**|Islem Bouzenia et.al.|[2412.10133](http://arxiv.org/abs/2412.10133)|null|
+|**2024-12-13**|**Reward Machine Inference for Robotic Manipulation**|Mattijs Baert et.al.|[2412.10096](http://arxiv.org/abs/2412.10096)|null|
+|**2024-12-13**|**Heterogeneous Multi-Robot Graph Coverage with Proximity and Movement Constraints**|Dolev Mutzari et.al.|[2412.10083](http://arxiv.org/abs/2412.10083)|null|
+|**2024-12-13**|**Large Action Models: From Inception to Implementation**|Lu Wang et.al.|[2412.10047](http://arxiv.org/abs/2412.10047)|**[link](https://github.com/microsoft/UFO)**|
+|**2024-12-13**|**Cooperative Target Defense under Communication and Sensing Constraints**|Dipankar Maity et.al.|[2412.09939](http://arxiv.org/abs/2412.09939)|null|
+|**2024-12-13**|**CaLoRAify: Calorie Estimation with Visual-Text Pairing and LoRA-Driven Visual Language Models**|Dongyu Yao et.al.|[2412.09936](http://arxiv.org/abs/2412.09936)|**[link](https://github.com/kennyyao2001/16824-caloraify)**|
+|**2024-12-13**|**ProxyLLM : LLM-Driven Framework for Customer Support Through Text-Style Transfer**|Sehyeong Jo et.al.|[2412.09916](http://arxiv.org/abs/2412.09916)|null|
+|**2024-12-13**|**Optimized Coordination Strategy for Multi-Aerospace Systems in Pick-and-Place Tasks By Deep Neural Network**|Ye Zhang et.al.|[2412.09877](http://arxiv.org/abs/2412.09877)|null|
+|**2024-12-13**|**AutoPatent: A Multi-Agent Framework for Automatic Patent Generation**|Qiyao Wang et.al.|[2412.09796](http://arxiv.org/abs/2412.09796)|**[link](https://github.com/qiyao-wang/autopatent)**|
+|**2024-12-13**|**Learning Visually Grounded Domain Ontologies via Embodied Conversation and Explanation**|Jonghyuk Park et.al.|[2412.09770](http://arxiv.org/abs/2412.09770)|**[link](https://github.com/jpstyle/ns-arch-unity)**|
+|**2024-12-12**|**AiEDA: Agentic AI Design Framework for Digital ASIC System Design**|Aditya Patra et.al.|[2412.09745](http://arxiv.org/abs/2412.09745)|null|
+|**2024-12-12**|**MAC-Ego3D: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction**|Xiaohao Xu et.al.|[2412.09723](http://arxiv.org/abs/2412.09723)|**[link](https://github.com/xiaohao-xu/mac-ego3d)**|
+|**2024-12-12**|**TransferLight: Zero-Shot Traffic Signal Control on any Road-Network**|Johann Schmidt et.al.|[2412.09719](http://arxiv.org/abs/2412.09719)|null|
+|**2024-12-12**|**CUAL: Continual Uncertainty-aware Active Learner**|Amanda Rios et.al.|[2412.09701](http://arxiv.org/abs/2412.09701)|null|
+|**2024-12-11**|**Bench2Drive-R: Turning Real World Data into Reactive Closed-Loop Autonomous Driving Benchmark by Generative Model**|Junqi You et.al.|[2412.09647](http://arxiv.org/abs/2412.09647)|null|
+|**2024-12-10**|**Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models**|Fan Zhang et.al.|[2412.09645](http://arxiv.org/abs/2412.09645)|**[link](https://github.com/Vchitect/Evaluation-Agent)**|
 |**2024-12-12**|**GenEx: Generating an Explorable World**|Taiming Lu et.al.|[2412.09624](http://arxiv.org/abs/2412.09624)|null|
 |**2024-12-12**|**AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials**|Yiheng Xu et.al.|[2412.09605](http://arxiv.org/abs/2412.09605)|null|
 |**2024-12-12**|**DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction**|Yu Feng et.al.|[2412.09572](http://arxiv.org/abs/2412.09572)|null|
@@ -30,7 +52,7 @@
 |**2024-12-12**|**Does Low Spoilage Under Cold Conditions Foster Cultural Complexity During the Foraging Era? -- A Theoretical and Computational Inquiry**|Minhyeok Lee et.al.|[2412.09335](http://arxiv.org/abs/2412.09335)|null|
 |**2024-12-12**|**Beware of Metacognitive Laziness: Effects of Generative Artificial Intelligence on Learning Motivation, Processes, and Performance**|Yizhou Fan et.al.|[2412.09315](http://arxiv.org/abs/2412.09315)|null|
 |**2024-12-12**|**A Systematic Review of Knowledge Tracing and Large Language Models in Education: Opportunities, Issues, and Future Research**|Yongwan Cho et.al.|[2412.09248](http://arxiv.org/abs/2412.09248)|null|
-|**2024-12-12**|**LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation**|Yijun Liu et.al.|[2412.09237](http://arxiv.org/abs/2412.09237)|null|
+|**2024-12-13**|**LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation**|Yijun Liu et.al.|[2412.09237](http://arxiv.org/abs/2412.09237)|null|
 |**2024-12-12**|**Reconfigurable Intelligent Surface for Internet of Robotic Things**|Wanli Ni et.al.|[2412.09117](http://arxiv.org/abs/2412.09117)|null|
 |**2024-12-12**|**Understanding Opportunities and Risks of Synthetic Relationships: Leveraging the Power of Longitudinal Research with Customised AI Tools**|Alfio Ventura et.al.|[2412.09086](http://arxiv.org/abs/2412.09086)|null|
 |**2024-12-12**|**Towards the Structure and Mechanisms of Complex Systems, the Approach of the Quantitative Theory of Meaning**|Inga Ivanova et.al.|[2412.09007](http://arxiv.org/abs/2412.09007)|null|
@@ -78,7 +100,7 @@
 |**2024-12-10**|**MAGE: A Multi-Agent Engine for Automated RTL Code Generation**|Yujie Zhao et.al.|[2412.07822](http://arxiv.org/abs/2412.07822)|**[link](https://github.com/stable-lab/MAGE-A-Multi-Agent-Engine-for-Automated-RTL-Code-Generation)**|
 |**2024-12-10**|**Intelligent System for Automated Molecular Patent Infringement Assessment**|Yaorui Shi et.al.|[2412.07819](http://arxiv.org/abs/2412.07819)|null|
 |**2024-12-10**|**Balancing Mobility Behaviors to avoid Global epidemics from Local Outbreaks**|Pablo Valgañón et.al.|[2412.07656](http://arxiv.org/abs/2412.07656)|null|
-|**2024-12-11**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
+|**2024-12-13**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
 |**2024-12-10**|**Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization**|Zongkai Liu et.al.|[2412.07639](http://arxiv.org/abs/2412.07639)|null|
 |**2024-12-10**|**Swarm Behavior Cloning**|Jonas Nüßlein et.al.|[2412.07617](http://arxiv.org/abs/2412.07617)|null|
 |**2024-12-10**|**Modeling Speculative Trading Patterns in Token Markets: An Agent-Based Analysis with TokenLab**|Mengjue Wang et.al.|[2412.07512](http://arxiv.org/abs/2412.07512)|null|
@@ -98,7 +120,7 @@
 |**2024-12-10**|**Epidemiological Model Calibration via Graybox Bayesian Optimization**|Puhua Niu et.al.|[2412.07193](http://arxiv.org/abs/2412.07193)|null|
 |**2024-12-10**|**Effective Reward Specification in Deep Reinforcement Learning**|Julien Roy et.al.|[2412.07177](http://arxiv.org/abs/2412.07177)|null|
 |**2024-12-10**|**A linear-quadratic partially observed Stackelberg stochastic differential game with multiple followers and its application to multi-agent formation control**|Yichun Li et.al.|[2412.07159](http://arxiv.org/abs/2412.07159)|null|
-|**2024-12-10**|**Political Actor Agent: Simulating Legislative System for Roll Call Votes Prediction with Large Language Models**|Hao Li et.al.|[2412.07144](http://arxiv.org/abs/2412.07144)|null|
+|**2024-12-13**|**Political Actor Agent: Simulating Legislative System for Roll Call Votes Prediction with Large Language Models**|Hao Li et.al.|[2412.07144](http://arxiv.org/abs/2412.07144)|null|
 |**2024-12-10**|**Network and timing effects in social learning**|Wade Hann-Caruthers et.al.|[2412.07061](http://arxiv.org/abs/2412.07061)|null|
 |**2024-12-09**|**In-Application Defense Against Evasive Web Scans through Behavioral Analysis**|Behzad Ousat et.al.|[2412.07005](http://arxiv.org/abs/2412.07005)|null|
 |**2024-12-09**|**Adhesion study at the interface of PDMS-elastomer and borosilicate glass-slide**|Susheel Kumar et.al.|[2412.06997](http://arxiv.org/abs/2412.06997)|null|
@@ -109,7 +131,7 @@
 |**2024-12-07**|**SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering**|Michael Iannelli et.al.|[2412.06832](http://arxiv.org/abs/2412.06832)|null|
 |**2024-12-06**|**Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System**|Fang Zeng et.al.|[2412.06828](http://arxiv.org/abs/2412.06828)|null|
 |**2024-12-09**|**Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty**|Meera Hahn et.al.|[2412.06771](http://arxiv.org/abs/2412.06771)|**[link](https://github.com/google-deepmind/proactive_t2i_agents)**|
-|**2024-12-09**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|**[link](https://github.com/LanLi2017/LLM4DC)**|
+|**2024-12-13**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|**[link](https://github.com/LanLi2017/LLM4DC)**|
 |**2024-12-09**|**Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies**|Dilian Gurov et.al.|[2412.06706](http://arxiv.org/abs/2412.06706)|null|
 |**2024-12-09**|**Toward LLM-Agent-Based Modeling of Transportation Systems: A Conceptual Framework**|Tianming Liu et.al.|[2412.06681](http://arxiv.org/abs/2412.06681)|null|
 |**2024-12-11**|**Self-Interested Agents in Collaborative Learning: An Incentivized Adaptive Data-Centric Framework**|Nithia Vijayan et.al.|[2412.06597](http://arxiv.org/abs/2412.06597)|null|
