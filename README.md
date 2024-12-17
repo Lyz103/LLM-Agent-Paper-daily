@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -141,13 +141,13 @@
 |**2024-12-09**|**The Fusion of Large Language Models and Formal Methods for Trustworthy AI Agents: A Roadmap**|Yedi Zhang et.al.|[2412.06512](http://arxiv.org/abs/2412.06512)|null|
 |**2024-12-12**|**Reasoning about Strategic Abilities in Stochastic Multi-agent Systems**|Yedi Zhang et.al.|[2412.06509](http://arxiv.org/abs/2412.06509)|null|
 |**2024-12-09**|**PPT: Pre-Training with Pseudo-Labeled Trajectories for Motion Forecasting**|Yihong Xu et.al.|[2412.06491](http://arxiv.org/abs/2412.06491)|null|
-|**2024-12-12**|**Agent Journey Beyond RGB: Unveiling Hybrid Semantic-Spatial Environmental Representations for Vision-and-Language Navigation**|Xuesong Zhang et.al.|[2412.06465](http://arxiv.org/abs/2412.06465)|null|
+|**2024-12-12**|**Agent Journey Beyond RGB: Unveiling Hybrid Semantic-Spatial Environmental Representations for Vision-and-Language Navigation**|Xuesong Zhang et.al.|[2412.06465](http://arxiv.org/abs/2412.06465)|**[link](https://github.com/HCI-LMC/VLN-SUSA)**|
 |**2024-12-09**|**Simulating Human-like Daily Activities with Desire-driven Autonomy**|Yiding Wang et.al.|[2412.06435](http://arxiv.org/abs/2412.06435)|null|
 |**2024-12-09**|**World-Consistent Data Generation for Vision-and-Language Navigation**|Yu Zhong et.al.|[2412.06413](http://arxiv.org/abs/2412.06413)|null|
 |**2024-12-09**|**StarWhisper Telescope: Agent-Based Observation Assistant System to Approach AI Astrophysicist**|Cunshi Wang et.al.|[2412.06412](http://arxiv.org/abs/2412.06412)|null|
 |**2024-12-09**|**Augmenting the action space with conventions to improve multi-agent cooperation in Hanabi**|F. Bredell et.al.|[2412.06333](http://arxiv.org/abs/2412.06333)|**[link](https://github.com/fbredell/marl_artificial_conventions_hanabi)**|
 |**2024-12-09**|**Vision-Based Deep Reinforcement Learning of UAV Autonomous Navigation Using Privileged Information**|Junqiao Wang et.al.|[2412.06313](http://arxiv.org/abs/2412.06313)|null|
-|**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
+|**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|**[link](https://github.com/coinse/installamatic)**|
 |**2024-12-09**|**Enhanced Multi-Object Tracking Using Pose-based Virtual Markers in 3x3 Basketball**|Li Yin et.al.|[2412.06258](http://arxiv.org/abs/2412.06258)|null|
 |**2024-12-09**|**In Silico Pharmacokinetic and Molecular Docking Studies of Natural Plants against Essential Protein KRAS for Treatment of Pancreatic Cancer**|Marsha Mariya Kappan et.al.|[2412.06237](http://arxiv.org/abs/2412.06237)|null|
 |**2024-12-09**|**Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks**|Jiazhao Zhang et.al.|[2412.06224](http://arxiv.org/abs/2412.06224)|null|
@@ -2895,7 +2895,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
