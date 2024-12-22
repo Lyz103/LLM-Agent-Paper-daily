@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration**|Junjia Liu et.al.|[2412.15166](http://arxiv.org/abs/2412.15166)|null|
 |**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163](http://arxiv.org/abs/2412.15163)|null|
 |**2024-12-19**|**Equal Merit Does Not Imply Equality: Discrimination at Equilibrium in a Hiring Market with Symmetric Agents**|Serafina Kamp et.al.|[2412.15162](http://arxiv.org/abs/2412.15162)|null|
@@ -33,7 +33,7 @@
 |**2024-12-19**|**Testing linearity of spatial interaction functions à la Ramsey**|Abhimanyu Gupta et.al.|[2412.14778](http://arxiv.org/abs/2412.14778)|null|
 |**2024-12-19**|**PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**|Yiqun Zhang et.al.|[2412.14769](http://arxiv.org/abs/2412.14769)|**[link](https://github.com/LYiHub/psydraw)**|
 |**2024-12-19**|**Active Inference and Human--Computer Interaction**|Roderick Murray-Smith et.al.|[2412.14741](http://arxiv.org/abs/2412.14741)|null|
-|**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737](http://arxiv.org/abs/2412.14737)|null|
+|**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737](http://arxiv.org/abs/2412.14737)|**[link](https://github.com/danielyxyang/llm-verbalized-uq)**|
 |**2024-12-19**|**Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines**|Yunsu Kim et.al.|[2412.14684](http://arxiv.org/abs/2412.14684)|null|
 |**2024-12-19**|**A Model-free Biomimetics Algorithm for Deterministic Partially Observable Markov Decision Process**|Yide Yu et.al.|[2412.14614](http://arxiv.org/abs/2412.14614)|null|
 |**2024-12-19**|**Computational Sociology of Humans and Machines; Conflict and Collaboration**|Taha Yasseri et.al.|[2412.14606](http://arxiv.org/abs/2412.14606)|null|
@@ -58,7 +58,7 @@
 |**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
 |**2024-12-18**|**Future Research Avenues for Artificial Intelligence in Digital Gaming: An Exploratory Report**|Markus Dablander et.al.|[2412.14085](http://arxiv.org/abs/2412.14085)|null|
 |**2024-12-18**|**A Computationally Grounded Framework for Cognitive Attitudes (extended version)**|Tiago de Lima et.al.|[2412.14073](http://arxiv.org/abs/2412.14073)|null|
-|**2024-12-18**|**Spatio-Temporal SIR Model of Pandemic Spread During Warfare with Optimal Dual-use Healthcare System Administration using Deep Reinforcement Learning**|Adi Shuchami et.al.|[2412.14039](http://arxiv.org/abs/2412.14039)|null|
+|**2024-12-18**|**Spatio-Temporal SIR Model of Pandemic Spread During Warfare with Optimal Dual-use Healthcare System Administration using Deep Reinforcement Learning**|Adi Shuchami et.al.|[2412.14039](http://arxiv.org/abs/2412.14039)|**[link](https://github.com/shuchaa/pandemic_during_war_abs)**|
 |**2024-12-18**|**Decentralized Convergence to Equilibrium Prices in Trading Networks**|Edwin Lock et.al.|[2412.13972](http://arxiv.org/abs/2412.13972)|null|
 |**2024-12-18**|**Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto Curves**|Martin Kurečka et.al.|[2412.13962](http://arxiv.org/abs/2412.13962)|null|
 |**2024-12-18**|**Harvesting energy from turbulent winds with Reinforcement Learning**|Lorenzo Basile et.al.|[2412.13961](http://arxiv.org/abs/2412.13961)|null|
@@ -75,12 +75,12 @@
 |**2024-12-18**|**Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration**|Xuhan Zuo et.al.|[2412.13551](http://arxiv.org/abs/2412.13551)|null|
 |**2024-12-18**|**EscapeBench: Pushing Language Models to Think Outside the Box**|Cheng Qian et.al.|[2412.13549](http://arxiv.org/abs/2412.13549)|**[link](https://github.com/qiancheng0/escapebench)**|
 |**2024-12-18**|**Models for common knowledge logic**|Yoshihito Tanaka et.al.|[2412.13537](http://arxiv.org/abs/2412.13537)|null|
-|**2024-12-18**|**ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning**|Yi Huang et.al.|[2412.13520](http://arxiv.org/abs/2412.13520)|null|
+|**2024-12-18**|**ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning**|Yi Huang et.al.|[2412.13520](http://arxiv.org/abs/2412.13520)|**[link](https://github.com/eosphoros-ai/db-gpt)**|
 |**2024-12-18**|**Characterizing quantum state-space with a single quantum measurement**|Matthew B. Weiss et.al.|[2412.13505](http://arxiv.org/abs/2412.13505)|null|
 |**2024-12-18**|**GUI Agents: A Survey**|Dang Nguyen et.al.|[2412.13501](http://arxiv.org/abs/2412.13501)|null|
 |**2024-12-18**|**Gradual Vigilance and Interval Communication: Enhancing Value Alignment in Multi-Agent Debates**|Rui Zou et.al.|[2412.13471](http://arxiv.org/abs/2412.13471)|null|
 |**2024-12-18**|**Deploying Foundation Model Powered Agent Services: A Survey**|Wenchao Xu et.al.|[2412.13437](http://arxiv.org/abs/2412.13437)|null|
-|**2024-12-18**|**BotSim: LLM-Powered Malicious Social Botnet Simulation**|Boyu Qiao et.al.|[2412.13420](http://arxiv.org/abs/2412.13420)|null|
+|**2024-12-18**|**BotSim: LLM-Powered Malicious Social Botnet Simulation**|Boyu Qiao et.al.|[2412.13420](http://arxiv.org/abs/2412.13420)|**[link](https://github.com/qqqqqqby/botsim)**|
 |**2024-12-17**|**Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search**|Jingtian Yan et.al.|[2412.13359](http://arxiv.org/abs/2412.13359)|null|
 |**2024-12-17**|**Connected Equitable Cake Division via Sperner's Lemma**|Umang Bhaskar et.al.|[2412.13340](http://arxiv.org/abs/2412.13340)|null|
 |**2024-12-17**|**Predictive Probability Density Mapping for Search and Rescue Using An Agent-Based Approach with Sparse Data**|Jan-Hendrik Ewers et.al.|[2412.13317](http://arxiv.org/abs/2412.13317)|null|
@@ -110,7 +110,7 @@
 |**2024-12-17**|**Neural-Network-Driven Reward Prediction as a Heuristic: Advancing Q-Learning for Mobile Robot Path Planning**|Yiming Ji et.al.|[2412.12650](http://arxiv.org/abs/2412.12650)|null|
 |**2024-12-17**|**PerSphere: A Comprehensive Framework for Multi-Faceted Perspective Retrieval and Summarization**|Yun Luo et.al.|[2412.12588](http://arxiv.org/abs/2412.12588)|null|
 |**2024-12-17**|**ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers**|Lianghua Huang et.al.|[2412.12571](http://arxiv.org/abs/2412.12571)|**[link](https://github.com/ali-vilab/chatdit)**|
-|**2024-12-17**|**A MARL Based Multi-Target Tracking Algorithm Under Jamming Against Radar**|Ziang Wang et.al.|[2412.12547](http://arxiv.org/abs/2412.12547)|null|
+|**2024-12-17**|**A MARL Based Multi-Target Tracking Algorithm Under Jamming Against Radar**|Ziang Wang et.al.|[2412.12547](http://arxiv.org/abs/2412.12547)|**[link](https://github.com/s1s3r4/muav-mtt-mappo)**|
 |**2024-12-17**|**Generating Move Smart Contracts based on Concepts**|Rabimba Karanjai et.al.|[2412.12513](http://arxiv.org/abs/2412.12513)|null|
 |**2024-12-17**|**Obvious manipulations, consistency, and the uniform rule**|R. Pablo Arribillaga et.al.|[2412.12495](http://arxiv.org/abs/2412.12495)|null|
 |**2024-12-17**|**A Simple and Fast Way to Handle Semantic Errors in Transactions**|Jinghan Zeng et.al.|[2412.12493](http://arxiv.org/abs/2412.12493)|null|
@@ -3073,7 +3073,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
