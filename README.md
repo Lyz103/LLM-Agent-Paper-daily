@@ -28,11 +28,11 @@
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|**[link](https://github.com/httpwww404notfound/CRIR)**|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-24**|**Extracting triples from dialogues for conversational social agents**|Piek Vossen et.al.|[2412.18364](http://arxiv.org/abs/2412.18364)|null|
 |**2024-12-24**|**The Thousand Brains Project: A New Paradigm for Sensorimotor Intelligence**|Viviane Clay et.al.|[2412.18354](http://arxiv.org/abs/2412.18354)|**[link](https://github.com/thousandbrainsproject/tbp.monty)**|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|
-|**2024-12-24**|**The Constitutional Filter**|Simon Kohaut et.al.|[2412.18347](http://arxiv.org/abs/2412.18347)|null|
+|**2024-12-24**|**The Constitutional Filter**|Simon Kohaut et.al.|[2412.18347](http://arxiv.org/abs/2412.18347)|**[link](https://github.com/HRI-EU/ProMis)**|
 |**2024-12-24**|**Learning to Play Against Unknown Opponents**|Eshwar Ram Arunachaleswaran et.al.|[2412.18297](http://arxiv.org/abs/2412.18297)|null|
 |**2024-12-24**|**MinsStudio: A Streamlined Package for Minecraft AI Agent Development**|Shaofei Cai et.al.|[2412.18293](http://arxiv.org/abs/2412.18293)|**[link](https://github.com/craftjarvis/minestudio)**|
 |**2024-12-24**|**Quantum framework for Reinforcement Learning: integrating Markov Decision Process, quantum arithmetic, and trajectory search**|Thet Htar Su et.al.|[2412.18208](http://arxiv.org/abs/2412.18208)|null|
@@ -97,7 +97,7 @@
 |**2024-12-20**|**Towards Safe and Honest AI Agents with Neural Self-Other Overlap**|Marc Carauleanu et.al.|[2412.16325](http://arxiv.org/abs/2412.16325)|null|
 |**2024-12-20**|**Principal-Agent Bandit Games with Self-Interested and Exploratory Learning Agents**|Junyan Liu et.al.|[2412.16318](http://arxiv.org/abs/2412.16318)|null|
 |**2024-12-20**|**HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases**|Meng-Chieh Lee et.al.|[2412.16311](http://arxiv.org/abs/2412.16311)|null|
-|**2024-12-20**|**(Mis)information diffusion and the financial market**|Tommaso Di Francesco et.al.|[2412.16269](http://arxiv.org/abs/2412.16269)|null|
+|**2024-12-20**|**(Mis)information diffusion and the financial market**|Tommaso Di Francesco et.al.|[2412.16269](http://arxiv.org/abs/2412.16269)|**[link](https://github.com/danieltorren/misinformation_financial_markets)**|
 |**2024-12-20**|**Aria-UI: Visual Grounding for GUI Instructions**|Yuhao Yang et.al.|[2412.16256](http://arxiv.org/abs/2412.16256)|null|
 |**2024-12-19**|**Neural diversity is key to collective artificial learning**|Matteo Bettini et.al.|[2412.16244](http://arxiv.org/abs/2412.16244)|null|
 |**2024-12-19**|**Agents Are Not Enough**|Chirag Shah et.al.|[2412.16241](http://arxiv.org/abs/2412.16241)|null|
