@@ -136,7 +136,7 @@
 |**2024-12-19**|**Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling**|Ziyi Ni et.al.|[2412.15305](http://arxiv.org/abs/2412.15305)|null|
 |**2024-12-19**|**Deep reinforcement learning with time-scale invariant memory**|Md Rysul Kabir et.al.|[2412.15292](http://arxiv.org/abs/2412.15292)|**[link](https://github.com/cogneuroai/rl-with-scale-invariant-memory)**|
 |**2024-12-17**|**Memory-Augmented Agent Training for Business Document Understanding**|Jiale Liu et.al.|[2412.15274](http://arxiv.org/abs/2412.15274)|null|
-|**2024-12-17**|**On the Structural Memory of LLM Agents**|Ruihong Zeng et.al.|[2412.15266](http://arxiv.org/abs/2412.15266)|null|
+|**2024-12-17**|**On the Structural Memory of LLM Agents**|Ruihong Zeng et.al.|[2412.15266](http://arxiv.org/abs/2412.15266)|**[link](https://github.com/zengrh3/StructuralMemory)**|
 |**2024-12-16**|**Advanced ingestion process powered by LLM parsing for RAG system**|Arnau Perez et.al.|[2412.15262](http://arxiv.org/abs/2412.15262)|null|
 |**2024-12-15**|**AgentPS: Agentic Process Supervision for Multi-modal Content Quality Assurance through Multi-round QA**|Gorden Liu et.al.|[2412.15251](http://arxiv.org/abs/2412.15251)|null|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
@@ -261,7 +261,7 @@
 |**2024-12-16**|**Common Ground, Diverse Roots: The Difficulty of Classifying Common Examples in Spanish Varieties**|Javier A. Lopetegui et.al.|[2412.11750](http://arxiv.org/abs/2412.11750)|null|
 |**2024-12-17**|**GHIssuemarket: A Sandbox Environment for SWE-Agents Economic Experimentation**|Mohamed A. Fouad et.al.|[2412.11722](http://arxiv.org/abs/2412.11722)|null|
 |**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|**[link](https://github.com/wur-abe/rl_drone_object_search)**|
-|**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|null|
+|**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|**[link](https://github.com/zjumai/evopatient)**|
 |**2024-12-16**|**Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework**|Xuanming Zhang et.al.|[2412.11713](http://arxiv.org/abs/2412.11713)|null|
 |**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|null|
 |**2024-12-16**|**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting**|Muhammet Furkan Ilaslan et.al.|[2412.11621](http://arxiv.org/abs/2412.11621)|**[link](https://github.com/mfurkanilaslan/vg-tvp)**|
@@ -294,7 +294,7 @@
 |**2024-12-14**|**Supervised cooperation on interdependent public goods games**|Ting Ling et.al.|[2412.10873](http://arxiv.org/abs/2412.10873)|null|
 |**2024-12-14**|**Towards Action Hijacking of Large Language Model-based Agent**|Yuyang Zhang et.al.|[2412.10807](http://arxiv.org/abs/2412.10807)|null|
 |**2024-12-14**|**AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games**|Kefan Su et.al.|[2412.10798](http://arxiv.org/abs/2412.10798)|**[link](https://github.com/alimama-tech/auctionnet)**|
-|**2024-12-14**|**Crowd: A Social Network Simulation Framework**|Ann Nedime Nese Rende et.al.|[2412.10781](http://arxiv.org/abs/2412.10781)|null|
+|**2024-12-14**|**Crowd: A Social Network Simulation Framework**|Ann Nedime Nese Rende et.al.|[2412.10781](http://arxiv.org/abs/2412.10781)|**[link](https://github.com/bilkent-social-systems-research-group/crowd)**|
 |**2024-12-14**|**WEPO: Web Element Preference Optimization for LLM-based Web Navigation**|Jiarun Liu et.al.|[2412.10742](http://arxiv.org/abs/2412.10742)|null|
 |**2024-12-14**|**DSRC: Learning Density-insensitive and Semantic-aware Collaborative Representation against Corruptions**|Jingyu Zhang et.al.|[2412.10739](http://arxiv.org/abs/2412.10739)|**[link](https://github.com/terry9a/dsrc)**|
 |**2024-12-14**|**NoisyEQA: Benchmarking Embodied Question Answering Against Noisy Queries**|Tao Wu et.al.|[2412.10726](http://arxiv.org/abs/2412.10726)|null|
@@ -368,7 +368,7 @@
 |**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642](http://arxiv.org/abs/2412.08642)|null|
 |**2024-12-11**|**RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation**|Mingfei Han et.al.|[2412.08591](http://arxiv.org/abs/2412.08591)|null|
 |**2024-12-11**|**Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead**|Yanqi Su et.al.|[2412.08581](http://arxiv.org/abs/2412.08581)|null|
-|**2024-12-11**|**GenPlan: Generative sequence models as adaptive planners**|Akash Karthikeyan et.al.|[2412.08565](http://arxiv.org/abs/2412.08565)|null|
+|**2024-12-11**|**GenPlan: Generative sequence models as adaptive planners**|Akash Karthikeyan et.al.|[2412.08565](http://arxiv.org/abs/2412.08565)|**[link](https://github.com/cl2-uwaterloo/genplan)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-12**|**Exact Algorithms for Multiagent Path Finding with Communication Constraints on Tree-Like Structures**|Foivos Fioravantes et.al.|[2412.08556](http://arxiv.org/abs/2412.08556)|null|
 |**2024-12-11**|**Grimm: A Plug-and-Play Perturbation Rectifier for Graph Neural Networks Defending against Poisoning Attacks**|Ao Liu et.al.|[2412.08555](http://arxiv.org/abs/2412.08555)|null|
@@ -545,7 +545,7 @@
 |**2024-12-04**|**SPICE: Smart Projection Interface for Cooking Enhancement**|Vera Prohaska et.al.|[2412.03551](http://arxiv.org/abs/2412.03551)|null|
 |**2024-12-04**|**Risk-aware Classification via Uncertainty Quantification**|Murat Sensoy et.al.|[2412.03391](http://arxiv.org/abs/2412.03391)|null|
 |**2024-12-04**|**WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis**|Chengwei Hu et.al.|[2412.03359](http://arxiv.org/abs/2412.03359)|null|
-|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
+|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|**[link](https://github.com/georgewanglz2019/LLMTraveler)**|
 |**2024-12-04**|**Mean-field Concentration of Opinion Dynamics in Random Graphs**|Javiera Gutiérrez-Ramírez et.al.|[2412.03207](http://arxiv.org/abs/2412.03207)|null|
 |**2024-12-04**|**AffordDP: Generalizable Diffusion Policy with Transferable Affordance**|Shijie Wu et.al.|[2412.03142](http://arxiv.org/abs/2412.03142)|null|
 |**2024-12-04**|**ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**|Zhe Xie et.al.|[2412.03104](http://arxiv.org/abs/2412.03104)|**[link](https://github.com/NetManAIOps/ChatTS)**|
