@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.30
+## Updated on 2024.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -63,7 +63,7 @@ layout: default
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|**[link](https://github.com/httpwww404notfound/CRIR)**|
-|**2024-12-25**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
+|**2024-12-25**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
 |**2024-12-24**|**Extracting triples from dialogues for conversational social agents**|Piek Vossen et.al.|[2412.18364](http://arxiv.org/abs/2412.18364)|null|
 |**2024-12-24**|**The Thousand Brains Project: A New Paradigm for Sensorimotor Intelligence**|Viviane Clay et.al.|[2412.18354](http://arxiv.org/abs/2412.18354)|**[link](https://github.com/thousandbrainsproject/tbp.monty)**|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|
@@ -159,7 +159,7 @@ layout: default
 |**2024-12-20**|**Multi Agent Reinforcement Learning for Sequential Satellite Assignment Problems**|Joshua Holder et.al.|[2412.15573](http://arxiv.org/abs/2412.15573)|**[link](https://github.com/Rainlabuw/rl-enabled-distributed-assignment)**|
 |**2024-12-20**|**Generalized Back-Stepping Experience Replay in Sparse-Reward Environments**|Guwen Lyu et.al.|[2412.15525](http://arxiv.org/abs/2412.15525)|null|
 |**2024-12-20**|**Novelty-Guided Data Reuse for Efficient and Diversified Multi-Agent Reinforcement Learning**|Yangkun Chen et.al.|[2412.15517](http://arxiv.org/abs/2412.15517)|**[link](https://github.com/kkane99/MANGER_code)**|
-|**2024-12-20**|**Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework**|Zhenjie Xu et.al.|[2412.15504](http://arxiv.org/abs/2412.15504)|null|
+|**2024-12-20**|**Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework**|Zhenjie Xu et.al.|[2412.15504](http://arxiv.org/abs/2412.15504)|**[link](https://github.com/cortantse/moma)**|
 |**2024-12-20**|**An Agent-based Model for Competitive Agents**|Mohammad Daneshvar et.al.|[2412.15485](http://arxiv.org/abs/2412.15485)|null|
 |**2024-12-20**|**On the Fairness of Additive Welfarist Rules**|Karen Frilya Celine et.al.|[2412.15472](http://arxiv.org/abs/2412.15472)|null|
 |**2024-12-19**|**Asymptotic Extinction in Large Coordination Games**|Desmond Chan et.al.|[2412.15461](http://arxiv.org/abs/2412.15461)|null|
