@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -53,7 +53,7 @@ layout: default
 |**2024-12-28**|**BaiJia: A Large Scale Role-Playing Agent Corpus of Chinese Historical Charcaters**|Ting Bai et.al.|[2412.20024](http://arxiv.org/abs/2412.20024)|null|
 |**2024-12-28**|**OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System**|Yujie Luo et.al.|[2412.20005](http://arxiv.org/abs/2412.20005)|**[link](https://github.com/zjunlp/oneke)**|
 |**2024-12-28**|**Scalability Assurance in SFC provisioning via Distributed Design for Deep Reinforcement Learning**|Murat Arda Onsu et.al.|[2412.19995](http://arxiv.org/abs/2412.19995)|null|
-|**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|null|
+|**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|**[link](https://github.com/opendfm/llm4chemistry)**|
 |**2024-12-28**|**Will you donate money to a chatbot? The effect of chatbot anthropomorphic features and persuasion strategies on willingness to donate**|Ekaterina Novozhilova et.al.|[2412.19976](http://arxiv.org/abs/2412.19976)|null|
 |**2024-12-27**|**The Degree of (Extended) Justified Representation and Its Optimization**|Biaoshuai Tao et.al.|[2412.19933](http://arxiv.org/abs/2412.19933)|null|
 |**2024-12-27**|**Estimating time in quantum chaotic systems and black holes**|Haifeng Tang et.al.|[2412.19885](http://arxiv.org/abs/2412.19885)|null|
@@ -70,12 +70,12 @@ layout: default
 |**2024-12-27**|**Quantiles under ambiguity and risk sharing**|Peng Liu et.al.|[2412.19546](http://arxiv.org/abs/2412.19546)|null|
 |**2024-12-27**|**TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data**|Xiang Huang et.al.|[2412.19544](http://arxiv.org/abs/2412.19544)|**[link](https://github.com/cdhx/targa)**|
 |**2024-12-27**|**Scalable Hierarchical Reinforcement Learning for Hyper Scale Multi-Robot Task Planning**|Xuan Zhou et.al.|[2412.19538](http://arxiv.org/abs/2412.19538)|null|
-|**2024-12-27**|**Casevo: A Cognitive Agents and Social Evolution Simulator**|Zexun Jiang et.al.|[2412.19498](http://arxiv.org/abs/2412.19498)|null|
+|**2024-12-27**|**Casevo: A Cognitive Agents and Social Evolution Simulator**|Zexun Jiang et.al.|[2412.19498](http://arxiv.org/abs/2412.19498)|**[link](https://github.com/rgcass/casevo)**|
 |**2024-12-27**|**Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR**|Ted Edward Holmberg et.al.|[2412.19469](http://arxiv.org/abs/2412.19469)|null|
 |**2024-12-27**|**Online distributed algorithms for mixed equilibrium problems in dynamic environments**|Hang Xu et.al.|[2412.19399](http://arxiv.org/abs/2412.19399)|null|
 |**2024-12-26**|**Preventive Energy Management for Distribution Systems Under Uncertain Events: A Deep Reinforcement Learning Approach**|Md Isfakul Anam et.al.|[2412.19382](http://arxiv.org/abs/2412.19382)|null|
 |**2024-12-26**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
-|**2024-12-26**|**xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**|Risal Shahriar Shefin et.al.|[2412.19311](http://arxiv.org/abs/2412.19311)|null|
+|**2024-12-26**|**xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**|Risal Shahriar Shefin et.al.|[2412.19311](http://arxiv.org/abs/2412.19311)|**[link](https://github.com/risal-shefin/xsrl)**|
 |**2024-12-26**|**Reforming an Unfair Allocation by Exchanging Goods**|Sheung Man Yuen et.al.|[2412.19264](http://arxiv.org/abs/2412.19264)|null|
 |**2024-12-26**|**Swarm Contract: A Multi-Sovereign Agent Consensus Mechanism**|Haowei Yang et.al.|[2412.19256](http://arxiv.org/abs/2412.19256)|null|
 |**2024-12-26**|**VINEVI: A Virtualized Network Vision Architecture for Smart Monitoring of Heterogeneous Applications and Infrastructures**|Rodrigo Moreira et.al.|[2412.19226](http://arxiv.org/abs/2412.19226)|null|
@@ -94,7 +94,7 @@ layout: default
 |**2024-12-25**|**Design and Evaluation of Privacy-Preserving Protocols for Agent-Facilitated Mobile Money Services in Kenya**|Karen Sowon et.al.|[2412.18716](http://arxiv.org/abs/2412.18716)|null|
 |**2024-12-24**|**Agents on the Bench: Large Language Model Based Multi Agent Framework for Trustworthy Digital Justice**|Cong Jiang et.al.|[2412.18697](http://arxiv.org/abs/2412.18697)|null|
 |**2024-12-24**|**TimelyLLM: Segmented LLM Serving System for Time-sensitive Robotic Applications**|Neiwen Ling et.al.|[2412.18695](http://arxiv.org/abs/2412.18695)|null|
-|**2024-12-24**|**AgreeMate: Teaching LLMs to Haggle**|Ainesh Chatterjee et.al.|[2412.18690](http://arxiv.org/abs/2412.18690)|null|
+|**2024-12-24**|**AgreeMate: Teaching LLMs to Haggle**|Ainesh Chatterjee et.al.|[2412.18690](http://arxiv.org/abs/2412.18690)|**[link](https://github.com/GeneralCoder365/agreemate)**|
 |**2024-12-24**|**Self-assembling T7 phage syringes with modular genomes for targeted delivery of penicillin against beta-lactam-resistant Escherichia coli**|Hyunjin Shim et.al.|[2412.18687](http://arxiv.org/abs/2412.18687)|null|
 |**2024-12-23**|**A Grounded Observer Framework for Establishing Guardrails for Foundation Models in Socially Sensitive Domains**|Rebecca Ramnauth et.al.|[2412.18639](http://arxiv.org/abs/2412.18639)|null|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
@@ -108,7 +108,7 @@ layout: default
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|**[link](https://github.com/httpwww404notfound/CRIR)**|
-|**2024-12-25**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-25**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-24**|**Extracting triples from dialogues for conversational social agents**|Piek Vossen et.al.|[2412.18364](http://arxiv.org/abs/2412.18364)|null|
 |**2024-12-24**|**The Thousand Brains Project: A New Paradigm for Sensorimotor Intelligence**|Viviane Clay et.al.|[2412.18354](http://arxiv.org/abs/2412.18354)|**[link](https://github.com/thousandbrainsproject/tbp.monty)**|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|
@@ -161,7 +161,7 @@ layout: default
 |**2024-12-22**|**GraphAgent: Agentic Graph Language Assistant**|Yuhao Yang et.al.|[2412.17029](http://arxiv.org/abs/2412.17029)|null|
 |**2024-12-22**|**FriendsQA: A New Large-Scale Deep Video Understanding Dataset with Fine-grained Topic Categorization for Story Videos**|Zhengqian Wu et.al.|[2412.17022](http://arxiv.org/abs/2412.17022)|**[link](https://github.com/nercms-mmap/friendsqa)**|
 |**2024-12-22**|**Environment Descriptions for Usability and Generalisation in Reinforcement Learning**|Dennis J. N. J. Soemers et.al.|[2412.16970](http://arxiv.org/abs/2412.16970)|null|
-|**2024-12-22**|**Online Preference-based Reinforcement Learning with Self-augmented Feedback from Large Language Model**|Songjun Tu et.al.|[2412.16878](http://arxiv.org/abs/2412.16878)|null|
+|**2024-12-22**|**Online Preference-based Reinforcement Learning with Self-augmented Feedback from Large Language Model**|Songjun Tu et.al.|[2412.16878](http://arxiv.org/abs/2412.16878)|**[link](https://github.com/tu2021/rl-sallm-f)**|
 |**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833](http://arxiv.org/abs/2412.16833)|null|
 |**2024-12-21**|**Reasoning about Actual Causes in Nondeterministic Domains -- Extended Version**|Shakil M. Khan et.al.|[2412.16728](http://arxiv.org/abs/2412.16728)|null|
 |**2024-12-21**|**Interact with me: Joint Egocentric Forecasting of Intent to Interact, Attitude and Social Actions**|Tongfei Bian et.al.|[2412.16698](http://arxiv.org/abs/2412.16698)|null|
