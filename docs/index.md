@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -50,7 +50,7 @@ layout: default
 |**2024-12-28**|**Investigating the Impact of Communication-Induced Action Space on Exploration of Unknown Environments with Decentralized Multi-Agent Reinforcement Learning**|Gabriele Calzolari et.al.|[2412.20075](http://arxiv.org/abs/2412.20075)|null|
 |**2024-12-28**|**Towards Human-AI Synergy in UI Design: Enhancing Multi-Agent Based UI Generation with Intent Clarification and Alignment**|Mingyue Yuan et.al.|[2412.20071](http://arxiv.org/abs/2412.20071)|null|
 |**2024-12-28**|**Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search**|Gabriele Calzolari et.al.|[2412.20049](http://arxiv.org/abs/2412.20049)|null|
-|**2024-12-28**|**BaiJia: A Large Scale Role-Playing Agent Corpus of Chinese Historical Charcaters**|Ting Bai et.al.|[2412.20024](http://arxiv.org/abs/2412.20024)|null|
+|**2024-12-28**|**BaiJia: A Large Scale Role-Playing Agent Corpus of Chinese Historical Charcaters**|Ting Bai et.al.|[2412.20024](http://arxiv.org/abs/2412.20024)|**[link](https://github.com/BAI-LAB/BaiJia)**|
 |**2024-12-28**|**OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System**|Yujie Luo et.al.|[2412.20005](http://arxiv.org/abs/2412.20005)|**[link](https://github.com/zjunlp/oneke)**|
 |**2024-12-28**|**Scalability Assurance in SFC provisioning via Distributed Design for Deep Reinforcement Learning**|Murat Arda Onsu et.al.|[2412.19995](http://arxiv.org/abs/2412.19995)|null|
 |**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|**[link](https://github.com/opendfm/llm4chemistry)**|
