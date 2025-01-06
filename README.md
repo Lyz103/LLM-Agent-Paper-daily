@@ -17,6 +17,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
+|**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
+|**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
+|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|null|
+|**2025-01-03**|**Distributed Framework Construction for Affine Formation Control**|Huiming Li et.al.|[2501.01817](http://arxiv.org/abs/2501.01817)|null|
+|**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
+|**2025-01-03**|**Proposing Hierarchical Goal-Conditioned Policy Planning in Multi-Goal Reinforcement Learning**|Gavin B. Rens et.al.|[2501.01727](http://arxiv.org/abs/2501.01727)|null|
+|**2025-01-03**|**AgentRefine: Enhancing Agent Generalization through Refinement Tuning**|Dayuan Fu et.al.|[2501.01702](http://arxiv.org/abs/2501.01702)|null|
+|**2025-01-03**|**The (Exact) Price of Cardinality for Indivisible Goods: A Parametric Perspective**|Alexander Lam et.al.|[2501.01660](http://arxiv.org/abs/2501.01660)|null|
+|**2025-01-03**|**PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**|Jingoo Lee et.al.|[2501.01594](http://arxiv.org/abs/2501.01594)|null|
+|**2025-01-03**|**BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems**|Yinbo Yu et.al.|[2501.01593](http://arxiv.org/abs/2501.01593)|null|
+|**2025-01-02**|**Reinforcement-learning-based control of turbulent channel flows at high Reynolds numbers**|Zisong Zhou et.al.|[2501.01573](http://arxiv.org/abs/2501.01573)|null|
+|**2025-01-02**|**BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery**|Kanishk Gandhi et.al.|[2501.01540](http://arxiv.org/abs/2501.01540)|null|
+|**2025-01-02**|**In Search of a Lost Metric: Human Empowerment as a Pillar of Socially Conscious Navigation**|Vasanth Reddy Baddam et.al.|[2501.01539](http://arxiv.org/abs/2501.01539)|null|
+|**2024-12-31**|**Goal Recognition using Actor-Critic Optimization**|Ben Nageris et.al.|[2501.01463](http://arxiv.org/abs/2501.01463)|null|
+|**2024-12-25**|**Probabilistic Mission Design in Neuro-Symbolic Systems**|Simon Kohaut et.al.|[2501.01439](http://arxiv.org/abs/2501.01439)|null|
 |**2025-01-02**|**Optimal Strategy Revision in Population Games: A Mean Field Game Theory Perspective**|Julian Barreiro-Gomez et.al.|[2501.01389](http://arxiv.org/abs/2501.01389)|null|
 |**2025-01-02**|**PIMAEX: Multi-Agent Exploration through Peer Incentivization**|Michael Kölle et.al.|[2501.01266](http://arxiv.org/abs/2501.01266)|null|
 |**2025-01-02**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
@@ -35,7 +51,7 @@
 |**2025-01-01**|**Non-obvious Manipulability in Hedonic Games with Friends Appreciation Preferences**|Michele Flammini et.al.|[2501.00976](http://arxiv.org/abs/2501.00976)|null|
 |**2025-01-01**|**Defense Strategies for Autonomous Multi-agent Systems: Ensuring Safety and Resilience Under Exponentially Unbounded FDI Attacks**|Yichao Wang et.al.|[2501.00973](http://arxiv.org/abs/2501.00973)|null|
 |**2025-01-01**|**Intent-based Radio Scheduler for RAN Slicing: Learning to deal with different network scenarios**|Cleverson Nahum et.al.|[2501.00950](http://arxiv.org/abs/2501.00950)|**[link](https://github.com/lasseufpa/intent_radio_sched_multi_slice)**|
-|**2025-01-01**|**Large Language Model Based Multi-Agent System Augmented Complex Event Processing Pipeline for Internet of Multimedia Things**|Talha Zeeshan et.al.|[2501.00906](http://arxiv.org/abs/2501.00906)|null|
+|**2025-01-03**|**Large Language Model Based Multi-Agent System Augmented Complex Event Processing Pipeline for Internet of Multimedia Things**|Talha Zeeshan et.al.|[2501.00906](http://arxiv.org/abs/2501.00906)|null|
 |**2025-01-01**|**Agentic Systems: A Guide to Transforming Industries with Vertical AI Agents**|Fouad Bousetouane et.al.|[2501.00881](http://arxiv.org/abs/2501.00881)|null|
 |**2025-01-01**|**Observer-Based Data-Driven Consensus Control for Nonlinear Multi-Agent Systems against DoS and FDI attacks**|Yi Zhang et.al.|[2501.00872](http://arxiv.org/abs/2501.00872)|null|
 |**2025-01-01**|**Interactionalism: Re-Designing Higher Learning for the Large Language Agent Era**|Mihnea C. Moldoveanu et.al.|[2501.00867](http://arxiv.org/abs/2501.00867)|null|
@@ -50,7 +66,7 @@
 |**2024-12-31**|**TinyHelen's First Curriculum: Training and Evaluating Tiny Language Models in a Simpler Language Environment**|Ke Yang et.al.|[2501.00522](http://arxiv.org/abs/2501.00522)|null|
 |**2024-12-31**|**Innovative Silicosis and Pneumonia Classification: Leveraging Graph Transformer Post-hoc Modeling and Ensemble Techniques**|Bao Q. Bui et.al.|[2501.00520](http://arxiv.org/abs/2501.00520)|null|
 |**2024-12-31**|**The Power of Generalized Clemens Semantics**|Hitoshi Omori et.al.|[2501.00499](http://arxiv.org/abs/2501.00499)|null|
-|**2024-12-31**|**Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection agents**|Chengbo He et.al.|[2501.00430](http://arxiv.org/abs/2501.00430)|null|
+|**2025-01-03**|**Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection agents**|Chengbo He et.al.|[2501.00430](http://arxiv.org/abs/2501.00430)|null|
 |**2024-12-31**|**Proactive Conversational Agents with Inner Thoughts**|Xingyu Bruce Liu et.al.|[2501.00383](http://arxiv.org/abs/2501.00383)|null|
 |**2024-12-31**|**$\texttt{FORM}$ : Learning Expressive and Transferable First-Order Logic Reward Machines**|Leo Ardon et.al.|[2501.00364](http://arxiv.org/abs/2501.00364)|null|
 |**2024-12-31**|**Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding**|Yue Fan et.al.|[2501.00358](http://arxiv.org/abs/2501.00358)|null|
