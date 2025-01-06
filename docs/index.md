@@ -393,7 +393,7 @@ layout: default
 |**2024-12-16**|**Prediction of social dilemmas in networked populations via graph neural networks**|Huaiyu Tan et.al.|[2412.11775](http://arxiv.org/abs/2412.11775)|null|
 |**2024-12-16**|**Harnessing Language for Coordination: A Framework and Benchmark for LLM-Driven Multi-Agent Control**|Timothée Anne et.al.|[2412.11761](http://arxiv.org/abs/2412.11761)|null|
 |**2024-12-16**|**Common Ground, Diverse Roots: The Difficulty of Classifying Common Examples in Spanish Varieties**|Javier A. Lopetegui et.al.|[2412.11750](http://arxiv.org/abs/2412.11750)|null|
-|**2024-12-17**|**GHIssuemarket: A Sandbox Environment for SWE-Agents Economic Experimentation**|Mohamed A. Fouad et.al.|[2412.11722](http://arxiv.org/abs/2412.11722)|null|
+|**2024-12-17**|**GHIssuemarket: A Sandbox Environment for SWE-Agents Economic Experimentation**|Mohamed A. Fouad et.al.|[2412.11722](http://arxiv.org/abs/2412.11722)|**[link](https://github.com/lascam-ufu/ghissuemarketsandbox)**|
 |**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|**[link](https://github.com/wur-abe/rl_drone_object_search)**|
 |**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|**[link](https://github.com/zjumai/evopatient)**|
 |**2024-12-16**|**Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework**|Xuanming Zhang et.al.|[2412.11713](http://arxiv.org/abs/2412.11713)|null|
@@ -2168,7 +2168,7 @@ layout: default
 |**2024-10-08**|**OrionNav: Online Planning for Robot Autonomy with Context-Aware LLM and Open-Vocabulary Semantic Scene Graphs**|Venkata Naren Devarakonda et.al.|[2410.06239](http://arxiv.org/abs/2410.06239)|null|
 |**2024-10-08**|**DataEnvGym: Data Generation Agents in Teacher Environments with Student Feedback**|Zaid Khan et.al.|[2410.06215](http://arxiv.org/abs/2410.06215)|**[link](https://github.com/codezakh/dataenvgym)**|
 |**2024-10-08**|**RL, but don't do anything I wouldn't do**|Michael K. Cohen et.al.|[2410.06213](http://arxiv.org/abs/2410.06213)|**[link](https://github.com/mkc1000/kl-fixed-mixture)**|
-|**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|null|
+|**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-08**|**Multimodal Situational Safety**|Kaiwen Zhou et.al.|[2410.06172](http://arxiv.org/abs/2410.06172)|null|
 |**2024-10-08**|**GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**|Chi-Lam Cheang et.al.|[2410.06158](http://arxiv.org/abs/2410.06158)|null|
 |**2024-10-08**|**AgentSquare: Automatic LLM Agent Search in Modular Design Space**|Yu Shang et.al.|[2410.06153](http://arxiv.org/abs/2410.06153)|**[link](https://github.com/tsinghua-fib-lab/agentsquare)**|
@@ -2519,7 +2519,7 @@ layout: default
 |**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
 |**2024-09-24**|**MBC: Multi-Brain Collaborative Control for Quadruped Robots**|Hang Liu et.al.|[2409.16460](http://arxiv.org/abs/2409.16460)|null|
 |**2024-09-24**|**MultiTalk: Introspective and Extrospective Dialogue for Human-Environment-LLM Alignment**|Venkata Naren Devarakonda et.al.|[2409.16455](http://arxiv.org/abs/2409.16455)|null|
-|**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|null|
+|**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|**[link](https://github.com/talhabozkus/icassp-25-appendix)**|
 |**2024-09-26**|**HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions**|Xuhui Zhou et.al.|[2409.16427](http://arxiv.org/abs/2409.16427)|null|
 |**2024-09-24**|**Rao-Blackwellized POMDP Planning**|Jiho Lee et.al.|[2409.16392](http://arxiv.org/abs/2409.16392)|null|
 |**2024-09-24**|**Patch-Based Contrastive Learning and Memory Consolidation for Online Unsupervised Continual Learning**|Cameron Taylor et.al.|[2409.16391](http://arxiv.org/abs/2409.16391)|**[link](https://github.com/CameronTaylorFL/upl-benchmark)**|
@@ -2934,7 +2934,7 @@ layout: default
 |**2024-09-13**|**Safeguarding AI Agents: Developing and Analyzing Safety Architectures**|Ishaan Domkundwar et.al.|[2409.03793](http://arxiv.org/abs/2409.03793)|null|
 |**2024-08-31**|**BreachSeek: A Multi-Agent Automated Penetration Tester**|Ibrahim Alshehri et.al.|[2409.03789](http://arxiv.org/abs/2409.03789)|**[link](https://github.com/snow10100/pena)**|
 |**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
-|**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|null|
+|**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|**[link](https://github.com/yoda-lab/trace-cs)**|
 |**2024-09-06**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659](http://arxiv.org/abs/2409.03659)|**[link](https://github.com/zhangr2021/Multiagent_poetry)**|
 |**2024-09-05**|**A Complete Landscape of EFX Allocations of Mixed Manna on Graphs**|Yu Zhou et.al.|[2409.03594](http://arxiv.org/abs/2409.03594)|null|
 |**2024-09-05**|**CHIRPs: Change-Induced Regret Proxy metrics for Lifelong Reinforcement Learning**|John Birkbeck et.al.|[2409.03577](http://arxiv.org/abs/2409.03577)|null|
