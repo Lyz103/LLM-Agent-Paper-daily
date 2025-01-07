@@ -17,7 +17,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-03**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
+|**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
+|**2025-01-06**|**Turn-based Multi-Agent Reinforcement Learning Model Checking**|Dennis Gross et.al.|[2501.03187](http://arxiv.org/abs/2501.03187)|null|
+|**2025-01-06**|**Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning**|Muyun Li et.al.|[2501.03162](http://arxiv.org/abs/2501.03162)|null|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
+|**2025-01-06**|**Probably Correct Optimal Stable Matching for Two-Sided Markets Under Uncertainty**|Andreas Athanasopoulos et.al.|[2501.03018](http://arxiv.org/abs/2501.03018)|**[link](https://github.com/a-athanasopoulos/pacos)**|
+|**2025-01-06**|**Approximating N-Player Nash Equilibrium through Gradient Descent**|Dongge Wang et.al.|[2501.03001](http://arxiv.org/abs/2501.03001)|null|
+|**2025-01-06**|**CALM: Curiosity-Driven Auditing for Large Language Models**|Xiang Zheng et.al.|[2501.02997](http://arxiv.org/abs/2501.02997)|null|
+|**2025-01-06**|**CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems**|Chuanbo Hua et.al.|[2501.02977](http://arxiv.org/abs/2501.02977)|null|
+|**2025-01-06**|**Revisiting Communication Efficiency in Multi-Agent Reinforcement Learning from the Dimensional Analysis Perspective**|Chuxiong Sun et.al.|[2501.02888](http://arxiv.org/abs/2501.02888)|null|
+|**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858](http://arxiv.org/abs/2501.02858)|null|
+|**2025-01-06**|**Proteomic Learning of Gamma-Aminobutyric Acid (GABA) Receptor-Mediated Anesthesia**|Jian Jiang et.al.|[2501.02824](http://arxiv.org/abs/2501.02824)|**[link](https://github.com/longchen0/gaba-ppi)**|
+|**2025-01-06**|**Enhancing Lifelong Multi-Agent Path Finding with Cache Mechanism**|Yimin Tang et.al.|[2501.02803](http://arxiv.org/abs/2501.02803)|null|
+|**2025-01-06**|**Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior**|Liudong Chen et.al.|[2501.02792](http://arxiv.org/abs/2501.02792)|null|
+|**2025-01-06**|**Learn A Flexible Exploration Model for Parameterized Action Markov Decision Processes**|Zijian Wang et.al.|[2501.02774](http://arxiv.org/abs/2501.02774)|null|
+|**2025-01-06**|**Multi-Agent Path Finding under Limited Communication Range Constraint via Dynamic Leading**|Hoang-Dung Bui et.al.|[2501.02770](http://arxiv.org/abs/2501.02770)|null|
+|**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727](http://arxiv.org/abs/2501.02727)|null|
+|**2025-01-05**|**A New Interpretation of the Certainty-Equivalence Approach for PAC Reinforcement Learning with a Generative Model**|Shivaram Kalyanakrishnan et.al.|[2501.02652](http://arxiv.org/abs/2501.02652)|null|
+|**2025-01-05**|**Slow modulation of the contraction patterns in Physarum polycephalum**|Raphael Saiseau et.al.|[2501.02651](http://arxiv.org/abs/2501.02651)|null|
+|**2025-01-05**|**LLMs Help Alleviate the Cross-Subject Variability in Brain Signal and Language Alignment**|Yifei Liu et.al.|[2501.02621](http://arxiv.org/abs/2501.02621)|null|
+|**2025-01-05**|**Back to Base: Towards Hands-Off Learning via Safe Resets with Reach-Avoid Safety Filters**|Azra Begzadić et.al.|[2501.02620](http://arxiv.org/abs/2501.02620)|null|
+|**2025-01-05**|**Revealed Social Networks**|Christopher P. Chambers et.al.|[2501.02609](http://arxiv.org/abs/2501.02609)|null|
+|**2025-01-05**|**Limiting distributions of generalized money exchange models**|Hironobu Sakagawa et.al.|[2501.02490](http://arxiv.org/abs/2501.02490)|null|
+|**2025-01-05**|**The Meta-Representation Hypothesis**|Zhengpeng Xie et.al.|[2501.02481](http://arxiv.org/abs/2501.02481)|**[link](https://github.com/myrepositories-hub/dml-rl)**|
+|**2025-01-05**|**GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection**|Yihang Tao et.al.|[2501.02450](http://arxiv.org/abs/2501.02450)|null|
+|**2025-01-04**|**Enhancing Workplace Productivity and Well-being Using AI Agent**|Ravirajan K et.al.|[2501.02368](http://arxiv.org/abs/2501.02368)|null|
+|**2025-01-04**|**Thinking with Many Minds: Using Large Language Models for Multi-Perspective Problem-Solving**|Sanghyun Park et.al.|[2501.02348](http://arxiv.org/abs/2501.02348)|null|
+|**2025-01-04**|**Optimizing Small Language Models for In-Vehicle Function-Calling**|Yahya Sowti Khiabani et.al.|[2501.02342](http://arxiv.org/abs/2501.02342)|null|
+|**2025-01-04**|**UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility**|Yonglin Tian et.al.|[2501.02341](http://arxiv.org/abs/2501.02341)|**[link](https://github.com/hub-tian/uavs_meet_llms)**|
+|**2025-01-04**|**Stochastic Generalized Dynamic Games with Coupled Chance Constraints**|Seyed Shahram Yadollahi et.al.|[2501.02279](http://arxiv.org/abs/2501.02279)|null|
+|**2025-01-04**|**CORD: Generalizable Cooperation via Role Diversity**|Kanefumi Matsuyama et.al.|[2501.02221](http://arxiv.org/abs/2501.02221)|null|
+|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|null|
+|**2025-01-04**|**TACTIC: Task-Agnostic Contrastive pre-Training for Inter-Agent Communication**|Peihong Yu et.al.|[2501.02174](http://arxiv.org/abs/2501.02174)|null|
+|**2025-01-03**|**A hybrid marketplace of ideas**|Tomer Jordi Chaffer et.al.|[2501.02132](http://arxiv.org/abs/2501.02132)|null|
+|**2025-01-03**|**How do Humans take an Object from a Robot: Behavior changes observed in a User Study**|Parag Khanna et.al.|[2501.02127](http://arxiv.org/abs/2501.02127)|null|
+|**2025-01-03**|**Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning**|Zhaoyuan Gu et.al.|[2501.02116](http://arxiv.org/abs/2501.02116)|null|
+|**2025-01-03**|**SMTL: A Stratified Logic for Expressive Multi-Level Temporal Specifications**|Ali Baheri et.al.|[2501.02094](http://arxiv.org/abs/2501.02094)|null|
+|**2024-12-31**|**Disagree and Commit: Degrees of Argumentation-based Agreements**|Timotheus Kampik et.al.|[2501.01992](http://arxiv.org/abs/2501.01992)|null|
+|**2025-01-06**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
 |**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|**[link](https://github.com/alibabaresearch/damo-convai)**|
@@ -35,7 +72,7 @@
 |**2024-12-25**|**Probabilistic Mission Design in Neuro-Symbolic Systems**|Simon Kohaut et.al.|[2501.01439](http://arxiv.org/abs/2501.01439)|null|
 |**2025-01-02**|**Optimal Strategy Revision in Population Games: A Mean Field Game Theory Perspective**|Julian Barreiro-Gomez et.al.|[2501.01389](http://arxiv.org/abs/2501.01389)|null|
 |**2025-01-02**|**PIMAEX: Multi-Agent Exploration through Peer Incentivization**|Michael Kölle et.al.|[2501.01266](http://arxiv.org/abs/2501.01266)|null|
-|**2025-01-02**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
+|**2025-01-05**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
 |**2025-01-02**|**From Interaction to Attitude: Exploring the Impact of Human-AI Cooperation on Mental Illness Stigma**|Tianqi Song et.al.|[2501.01220](http://arxiv.org/abs/2501.01220)|null|
 |**2025-01-02**|**D-HAT: a Diatom-inspired structure for a Helmet concept Against Trauma**|Ludovico Musenich et.al.|[2501.01211](http://arxiv.org/abs/2501.01211)|null|
 |**2025-01-02**|**Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects**|Abdullah Mushtaq et.al.|[2501.01205](http://arxiv.org/abs/2501.01205)|null|
@@ -96,7 +133,7 @@
 |**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069](http://arxiv.org/abs/2412.21069)|null|
 |**2024-12-30**|**Plancraft: an evaluation dataset for planning with LLM agents**|Gautier Dagan et.al.|[2412.21033](http://arxiv.org/abs/2412.21033)|**[link](https://github.com/gautierdag/plancraft)**|
 |**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
-|**2024-12-31**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787](http://arxiv.org/abs/2412.20787)|null|
+|**2025-01-06**|**SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity**|Pengfei Jing et.al.|[2412.20787](http://arxiv.org/abs/2412.20787)|null|
 |**2024-12-30**|**Joint Scoring Rules: Zero-Sum Competition Avoids Performative Prediction**|Rubi Hudson et.al.|[2412.20732](http://arxiv.org/abs/2412.20732)|null|
 |**2024-12-30**|**Modeling and Simulating Agent-Based City Migration Using Conway's Game of Life**|Bruce Deng et.al.|[2412.20691](http://arxiv.org/abs/2412.20691)|null|
 |**2024-12-30**|**Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy Edge Computing**|Ervin Moore et.al.|[2412.20674](http://arxiv.org/abs/2412.20674)|null|
@@ -123,7 +160,7 @@
 |**2024-12-28**|**Investigating the Impact of Communication-Induced Action Space on Exploration of Unknown Environments with Decentralized Multi-Agent Reinforcement Learning**|Gabriele Calzolari et.al.|[2412.20075](http://arxiv.org/abs/2412.20075)|null|
 |**2024-12-28**|**Towards Human-AI Synergy in UI Design: Enhancing Multi-Agent Based UI Generation with Intent Clarification and Alignment**|Mingyue Yuan et.al.|[2412.20071](http://arxiv.org/abs/2412.20071)|null|
 |**2024-12-28**|**Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search**|Gabriele Calzolari et.al.|[2412.20049](http://arxiv.org/abs/2412.20049)|null|
-|**2024-12-28**|**BaiJia: A Large Scale Role-Playing Agent Corpus of Chinese Historical Charcaters**|Ting Bai et.al.|[2412.20024](http://arxiv.org/abs/2412.20024)|**[link](https://github.com/BAI-LAB/BaiJia)**|
+|**2025-01-06**|**BaiJia: A Large-Scale Role-Playing Agent Corpus of Chinese Historical Characters**|Ting Bai et.al.|[2412.20024](http://arxiv.org/abs/2412.20024)|**[link](https://github.com/BAI-LAB/BaiJia)**|
 |**2024-12-28**|**OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System**|Yujie Luo et.al.|[2412.20005](http://arxiv.org/abs/2412.20005)|**[link](https://github.com/zjunlp/oneke)**|
 |**2024-12-28**|**Scalability Assurance in SFC provisioning via Distributed Design for Deep Reinforcement Learning**|Murat Arda Onsu et.al.|[2412.19995](http://arxiv.org/abs/2412.19995)|null|
 |**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|**[link](https://github.com/opendfm/llm4chemistry)**|
