@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-01-03**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
 |**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
-|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|null|
+|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2025-01-03**|**Distributed Framework Construction for Affine Formation Control**|Huiming Li et.al.|[2501.01817](http://arxiv.org/abs/2501.01817)|null|
 |**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752](http://arxiv.org/abs/2501.01752)|null|
 |**2025-01-03**|**Proposing Hierarchical Goal-Conditioned Policy Planning in Multi-Goal Reinforcement Learning**|Gavin B. Rens et.al.|[2501.01727](http://arxiv.org/abs/2501.01727)|null|
@@ -47,7 +47,7 @@
 |**2025-01-02**|**Regularized Proportional Fairness Mechanism for Resource Allocation Without Money**|Sihan Zeng et.al.|[2501.01111](http://arxiv.org/abs/2501.01111)|null|
 |**2025-01-02**|**MDSF: Context-Aware Multi-Dimensional Data Storytelling Framework based on Large language Model**|Chengze Zhang et.al.|[2501.01014](http://arxiv.org/abs/2501.01014)|null|
 |**2025-01-02**|**Cyber-physical Defense for Heterogeneous Multi-agent Systems Against Exponentially Unbounded Attacks on Signed Digraphs**|Yichao Wang et.al.|[2501.00990](http://arxiv.org/abs/2501.00990)|null|
-|**2025-01-02**|**Bootstrapped Reward Shaping**|Jacob Adamczyk et.al.|[2501.00989](http://arxiv.org/abs/2501.00989)|null|
+|**2025-01-02**|**Bootstrapped Reward Shaping**|Jacob Adamczyk et.al.|[2501.00989](http://arxiv.org/abs/2501.00989)|**[link](https://github.com/JacobHA/ShapedRL)**|
 |**2025-01-01**|**Non-obvious Manipulability in Hedonic Games with Friends Appreciation Preferences**|Michele Flammini et.al.|[2501.00976](http://arxiv.org/abs/2501.00976)|null|
 |**2025-01-01**|**Defense Strategies for Autonomous Multi-agent Systems: Ensuring Safety and Resilience Under Exponentially Unbounded FDI Attacks**|Yichao Wang et.al.|[2501.00973](http://arxiv.org/abs/2501.00973)|null|
 |**2025-01-01**|**Intent-based Radio Scheduler for RAN Slicing: Learning to deal with different network scenarios**|Cleverson Nahum et.al.|[2501.00950](http://arxiv.org/abs/2501.00950)|**[link](https://github.com/lasseufpa/intent_radio_sched_multi_slice)**|
@@ -63,7 +63,7 @@
 |**2024-12-31**|**Hierarchical equivariant graph neural networks for forecasting collective motion in vortex clusters and microswimmers**|Alec J. Linot et.al.|[2501.00626](http://arxiv.org/abs/2501.00626)|null|
 |**2024-12-31**|**Improving Policy-Oriented Agent-Based Modeling with History Matching: A Case Study**|David O'Gara et.al.|[2501.00616](http://arxiv.org/abs/2501.00616)|null|
 |**2024-12-31**|**VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM**|Yuqian Yuan et.al.|[2501.00599](http://arxiv.org/abs/2501.00599)|null|
-|**2024-12-31**|**TinyHelen's First Curriculum: Training and Evaluating Tiny Language Models in a Simpler Language Environment**|Ke Yang et.al.|[2501.00522](http://arxiv.org/abs/2501.00522)|null|
+|**2024-12-31**|**TinyHelen's First Curriculum: Training and Evaluating Tiny Language Models in a Simpler Language Environment**|Ke Yang et.al.|[2501.00522](http://arxiv.org/abs/2501.00522)|**[link](https://github.com/empathyang/tinyhelen)**|
 |**2024-12-31**|**Innovative Silicosis and Pneumonia Classification: Leveraging Graph Transformer Post-hoc Modeling and Ensemble Techniques**|Bao Q. Bui et.al.|[2501.00520](http://arxiv.org/abs/2501.00520)|null|
 |**2024-12-31**|**The Power of Generalized Clemens Semantics**|Hitoshi Omori et.al.|[2501.00499](http://arxiv.org/abs/2501.00499)|null|
 |**2025-01-03**|**Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection agents**|Chengbo He et.al.|[2501.00430](http://arxiv.org/abs/2501.00430)|null|
@@ -71,7 +71,7 @@
 |**2024-12-31**|**$\texttt{FORM}$ : Learning Expressive and Transferable First-Order Logic Reward Machines**|Leo Ardon et.al.|[2501.00364](http://arxiv.org/abs/2501.00364)|null|
 |**2024-12-31**|**Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding**|Yue Fan et.al.|[2501.00358](http://arxiv.org/abs/2501.00358)|null|
 |**2024-12-31**|**MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation**|Chia-Yuan Chang et.al.|[2501.00332](http://arxiv.org/abs/2501.00332)|null|
-|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320](http://arxiv.org/abs/2501.00320)|null|
+|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[2501.00320](http://arxiv.org/abs/2501.00320)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2024-12-31**|**MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models**|Mahir Labib Dihan et.al.|[2501.00316](http://arxiv.org/abs/2501.00316)|**[link](https://github.com/MapEval/MapEval-Visual)**|
 |**2024-12-31**|**M2I2: Learning Efficient Multi-Agent Communication via Masked State Modeling and Intention Inference**|Chuxiong Sun et.al.|[2501.00312](http://arxiv.org/abs/2501.00312)|null|
 |**2024-12-31**|**Robust Intervention in Networks**|Daeyoung Jeong et.al.|[2501.00235](http://arxiv.org/abs/2501.00235)|null|
@@ -85,8 +85,8 @@
 |**2024-12-30**|**Modelling and Control of Spatial Behaviours in Multi-Agent Systems with Applications to Biology and Robotics**|Andrea Giusti et.al.|[2501.00110](http://arxiv.org/abs/2501.00110)|null|
 |**2024-12-30**|**AI Agent for Education: von Neumann Multi-Agent System Framework**|Yuan-Hao Jiang et.al.|[2501.00083](http://arxiv.org/abs/2501.00083)|null|
 |**2024-12-30**|**Human-like Bots for Tactical Shooters Using Compute-Efficient Sensors**|Niels Justesen et.al.|[2501.00078](http://arxiv.org/abs/2501.00078)|null|
-|**2024-12-28**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055](http://arxiv.org/abs/2501.00055)|null|
-|**2024-12-28**|**Efficient and Scalable Deep Reinforcement Learning for Mean Field Control Games**|Nianli Peng et.al.|[2501.00052](http://arxiv.org/abs/2501.00052)|null|
+|**2024-12-28**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055](http://arxiv.org/abs/2501.00055)|**[link](https://github.com/Ymm-cll/LLM-Virus)**|
+|**2024-12-28**|**Efficient and Scalable Deep Reinforcement Learning for Mean Field Control Games**|Nianli Peng et.al.|[2501.00052](http://arxiv.org/abs/2501.00052)|**[link](https://github.com/insultedbymaths/6.s890)**|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
 |**2024-12-30**|**Training Software Engineering Agents and Verifiers with SWE-Gym**|Jiayi Pan et.al.|[2412.21139](http://arxiv.org/abs/2412.21139)|**[link](https://github.com/swe-gym/swe-gym)**|
@@ -3348,7 +3348,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
