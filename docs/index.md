@@ -54,7 +54,7 @@ layout: default
 |**2025-01-07**|**FgC2F-UDiff: Frequency-guided and Coarse-to-fine Unified Diffusion Model for Multi-modality Missing MRI Synthesis**|Xiaojiao Xiao et.al.|[2501.03526](http://arxiv.org/abs/2501.03526)|**[link](https://github.com/xiaojiao929/fgc2f-udiff)**|
 |**2025-01-07**|**A Unified Attack Detection Strategy for Multi-Agent Systems over Transient and Steady Stages**|Jinming Gao et.al.|[2501.03496](http://arxiv.org/abs/2501.03496)|null|
 |**2025-01-06**|**Designing Telepresence Robots to Support Place Attachment**|Yaxin Hu et.al.|[2501.03420](http://arxiv.org/abs/2501.03420)|null|
-|**2025-01-06**|**ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models**|Wenxuan Li et.al.|[2501.03410](http://arxiv.org/abs/2501.03410)|null|
+|**2025-01-06**|**ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models**|Wenxuan Li et.al.|[2501.03410](http://arxiv.org/abs/2501.03410)|**[link](https://github.com/mrgiovanni/scalemai)**|
 |**2025-01-05**|**HonkaiChat: Companions from Anime that feel alive!**|Yueze Liu et.al.|[2501.03277](http://arxiv.org/abs/2501.03277)|null|
 |**2025-01-05**|**A no-go result for QBism**|Shan Gao et.al.|[2501.03274](http://arxiv.org/abs/2501.03274)|null|
 |**2025-01-02**|**Toward Inclusive Educational AI: Auditing Frontier LLMs through a Multiplexity Lens**|Abdullah Mushtaq et.al.|[2501.03259](http://arxiv.org/abs/2501.03259)|null|
@@ -64,8 +64,8 @@ layout: default
 |**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
 |**2025-01-06**|**Probably Correct Optimal Stable Matching for Two-Sided Markets Under Uncertainty**|Andreas Athanasopoulos et.al.|[2501.03018](http://arxiv.org/abs/2501.03018)|**[link](https://github.com/a-athanasopoulos/pacos)**|
 |**2025-01-06**|**Approximating N-Player Nash Equilibrium through Gradient Descent**|Dongge Wang et.al.|[2501.03001](http://arxiv.org/abs/2501.03001)|null|
-|**2025-01-06**|**CALM: Curiosity-Driven Auditing for Large Language Models**|Xiang Zheng et.al.|[2501.02997](http://arxiv.org/abs/2501.02997)|null|
-|**2025-01-06**|**CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems**|Chuanbo Hua et.al.|[2501.02977](http://arxiv.org/abs/2501.02977)|null|
+|**2025-01-06**|**CALM: Curiosity-Driven Auditing for Large Language Models**|Xiang Zheng et.al.|[2501.02997](http://arxiv.org/abs/2501.02997)|**[link](https://github.com/x-zheng16/calm)**|
+|**2025-01-06**|**CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems**|Chuanbo Hua et.al.|[2501.02977](http://arxiv.org/abs/2501.02977)|**[link](https://github.com/ai4co/camp)**|
 |**2025-01-06**|**Revisiting Communication Efficiency in Multi-Agent Reinforcement Learning from the Dimensional Analysis Perspective**|Chuxiong Sun et.al.|[2501.02888](http://arxiv.org/abs/2501.02888)|null|
 |**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858](http://arxiv.org/abs/2501.02858)|null|
 |**2025-01-06**|**Proteomic Learning of Gamma-Aminobutyric Acid (GABA) Receptor-Mediated Anesthesia**|Jian Jiang et.al.|[2501.02824](http://arxiv.org/abs/2501.02824)|**[link](https://github.com/longchen0/gaba-ppi)**|
@@ -88,7 +88,7 @@ layout: default
 |**2025-01-04**|**UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility**|Yonglin Tian et.al.|[2501.02341](http://arxiv.org/abs/2501.02341)|**[link](https://github.com/hub-tian/uavs_meet_llms)**|
 |**2025-01-04**|**Stochastic Generalized Dynamic Games with Coupled Chance Constraints**|Seyed Shahram Yadollahi et.al.|[2501.02279](http://arxiv.org/abs/2501.02279)|null|
 |**2025-01-04**|**CORD: Generalizable Cooperation via Role Diversity**|Kanefumi Matsuyama et.al.|[2501.02221](http://arxiv.org/abs/2501.02221)|null|
-|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|null|
+|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|**[link](https://github.com/zli12321/awesome-vlm-papers-and-models)**|
 |**2025-01-04**|**TACTIC: Task-Agnostic Contrastive pre-Training for Inter-Agent Communication**|Peihong Yu et.al.|[2501.02174](http://arxiv.org/abs/2501.02174)|null|
 |**2025-01-08**|**A hybrid marketplace of ideas**|Tomer Jordi Chaffer et.al.|[2501.02132](http://arxiv.org/abs/2501.02132)|null|
 |**2025-01-03**|**How do Humans take an Object from a Robot: Behavior changes observed in a User Study**|Parag Khanna et.al.|[2501.02127](http://arxiv.org/abs/2501.02127)|null|
@@ -96,7 +96,7 @@ layout: default
 |**2025-01-03**|**SMTL: A Stratified Logic for Expressive Multi-Level Temporal Specifications**|Ali Baheri et.al.|[2501.02094](http://arxiv.org/abs/2501.02094)|null|
 |**2024-12-31**|**Disagree and Commit: Degrees of Argumentation-based Agreements**|Timotheus Kampik et.al.|[2501.01992](http://arxiv.org/abs/2501.01992)|null|
 |**2025-01-06**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
-|**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
+|**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|**[link](https://github.com/tarfersoul/maco)**|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2025-01-03**|**Distributed Framework Construction for Affine Formation Control**|Huiming Li et.al.|[2501.01817](http://arxiv.org/abs/2501.01817)|null|
@@ -107,7 +107,7 @@ layout: default
 |**2025-01-03**|**PSYCHE: A Multi-faceted Patient Simulation Framework for Evaluation of Psychiatric Assessment Conversational Agents**|Jingoo Lee et.al.|[2501.01594](http://arxiv.org/abs/2501.01594)|null|
 |**2025-01-03**|**BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems**|Yinbo Yu et.al.|[2501.01593](http://arxiv.org/abs/2501.01593)|null|
 |**2025-01-02**|**Reinforcement-learning-based control of turbulent channel flows at high Reynolds numbers**|Zisong Zhou et.al.|[2501.01573](http://arxiv.org/abs/2501.01573)|null|
-|**2025-01-02**|**BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery**|Kanishk Gandhi et.al.|[2501.01540](http://arxiv.org/abs/2501.01540)|null|
+|**2025-01-02**|**BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery**|Kanishk Gandhi et.al.|[2501.01540](http://arxiv.org/abs/2501.01540)|**[link](https://github.com/kanishkg/boxing-gym)**|
 |**2025-01-02**|**In Search of a Lost Metric: Human Empowerment as a Pillar of Socially Conscious Navigation**|Vasanth Reddy Baddam et.al.|[2501.01539](http://arxiv.org/abs/2501.01539)|null|
 |**2024-12-31**|**Goal Recognition using Actor-Critic Optimization**|Ben Nageris et.al.|[2501.01463](http://arxiv.org/abs/2501.01463)|null|
 |**2024-12-25**|**Probabilistic Mission Design in Neuro-Symbolic Systems**|Simon Kohaut et.al.|[2501.01439](http://arxiv.org/abs/2501.01439)|null|
@@ -125,7 +125,7 @@ layout: default
 |**2025-01-02**|**Regularized Proportional Fairness Mechanism for Resource Allocation Without Money**|Sihan Zeng et.al.|[2501.01111](http://arxiv.org/abs/2501.01111)|null|
 |**2025-01-02**|**MDSF: Context-Aware Multi-Dimensional Data Storytelling Framework based on Large language Model**|Chengze Zhang et.al.|[2501.01014](http://arxiv.org/abs/2501.01014)|null|
 |**2025-01-02**|**Cyber-physical Defense for Heterogeneous Multi-agent Systems Against Exponentially Unbounded Attacks on Signed Digraphs**|Yichao Wang et.al.|[2501.00990](http://arxiv.org/abs/2501.00990)|null|
-|**2025-01-02**|**Bootstrapped Reward Shaping**|Jacob Adamczyk et.al.|[2501.00989](http://arxiv.org/abs/2501.00989)|**[link](https://github.com/JacobHA/ShapedRL)**|
+|**2025-01-02**|**Bootstrapped Reward Shaping**|Jacob Adamczyk et.al.|[2501.00989](http://arxiv.org/abs/2501.00989)|null|
 |**2025-01-01**|**Non-obvious Manipulability in Hedonic Games with Friends Appreciation Preferences**|Michele Flammini et.al.|[2501.00976](http://arxiv.org/abs/2501.00976)|null|
 |**2025-01-01**|**Defense Strategies for Autonomous Multi-agent Systems: Ensuring Safety and Resilience Under Exponentially Unbounded FDI Attacks**|Yichao Wang et.al.|[2501.00973](http://arxiv.org/abs/2501.00973)|null|
 |**2025-01-01**|**Intent-based Radio Scheduler for RAN Slicing: Learning to deal with different network scenarios**|Cleverson Nahum et.al.|[2501.00950](http://arxiv.org/abs/2501.00950)|**[link](https://github.com/lasseufpa/intent_radio_sched_multi_slice)**|
