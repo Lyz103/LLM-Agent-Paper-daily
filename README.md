@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.11
+## Updated on 2025.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-09**|**Search-o1: Agentic Search-Enhanced Large Reasoning Models**|Xiaoxi Li et.al.|[2501.05366](http://arxiv.org/abs/2501.05366)|null|
+|**2025-01-09**|**Search-o1: Agentic Search-Enhanced Large Reasoning Models**|Xiaoxi Li et.al.|[2501.05366](http://arxiv.org/abs/2501.05366)|**[link](https://github.com/sunnynexus/search-o1)**|
 |**2025-01-09**|**Control of Overpopulated Tails in Kinetic Epidemic Models**|Mattia Zanella et.al.|[2501.05365](http://arxiv.org/abs/2501.05365)|null|
 |**2025-01-09**|**A Path Variant of the Explorer Director Game on Graphs**|Abigail Raz et.al.|[2501.05364](http://arxiv.org/abs/2501.05364)|null|
 |**2025-01-09**|**On Corrigibility and Alignment in Multi Agent Games**|Edmund Dable-Heath et.al.|[2501.05360](http://arxiv.org/abs/2501.05360)|null|
@@ -3429,7 +3429,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
