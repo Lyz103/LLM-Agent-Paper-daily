@@ -113,7 +113,7 @@
 |**2025-01-02**|**BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery**|Kanishk Gandhi et.al.|[2501.01540](http://arxiv.org/abs/2501.01540)|**[link](https://github.com/kanishkg/boxing-gym)**|
 |**2025-01-02**|**In Search of a Lost Metric: Human Empowerment as a Pillar of Socially Conscious Navigation**|Vasanth Reddy Baddam et.al.|[2501.01539](http://arxiv.org/abs/2501.01539)|null|
 |**2024-12-31**|**Goal Recognition using Actor-Critic Optimization**|Ben Nageris et.al.|[2501.01463](http://arxiv.org/abs/2501.01463)|null|
-|**2024-12-25**|**Probabilistic Mission Design in Neuro-Symbolic Systems**|Simon Kohaut et.al.|[2501.01439](http://arxiv.org/abs/2501.01439)|null|
+|**2024-12-25**|**Probabilistic Mission Design in Neuro-Symbolic Systems**|Simon Kohaut et.al.|[2501.01439](http://arxiv.org/abs/2501.01439)|**[link](https://github.com/HRI-EU/ProMis)**|
 |**2025-01-02**|**Optimal Strategy Revision in Population Games: A Mean Field Game Theory Perspective**|Julian Barreiro-Gomez et.al.|[2501.01389](http://arxiv.org/abs/2501.01389)|null|
 |**2025-01-02**|**PIMAEX: Multi-Agent Exploration through Peer Incentivization**|Michael Kölle et.al.|[2501.01266](http://arxiv.org/abs/2501.01266)|null|
 |**2025-01-05**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
@@ -258,7 +258,7 @@
 |**2024-12-24**|**Multi-Agent Norm Perception and Induction in Distributed Healthcare**|Chao Li et.al.|[2412.18454](http://arxiv.org/abs/2412.18454)|null|
 |**2024-12-25**|**3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding**|Tatiana Zemskova et.al.|[2412.18450](http://arxiv.org/abs/2412.18450)|**[link](https://github.com/cognitiveaisystems/3dgraphllm)**|
 |**2024-12-24**|**GeAR: Graph-enhanced Agent for Retrieval-augmented Generation**|Zhili Shen et.al.|[2412.18431](http://arxiv.org/abs/2412.18431)|null|
-|**2024-12-24**|**Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**|Farhad Nooralahzadeh et.al.|[2412.18428](http://arxiv.org/abs/2412.18428)|null|
+|**2024-12-24**|**Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**|Farhad Nooralahzadeh et.al.|[2412.18428](http://arxiv.org/abs/2412.18428)|**[link](https://github.com/yizhang-unifr/xmode)**|
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|**[link](https://github.com/httpwww404notfound/CRIR)**|
@@ -302,7 +302,7 @@
 |**2024-12-23**|**Should public health policy exempt cases with low viral load from isolation during an epidemic?: a modelling study**|Jiahao Diao et.al.|[2412.17428](http://arxiv.org/abs/2412.17428)|null|
 |**2024-12-23**|**Reinforcement Learning with a Focus on Adjusting Policies to Reach Targets**|Akane Tsuboya et.al.|[2412.17344](http://arxiv.org/abs/2412.17344)|null|
 |**2024-12-23**|**Multimodal Deep Reinforcement Learning for Portfolio Optimization**|Sumit Nawathe et.al.|[2412.17293](http://arxiv.org/abs/2412.17293)|null|
-|**2024-12-23**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288](http://arxiv.org/abs/2412.17288)|null|
+|**2024-12-23**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288](http://arxiv.org/abs/2412.17288)|**[link](https://github.com/snumprlab/flare)**|
 |**2024-12-23**|**LegalAgentBench: Evaluating LLM Agents in Legal Domain**|Haitao Li et.al.|[2412.17259](http://arxiv.org/abs/2412.17259)|**[link](https://github.com/cshaitao/legalagentbench)**|
 |**2024-12-23**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252](http://arxiv.org/abs/2412.17252)|null|
 |**2024-12-22**|**A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops**|Kamer Ali Yuksel et.al.|[2412.17149](http://arxiv.org/abs/2412.17149)|null|
@@ -547,7 +547,7 @@
 |**2024-12-11**|**Steganography in Game Actions**|Ching-Chun Chang et.al.|[2412.10442](http://arxiv.org/abs/2412.10442)|null|
 |**2024-12-11**|**CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs**|Yihan Cao et.al.|[2412.10439](http://arxiv.org/abs/2412.10439)|null|
 |**2024-12-11**|**NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language**|Yuanyuan Liang et.al.|[2412.10434](http://arxiv.org/abs/2412.10434)|**[link](https://github.com/leonyuancode/stockgql)**|
-|**2024-12-10**|**Active Inference for Self-Organizing Multi-LLM Systems: A Bayesian Thermodynamic Approach to Adaptation**|Rithvik Prakki et.al.|[2412.10425](http://arxiv.org/abs/2412.10425)|null|
+|**2024-12-10**|**Active Inference for Self-Organizing Multi-LLM Systems: A Bayesian Thermodynamic Approach to Adaptation**|Rithvik Prakki et.al.|[2412.10425](http://arxiv.org/abs/2412.10425)|**[link](https://github.com/rpd123-byte/active-inference-for-self-organizing-multi-llm-systems-a-bayesian-thermodynamic-approach-to-adaptat)**|
 |**2024-12-10**|**AutoPrep: Natural Language Question-Aware Data Preparation with a Multi-Agent Framework**|Meihao Fan et.al.|[2412.10422](http://arxiv.org/abs/2412.10422)|null|
 |**2024-12-10**|**Personalized and Sequential Text-to-Image Generation**|Ofir Nabati et.al.|[2412.10419](http://arxiv.org/abs/2412.10419)|null|
 |**2024-12-09**|**Generative Adversarial Reviews: When LLMs Become the Critic**|Nicolas Bougie et.al.|[2412.10415](http://arxiv.org/abs/2412.10415)|null|
@@ -2114,7 +2114,7 @@
 |**2024-10-13**|**Make the Pertinent Salient: Task-Relevant Reconstruction for Visual Control with Distractions**|Kyungmin Kim et.al.|[2410.09972](http://arxiv.org/abs/2410.09972)|null|
 |**2024-10-13**|**Learning to Rank for Multiple Retrieval-Augmented Models through Iterative Utility Maximization**|Alireza Salemi et.al.|[2410.09942](http://arxiv.org/abs/2410.09942)|null|
 |**2024-10-19**|**GRRIS: a real-time intra-site observation scheduling scheme for distributed survey telescope arrays**|Yajie Zhang et.al.|[2410.09881](http://arxiv.org/abs/2410.09881)|null|
-|**2024-10-13**|**Dynamic and Textual Graph Generation Via Large-Scale LLM-based Agent Simulation**|Jiarui Ji et.al.|[2410.09824](http://arxiv.org/abs/2410.09824)|null|
+|**2024-10-13**|**Dynamic and Textual Graph Generation Via Large-Scale LLM-based Agent Simulation**|Jiarui Ji et.al.|[2410.09824](http://arxiv.org/abs/2410.09824)|**[link](https://github.com/ji-cather/graphagent)**|
 |**2024-10-13**|**Expanding Search Space with Diverse Prompting Agents: An Efficient Sampling Approach for LLM Mathematical Reasoning**|Gisang Lee et.al.|[2410.09780](http://arxiv.org/abs/2410.09780)|null|
 |**2024-10-13**|**Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models**|Juseong Jin et.al.|[2410.09750](http://arxiv.org/abs/2410.09750)|null|
 |**2024-10-13**|**Agentic Information Retrieval**|Weinan Zhang et.al.|[2410.09713](http://arxiv.org/abs/2410.09713)|null|
@@ -2275,7 +2275,7 @@
 |**2024-10-08**|**Quality Diversity Imitation Learning**|Zhenglin Wan et.al.|[2410.06151](http://arxiv.org/abs/2410.06151)|null|
 |**2024-10-08**|**Scoring Auctions with Coarse Beliefs**|Joseph Feffer et.al.|[2410.06150](http://arxiv.org/abs/2410.06150)|null|
 |**2024-10-08**|**ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution**|Corban Rivera et.al.|[2410.06108](http://arxiv.org/abs/2410.06108)|null|
-|**2024-10-08**|**Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2410.06101](http://arxiv.org/abs/2410.06101)|null|
+|**2024-10-08**|**Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2410.06101](http://arxiv.org/abs/2410.06101)|**[link](https://github.com/Harry67Hu/CORY)**|
 |**2024-10-08**|**Listen to the Patient: Enhancing Medical Dialogue Generation with Patient Hallucination Detection and Mitigation**|Lang Qin et.al.|[2410.06094](http://arxiv.org/abs/2410.06094)|null|
 |**2024-10-08**|**Packing a Knapsack with Items Owned by Strategic Agents**|Javier Cembrano et.al.|[2410.06080](http://arxiv.org/abs/2410.06080)|null|
 |**2024-10-08**|**A note on existence and asymptotic behavior of Lagrangian equilibria for first-order optimal-exit mean field games**|Guilherme Mazanti et.al.|[2410.06073](http://arxiv.org/abs/2410.06073)|null|
@@ -2627,7 +2627,7 @@
 |**2024-09-24**|**Context-Based Meta Reinforcement Learning for Robust and Adaptable Peg-in-Hole Assembly Tasks**|Ahmed Shokry et.al.|[2409.16208](http://arxiv.org/abs/2409.16208)|null|
 |**2024-09-25**|**Extending Stable and Popular Matching Algorithms from Bipartite to Arbitrary Instances**|Gergely Csáji et.al.|[2409.16173](http://arxiv.org/abs/2409.16173)|null|
 |**2024-09-24**|**EnIGMA: Enhanced Interactive Generative Model Agent for CTF Challenges**|Talor Abramovich et.al.|[2409.16165](http://arxiv.org/abs/2409.16165)|**[link](https://github.com/princeton-nlp/swe-agent)**|
-|**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[2409.16154](http://arxiv.org/abs/2409.16154)|null|
+|**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[2409.16154](http://arxiv.org/abs/2409.16154)|**[link](https://github.com/a-pru/emp)**|
 |**2024-09-27**|**Analyzing Probabilistic Methods for Evaluating Agent Capabilities**|Axel Højmark et.al.|[2409.16125](http://arxiv.org/abs/2409.16125)|null|
 |**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
 |**2024-09-24**|**A decision-theoretic model for a principal-agent collaborative learning problem**|Getachew K Befekadu et.al.|[2409.16068](http://arxiv.org/abs/2409.16068)|null|
@@ -2806,7 +2806,7 @@
 |**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/wouterwln/rxenvironments-examples)**|
 |**2024-09-17**|**Data-driven Dynamic Intervention Design in Network Games**|Xiupeng Chen et.al.|[2409.11069](http://arxiv.org/abs/2409.11069)|null|
 |**2024-09-17**|**A logical alarm for misaligned binary classifiers**|Andrés Corrada-Emmanuel et.al.|[2409.11052](http://arxiv.org/abs/2409.11052)|null|
-|**2024-09-17**|**Improving Speech Emotion Recognition in Under-Resourced Languages via Speech-to-Speech Translation with Bootstrapping Data Selection**|Hsi-Che Lin et.al.|[2409.10985](http://arxiv.org/abs/2409.10985)|null|
+|**2024-09-17**|**Improving Speech Emotion Recognition in Under-Resourced Languages via Speech-to-Speech Translation with Bootstrapping Data Selection**|Hsi-Che Lin et.al.|[2409.10985](http://arxiv.org/abs/2409.10985)|**[link](https://github.com/hsi-che-lin/improve-ser-via-s2st)**|
 |**2024-09-17**|**Label-free correlative morpho-chemical tomography of 3D kidney mesangial cells**|Ankit Butola et.al.|[2409.10971](http://arxiv.org/abs/2409.10971)|null|
 |**2024-09-17**|**Frontier Shepherding: A Bio-Mimetic Multi-robot Framework for Large-Scale Exploration**|John Lewis et.al.|[2409.10931](http://arxiv.org/abs/2409.10931)|null|
 |**2024-09-17**|**Multi-Floor Zero-Shot Object Navigation Policy**|Lingfeng Zhang et.al.|[2409.10906](http://arxiv.org/abs/2409.10906)|null|
