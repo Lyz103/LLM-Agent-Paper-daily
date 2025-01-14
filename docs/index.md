@@ -14,6 +14,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572](http://arxiv.org/abs/2501.07572)|**[link](https://github.com/alibaba-nlp/webwalker)**|
+|**2025-01-13**|**SafeSwarm: Decentralized Safe RL for the Swarm of Drones Landing in Dense Crowds**|Grik Tadevosyan et.al.|[2501.07566](http://arxiv.org/abs/2501.07566)|null|
+|**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
+|**2025-01-13**|**Evaluating Agent-based Program Repair at Google**|Pat Rondon et.al.|[2501.07531](http://arxiv.org/abs/2501.07531)|null|
+|**2025-01-13**|**Improving DeFi Accessibility through Efficient Liquidity Provisioning with Deep Reinforcement Learning**|Haonan Xu et.al.|[2501.07508](http://arxiv.org/abs/2501.07508)|null|
+|**2025-01-13**|**How low-cost AI universal approximators reshape market efficiency**|Paolo Barucca et.al.|[2501.07489](http://arxiv.org/abs/2501.07489)|null|
+|**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|null|
+|**2025-01-13**|**Understanding and Benchmarking Artificial Intelligence: OpenAI's o3 Is Not AGI**|Rolf Pfister et.al.|[2501.07458](http://arxiv.org/abs/2501.07458)|null|
+|**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445](http://arxiv.org/abs/2501.07445)|null|
+|**2025-01-13**|**Attention when you need**|Lokesh Boominathan et.al.|[2501.07440](http://arxiv.org/abs/2501.07440)|null|
+|**2025-01-13**|**Lifelong Learning of Large Language Model based Agents: A Roadmap**|Junhao Zheng et.al.|[2501.07278](http://arxiv.org/abs/2501.07278)|**[link](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)**|
+|**2025-01-13**|**Multi-face emotion detection for effective Human-Robot Interaction**|Mohamed Ala Yahyaoui et.al.|[2501.07213](http://arxiv.org/abs/2501.07213)|null|
+|**2025-01-13**|**Combined effect of incentives and coupling in multigames in two-layer networks**|Luo-Luo Jiang et.al.|[2501.07193](http://arxiv.org/abs/2501.07193)|null|
+|**2025-01-13**|**TIMRL: A Novel Meta-Reinforcement Learning Framework for Non-Stationary and Multi-Task Environments**|Chenyang Qi et.al.|[2501.07146](http://arxiv.org/abs/2501.07146)|null|
+|**2025-01-13**|**How GPT learns layer by layer**|Jason Du et.al.|[2501.07108](http://arxiv.org/abs/2501.07108)|**[link](https://github.com/alt-js/othellosae)**|
+|**2025-01-13**|**PPO-Q: Proximal Policy Optimization with Parametrized Quantum Policies or Values**|Yu-Xin Jin et.al.|[2501.07085](http://arxiv.org/abs/2501.07085)|null|
+|**2025-01-13**|**PoAct: Policy and Action Dual-Control Agent for Generalized Applications**|Guozhi Yuan et.al.|[2501.07054](http://arxiv.org/abs/2501.07054)|null|
+|**2025-01-13**|**Differentially Private Kernelized Contextual Bandits**|Nikola Pavlovic et.al.|[2501.07046](http://arxiv.org/abs/2501.07046)|null|
+|**2025-01-12**|**Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning**|Tribhi Kathuria et.al.|[2501.06946](http://arxiv.org/abs/2501.06946)|null|
+|**2025-01-12**|**AdaSlicing: Adaptive Online Network Slicing under Continual Network Dynamics in Open Radio Access Networks**|Ming Zhao et.al.|[2501.06943](http://arxiv.org/abs/2501.06943)|null|
+|**2025-01-12**|**An Empirical Study of Deep Reinforcement Learning in Continuing Tasks**|Yi Wan et.al.|[2501.06937](http://arxiv.org/abs/2501.06937)|**[link](https://github.com/facebookresearch/deeprl-continuing-tasks)**|
+|**2025-01-12**|**LLMs Model Non-WEIRD Populations: Experiments with Synthetic Cultural Agents**|Augusto Gonzalez-Bonorino et.al.|[2501.06834](http://arxiv.org/abs/2501.06834)|null|
+|**2025-01-12**|**A novel multi-agent dynamic portfolio optimization learning system based on hierarchical deep reinforcement learning**|Ruoyu Sun et.al.|[2501.06832](http://arxiv.org/abs/2501.06832)|null|
+|**2025-01-12**|**Equitable Allocations of Mixtures of Goods and Chores**|Hadi Hosseini et.al.|[2501.06799](http://arxiv.org/abs/2501.06799)|null|
+|**2025-01-12**|**Differentially Private Gradient-Tracking-Based Distributed Stochastic Optimization over Directed Graphs**|Jialong Chen et.al.|[2501.06793](http://arxiv.org/abs/2501.06793)|null|
+|**2025-01-12**|**Eliza: A Web3 friendly AI Agent Operating System**|Shaw Walters et.al.|[2501.06781](http://arxiv.org/abs/2501.06781)|**[link](https://github.com/ai16z/eliza)**|
+|**2025-01-12**|**AIOpsLab: A Holistic Framework to Evaluate AI Agents for Enabling Autonomous Clouds**|Yinfang Chen et.al.|[2501.06706](http://arxiv.org/abs/2501.06706)|null|
+|**2025-01-12**|**DVM: Towards Controllable LLM Agents in Social Deduction Games**|Zheng Zhang et.al.|[2501.06695](http://arxiv.org/abs/2501.06695)|null|
+|**2025-01-12**|**Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation**|Ziyang Xie et.al.|[2501.06693](http://arxiv.org/abs/2501.06693)|null|
+|**2025-01-11**|**Guided Code Generation with LLMs: A Multi-Agent Framework for Complex Code Tasks**|Amr Almorsi et.al.|[2501.06625](http://arxiv.org/abs/2501.06625)|null|
+|**2025-01-11**|**AI Drawing Partner: Co-Creative Drawing Agent and Research Platform to Model Co-Creation**|Nicholas Davis et.al.|[2501.06607](http://arxiv.org/abs/2501.06607)|null|
+|**2025-01-11**|**Hierarchical Reinforcement Learning for Optimal Agent Grouping in Cooperative Systems**|Liyuan Hu et.al.|[2501.06554](http://arxiv.org/abs/2501.06554)|null|
+|**2025-01-11**|**Cooperative Optimal Output Tracking for Discrete-Time Multiagent Systems: Stabilizing Policy Iteration Frameworks and Analysis**|Dongdong Li et.al.|[2501.06510](http://arxiv.org/abs/2501.06510)|null|
+|**2025-01-11**|**Resource Allocation under the Latin Square Constraint**|Yasushi Kawase et.al.|[2501.06506](http://arxiv.org/abs/2501.06506)|null|
+|**2025-01-11**|**The Internet of Large Language Models: An Orchestration Framework for LLM Training and Knowledge Exchange Toward Artificial General Intelligence**|Wilson Wei et.al.|[2501.06471](http://arxiv.org/abs/2501.06471)|null|
+|**2025-01-11**|**Ptychography using Blind Multi-Mode PMACE**|Qiuchen Zhai et.al.|[2501.06470](http://arxiv.org/abs/2501.06470)|null|
+|**2025-01-11**|**Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2501.06467](http://arxiv.org/abs/2501.06467)|null|
+|**2025-01-11**|**Reinforcement Learning for Enhancing Sensing Estimation in Bistatic ISAC Systems with UAV Swarms**|Obed Morrison Atsu et.al.|[2501.06454](http://arxiv.org/abs/2501.06454)|null|
+|**2025-01-10**|**OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics**|Sandeep Pandey et.al.|[2501.06327](http://arxiv.org/abs/2501.06327)|null|
+|**2025-01-10**|**Electrostatics and viscosity are strongly linked in concentrated antibody solutions**|Fabrizio Camerin et.al.|[2501.06324](http://arxiv.org/abs/2501.06324)|null|
+|**2025-01-10**|**Multi-Agent Collaboration Mechanisms: A Survey of LLMs**|Khanh-Tung Tran et.al.|[2501.06322](http://arxiv.org/abs/2501.06322)|null|
+|**2025-01-10**|**BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems**|Nikita Mehandru et.al.|[2501.06314](http://arxiv.org/abs/2501.06314)|null|
+|**2025-01-09**|**Towards smart and adaptive agents for active sensing on edge devices**|Devendra Vyas et.al.|[2501.06262](http://arxiv.org/abs/2501.06262)|null|
+|**2025-01-08**|**Agent TCP/IP: An Agent-to-Agent Transaction System**|Andrea Muttoni et.al.|[2501.06243](http://arxiv.org/abs/2501.06243)|null|
 |**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184](http://arxiv.org/abs/2501.06184)|null|
 |**2025-01-10**|**A Mixed-Integer Conic Program for the Multi-Agent Moving-Target Traveling Salesman Problem**|Allen George Philip et.al.|[2501.06130](http://arxiv.org/abs/2501.06130)|null|
 |**2025-01-10**|**Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**|Guojun Xiong et.al.|[2501.06103](http://arxiv.org/abs/2501.06103)|null|
