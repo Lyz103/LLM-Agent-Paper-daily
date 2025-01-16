@@ -17,6 +17,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Personality Modeling for Persuasion of Misinformation using AI Agent**|Qianmin Lou et.al.|[2501.08985](http://arxiv.org/abs/2501.08985)|null|
+|**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
+|**2025-01-15**|**A Reinforcement Learning Approach to Quiet and Safe UAM Traffic Management**|Surya Murthy et.al.|[2501.08941](http://arxiv.org/abs/2501.08941)|null|
+|**2025-01-15**|**Disentangling Exploration of Large Language Models by Optimal Exploitation**|Tim Grams et.al.|[2501.08925](http://arxiv.org/abs/2501.08925)|null|
+|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|null|
+|**2025-01-15**|**Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts**|Antonio Castellanos et.al.|[2501.08869](http://arxiv.org/abs/2501.08869)|null|
+|**2025-01-15**|**The geometry of moral decision making**|Roland M. Friedrich et.al.|[2501.08865](http://arxiv.org/abs/2501.08865)|null|
+|**2025-01-15**|**On the Dominance of Truth-Telling in Gradual Mechanisms**|Wenqian Wang et.al.|[2501.08802](http://arxiv.org/abs/2501.08802)|null|
+|**2025-01-15**|**Networked Agents in the Dark: Team Value Learning under Partial Observability**|Guilherme S. Varela et.al.|[2501.08778](http://arxiv.org/abs/2501.08778)|null|
+|**2025-01-15**|**Leveraging LLM Agents for Translating Network Configurations**|Yunze Wei et.al.|[2501.08760](http://arxiv.org/abs/2501.08760)|null|
+|**2025-01-15**|**Efficient Shape Reconfiguration by Hybrid Programmable Matter**|Jonas Friemel et.al.|[2501.08663](http://arxiv.org/abs/2501.08663)|null|
+|**2025-01-15**|**Application of Deep Reinforcement Learning to UAV Swarming for Ground Surveillance**|Raúl Arranz et.al.|[2501.08655](http://arxiv.org/abs/2501.08655)|null|
+|**2025-01-15**|**Towards Intelligent Active Particles**|Hartmut Löwen et.al.|[2501.08632](http://arxiv.org/abs/2501.08632)|null|
+|**2025-01-15**|**Neural Risk-sensitive Satisficing in Contextual Bandits**|Shogo Ito et.al.|[2501.08612](http://arxiv.org/abs/2501.08612)|null|
+|**2025-01-15**|**AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL**|Tyler Stennett et.al.|[2501.08600](http://arxiv.org/abs/2501.08600)|null|
+|**2025-01-15**|**Effects of taxes, redistribution actions and fiscal evasion on wealth inequality: an agent-based model approach**|Iago Nascimento Barros et.al.|[2501.08573](http://arxiv.org/abs/2501.08573)|null|
+|**2025-01-15**|**Doc-Guided Sent2Sent++: A Sent2Sent++ Agent with Doc-Guided memory for Document-level Machine Translation**|Jiaxin Guo et.al.|[2501.08523](http://arxiv.org/abs/2501.08523)|null|
+|**2025-01-15**|**Ensuring Truthfulness in Distributed Aggregative Optimization**|Ziqin Chen et.al.|[2501.08512](http://arxiv.org/abs/2501.08512)|null|
+|**2025-01-14**|**Empathetic Conversational Agents: Utilizing Neural and Physiological Signals for Enhanced Empathetic Interactions**|Nastaran Saffaryazdi et.al.|[2501.08393](http://arxiv.org/abs/2501.08393)|null|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
 |**2025-01-14**|**Using Gamified Experiments to Tame Complexity: the case of the Schelling Model of Segregation**|Aleix Nicolás Olivé et.al.|[2501.08280](http://arxiv.org/abs/2501.08280)|null|
 |**2025-01-14**|**Addressing the sustainable AI trilemma: a case study on LLM agents and RAG**|Hui Wu et.al.|[2501.08262](http://arxiv.org/abs/2501.08262)|null|
@@ -26,9 +45,9 @@
 |**2025-01-14**|**An Elementary Microscopic Model of Sympatric Speciation**|Franco Bagnoli et.al.|[2501.08130](http://arxiv.org/abs/2501.08130)|null|
 |**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[2501.08096](http://arxiv.org/abs/2501.08096)|null|
 |**2025-01-14**|**AgentPose: Progressive Distribution Alignment via Feature Agent for Human Pose Distillation**|Feng Zhang et.al.|[2501.08088](http://arxiv.org/abs/2501.08088)|null|
-|**2025-01-14**|**CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**|Guoliang He et.al.|[2501.08071](http://arxiv.org/abs/2501.08071)|null|
+|**2025-01-14**|**CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**|Guoliang He et.al.|[2501.08071](http://arxiv.org/abs/2501.08071)|**[link](https://github.com/hgl71964/cuasmrl)**|
 |**2025-01-14**|**Hydrodynamics-driven phase-locking and collective motility of sessile active dumbbells**|Urvi Mahendra Bora et.al.|[2501.08065](http://arxiv.org/abs/2501.08065)|null|
-|**2025-01-14**|**Cooperative Patrol Routing: Optimizing Urban Crime Surveillance through Multi-Agent Reinforcement Learning**|Juan Palma-Borda et.al.|[2501.08020](http://arxiv.org/abs/2501.08020)|null|
+|**2025-01-14**|**Cooperative Patrol Routing: Optimizing Urban Crime Surveillance through Multi-Agent Reinforcement Learning**|Juan Palma-Borda et.al.|[2501.08020](http://arxiv.org/abs/2501.08020)|**[link](https://github.com/iacomlab/marl-patrol-routing)**|
 |**2025-01-14**|**Decentralized Learning with Approximate Finite-Time Consensus**|Aaron Fainman et.al.|[2501.07967](http://arxiv.org/abs/2501.07967)|null|
 |**2025-01-14**|**Governing AI Agents**|Noam Kolt et.al.|[2501.07913](http://arxiv.org/abs/2501.07913)|null|
 |**2025-01-14**|**Flow: A Modular Approach to Automated Agentic Workflow Generation**|Boye Niu et.al.|[2501.07834](http://arxiv.org/abs/2501.07834)|null|
@@ -59,7 +78,7 @@
 |**2025-01-12**|**Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning**|Tribhi Kathuria et.al.|[2501.06946](http://arxiv.org/abs/2501.06946)|null|
 |**2025-01-12**|**AdaSlicing: Adaptive Online Network Slicing under Continual Network Dynamics in Open Radio Access Networks**|Ming Zhao et.al.|[2501.06943](http://arxiv.org/abs/2501.06943)|null|
 |**2025-01-12**|**An Empirical Study of Deep Reinforcement Learning in Continuing Tasks**|Yi Wan et.al.|[2501.06937](http://arxiv.org/abs/2501.06937)|**[link](https://github.com/facebookresearch/deeprl-continuing-tasks)**|
-|**2025-01-12**|**LLMs Model Non-WEIRD Populations: Experiments with Synthetic Cultural Agents**|Augusto Gonzalez-Bonorino et.al.|[2501.06834](http://arxiv.org/abs/2501.06834)|null|
+|**2025-01-12**|**LLMs Model Non-WEIRD Populations: Experiments with Synthetic Cultural Agents**|Augusto Gonzalez-Bonorino et.al.|[2501.06834](http://arxiv.org/abs/2501.06834)|**[link](https://github.com/bonorinoa/econllm_lab)**|
 |**2025-01-12**|**A novel multi-agent dynamic portfolio optimization learning system based on hierarchical deep reinforcement learning**|Ruoyu Sun et.al.|[2501.06832](http://arxiv.org/abs/2501.06832)|null|
 |**2025-01-12**|**Equitable Allocations of Mixtures of Goods and Chores**|Hadi Hosseini et.al.|[2501.06799](http://arxiv.org/abs/2501.06799)|null|
 |**2025-01-12**|**Differentially Private Gradient-Tracking-Based Distributed Stochastic Optimization over Directed Graphs**|Jialong Chen et.al.|[2501.06793](http://arxiv.org/abs/2501.06793)|null|
@@ -85,7 +104,7 @@
 |**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184](http://arxiv.org/abs/2501.06184)|null|
 |**2025-01-10**|**A Mixed-Integer Conic Program for the Multi-Agent Moving-Target Traveling Salesman Problem**|Allen George Philip et.al.|[2501.06130](http://arxiv.org/abs/2501.06130)|null|
 |**2025-01-10**|**Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**|Guojun Xiong et.al.|[2501.06103](http://arxiv.org/abs/2501.06103)|null|
-|**2025-01-10**|**Learning Flexible Heterogeneous Coordination with Capability-Aware Shared Hypernetworks**|Kevin Fu et.al.|[2501.06058](http://arxiv.org/abs/2501.06058)|null|
+|**2025-01-10**|**Learning Flexible Heterogeneous Coordination with Capability-Aware Shared Hypernetworks**|Kevin Fu et.al.|[2501.06058](http://arxiv.org/abs/2501.06058)|**[link](https://github.com/kfu02/jaxmarl)**|
 |**2025-01-10**|**Investigating the Impact of Observation Space Design Choices On Training Reinforcement Learning Solutions for Spacecraft Problems**|Nathaniel Hamilton et.al.|[2501.06016](http://arxiv.org/abs/2501.06016)|null|
 |**2025-01-10**|**Enhanced Acoustic Beamforming with Sub-Aperture Angular Multiply and Sum -- in vivo and in Human Demonstration**|Matthieu Toulemonde et.al.|[2501.05837](http://arxiv.org/abs/2501.05837)|null|
 |**2025-01-10**|**CognoSpeak: an automatic, remote assessment of early cognitive decline in real-world conversational speech**|Madhurananda Pahar et.al.|[2501.05755](http://arxiv.org/abs/2501.05755)|null|
@@ -95,7 +114,7 @@
 |**2025-01-10**|**A Two-timescale Primal-dual Algorithm for Decentralized Optimization with Compression**|Haoming Liu et.al.|[2501.05701](http://arxiv.org/abs/2501.05701)|null|
 |**2025-01-10**|**Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications**|Joe Eappen et.al.|[2501.05639](http://arxiv.org/abs/2501.05639)|null|
 |**2025-01-09**|**Towards Probabilistic Inference of Human Motor Intentions by Assistive Mobile Robots Controlled via a Brain-Computer Interface**|Xiaoshan Zhou et.al.|[2501.05610](http://arxiv.org/abs/2501.05610)|null|
-|**2025-01-09**|**NSChat: A Chatbot System To Rule Them All**|Zenon Lamprou et.al.|[2501.05541](http://arxiv.org/abs/2501.05541)|null|
+|**2025-01-15**|**Customizable LLM-Powered Chatbot for Behavioral Science Research**|Zenon Lamprou et.al.|[2501.05541](http://arxiv.org/abs/2501.05541)|null|
 |**2025-01-09**|**OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**|Yifei Li et.al.|[2501.05510](http://arxiv.org/abs/2501.05510)|**[link](https://github.com/joeleelyf/ovo-bench)**|
 |**2025-01-09**|**Strategy Masking: A Method for Guardrails in Value-based Reinforcement Learning Agents**|Jonathan Keane et.al.|[2501.05501](http://arxiv.org/abs/2501.05501)|null|
 |**2025-01-07**|**Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models**|Malak Mansour et.al.|[2501.05478](http://arxiv.org/abs/2501.05478)|null|
