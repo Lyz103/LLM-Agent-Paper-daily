@@ -1112,7 +1112,7 @@ layout: default
 |**2024-11-25**|**Naive Algorithmic Collusion: When Do Bandit Learners Cooperate and When Do They Compete?**|Connor Douglas et.al.|[2411.16574](http://arxiv.org/abs/2411.16574)|null|
 |**2024-11-25**|**Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation**|Muhammad Burhan Hafez et.al.|[2411.16532](http://arxiv.org/abs/2411.16532)|**[link](https://github.com/wabbajack1/tapd)**|
 |**2024-11-25**|**Reinforcement Learning for Bidding Strategy Optimization in Day-Ahead Energy Market**|Luca Di Persio et.al.|[2411.16519](http://arxiv.org/abs/2411.16519)|null|
-|**2024-11-25**|**Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Hongzhi Zang et.al.|[2411.16506](http://arxiv.org/abs/2411.16506)|null|
+|**2024-11-25**|**Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Hongzhi Zang et.al.|[2411.16506](http://arxiv.org/abs/2411.16506)|**[link](https://github.com/zanghz21/onlineggo)**|
 |**2024-11-25**|**Distributed Online Optimization with Stochastic Agent Availability**|Juliette Achddou et.al.|[2411.16477](http://arxiv.org/abs/2411.16477)|null|
 |**2024-11-25**|**Generating social networks with static and dynamic utility-maximization approaches**|Aldric Labarthe et.al.|[2411.16464](http://arxiv.org/abs/2411.16464)|**[link](https://github.com/aldric-l/socialmatrixsimulation)**|
 |**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[2411.16457](http://arxiv.org/abs/2411.16457)|null|
@@ -1747,7 +1747,7 @@ layout: default
 |**2024-10-29**|**Building Altruistic and Moral AI Agent with Brain-inspired Affective Empathy Mechanisms**|Feifei Zhao et.al.|[2410.21882](http://arxiv.org/abs/2410.21882)|null|
 |**2024-10-29**|**Diffusion as Reasoning: Enhancing Object Goal Navigation with LLM-Biased Diffusion Model**|Yiming Ji et.al.|[2410.21842](http://arxiv.org/abs/2410.21842)|null|
 |**2024-10-29**|**SimSiam Naming Game: A Unified Approach for Representation Learning and Emergent Communication**|Nguyen Le Hoang et.al.|[2410.21803](http://arxiv.org/abs/2410.21803)|null|
-|**2024-10-29**|**Inverse Attention Agent for Multi-Agent System**|Qian Long et.al.|[2410.21794](http://arxiv.org/abs/2410.21794)|null|
+|**2024-10-29**|**Inverse Attention Agent for Multi-Agent System**|Qian Long et.al.|[2410.21794](http://arxiv.org/abs/2410.21794)|**[link](https://github.com/RuoyanLi2002/Inverse-Attention-Agents-in-Multi-Agent-Systems)**|
 |**2024-10-29**|**MARCO: Multi-Agent Real-time Chat Orchestration**|Anubhav Shrimal et.al.|[2410.21784](http://arxiv.org/abs/2410.21784)|null|
 |**2024-10-29**|**Enhancing Financial Question Answering with a Multi-Agent Reflection Framework**|Sorouralsadat Fatemi et.al.|[2410.21741](http://arxiv.org/abs/2410.21741)|null|
 |**2024-10-29**|**Minimum Entropy Coupling with Bottleneck**|M. Reza Ebrahimi et.al.|[2410.21666](http://arxiv.org/abs/2410.21666)|null|
@@ -2961,7 +2961,7 @@ layout: default
 |**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089](http://arxiv.org/abs/2409.10089)|null|
 |**2024-09-19**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
 |**2024-09-16**|**A Social Force Model for Multi-Agent Systems With Application to Robots Traversal in Cluttered Environments**|Chenxi Li et.al.|[2409.10049](http://arxiv.org/abs/2409.10049)|null|
-|**2024-09-16**|**Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments**|Wessel Ledder et.al.|[2409.10048](http://arxiv.org/abs/2409.10048)|null|
+|**2024-09-16**|**Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments**|Wessel Ledder et.al.|[2409.10048](http://arxiv.org/abs/2409.10048)|**[link](https://github.com/humanandmachinehearing/audiodriven_drl_for_headorientationcontrol)**|
 |**2024-09-16**|**Bearing-Distance Based Flocking with Zone-Based Interactions**|Hossein B. Jond et.al.|[2409.10047](http://arxiv.org/abs/2409.10047)|null|
 |**2024-09-16**|**E2Map: Experience-and-Emotion Map for Self-Reflective Robot Navigation with Language Models**|Chan Kim et.al.|[2409.10027](http://arxiv.org/abs/2409.10027)|**[link](https://github.com/knwoo/e2map)**|
 |**2024-09-16**|**Reinforcement learning-based statistical search strategy for an axion model from flavor**|Satsuki Nishimura et.al.|[2409.10023](http://arxiv.org/abs/2409.10023)|null|
