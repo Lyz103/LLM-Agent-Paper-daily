@@ -17,6 +17,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Boosting MCTS with Free Energy Minimization**|Mawaba Pascal Dao et.al.|[2501.13083](http://arxiv.org/abs/2501.13083)|null|
+|**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/abs/2501.13080)|null|
+|**2025-01-22**|**Evolution and The Knightian Blindspot of Machine Learning**|Joel Lehman et.al.|[2501.13075](http://arxiv.org/abs/2501.13075)|null|
+|**2025-01-22**|**Optimizing Return Distributions with Distributional Dynamic Programming**|Bernardo Ávila Pires et.al.|[2501.13028](http://arxiv.org/abs/2501.13028)|null|
+|**2025-01-22**|**The regret lower bound for communicating Markov Decision Processes**|Victor Boone et.al.|[2501.13013](http://arxiv.org/abs/2501.13013)|null|
+|**2025-01-22**|**MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking**|Sebastian Farquhar et.al.|[2501.13011](http://arxiv.org/abs/2501.13011)|null|
+|**2025-01-22**|**Constructive characterisations of the must-preorder for asynchrony**|Giovanni Bernardi et.al.|[2501.13002](http://arxiv.org/abs/2501.13002)|null|
+|**2025-01-22**|**An Offline Multi-Agent Reinforcement Learning Framework for Radio Resource Management**|Eslam Eldeeb et.al.|[2501.12991](http://arxiv.org/abs/2501.12991)|null|
+|**2025-01-22**|**Learning-based Distributed Model Predictive Control using Multi-Agent Bayesian Optimization**|Hossein Nejatbakhsh Esfahani et.al.|[2501.12989](http://arxiv.org/abs/2501.12989)|null|
+|**2025-01-22**|**Quantification of Ultrafast Nonlinear Photothermal and Photoacoustic Effects in Molecular Thin Films via Time-Domain Brillouin Scattering**|Valentin Cherruault et.al.|[2501.12912](http://arxiv.org/abs/2501.12912)|null|
+|**2025-01-22**|**FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces**|Zhenran Xu et.al.|[2501.12909](http://arxiv.org/abs/2501.12909)|null|
+|**2025-01-22**|**Mutation-Guided LLM-based Test Generation at Meta**|Christopher Foster et.al.|[2501.12862](http://arxiv.org/abs/2501.12862)|null|
+|**2025-01-22**|**ACEBench: Who Wins the Match Point in Tool Learning?**|Chen Chen et.al.|[2501.12851](http://arxiv.org/abs/2501.12851)|null|
+|**2025-01-22**|**To Measure or Not: A Cost-Sensitive, Selective Measuring Environment for Agricultural Management Decisions with Reinforcement Learning**|Hilmy Baja et.al.|[2501.12823](http://arxiv.org/abs/2501.12823)|null|
+|**2025-01-22**|**PSGSL: A Probabilistic Framework Integrating Semantic Scene Understanding and Gas Sensing for Gas Source Localization**|Pepe Ojeda et.al.|[2501.12812](http://arxiv.org/abs/2501.12812)|null|
+|**2025-01-22**|**Information Design for Adaptive Organizations**|Wataru Tamura et.al.|[2501.12669](http://arxiv.org/abs/2501.12669)|null|
+|**2025-01-22**|**NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Task-Agnostic Demonstrations**|Myunsoo Kim et.al.|[2501.12668](http://arxiv.org/abs/2501.12668)|null|
+|**2025-01-22**|**Optimal Rebate Design: Incentives, Competition and Efficiency in Auction Markets**|Thibaut Mastrolia et.al.|[2501.12591](http://arxiv.org/abs/2501.12591)|null|
+|**2025-01-22**|**Leveraging LLMs to Create a Haptic Devices' Recommendation System**|Yang Liu et.al.|[2501.12573](http://arxiv.org/abs/2501.12573)|null|
+|**2025-01-21**|**Reinforcement Learning Constrained Beam Search for Parameter Optimization of Paper Drying Under Flexible Constraints**|Siyuan Chen et.al.|[2501.12542](http://arxiv.org/abs/2501.12542)|null|
+|**2025-01-21**|**Compositional Instruction Following with Language Models and Reinforcement Learning**|Vanya Cohen et.al.|[2501.12539](http://arxiv.org/abs/2501.12539)|null|
+|**2025-01-21**|**Stable Matching with Interviews**|Itai Ashlagi et.al.|[2501.12503](http://arxiv.org/abs/2501.12503)|null|
+|**2025-01-21**|**A Basis for Human Responsibility in Artificial Intelligence Computation**|Vincenzo Calderonio et.al.|[2501.12498](http://arxiv.org/abs/2501.12498)|null|
+|**2025-01-21**|**R2D2: Remembering, Reflecting and Dynamic Decision Making for Web Agents**|Tenghao Huang et.al.|[2501.12485](http://arxiv.org/abs/2501.12485)|null|
+|**2025-01-21**|**FREYR: A Framework for Recognizing and Executing Your Requests**|Roberto Gallotta et.al.|[2501.12423](http://arxiv.org/abs/2501.12423)|**[link](https://github.com/gallorob/freyr)**|
+|**2025-01-17**|**Control-ITRA: Controlling the Behavior of a Driving Model**|Vasileios Lioutas et.al.|[2501.12408](http://arxiv.org/abs/2501.12408)|null|
 |**2025-01-21**|**Expertise elevates AI usage: experimental evidence comparing laypeople and professional artists**|Thomas F. Eisenmann et.al.|[2501.12374](http://arxiv.org/abs/2501.12374)|**[link](https://github.com/andreskarjus/genaiexperiment)**|
 |**2025-01-21**|**UI-TARS: Pioneering Automated GUI Interaction with Native Agents**|Yujia Qin et.al.|[2501.12326](http://arxiv.org/abs/2501.12326)|**[link](https://github.com/bytedance/ui-tars)**|
 |**2025-01-21**|**Transitions to synchronization in adaptive multilayer networks with higher-order interactions**|Richita Ghosh et.al.|[2501.12301](http://arxiv.org/abs/2501.12301)|null|
@@ -41,7 +67,7 @@
 |**2025-01-21**|**Policy-Adaptable Methods For Resolving Normative Conflicts Through Argumentation and Graph Colouring**|Johnny Joyce et.al.|[2501.11799](http://arxiv.org/abs/2501.11799)|null|
 |**2025-01-20**|**Balanced Dynamics in Strongly Coupled Networks**|Cristobal Quininao et.al.|[2501.11769](http://arxiv.org/abs/2501.11769)|null|
 |**2025-01-20**|**An Information Geometric Approach to Local Information Privacy with Applications to Max-lift and Local Differential Privacy**|Amirreza Zamani et.al.|[2501.11757](http://arxiv.org/abs/2501.11757)|null|
-|**2025-01-20**|**Episodic memory in AI agents poses risks that should be studied and mitigated**|Chad DeChant et.al.|[2501.11739](http://arxiv.org/abs/2501.11739)|null|
+|**2025-01-22**|**Episodic memory in AI agents poses risks that should be studied and mitigated**|Chad DeChant et.al.|[2501.11739](http://arxiv.org/abs/2501.11739)|null|
 |**2025-01-20**|**Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks**|Zhenhailong Wang et.al.|[2501.11733](http://arxiv.org/abs/2501.11733)|null|
 |**2025-01-20**|**Conversation Routines: A Prompt Engineering Framework for Task-Oriented Dialog Systems**|Giorgio Robino et.al.|[2501.11613](http://arxiv.org/abs/2501.11613)|null|
 |**2025-01-20**|**A Deep Reinforcement Learning based Scheduler for IoT Devices in Co-existence with 5G-NR**|Shahida Jabeen et.al.|[2501.11574](http://arxiv.org/abs/2501.11574)|null|
@@ -52,6 +78,7 @@
 |**2025-01-20**|**Large Language Model Agents for Radio Map Generation and Wireless Network Planning**|Hongye Quan et.al.|[2501.11283](http://arxiv.org/abs/2501.11283)|null|
 |**2025-01-20**|**Code Readability in the Age of Large Language Models: An Industrial Case Study from Atlassian**|Wannita Takerngsaksiri et.al.|[2501.11264](http://arxiv.org/abs/2501.11264)|**[link](https://github.com/awsm-research/codereadability-genai)**|
 |**2025-01-20**|**PlotEdit: Natural Language-Driven Accessible Chart Editing in PDFs via Multimodal LLM Agents**|Kanika Goswami et.al.|[2501.11233](http://arxiv.org/abs/2501.11233)|null|
+|**2025-01-22**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223](http://arxiv.org/abs/2501.11223)|**[link](https://github.com/spcl/x1)**|
 |**2025-01-19**|**Global Attitude Synchronization for Multi-agent Systems on SO(3)**|Mouaad Boughellaba et.al.|[2501.11188](http://arxiv.org/abs/2501.11188)|null|
 |**2025-01-19**|**CART-MPC: Coordinating Assistive Devices for Robot-Assisted Transferring with Multi-Agent Model Predictive Control**|Ruolin Ye et.al.|[2501.11149](http://arxiv.org/abs/2501.11149)|null|
 |**2025-01-19**|**Fixed-budget simulation method for growing cell populations**|Shaoqing Chen et.al.|[2501.11105](http://arxiv.org/abs/2501.11105)|null|
