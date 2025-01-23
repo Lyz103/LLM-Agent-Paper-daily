@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-01-21**|**Experience-replay Innovative Dynamics**|Tuo Zhang et.al.|[2501.12199](http://arxiv.org/abs/2501.12199)|null|
 |**2025-01-21**|**Opinion dynamics in bounded confidence models with manipulative agents: Moving the Overton window**|A. Bautista et.al.|[2501.12198](http://arxiv.org/abs/2501.12198)|null|
 |**2025-01-21**|**BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**|Ahmed Mounsf Rafik Bendada et.al.|[2501.12112](http://arxiv.org/abs/2501.12112)|null|
-|**2025-01-21**|**Tackling Uncertainties in Multi-Agent Reinforcement Learning through Integration of Agent Termination Dynamics**|Somnath Hazra et.al.|[2501.12061](http://arxiv.org/abs/2501.12061)|null|
+|**2025-01-21**|**Tackling Uncertainties in Multi-Agent Reinforcement Learning through Integration of Agent Termination Dynamics**|Somnath Hazra et.al.|[2501.12061](http://arxiv.org/abs/2501.12061)|**[link](https://github.com/somnathhazra/uncertainties_marl)**|
 |**2025-01-21**|**Growth model with externalities for energetic transition via MFG with common external variable**|Pierre Lavigne et.al.|[2501.11988](http://arxiv.org/abs/2501.11988)|null|
 |**2025-01-21**|**Simultaneously decoding the unknown stationary state and function parameters for mean field games**|Hongyu Liu et.al.|[2501.11955](http://arxiv.org/abs/2501.11955)|null|
 |**2025-01-21**|**GLAM: Global-Local Variation Awareness in Mamba-based World Model**|Qian He et.al.|[2501.11949](http://arxiv.org/abs/2501.11949)|null|
@@ -3642,7 +3642,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
