@@ -14,6 +14,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration**|Yue Fan et.al.|[2501.13896](http://arxiv.org/abs/2501.13896)|null|
+|**2025-01-23**|**Utilizing Evolution Strategies to Train Transformers in Reinforcement Learning**|Matyáš Lorenc et.al.|[2501.13883](http://arxiv.org/abs/2501.13883)|**[link](https://github.com/mafi412/evolution-strategies-and-decision-transformers)**|
+|**2025-01-23**|**Eye Gaze as a Signal for Conveying User Attention in Contextual AI Systems**|Ethan Wilson et.al.|[2501.13878](http://arxiv.org/abs/2501.13878)|null|
+|**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
+|**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727](http://arxiv.org/abs/2501.13727)|null|
+|**2025-01-23**|**A Non-Parametric Approach to Heterogeneity Analysis**|Avner Seror et.al.|[2501.13721](http://arxiv.org/abs/2501.13721)|null|
+|**2025-01-23**|**Revisiting Online Learning Approach to Inverse Linear Optimization: A Fenchel--Young Loss Perspective and Gap-Dependent Regret Analysis**|Shinsaku Sakaue et.al.|[2501.13648](http://arxiv.org/abs/2501.13648)|null|
+|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|null|
+|**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
+|**2025-01-23**|**Towards a Theory of AI Personhood**|Francis Rhys Ward et.al.|[2501.13533](http://arxiv.org/abs/2501.13533)|null|
+|**2025-01-23**|**Communication-Efficient Stochastic Distributed Learning**|Xiaoxing Ren et.al.|[2501.13516](http://arxiv.org/abs/2501.13516)|null|
+|**2025-01-23**|**A Polynomial-Time Algorithm for EFX Orientations of Chores**|Kevin Hsu et.al.|[2501.13481](http://arxiv.org/abs/2501.13481)|null|
+|**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[2501.13461](http://arxiv.org/abs/2501.13461)|null|
+|**2025-01-23**|**BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch**|Yulong Hu et.al.|[2501.13448](http://arxiv.org/abs/2501.13448)|null|
+|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|null|
+|**2025-01-23**|**Concurrent Learning with Aggregated States via Randomized Least Squares Value Iteration**|Yan Chen et.al.|[2501.13394](http://arxiv.org/abs/2501.13394)|null|
+|**2025-01-23**|**Do as We Do, Not as You Think: the Conformity of Large Language Models**|Zhiyuan Weng et.al.|[2501.13381](http://arxiv.org/abs/2501.13381)|**[link](https://github.com/zhiyuan-weng/benchform)**|
+|**2025-01-23**|**Task Allocation in Customer-led Two-sided Markets with Satellite Constellation Services**|Jianglin Qiao et.al.|[2501.13364](http://arxiv.org/abs/2501.13364)|null|
+|**2025-01-23**|**AgentRec: Agent Recommendation Using Sentence Embeddings Aligned to Human Feedback**|Joshua Park et.al.|[2501.13333](http://arxiv.org/abs/2501.13333)|**[link](https://github.com/joshprk/agentrec)**|
+|**2025-01-23**|**Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents**|Shrinidhi Kumbhar et.al.|[2501.13299](http://arxiv.org/abs/2501.13299)|null|
+|**2025-01-23**|**Parallel Belief Contraction via Order Aggregation**|Jake Chandler et.al.|[2501.13295](http://arxiv.org/abs/2501.13295)|null|
+|**2025-01-22**|**Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans**|Mohsen Amiri et.al.|[2501.13203](http://arxiv.org/abs/2501.13203)|null|
+|**2025-01-22**|**SRMT: Shared Memory for Multi-agent Lifelong Pathfinding**|Alsu Sagirova et.al.|[2501.13200](http://arxiv.org/abs/2501.13200)|**[link](https://github.com/aloriosa/srmt)**|
+|**2025-01-22**|**Map Prediction and Generative Entropy for Multi-Agent Exploration**|Alexander Spinos et.al.|[2501.13189](http://arxiv.org/abs/2501.13189)|null|
+|**2025-01-22**|**A Hierarchical Reinforcement Learning Framework for Multi-UAV Combat Using Leader-Follower Strategy**|Jinhui Pang et.al.|[2501.13132](http://arxiv.org/abs/2501.13132)|null|
 |**2025-01-22**|**Boosting MCTS with Free Energy Minimization**|Mawaba Pascal Dao et.al.|[2501.13083](http://arxiv.org/abs/2501.13083)|null|
 |**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/abs/2501.13080)|null|
 |**2025-01-22**|**Evolution and The Knightian Blindspot of Machine Learning**|Joel Lehman et.al.|[2501.13075](http://arxiv.org/abs/2501.13075)|null|
@@ -30,7 +55,7 @@ layout: default
 |**2025-01-22**|**To Measure or Not: A Cost-Sensitive, Selective Measuring Environment for Agricultural Management Decisions with Reinforcement Learning**|Hilmy Baja et.al.|[2501.12823](http://arxiv.org/abs/2501.12823)|null|
 |**2025-01-22**|**PSGSL: A Probabilistic Framework Integrating Semantic Scene Understanding and Gas Sensing for Gas Source Localization**|Pepe Ojeda et.al.|[2501.12812](http://arxiv.org/abs/2501.12812)|null|
 |**2025-01-22**|**Information Design for Adaptive Organizations**|Wataru Tamura et.al.|[2501.12669](http://arxiv.org/abs/2501.12669)|null|
-|**2025-01-22**|**NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Task-Agnostic Demonstrations**|Myunsoo Kim et.al.|[2501.12668](http://arxiv.org/abs/2501.12668)|null|
+|**2025-01-23**|**NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Task-Agnostic Demonstrations**|Myunsoo Kim et.al.|[2501.12668](http://arxiv.org/abs/2501.12668)|null|
 |**2025-01-22**|**Optimal Rebate Design: Incentives, Competition and Efficiency in Auction Markets**|Thibaut Mastrolia et.al.|[2501.12591](http://arxiv.org/abs/2501.12591)|null|
 |**2025-01-22**|**Leveraging LLMs to Create a Haptic Devices' Recommendation System**|Yang Liu et.al.|[2501.12573](http://arxiv.org/abs/2501.12573)|null|
 |**2025-01-21**|**Reinforcement Learning Constrained Beam Search for Parameter Optimization of Paper Drying Under Flexible Constraints**|Siyuan Chen et.al.|[2501.12542](http://arxiv.org/abs/2501.12542)|null|
@@ -75,7 +100,7 @@ layout: default
 |**2025-01-20**|**Large Language Model Agents for Radio Map Generation and Wireless Network Planning**|Hongye Quan et.al.|[2501.11283](http://arxiv.org/abs/2501.11283)|null|
 |**2025-01-20**|**Code Readability in the Age of Large Language Models: An Industrial Case Study from Atlassian**|Wannita Takerngsaksiri et.al.|[2501.11264](http://arxiv.org/abs/2501.11264)|**[link](https://github.com/awsm-research/codereadability-genai)**|
 |**2025-01-20**|**PlotEdit: Natural Language-Driven Accessible Chart Editing in PDFs via Multimodal LLM Agents**|Kanika Goswami et.al.|[2501.11233](http://arxiv.org/abs/2501.11233)|null|
-|**2025-01-22**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223](http://arxiv.org/abs/2501.11223)|**[link](https://github.com/spcl/x1)**|
+|**2025-01-23**|**Reasoning Language Models: A Blueprint**|Maciej Besta et.al.|[2501.11223](http://arxiv.org/abs/2501.11223)|**[link](https://github.com/spcl/x1)**|
 |**2025-01-19**|**Global Attitude Synchronization for Multi-agent Systems on SO(3)**|Mouaad Boughellaba et.al.|[2501.11188](http://arxiv.org/abs/2501.11188)|null|
 |**2025-01-19**|**CART-MPC: Coordinating Assistive Devices for Robot-Assisted Transferring with Multi-Agent Model Predictive Control**|Ruolin Ye et.al.|[2501.11149](http://arxiv.org/abs/2501.11149)|null|
 |**2025-01-19**|**Fixed-budget simulation method for growing cell populations**|Shaoqing Chen et.al.|[2501.11105](http://arxiv.org/abs/2501.11105)|null|
