@@ -252,7 +252,7 @@
 |**2025-01-11**|**Cooperative Optimal Output Tracking for Discrete-Time Multiagent Systems: Stabilizing Policy Iteration Frameworks and Analysis**|Dongdong Li et.al.|[2501.06510](http://arxiv.org/abs/2501.06510)|null|
 |**2025-01-11**|**Resource Allocation under the Latin Square Constraint**|Yasushi Kawase et.al.|[2501.06506](http://arxiv.org/abs/2501.06506)|null|
 |**2025-01-11**|**The Internet of Large Language Models: An Orchestration Framework for LLM Training and Knowledge Exchange Toward Artificial General Intelligence**|Wilson Wei et.al.|[2501.06471](http://arxiv.org/abs/2501.06471)|null|
-|**2025-01-11**|**Ptychography using Blind Multi-Mode PMACE**|Qiuchen Zhai et.al.|[2501.06470](http://arxiv.org/abs/2501.06470)|null|
+|**2025-01-11**|**Ptychography using Blind Multi-Mode PMACE**|Qiuchen Zhai et.al.|[2501.06470](http://arxiv.org/abs/2501.06470)|**[link](https://github.com/cabouman/ptycho_pmace_papers)**|
 |**2025-01-11**|**Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2501.06467](http://arxiv.org/abs/2501.06467)|null|
 |**2025-01-11**|**Reinforcement Learning for Enhancing Sensing Estimation in Bistatic ISAC Systems with UAV Swarms**|Obed Morrison Atsu et.al.|[2501.06454](http://arxiv.org/abs/2501.06454)|null|
 |**2025-01-10**|**OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics**|Sandeep Pandey et.al.|[2501.06327](http://arxiv.org/abs/2501.06327)|null|
@@ -294,7 +294,7 @@
 |**2025-01-09**|**Emergence of human-like polarization among large language model agents**|Jinghua Piao et.al.|[2501.05171](http://arxiv.org/abs/2501.05171)|null|
 |**2025-01-09**|**Constrained Optimization of Charged Particle Tracking with Multi-Agent Reinforcement Learning**|Tobias Kortus et.al.|[2501.05113](http://arxiv.org/abs/2501.05113)|null|
 |**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[2501.05057](http://arxiv.org/abs/2501.05057)|null|
-|**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|null|
+|**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|**[link](https://github.com/rh-dang/ecbench)**|
 |**2025-01-09**|**CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**|Bhargava Uppuluri et.al.|[2501.04982](http://arxiv.org/abs/2501.04982)|null|
 |**2025-01-08**|**Towards resilient cities: A hybrid simulation framework for risk mitigation through data driven decision making**|David Carraminana et.al.|[2501.04746](http://arxiv.org/abs/2501.04746)|null|
 |**2025-01-08**|**RadGPT: Constructing 3D Image-Text Tumor Datasets**|Pedro R. A. S. Bassi et.al.|[2501.04678](http://arxiv.org/abs/2501.04678)|**[link](https://github.com/mrgiovanni/radgpt)**|
@@ -3295,7 +3295,7 @@
 |**2024-09-05**|**On the Convergence Rates of Federated Q-Learning across Heterogeneous Environments**|Muxing Wang et.al.|[2409.03897](http://arxiv.org/abs/2409.03897)|null|
 |**2024-09-05**|**Multi-agent Path Finding for Mixed Autonomy Traffic Coordination**|Han Zheng et.al.|[2409.03881](http://arxiv.org/abs/2409.03881)|null|
 |**2024-09-05**|**PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization**|Federico Berto et.al.|[2409.03811](http://arxiv.org/abs/2409.03811)|**[link](https://github.com/ai4co/parco)**|
-|**2024-09-04**|**NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls**|Kinjal Basu et.al.|[2409.03797](http://arxiv.org/abs/2409.03797)|null|
+|**2024-09-04**|**NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls**|Kinjal Basu et.al.|[2409.03797](http://arxiv.org/abs/2409.03797)|**[link](https://github.com/ibm/nestful)**|
 |**2024-09-13**|**Safeguarding AI Agents: Developing and Analyzing Safety Architectures**|Ishaan Domkundwar et.al.|[2409.03793](http://arxiv.org/abs/2409.03793)|null|
 |**2024-08-31**|**BreachSeek: A Multi-Agent Automated Penetration Tester**|Ibrahim Alshehri et.al.|[2409.03789](http://arxiv.org/abs/2409.03789)|**[link](https://github.com/snow10100/pena)**|
 |**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
@@ -3350,7 +3350,7 @@
 |**2024-09-03**|**A Modern Take on Visual Relationship Reasoning for Grasp Planning**|Paolo Rabino et.al.|[2409.02035](http://arxiv.org/abs/2409.02035)|null|
 |**2024-09-03**|**Optimal allocations with capacity constrained verification**|Albin Erlanson et.al.|[2409.02031](http://arxiv.org/abs/2409.02031)|null|
 |**2024-09-03**|**Planning to avoid ambiguous states through Gaussian approximations to non-linear sensors in active inference agents**|Wouter M. Kouw et.al.|[2409.01974](http://arxiv.org/abs/2409.01974)|null|
-|**2024-09-03**|**Snapshot: Towards Application-centered Models for Pedestrian Trajectory Prediction in Urban Traffic Environments**|Nico Uhlemann et.al.|[2409.01971](http://arxiv.org/abs/2409.01971)|null|
+|**2024-09-03**|**Snapshot: Towards Application-centered Models for Pedestrian Trajectory Prediction in Urban Traffic Environments**|Nico Uhlemann et.al.|[2409.01971](http://arxiv.org/abs/2409.01971)|**[link](https://github.com/tumftm/snapshot)**|
 |**2024-09-03**|**Achieving Maximin Share and EFX/EF1 Guarantees Simultaneously**|Hannaneh Akrami et.al.|[2409.01963](http://arxiv.org/abs/2409.01963)|null|
 |**2024-09-03**|**Learning Resilient Formation Control of Drones with Graph Attention Network**|Jiaping Xiao et.al.|[2409.01953](http://arxiv.org/abs/2409.01953)|null|
 |**2024-09-03**|**From Grounding to Planning: Benchmarking Bottlenecks in Web Agents**|Segev Shlomov et.al.|[2409.01927](http://arxiv.org/abs/2409.01927)|null|
