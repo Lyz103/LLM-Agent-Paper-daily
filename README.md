@@ -17,13 +17,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|null|
+|**2025-01-24**|**The Division of Surplus and the Burden of Proof**|Deniz Kattwinkel et.al.|[2501.14686](http://arxiv.org/abs/2501.14686)|null|
+|**2025-01-24**|**MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications**|Yixing Jiang et.al.|[2501.14654](http://arxiv.org/abs/2501.14654)|**[link](https://github.com/stanfordmlgroup/medagentbench)**|
+|**2025-01-24**|**Whisper D-SGD: Correlated Noise Across Agents for Differentially Private Decentralized Learning**|Angelo Rodio et.al.|[2501.14644](http://arxiv.org/abs/2501.14644)|**[link](https://github.com/arodio/whisperdsgd)**|
+|**2025-01-24**|**Fair Division Beyond Monotone Valuations**|Siddharth Barman et.al.|[2501.14609](http://arxiv.org/abs/2501.14609)|null|
+|**2025-01-24**|**Hybrid Quantum-Classical Multi-Agent Pathfinding**|Thore Gerlach et.al.|[2501.14568](http://arxiv.org/abs/2501.14568)|null|
+|**2025-01-24**|**Reducing Action Space for Deep Reinforcement Learning via Causal Effect Estimation**|Wenzhang Liu et.al.|[2501.14543](http://arxiv.org/abs/2501.14543)|**[link](https://github.com/agi-brain/cee)**|
+|**2025-01-24**|**Breaking the Pre-Planning Barrier: Real-Time Adaptive Coordination of Mission and Charging UAVs Using Graph Reinforcement Learning**|Yuhan Hu et.al.|[2501.14488](http://arxiv.org/abs/2501.14488)|null|
+|**2025-01-24**|**Avoiding Overfitting in Variable-Order Markov Models: a Cross-Validation Approach**|Valeria Secchini et.al.|[2501.14476](http://arxiv.org/abs/2501.14476)|null|
+|**2025-01-24**|**The Pseudo-Dimension of Contracts**|Paul Duetting et.al.|[2501.14474](http://arxiv.org/abs/2501.14474)|null|
+|**2025-01-24**|**MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**|Linfeng Liang et.al.|[2501.14451](http://arxiv.org/abs/2501.14451)|null|
+|**2025-01-24**|**Learning more with the same effort: how randomization improves the robustness of a robotic deep reinforcement learning agent**|Lucía Güitta-López et.al.|[2501.14443](http://arxiv.org/abs/2501.14443)|null|
+|**2025-01-24**|**DeepFlow: Serverless Large Language Model Serving at Scale**|Junhao Hu et.al.|[2501.14417](http://arxiv.org/abs/2501.14417)|null|
+|**2025-01-24**|**DRESSing Up LLM: Efficient Stylized Question-Answering via Style Subspace Editing**|Xinyu Ma et.al.|[2501.14371](http://arxiv.org/abs/2501.14371)|**[link](https://github.com/arthurleom/dress-llm)**|
+|**2025-01-24**|**Online Inverse Linear Optimization: Improved Regret Bound, Robustness to Suboptimality, and Toward Tight Regret Analysis**|Shinsaku Sakaue et.al.|[2501.14349](http://arxiv.org/abs/2501.14349)|null|
+|**2025-01-24**|**Exploring the sustainable scaling of AI dilemma: A projective study of corporations' AI environmental impacts**|Clément Desroches et.al.|[2501.14334](http://arxiv.org/abs/2501.14334)|null|
+|**2025-01-24**|**MASTER: A Multi-Agent System with LLM Specialized MCTS**|Bingzheng Gan et.al.|[2501.14304](http://arxiv.org/abs/2501.14304)|null|
+|**2025-01-24**|**TrajFlow: A Generative Framework for Occupancy Density Estimation Using Normalizing Flows**|Mitch Kosieradzki et.al.|[2501.14266](http://arxiv.org/abs/2501.14266)|**[link](https://github.com/kosieram21/trajflow)**|
+|**2025-01-24**|**Non-selective evaporation mechanism of binary aerosol generating agent on porous atomizer and its experimental verification**|Xie Guoyong et.al.|[2501.14262](http://arxiv.org/abs/2501.14262)|null|
+|**2025-01-24**|**Optimal Investment under Mutual Strategy Influence among Agents**|Huisheng Wang et.al.|[2501.14259](http://arxiv.org/abs/2501.14259)|null|
+|**2025-01-24**|**Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game**|Rong Ye et.al.|[2501.14225](http://arxiv.org/abs/2501.14225)|null|
+|**2025-01-24**|**Top Ten Challenges Towards Agentic Neural Graph Databases**|Jiaxin Bai et.al.|[2501.14224](http://arxiv.org/abs/2501.14224)|null|
+|**2025-01-24**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205](http://arxiv.org/abs/2501.14205)|null|
+|**2025-01-24**|**Coordinating Ride-Pooling with Public Transit using Reward-Guided Conservative Q-Learning: An Offline Training and Online Fine-Tuning Reinforcement Learning Framework**|Yulong Hu et.al.|[2501.14199](http://arxiv.org/abs/2501.14199)|null|
+|**2025-01-24**|**PASER: A Physics-Inspired Theory for Stimulated Growth and Real-Time Optimization in On-Demand Platforms**|Ioannis Dritsas et.al.|[2501.14196](http://arxiv.org/abs/2501.14196)|null|
+|**2025-01-24**|**Distributed Multi-Agent Coordination Using Multi-Modal Foundation Models**|Saaduddin Mahmud et.al.|[2501.14189](http://arxiv.org/abs/2501.14189)|null|
+|**2025-01-24**|**AI Chatbots as Professional Service Agents: Developing a Professional Identity**|Wenwen Li et.al.|[2501.14179](http://arxiv.org/abs/2501.14179)|null|
+|**2025-01-24**|**Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models**|Yile Gu et.al.|[2501.14170](http://arxiv.org/abs/2501.14170)|null|
+|**2025-01-24**|**From signaling to interviews in random matching markets**|Maxwell Allman et.al.|[2501.14159](http://arxiv.org/abs/2501.14159)|null|
+|**2025-01-23**|**Reinforcement Learning Platform for Adversarial Black-box Attacks with Custom Distortion Filters**|Soumyendu Sarkar et.al.|[2501.14122](http://arxiv.org/abs/2501.14122)|null|
+|**2025-01-23**|**Collaborating in a competitive world: Heterogeneous Multi-Agent Decision Making in Symbiotic Supply Chain Environments**|Wan Wang et.al.|[2501.14111](http://arxiv.org/abs/2501.14111)|null|
+|**2025-01-23**|**The Role of Generative AI in Software Student CollaborAItion**|Natalie Kiesler et.al.|[2501.14084](http://arxiv.org/abs/2501.14084)|null|
+|**2025-01-23**|**Communicating Activations Between Language Model Agents**|Vignav Ramesh et.al.|[2501.14082](http://arxiv.org/abs/2501.14082)|null|
+|**2025-01-23**|**A groundwater market model**|Igor Cialenco et.al.|[2501.14071](http://arxiv.org/abs/2501.14071)|null|
+|**2025-01-23**|**CSAOT: Cooperative Multi-Agent System for Active Object Tracking**|Hy Nguyen et.al.|[2501.13994](http://arxiv.org/abs/2501.13994)|null|
+|**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
+|**2025-01-20**|**Zep: A Temporal Knowledge Graph Architecture for Agent Memory**|Preston Rasmussen et.al.|[2501.13956](http://arxiv.org/abs/2501.13956)|null|
+|**2025-01-19**|**Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks**|Diego Gosmar et.al.|[2501.13946](http://arxiv.org/abs/2501.13946)|null|
+|**2025-01-19**|**Self-Explanation in Social AI Agents**|Rhea Basappa et.al.|[2501.13945](http://arxiv.org/abs/2501.13945)|null|
 |**2025-01-23**|**GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration**|Yue Fan et.al.|[2501.13896](http://arxiv.org/abs/2501.13896)|null|
 |**2025-01-23**|**Utilizing Evolution Strategies to Train Transformers in Reinforcement Learning**|Matyáš Lorenc et.al.|[2501.13883](http://arxiv.org/abs/2501.13883)|**[link](https://github.com/mafi412/evolution-strategies-and-decision-transformers)**|
 |**2025-01-23**|**Eye Gaze as a Signal for Conveying User Attention in Contextual AI Systems**|Ethan Wilson et.al.|[2501.13878](http://arxiv.org/abs/2501.13878)|null|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
 |**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727](http://arxiv.org/abs/2501.13727)|null|
 |**2025-01-23**|**A Non-Parametric Approach to Heterogeneity Analysis**|Avner Seror et.al.|[2501.13721](http://arxiv.org/abs/2501.13721)|null|
-|**2025-01-23**|**Revisiting Online Learning Approach to Inverse Linear Optimization: A Fenchel--Young Loss Perspective and Gap-Dependent Regret Analysis**|Shinsaku Sakaue et.al.|[2501.13648](http://arxiv.org/abs/2501.13648)|null|
+|**2025-01-24**|**Revisiting Online Learning Approach to Inverse Linear Optimization: A Fenchel $-$ Young Loss Perspective and Gap-Dependent Regret Analysis**|Shinsaku Sakaue et.al.|[2501.13648](http://arxiv.org/abs/2501.13648)|null|
 |**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
 |**2025-01-23**|**Towards a Theory of AI Personhood**|Francis Rhys Ward et.al.|[2501.13533](http://arxiv.org/abs/2501.13533)|null|
@@ -132,7 +171,7 @@
 |**2025-01-17**|**Observe, Ask, Intervene: Designing AI Agents for More Inclusive Meetings**|Mo Houtti et.al.|[2501.10553](http://arxiv.org/abs/2501.10553)|null|
 |**2025-01-16**|**Revisiting Rogers' Paradox in the Context of Human-AI Interaction**|Katherine M. Collins et.al.|[2501.10476](http://arxiv.org/abs/2501.10476)|null|
 |**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332](http://arxiv.org/abs/2501.10332)|null|
-|**2025-01-17**|**Towards Human-Guided, Data-Centric LLM Co-Pilots**|Evgeny Saveliev et.al.|[2501.10321](http://arxiv.org/abs/2501.10321)|null|
+|**2025-01-24**|**Towards Human-Guided, Data-Centric LLM Co-Pilots**|Evgeny Saveliev et.al.|[2501.10321](http://arxiv.org/abs/2501.10321)|null|
 |**2025-01-17**|**Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling**|Suvodip Dey et.al.|[2501.10316](http://arxiv.org/abs/2501.10316)|**[link](https://github.com/uiuc-conversational-ai-lab/accountable-dst)**|
 |**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292](http://arxiv.org/abs/2501.10292)|null|
 |**2025-01-17**|**Evidence for the gravity-driven and magnetically-regularized gas flows feeding the massive protostellar cluster in Cep A**|Panigrahy Sandhyarani et.al.|[2501.10280](http://arxiv.org/abs/2501.10280)|null|
