@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -74,10 +74,10 @@
 |**2025-01-27**|**Prioritized Value-Decomposition Network for Explainable AI-Enabled Network Slicing**|Shavbo Salehi et.al.|[2501.15734](http://arxiv.org/abs/2501.15734)|null|
 |**2025-01-27**|**On Parallelism in Music and Language: A Perspective from Symbol Emergence Systems based on Probabilistic Generative Models**|Tadahiro Taniguchi et.al.|[2501.15721](http://arxiv.org/abs/2501.15721)|null|
 |**2025-01-26**|**Contextual Knowledge Sharing in Multi-Agent Reinforcement Learning with Decentralized Communication and Coordination**|Hung Du et.al.|[2501.15695](http://arxiv.org/abs/2501.15695)|null|
-|**2025-01-26**|**A Machine Learning Approach to Automatic Fall Detection of Combat Soldiers**|Leandro Soares et.al.|[2501.15655](http://arxiv.org/abs/2501.15655)|null|
+|**2025-01-26**|**A Machine Learning Approach to Automatic Fall Detection of Combat Soldiers**|Leandro Soares et.al.|[2501.15655](http://arxiv.org/abs/2501.15655)|**[link](https://github.com/AILAB-CEFET-RJ/falldetection)**|
 |**2025-01-26**|**BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation**|Ali Khodabandeh Yalabadi et.al.|[2501.15631](http://arxiv.org/abs/2501.15631)|**[link](https://github.com/khodabandeh-ali/bokdiff)**|
 |**2025-01-26**|**UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning**|Oubo Ma et.al.|[2501.15529](http://arxiv.org/abs/2501.15529)|**[link](https://github.com/maoubo/unidoor)**|
-|**2025-01-26**|**Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning**|Alberto Castagna et.al.|[2501.15495](http://arxiv.org/abs/2501.15495)|null|
+|**2025-01-26**|**Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning**|Alberto Castagna et.al.|[2501.15495](http://arxiv.org/abs/2501.15495)|**[link](https://github.com/acastagn/EF-OnTL)**|
 |**2025-01-26**|**RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**|Zhihan Zheng et.al.|[2501.15493](http://arxiv.org/abs/2501.15493)|null|
 |**2025-01-26**|**"See What I Imagine, Imagine What I See": Human-AI Co-Creation System for 360 $^\circ$ Panoramic Video Generation in VR**|Yunge Wen et.al.|[2501.15456](http://arxiv.org/abs/2501.15456)|null|
 |**2025-01-26**|**OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**|Xiaoyang Wang et.al.|[2501.15427](http://arxiv.org/abs/2501.15427)|null|
@@ -3813,7 +3813,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
