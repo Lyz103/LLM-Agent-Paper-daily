@@ -17,6 +17,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842](http://arxiv.org/abs/2501.17842)|null|
+|**2025-01-29**|**A note on the Cucker-Smale model with time delay and communication failures**|Elisa Continelli et.al.|[2501.17743](http://arxiv.org/abs/2501.17743)|null|
+|**2025-01-29**|**RICoTA: Red-teaming of In-the-wild Conversation with Test Attempts**|Eujeong Choi et.al.|[2501.17715](http://arxiv.org/abs/2501.17715)|**[link](https://github.com/boychaboy/ricota)**|
+|**2025-01-29**|**Inferring Implicit Goals Across Differing Task Models**|Silvia Tulli et.al.|[2501.17704](http://arxiv.org/abs/2501.17704)|null|
+|**2025-01-29**|**CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization**|Derui Wang et.al.|[2501.17667](http://arxiv.org/abs/2501.17667)|**[link](https://github.com/neuralsec/camp-robust-rl)**|
+|**2025-01-29**|**Multi-Agent Path Finding Using Conflict-Based Search and Structural-Semantic Topometric Maps**|Scott Fredriksson et.al.|[2501.17661](http://arxiv.org/abs/2501.17661)|null|
+|**2025-01-29**|**Coalitional control: a bottom-up approach**|Filiberto Fele et.al.|[2501.17614](http://arxiv.org/abs/2501.17614)|null|
+|**2025-01-29**|**Coalitional model predictive control of an irrigation canal**|Filiberto Fele et.al.|[2501.17561](http://arxiv.org/abs/2501.17561)|null|
+|**2025-01-29**|**Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant**|Gaole He et.al.|[2501.17546](http://arxiv.org/abs/2501.17546)|**[link](https://github.com/delftcrowd/iui2025_convxai)**|
+|**2025-01-29**|**Sequential Learning of the Pareto Front for Multi-objective Bandits**|Elise Crépon et.al.|[2501.17513](http://arxiv.org/abs/2501.17513)|null|
+|**2025-01-29**|**Monetary-Fiscal Interaction and the Liquidity of Government Debt**|Cristiano Cantore et.al.|[2501.17458](http://arxiv.org/abs/2501.17458)|null|
+|**2025-01-29**|**Human-Aligned Skill Discovery: Balancing Behaviour Exploration and Alignment**|Maxence Hussonnois et.al.|[2501.17431](http://arxiv.org/abs/2501.17431)|null|
+|**2025-01-29**|**Actions Speak Louder than Words: Agent Decisions Reveal Implicit Biases in Language Models**|Yuxuan Li et.al.|[2501.17420](http://arxiv.org/abs/2501.17420)|null|
+|**2025-01-29**|**General Scene Adaptation for Vision-and-Language Navigation**|Haodong Hong et.al.|[2501.17403](http://arxiv.org/abs/2501.17403)|**[link](https://github.com/honghd16/gsa-vln)**|
+|**2025-01-29**|**Optimal Utility Design with Arbitrary Information Networks**|Vartika Singh et.al.|[2501.17385](http://arxiv.org/abs/2501.17385)|null|
+|**2025-01-29**|**A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement Learning**|Zhengpeng Xie et.al.|[2501.17384](http://arxiv.org/abs/2501.17384)|null|
+|**2025-01-28**|**Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication**|Ashish Bastola et.al.|[2501.17329](http://arxiv.org/abs/2501.17329)|null|
+|**2025-01-28**|**A sketch of an AI control safety case**|Tomek Korbak et.al.|[2501.17315](http://arxiv.org/abs/2501.17315)|null|
+|**2025-01-28**|**Controlling AI Agent Participation in Group Conversations: A Human-Centered Approach**|Stephanie Houde et.al.|[2501.17258](http://arxiv.org/abs/2501.17258)|null|
+|**2025-01-28**|**Integrating Reinforcement Learning and AI Agents for Adaptive Robotic Interaction and Assistance in Dementia Care**|Fengpei Yuan et.al.|[2501.17206](http://arxiv.org/abs/2501.17206)|null|
+|**2025-01-27**|**Audio Large Language Models Can Be Descriptive Speech Quality Evaluators**|Chen Chen et.al.|[2501.17202](http://arxiv.org/abs/2501.17202)|null|
 |**2025-01-28**|**Evidence on the Regularisation Properties of Maximum-Entropy Reinforcement Learning**|Rémy Hosseinkhan Boucher et.al.|[2501.17115](http://arxiv.org/abs/2501.17115)|null|
 |**2025-01-28**|**CRSet: Non-Interactive Verifiable Credential Revocation with Metadata Privacy for Issuers and Everyone Else**|Felix Hoops et.al.|[2501.17089](http://arxiv.org/abs/2501.17089)|null|
 |**2025-01-28**|**Learning Mean Field Control on Sparse Graphs**|Christian Fabian et.al.|[2501.17079](http://arxiv.org/abs/2501.17079)|null|
@@ -32,7 +53,7 @@
 |**2025-01-28**|**A Stochastic Dynamical Theory of LLM Self-Adversariality: Modeling Severity Drift as a Critical Process**|Jack David Carson et.al.|[2501.16783](http://arxiv.org/abs/2501.16783)|null|
 |**2025-01-28**|**Target-driven Self-Distillation for Partial Observed Trajectories Forecasting**|Pengfei Zhu et.al.|[2501.16767](http://arxiv.org/abs/2501.16767)|null|
 |**2025-01-28**|**Quantum advantage in decentralized control of POMDPs: A control-theoretic view of the Mermin-Peres square**|Venkat Anantharam et.al.|[2501.16690](http://arxiv.org/abs/2501.16690)|null|
-|**2025-01-28**|**MACI: Multi-Agent Collaborative Intelligence for Robust Reasoning and Temporal Planning**|Edward Y. Chang et.al.|[2501.16689](http://arxiv.org/abs/2501.16689)|null|
+|**2025-01-29**|**MACI: Multi-Agent Collaborative Intelligence for Adaptive Reasoning and Temporal Planning**|Edward Y. Chang et.al.|[2501.16689](http://arxiv.org/abs/2501.16689)|null|
 |**2025-01-28**|**Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting**|Li Yin et.al.|[2501.16673](http://arxiv.org/abs/2501.16673)|**[link](https://github.com/sylphai-inc/adalflow)**|
 |**2025-01-28**|**Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs**|Huichen Will Wang et.al.|[2501.16661](http://arxiv.org/abs/2501.16661)|null|
 |**2025-01-28**|**Large Language Model Critics for Execution-Free Evaluation of Code Changes**|Aashish Yadavally et.al.|[2501.16655](http://arxiv.org/abs/2501.16655)|**[link](https://github.com/amazon-science/code-agent-eval)**|
@@ -45,7 +66,7 @@
 |**2025-01-27**|**Financial constraints, risk sharing, and optimal monetary policy**|Aliaksandr Zaretski et.al.|[2501.16575](http://arxiv.org/abs/2501.16575)|null|
 |**2025-01-27**|**Deception in LLMs: Self-Preservation and Autonomous Goals in Large Language Models**|Sudarshan Kamath Barkur et.al.|[2501.16513](http://arxiv.org/abs/2501.16513)|null|
 |**2025-01-27**|**Objects matter: object-centric world models improve reinforcement learning in visually complex environments**|Weipu Zhang et.al.|[2501.16443](http://arxiv.org/abs/2501.16443)|null|
-|**2025-01-27**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
+|**2025-01-29**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
 |**2025-01-24**|**GraPPI: A Retrieve-Divide-Solve GraphRAG Framework for Large-scale Protein-protein Interaction Exploration**|Ziwen Li et.al.|[2501.16382](http://arxiv.org/abs/2501.16382)|**[link](https://github.com/aaronli43/grappi)**|
 |**2025-01-20**|**Evaluating Binary Decision Biases in Large Language Models: Implications for Fair Agent-Based Financial Simulations**|Alicia Vidler et.al.|[2501.16356](http://arxiv.org/abs/2501.16356)|null|
 |**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327](http://arxiv.org/abs/2501.16327)|**[link](https://github.com/vita-mllm/lucy)**|
@@ -95,7 +116,7 @@
 |**2025-01-28**|**Self-reflecting Large Language Models: A Hegelian Dialectical Approach**|Sara Abdali et.al.|[2501.14917](http://arxiv.org/abs/2501.14917)|null|
 |**2025-01-24**|**Allocating Public Goods via Dynamic Max-Min Fairness: Long-Run Behavior and Competitive Equilibria**|Chido Onyeze et.al.|[2501.14916](http://arxiv.org/abs/2501.14916)|null|
 |**2025-01-24**|**Unmasking Conversational Bias in AI Multiagent Systems**|Erica Coppolillo et.al.|[2501.14844](http://arxiv.org/abs/2501.14844)|null|
-|**2025-01-21**|**Quantifying Energy and Cost Benefits of Hybrid Edge Cloud: Analysis of Traditional and Agentic Workloads**|Siavash Alamouti et.al.|[2501.14823](http://arxiv.org/abs/2501.14823)|null|
+|**2025-01-29**|**Quantifying Energy and Cost Benefits of Hybrid Edge Cloud: Analysis of Traditional and Agentic Workloads**|Siavash Alamouti et.al.|[2501.14823](http://arxiv.org/abs/2501.14823)|null|
 |**2025-01-20**|**A Comprehensive Mathematical and System-Level Analysis of Autonomous Vehicle Timelines**|Paul Perrone et.al.|[2501.14819](http://arxiv.org/abs/2501.14819)|null|
 |**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|**[link](https://github.com/ilyaorson/cyberdreamcatcher)**|
 |**2025-01-28**|**The Division of Surplus and the Burden of Proof**|Deniz Kattwinkel et.al.|[2501.14686](http://arxiv.org/abs/2501.14686)|null|
