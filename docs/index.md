@@ -273,7 +273,7 @@ layout: default
 |**2025-01-19**|**Machine Learning Surrogates for Optimizing Transportation Policies with Agent-Based Models**|Elena Natterer et.al.|[2501.11057](http://arxiv.org/abs/2501.11057)|null|
 |**2025-01-19**|**Laplacian Eigenvector Centrality**|Koya Shimono et.al.|[2501.11024](http://arxiv.org/abs/2501.11024)|null|
 |**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|null|
-|**2025-01-19**|**Open FinLLM Leaderboard: Towards Financial AI Readiness**|Shengyuan Colin Lin et.al.|[2501.10963](http://arxiv.org/abs/2501.10963)|null|
+|**2025-01-19**|**Open FinLLM Leaderboard: Towards Financial AI Readiness**|Shengyuan Colin Lin et.al.|[2501.10963](http://arxiv.org/abs/2501.10963)|**[link](https://github.com/finos-labs/open-financial-llms-leaderboard)**|
 |**2025-01-19**|**Blockchain-assisted Demonstration Cloning for Multi-Agent Deep Reinforcement Learning**|Ahmed Alagha et.al.|[2501.10938](http://arxiv.org/abs/2501.10938)|null|
 |**2025-01-19**|**Adaptive Target Localization under Uncertainty using Multi-Agent Deep Reinforcement Learning with Knowledge Transfer**|Ahmed Alagha et.al.|[2501.10924](http://arxiv.org/abs/2501.10924)|null|
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
@@ -923,7 +923,7 @@ layout: default
 |**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|**[link](https://github.com/wur-abe/rl_drone_object_search)**|
 |**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|**[link](https://github.com/zjumai/evopatient)**|
 |**2024-12-16**|**Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework**|Xuanming Zhang et.al.|[2412.11713](http://arxiv.org/abs/2412.11713)|null|
-|**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|null|
+|**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|**[link](https://github.com/rap-lab-org/public_LSRP)**|
 |**2024-12-16**|**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting**|Muhammet Furkan Ilaslan et.al.|[2412.11621](http://arxiv.org/abs/2412.11621)|**[link](https://github.com/mfurkanilaslan/vg-tvp)**|
 |**2024-12-17**|**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**|Zhipeng Chen et.al.|[2412.11594](http://arxiv.org/abs/2412.11594)|**[link](https://github.com/felixchan9527/versagen_official)**|
 |**2024-12-16**|**Embodied CoT Distillation From LLM To Off-the-shelf Agents**|Wonje Choi et.al.|[2412.11499](http://arxiv.org/abs/2412.11499)|null|
@@ -1719,7 +1719,7 @@ layout: default
 |**2024-11-11**|**RoundTable: Investigating Group Decision-Making Mechanism in Multi-Agent Collaboration**|Young-Min Cho et.al.|[2411.07161](http://arxiv.org/abs/2411.07161)|null|
 |**2024-11-11**|**Azurin-Based Peptide p28 Arrests the p53-HDM2 Interactions: A Novel Anti-Cancer Pathway**|Albin Joy et.al.|[2411.07124](http://arxiv.org/abs/2411.07124)|null|
 |**2024-11-14**|**Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing**|Yuming Feng et.al.|[2411.07104](http://arxiv.org/abs/2411.07104)|null|
-|**2024-11-11**|**Bounded Rationality Equilibrium Learning in Mean Field Games**|Yannick Eich et.al.|[2411.07099](http://arxiv.org/abs/2411.07099)|null|
+|**2024-11-11**|**Bounded Rationality Equilibrium Learning in Mean Field Games**|Yannick Eich et.al.|[2411.07099](http://arxiv.org/abs/2411.07099)|**[link](https://github.com/yannickeich/QRE-MFG)**|
 |**2024-11-11**|**A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs**|Myeongsoo Kim et.al.|[2411.07098](http://arxiv.org/abs/2411.07098)|null|
 |**2024-11-11**|**Differentially-Private Collaborative Online Personalized Mean Estimation**|Yauhen Yakimenka et.al.|[2411.07094](http://arxiv.org/abs/2411.07094)|null|
 |**2024-11-11**|**To Train or Not to Train: Balancing Efficiency and Training Cost in Deep Reinforcement Learning for Mobile Edge Computing**|Maddalena Boscaro et.al.|[2411.07086](http://arxiv.org/abs/2411.07086)|null|
@@ -2818,7 +2818,7 @@ layout: default
 |**2024-10-04**|**Learning 3D Perception from Others' Predictions**|Jinsu Yoo et.al.|[2410.02646](http://arxiv.org/abs/2410.02646)|null|
 |**2024-10-03**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|**[link](https://github.com/agiresearch/asb)**|
 |**2024-10-03**|**Beyond Expected Returns: A Policy Gradient Algorithm for Cumulative Prospect Theoretic Reinforcement Learning**|Olivier Lepel et.al.|[2410.02605](http://arxiv.org/abs/2410.02605)|null|
-|**2024-10-03**|**Agents' Room: Narrative Generation through Multi-step Collaboration**|Fantine Huot et.al.|[2410.02603](http://arxiv.org/abs/2410.02603)|null|
+|**2024-10-03**|**Agents' Room: Narrative Generation through Multi-step Collaboration**|Fantine Huot et.al.|[2410.02603](http://arxiv.org/abs/2410.02603)|**[link](https://github.com/google-deepmind/tell_me_a_story)**|
 |**2024-10-03**|**Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions**|Angana Borah et.al.|[2410.02584](http://arxiv.org/abs/2410.02584)|**[link](https://github.com/MichiganNLP/MultiAgent_ImplicitBias)**|
 |**2024-10-03**|**Spontaneous Symmetry Breaking, Group Decision Making and Beyond 1. Echo Chambers and Random Polarization**|Serge Galam et.al.|[2410.02582](http://arxiv.org/abs/2410.02582)|null|
 |**2024-10-10**|**Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581](http://arxiv.org/abs/2410.02581)|null|
