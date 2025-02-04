@@ -15,13 +15,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
-|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|**[link](https://github.com/mustafakarabag/llmchameleon)**|
 |**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
 |**2025-01-31**|**The Physics and Metaphysics of Social Powers: Bridging Cognitive Processing and Social Dynamics, a New Perspective on Power through Active Inference**|Mahault Albarracin et.al.|[2501.19368](http://arxiv.org/abs/2501.19368)|null|
 |**2025-01-31**|**PixelWorld: Towards Perceiving Everything as Pixels**|Zhiheng Lyu et.al.|[2501.19339](http://arxiv.org/abs/2501.19339)|null|
 |**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
 |**2025-01-31**|**Objective Metrics for Human-Subjects Evaluation in Explainable Reinforcement Learning**|Balint Gyevnar et.al.|[2501.19256](http://arxiv.org/abs/2501.19256)|null|
-|**2025-01-31**|**SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**|Hüseyin Aydın et.al.|[2501.19245](http://arxiv.org/abs/2501.19245)|null|
+|**2025-02-03**|**SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**|Hüseyin Aydın et.al.|[2501.19245](http://arxiv.org/abs/2501.19245)|null|
 |**2025-01-31**|**Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics**|Xingyu Wang et.al.|[2501.19239](http://arxiv.org/abs/2501.19239)|null|
 |**2025-01-31**|**A parallelizable variant of HCA***|Sreenivasan Ganti et.al.|[2501.19218](http://arxiv.org/abs/2501.19218)|null|
 |**2025-01-31**|**An Empirical Game-Theoretic Analysis of Autonomous Cyber-Defence Agents**|Gregory Palmer et.al.|[2501.19206](http://arxiv.org/abs/2501.19206)|null|
@@ -46,15 +46,15 @@ layout: default
 |**2025-01-31**|**KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search**|Haoran Luo et.al.|[2501.18922](http://arxiv.org/abs/2501.18922)|**[link](https://github.com/lhrlab/kbqa-o1)**|
 |**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898](http://arxiv.org/abs/2501.18898)|null|
 |**2025-01-31**|**RLS3: RL-Based Synthetic Sample Selection to Enhance Spatial Reasoning in Vision-Language Models for Indoor Autonomous Perception**|Joshua R. Waite et.al.|[2501.18880](http://arxiv.org/abs/2501.18880)|null|
-|**2025-01-31**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
+|**2025-02-03**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
 |**2025-01-31**|**Social Cyber Geographical Worldwide Inventory of Bots**|Lynnette Hui Xian Ng et.al.|[2501.18839](http://arxiv.org/abs/2501.18839)|null|
 |**2025-01-31**|**Physics-informed Neural Model Predictive Control of Interacting Active Brownian Particles**|Titus Quah et.al.|[2501.18809](http://arxiv.org/abs/2501.18809)|null|
 |**2025-01-30**|**Deceptive Sequential Decision-Making via Regularized Policy Optimization**|Yerin Kim et.al.|[2501.18803](http://arxiv.org/abs/2501.18803)|null|
 |**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794](http://arxiv.org/abs/2501.18794)|null|
 |**2025-01-30**|**Integrating LMM Planners and 3D Skill Policies for Generalizable Manipulation**|Yuelei Li et.al.|[2501.18733](http://arxiv.org/abs/2501.18733)|null|
-|**2025-01-30**|**Invisible Traces: Using Hybrid Fingerprinting to identify underlying LLMs in GenAI Apps**|Devansh Bhardwaj et.al.|[2501.18712](http://arxiv.org/abs/2501.18712)|null|
-|**2025-01-30**|**Simulation Streams: A Programming Paradigm for Controlling Large Language Models and Building Complex Systems with Generative AI**|Peter Sunehag et.al.|[2501.18668](http://arxiv.org/abs/2501.18668)|null|
-|**2025-01-30**|**Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation**|Yanlong Li et.al.|[2501.18653](http://arxiv.org/abs/2501.18653)|null|
+|**2025-02-03**|**Invisible Traces: Using Hybrid Fingerprinting to identify underlying LLMs in GenAI Apps**|Devansh Bhardwaj et.al.|[2501.18712](http://arxiv.org/abs/2501.18712)|null|
+|**2025-01-30**|**Simulation Streams: A Programming Paradigm for Controlling Large Language Models and Building Complex Systems with Generative AI**|Peter Sunehag et.al.|[2501.18668](http://arxiv.org/abs/2501.18668)|**[link](https://github.com/google-deepmind/simulation_streams)**|
+|**2025-01-30**|**Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation**|Yanlong Li et.al.|[2501.18653](http://arxiv.org/abs/2501.18653)|**[link](https://github.com/doc0318/cogito)**|
 |**2025-01-29**|**Layered Chain-of-Thought Prompting for Multi-Agent LLM Systems: A Comprehensive Approach to Explainable Large Language Models**|Manish Sanwal et.al.|[2501.18645](http://arxiv.org/abs/2501.18645)|null|
 |**2025-01-28**|**Divergent Emotional Patterns in Disinformation on Social Media? An Analysis of Tweets and TikToks about the DANA in Valencia**|Iván Arcos et.al.|[2501.18640](http://arxiv.org/abs/2501.18640)|null|
 |**2025-01-27**|**Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare**|Hang Zhang et.al.|[2501.18632](http://arxiv.org/abs/2501.18632)|null|
@@ -75,7 +75,7 @@ layout: default
 |**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
 |**2025-01-30**|**Model Checking for Multi-Agent Systems Modeled By Epistemic Process Calculus**|Qixian Yu et.al.|[2501.18155](http://arxiv.org/abs/2501.18155)|null|
 |**2025-01-30**|**Utilizing API Response for Test Refinement**|Devika Sondhi et.al.|[2501.18145](http://arxiv.org/abs/2501.18145)|null|
-|**2025-01-30**|**B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning**|Woojun Kim et.al.|[2501.18138](http://arxiv.org/abs/2501.18138)|null|
+|**2025-02-02**|**B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning**|Woojun Kim et.al.|[2501.18138](http://arxiv.org/abs/2501.18138)|null|
 |**2025-01-30**|**DCatalyst: A Unified Accelerated Framework for Decentralized Optimization**|Tianyu Cao et.al.|[2501.18114](http://arxiv.org/abs/2501.18114)|null|
 |**2025-01-29**|**Joint Pricing and Resource Allocation: An Optimal Online-Learning Approach**|Jianyu Xu et.al.|[2501.18049](http://arxiv.org/abs/2501.18049)|null|
 |**2025-01-29**|**A Case Study in Acceleration AI Ethics: The TELUS GenAI Conversational Agent**|James Brusseau et.al.|[2501.18038](http://arxiv.org/abs/2501.18038)|null|
@@ -176,13 +176,13 @@ layout: default
 |**2025-01-25**|**Are Human Interactions Replicable by Generative Agents? A Case Study on Pronoun Usage in Hierarchical Interactions**|Naihao Deng et.al.|[2501.15283](http://arxiv.org/abs/2501.15283)|null|
 |**2025-01-25**|**Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning**|Yiqun Chen et.al.|[2501.15228](http://arxiv.org/abs/2501.15228)|**[link](https://github.com/chenyiqun/mmoa-rag)**|
 |**2025-01-25**|**Audio-Language Models for Audio-Centric Tasks: A survey**|Yi Su et.al.|[2501.15177](http://arxiv.org/abs/2501.15177)|null|
-|**2025-01-25**|**Understanding via Gaze: Gaze-based Task Decomposition for Imitation Learning of Robot Manipulation**|Ryo Takizawa et.al.|[2501.15071](http://arxiv.org/abs/2501.15071)|null|
+|**2025-02-01**|**Gaze-based Task Decomposition for Robot Manipulation in Imitation Learning**|Ryo Takizawa et.al.|[2501.15071](http://arxiv.org/abs/2501.15071)|null|
 |**2025-01-25**|**YouTube Recommendations Reinforce Negative Emotions: Auditing Algorithmic Bias with Emotionally-Agentic Sock Puppets**|Hussam Habib et.al.|[2501.15048](http://arxiv.org/abs/2501.15048)|null|
 |**2025-01-25**|**OptiSeq: Optimizing Example Ordering for In-Context Learning**|Rahul Atul Bhope et.al.|[2501.15030](http://arxiv.org/abs/2501.15030)|null|
 |**2025-01-25**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001](http://arxiv.org/abs/2501.15001)|**[link](https://github.com/cambrian-org/ACI)**|
 |**2025-01-28**|**Self-reflecting Large Language Models: A Hegelian Dialectical Approach**|Sara Abdali et.al.|[2501.14917](http://arxiv.org/abs/2501.14917)|null|
 |**2025-01-24**|**Allocating Public Goods via Dynamic Max-Min Fairness: Long-Run Behavior and Competitive Equilibria**|Chido Onyeze et.al.|[2501.14916](http://arxiv.org/abs/2501.14916)|null|
-|**2025-01-24**|**Unmasking Conversational Bias in AI Multiagent Systems**|Erica Coppolillo et.al.|[2501.14844](http://arxiv.org/abs/2501.14844)|null|
+|**2025-02-02**|**Unmasking Conversational Bias in AI Multiagent Systems**|Erica Coppolillo et.al.|[2501.14844](http://arxiv.org/abs/2501.14844)|null|
 |**2025-01-29**|**Quantifying Energy and Cost Benefits of Hybrid Edge Cloud: Analysis of Traditional and Agentic Workloads**|Siavash Alamouti et.al.|[2501.14823](http://arxiv.org/abs/2501.14823)|null|
 |**2025-01-20**|**A Comprehensive Mathematical and System-Level Analysis of Autonomous Vehicle Timelines**|Paul Perrone et.al.|[2501.14819](http://arxiv.org/abs/2501.14819)|null|
 |**2025-01-30**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|**[link](https://github.com/ilyaorson/cyberdreamcatcher)**|
