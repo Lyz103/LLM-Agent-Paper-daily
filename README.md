@@ -17,6 +17,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|null|
+|**2025-02-07**|**MELON: Indirect Prompt Injection Defense via Masked Re-execution and Tool Comparison**|Kaijie Zhu et.al.|[2502.05174](http://arxiv.org/abs/2502.05174)|null|
+|**2025-02-07**|**From Restless to Contextual: A Thresholding Bandit Approach to Improve Finite-horizon Performance**|Jiamin Xu et.al.|[2502.05145](http://arxiv.org/abs/2502.05145)|null|
+|**2025-02-07**|**Maximin Share Guarantees for Few Agents with Subadditive Valuations**|George Christodoulou et.al.|[2502.05141](http://arxiv.org/abs/2502.05141)|null|
+|**2025-02-07**|**Joint TITE-CRM for Dual Agent Dose Finding Studies**|Helen Barnett et.al.|[2502.05072](http://arxiv.org/abs/2502.05072)|null|
+|**2025-02-07**|**Exploring the Generalizability of Geomagnetic Navigation: A Deep Reinforcement Learning approach with Policy Distillation**|Wenqi Bai et.al.|[2502.05069](http://arxiv.org/abs/2502.05069)|null|
+|**2025-02-07**|**nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow**|Geliang Ouyang et.al.|[2502.05036](http://arxiv.org/abs/2502.05036)|null|
+|**2025-02-07**|**Near-Optimal Online Learning for Multi-Agent Submodular Coordination: Tight Approximation and Communication Efficiency**|Qixin Zhang et.al.|[2502.05028](http://arxiv.org/abs/2502.05028)|null|
+|**2025-02-07**|**Seasonal Station-Keeping of Short Duration High Altitude Balloons using Deep Reinforcement Learning**|Tristan K. Schuler et.al.|[2502.05014](http://arxiv.org/abs/2502.05014)|null|
+|**2025-02-07**|**The Rising Threat to Emerging AI-Powered Search Engines**|Zeren Luo et.al.|[2502.04951](http://arxiv.org/abs/2502.04951)|null|
+|**2025-02-07**|**$TAR^2$ : Temporal-Agent Reward Redistribution for Optimal Policy Preservation in Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2502.04864](http://arxiv.org/abs/2502.04864)|null|
+|**2025-02-07**|**Humans Co-exist, So Must Embodied Artificial Agents**|Hannah Kuehn et.al.|[2502.04809](http://arxiv.org/abs/2502.04809)|null|
+|**2025-02-07**|**Unified description of viscous, viscoelastic, or elastic thin active films on substrates**|Henning Reinken et.al.|[2502.04802](http://arxiv.org/abs/2502.04802)|null|
+|**2025-02-07**|**S $^2$ -MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency**|Yuting Zeng et.al.|[2502.04790](http://arxiv.org/abs/2502.04790)|null|
+|**2025-02-07**|**A non-zero-sum game with reinforcement learning under mean-variance framework**|Junyi Guo et.al.|[2502.04788](http://arxiv.org/abs/2502.04788)|null|
+|**2025-02-07**|**SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning**|Wanjia Zhao et.al.|[2502.04780](http://arxiv.org/abs/2502.04780)|null|
+|**2025-02-07**|**An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks**|George Papadopoulos et.al.|[2502.04773](http://arxiv.org/abs/2502.04773)|null|
+|**2025-02-07**|**Shapley Value Approximation Based on k-Additive Games**|Guilherme Dean Pelegrina et.al.|[2502.04763](http://arxiv.org/abs/2502.04763)|null|
+|**2025-02-07**|**Every Software as an Agent: Blueprint and Case Study**|Mengwei Xu et.al.|[2502.04747](http://arxiv.org/abs/2502.04747)|null|
+|**2025-02-07**|**Multi-Agent Coverage Control in Non-Convex Annulus Region with Conformal Mapping**|Xun Feng et.al.|[2502.04697](http://arxiv.org/abs/2502.04697)|null|
+|**2025-02-07**|**STRIDE: Automating Reward Design, Deep Reinforcement Learning Training and Feedback Optimization in Humanoid Robotics Locomotion**|Zhenwei Wu et.al.|[2502.04692](http://arxiv.org/abs/2502.04692)|null|
+|**2025-02-07**|**Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization**|Zelai Xu et.al.|[2502.04686](http://arxiv.org/abs/2502.04686)|null|
+|**2025-02-07**|**Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**|Junde Wu et.al.|[2502.04644](http://arxiv.org/abs/2502.04644)|null|
+|**2025-02-07**|**Self-Regulation and Requesting Interventions**|So Yeon Min et.al.|[2502.04576](http://arxiv.org/abs/2502.04576)|null|
+|**2025-02-06**|**Zero-shot Meta-learning for Tabular Prediction Tasks with Adversarially Pre-trained Transformer**|Yulun Wu et.al.|[2502.04573](http://arxiv.org/abs/2502.04573)|null|
+|**2025-02-06**|**Reinforcement Learning Based Prediction of PID Controller Gains for Quadrotor UAVs**|Serhat Sönmez et.al.|[2502.04552](http://arxiv.org/abs/2502.04552)|null|
+|**2025-02-06**|**Safety is Essential for Responsible Open-Ended Systems**|Ivaxi Sheth et.al.|[2502.04512](http://arxiv.org/abs/2502.04512)|null|
+|**2025-02-06**|**Distributed Resilient Asymmetric Bipartite Consensus: A Data-Driven Event-Triggered Mechanism**|Yi Zhang et.al.|[2502.04497](http://arxiv.org/abs/2502.04497)|null|
+|**2025-02-06**|**Multi-Agent Reinforcement Learning with Focal Diversity Optimization**|Selim Furkan Tekin et.al.|[2502.04492](http://arxiv.org/abs/2502.04492)|null|
+|**2025-02-06**|**Active Task Disambiguation with LLMs**|Katarzyna Kobalczyk et.al.|[2502.04485](http://arxiv.org/abs/2502.04485)|null|
+|**2025-02-06**|**Autotelic Reinforcement Learning: Exploring Intrinsic Motivations for Skill Acquisition in Open-Ended Environments**|Prakhar Srivastava et.al.|[2502.04418](http://arxiv.org/abs/2502.04418)|null|
+|**2025-02-06**|**Illuminating Spaces: Deep Reinforcement Learning and Laser-Wall Partitioning for Architectural Layout Generation**|Reza Kakooee et.al.|[2502.04407](http://arxiv.org/abs/2502.04407)|null|
+|**2025-02-06**|**Online Location Planning for AI-Defined Vehicles: Optimizing Joint Tasks of Order Serving and Spatio-Temporal Heterogeneous Model Fine-Tuning**|Bokeng Zheng et.al.|[2502.04399](http://arxiv.org/abs/2502.04399)|null|
+|**2025-02-06**|**Division-of-Thoughts: Harnessing Hybrid Language Model Synergy for Efficient On-Device Agents**|Chenyang Shao et.al.|[2502.04392](http://arxiv.org/abs/2502.04392)|null|
+|**2025-02-05**|**Position: Emergent Machina Sapiens Urge Rethinking Multi-Agent Paradigms**|Hepeng Li et.al.|[2502.04388](http://arxiv.org/abs/2502.04388)|null|
+|**2025-02-04**|**Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives**|Elliot Meyerson et.al.|[2502.04358](http://arxiv.org/abs/2502.04358)|null|
+|**2025-02-04**|**Dynamic benchmarking framework for LLM-based conversational data capture**|Pietro Alessandro Aluffi et.al.|[2502.04349](http://arxiv.org/abs/2502.04349)|null|
+|**2025-02-04**|**JingFang: A Traditional Chinese Medicine Large Language Model of Expert-Level Medical Diagnosis and Syndrome Differentiation-Based Treatment**|Yehan Yan et.al.|[2502.04345](http://arxiv.org/abs/2502.04345)|null|
 |**2025-02-06**|**ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization**|Yinjie Wang et.al.|[2502.04306](http://arxiv.org/abs/2502.04306)|null|
 |**2025-02-06**|**Mutual Multilinearity of Nonequilibrium Network Currents**|Sara Dal Cengio et.al.|[2502.04298](http://arxiv.org/abs/2502.04298)|null|
 |**2025-02-06**|**DECAF: Learning to be Fair in Multi-agent Resource Allocation**|Ashwin Kumar et.al.|[2502.04281](http://arxiv.org/abs/2502.04281)|null|
@@ -136,7 +174,7 @@
 |**2025-02-03**|**Memento No More: Coaching AI Agents to Master Multiple Tasks via Hints Internalization**|Minttu Alakuijala et.al.|[2502.01562](http://arxiv.org/abs/2502.01562)|null|
 |**2025-02-03**|**Toward Task Generalization via Memory Augmentation in Meta-Reinforcement Learning**|Kaixi Bao et.al.|[2502.01521](http://arxiv.org/abs/2502.01521)|null|
 |**2025-02-05**|**TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets**|Yuzhe Yang et.al.|[2502.01506](http://arxiv.org/abs/2502.01506)|null|
-|**2025-02-03**|**Sea-cret Agents: Maritime Abduction for Region Generation to Expose Dark Vessel Trajectories**|Divyagna Bavikadi et.al.|[2502.01503](http://arxiv.org/abs/2502.01503)|null|
+|**2025-02-06**|**Sea-cret Agents: Maritime Abduction for Region Generation to Expose Dark Vessel Trajectories**|Divyagna Bavikadi et.al.|[2502.01503](http://arxiv.org/abs/2502.01503)|null|
 |**2025-02-03**|**Develop AI Agents for System Engineering in Factorio**|Neel Kant et.al.|[2502.01492](http://arxiv.org/abs/2502.01492)|null|
 |**2025-02-03**|**Simulating Rumor Spreading in Social Networks using LLM Agents**|Tianrui Hu et.al.|[2502.01450](http://arxiv.org/abs/2502.01450)|null|
 |**2025-02-03**|**An Algorithm for Fixed Budget Best Arm Identification with Combinatorial Exploration**|Siddhartha Parupudi et.al.|[2502.01429](http://arxiv.org/abs/2502.01429)|null|
