@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -101,7 +101,7 @@ layout: default
 |**2025-02-11**|**RoboBERT: An End-to-end Multimodal Robotic Manipulation Model**|Sicheng Wang et.al.|[2502.07837](http://arxiv.org/abs/2502.07837)|null|
 |**2025-02-10**|**Enhancing kidney transplantation through multi-agent kidney exchange programs: A comprehensive review and optimization models**|Shayan Sharifi et.al.|[2502.07819](http://arxiv.org/abs/2502.07819)|null|
 |**2025-02-07**|**CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception**|Senkang Hu et.al.|[2502.07807](http://arxiv.org/abs/2502.07807)|null|
-|**2025-02-12**|**MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces**|Loris Gaven et.al.|[2502.07709](http://arxiv.org/abs/2502.07709)|null|
+|**2025-02-12**|**MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces**|Loris Gaven et.al.|[2502.07709](http://arxiv.org/abs/2502.07709)|**[link](https://github.com/LorisGaven/MAGELLAN)**|
 |**2025-02-11**|**Human Decision-making is Susceptible to AI-driven Manipulation**|Sahand Sabour et.al.|[2502.07663](http://arxiv.org/abs/2502.07663)|null|
 |**2025-02-11**|**Robust-Sorting and Applications to Ulam-Median**|Ragesh Jaiswal et.al.|[2502.07653](http://arxiv.org/abs/2502.07653)|null|
 |**2025-02-11**|**Distributed Value Decomposition Networks with Networked Agents**|Guilherme S. Varela et.al.|[2502.07635](http://arxiv.org/abs/2502.07635)|null|
@@ -129,7 +129,7 @@ layout: default
 |**2025-02-11**|**Bayesian Optimization for Building Social-Influence-Free Consensus**|Masaki Adachi et.al.|[2502.07166](http://arxiv.org/abs/2502.07166)|null|
 |**2025-02-11**|**Don't Just Demo, Teach Me the Principles: A Principle-Based Multi-Agent Prompting Strategy for Text Classification**|Peipei Wei et.al.|[2502.07165](http://arxiv.org/abs/2502.07165)|null|
 |**2025-02-10**|**Interactive Data Harmonization with LLM Agents**|Aécio Santos et.al.|[2502.07132](http://arxiv.org/abs/2502.07132)|null|
-|**2025-02-10**|**Repository-level Code Search with Neural Retrieval Methods**|Siddharth Gandhi et.al.|[2502.07067](http://arxiv.org/abs/2502.07067)|null|
+|**2025-02-10**|**Repository-level Code Search with Neural Retrieval Methods**|Siddharth Gandhi et.al.|[2502.07067](http://arxiv.org/abs/2502.07067)|**[link](https://github.com/Siddharth-Gandhi/ds)**|
 |**2025-02-10**|**Active Inference through Incentive Design in Markov Decision Processes**|Xinyi Wei et.al.|[2502.07065](http://arxiv.org/abs/2502.07065)|null|
 |**2025-02-10**|**Autonomous Deep Agent**|Amy Yu et.al.|[2502.07056](http://arxiv.org/abs/2502.07056)|null|
 |**2025-02-10**|**Artificial General Intelligence and the End of Human Employment: The Need to Renegotiate the Social Contract**|Pascal Stiefenhofer et.al.|[2502.07050](http://arxiv.org/abs/2502.07050)|null|
@@ -137,7 +137,7 @@ layout: default
 |**2025-02-10**|**Who is Helping Whom? Analyzing Inter-dependencies to Evaluate Cooperation in Human-AI Teaming**|Upasana Biswas et.al.|[2502.06976](http://arxiv.org/abs/2502.06976)|null|
 |**2025-02-10**|**Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents**|Mathis Pink et.al.|[2502.06975](http://arxiv.org/abs/2502.06975)|null|
 |**2025-02-10**|**Task Offloading in Vehicular Edge Computing using Deep Reinforcement Learning: A Survey**|Ashab Uddin et.al.|[2502.06963](http://arxiv.org/abs/2502.06963)|null|
-|**2025-02-08**|**Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction**|Shengbin Yue et.al.|[2502.06882](http://arxiv.org/abs/2502.06882)|null|
+|**2025-02-08**|**Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction**|Shengbin Yue et.al.|[2502.06882](http://arxiv.org/abs/2502.06882)|**[link](https://github.com/FudanDISC/MASER)**|
 |**2025-02-06**|**Reinforcement Learning on AYA Dyads to Enhance Medication Adherence**|Ziping Xu et.al.|[2502.06835](http://arxiv.org/abs/2502.06835)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-10**|**Towards Internet-Scale Training For Agents**|Brandon Trabucco et.al.|[2502.06776](http://arxiv.org/abs/2502.06776)|null|
@@ -176,12 +176,12 @@ layout: default
 |**2025-02-09**|**Training Language Models for Social Deduction with Multi-Agent Reinforcement Learning**|Bidipta Sarkar et.al.|[2502.06060](http://arxiv.org/abs/2502.06060)|**[link](https://github.com/SocialDeductionLLM/SocialDeductionLLM)**|
 |**2025-02-09**|**Benchmarking Prompt Engineering Techniques for Secure Code Generation with GPT Models**|Marc Bruni et.al.|[2502.06039](http://arxiv.org/abs/2502.06039)|null|
 |**2025-02-09**|**Amnesiac Flooding: Easy to break, hard to escape**|Henry Austin et.al.|[2502.06001](http://arxiv.org/abs/2502.06001)|null|
-|**2025-02-09**|**Pencils to Pixels: A Systematic Study of Creative Drawings across Children, Adults and AI**|Surabhi S Nath et.al.|[2502.05999](http://arxiv.org/abs/2502.05999)|null|
-|**2025-02-09**|**Preventing Rogue Agents Improves Multi-Agent Collaboration**|Ohav Barbi et.al.|[2502.05986](http://arxiv.org/abs/2502.05986)|null|
+|**2025-02-09**|**Pencils to Pixels: A Systematic Study of Creative Drawings across Children, Adults and AI**|Surabhi S Nath et.al.|[2502.05999](http://arxiv.org/abs/2502.05999)|**[link](https://github.com/surabhisnath/pencils_to_pixels)**|
+|**2025-02-09**|**Preventing Rogue Agents Improves Multi-Agent Collaboration**|Ohav Barbi et.al.|[2502.05986](http://arxiv.org/abs/2502.05986)|**[link](https://github.com/Ohav/rogue-agents)**|
 |**2025-02-09**|**HamRaz: A Culture-Based Persian Conversation Dataset for Person-Centered Therapy Using LLM Agents**|Mohammad Amin Abbasi et.al.|[2502.05982](http://arxiv.org/abs/2502.05982)|null|
 |**2025-02-09**|**Redefining Robot Generalization Through Interactive Intelligence**|Sharmita Dey et.al.|[2502.05963](http://arxiv.org/abs/2502.05963)|null|
 |**2025-02-09**|**MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents**|Jiabin Tang et.al.|[2502.05957](http://arxiv.org/abs/2502.05957)|null|
-|**2025-02-09**|**Optimization under Attack: Resilience, Vulnerability, and the Path to Collapse**|Amal Aldawsari et.al.|[2502.05954](http://arxiv.org/abs/2502.05954)|null|
+|**2025-02-09**|**Optimization under Attack: Resilience, Vulnerability, and the Path to Collapse**|Amal Aldawsari et.al.|[2502.05954](http://arxiv.org/abs/2502.05954)|**[link](https://github.com/epournaras/EPOS)**|
 |**2025-02-09**|**Cyri: A Conversational AI-based Assistant for Supporting the Human User in Detecting and Responding to Phishing Attacks**|Antonio La Torre et.al.|[2502.05951](http://arxiv.org/abs/2502.05951)|null|
 |**2025-02-09**|**Barriers and Pathways to Human-AI Alignment: A Game-Theoretic Approach**|Aran Nayebi et.al.|[2502.05934](http://arxiv.org/abs/2502.05934)|null|
 |**2025-02-09**|**Skill Expansion and Composition in Parameter Space**|Tenglong Liu et.al.|[2502.05932](http://arxiv.org/abs/2502.05932)|null|
