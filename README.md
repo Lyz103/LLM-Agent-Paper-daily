@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,11 +47,11 @@
 |**2025-02-23**|**When to Boost: How Dose Timing Determines the Epidemic Threshold**|Alessandro Celestini et.al.|[2502.16715](http://arxiv.org/abs/2502.16715)|null|
 |**2025-02-23**|**From Text to Space: Mapping Abstract Spatial Models in LLMs during a Grid-World Navigation Task**|Nicolas Martorell et.al.|[2502.16690](http://arxiv.org/abs/2502.16690)|null|
 |**2025-02-23**|**Saarthi: The First AI Formal Verification Engineer**|Aman Kumar et.al.|[2502.16662](http://arxiv.org/abs/2502.16662)|null|
-|**2025-02-23**|**BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning**|Haiteng Zhao et.al.|[2502.16660](http://arxiv.org/abs/2502.16660)|null|
+|**2025-02-23**|**BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning**|Haiteng Zhao et.al.|[2502.16660](http://arxiv.org/abs/2502.16660)|**[link](https://github.com/zhao-ht/biomaze)**|
 |**2025-02-23**|**Equilibrium Unit Based Localized Affine Formation Maneuver for Multi-agent Systems**|Cheng Zhu et.al.|[2502.16653](http://arxiv.org/abs/2502.16653)|null|
 |**2025-02-23**|**Toward Dependency Dynamics in Multi-Agent Reinforcement Learning for Traffic Signal Control**|Yuli Zhang et.al.|[2502.16608](http://arxiv.org/abs/2502.16608)|null|
-|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|null|
-|**2025-02-23**|**The Hidden Strength of Disagreement: Unraveling the Consensus-Diversity Tradeoff in Adaptive Multi-Agent Systems**|Zengqing Wu et.al.|[2502.16565](http://arxiv.org/abs/2502.16565)|null|
+|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|**[link](https://github.com/xiaomiaozhang/Co-MTP)**|
+|**2025-02-23**|**The Hidden Strength of Disagreement: Unraveling the Consensus-Diversity Tradeoff in Adaptive Multi-Agent Systems**|Zengqing Wu et.al.|[2502.16565](http://arxiv.org/abs/2502.16565)|**[link](https://github.com/wuzengqing001225/consensusdiversitytradeoffmas)**|
 |**2025-02-23**|**Spatial Disease Propagation With Hubs**|Ke Feng et.al.|[2502.16552](http://arxiv.org/abs/2502.16552)|null|
 |**2025-02-23**|**Bounded Foresight Equilibrium in Large Dynamic Economies with Heterogeneous Agents and Aggregate Shocks**|Bilal Islah et.al.|[2502.16536](http://arxiv.org/abs/2502.16536)|null|
 |**2025-02-23**|**Efficient Coordination and Synchronization of Multi-Robot Systems Under Recurring Linear Temporal Logic**|Davide Peron et.al.|[2502.16531](http://arxiv.org/abs/2502.16531)|null|
@@ -59,11 +59,11 @@
 |**2025-02-23**|**All That Glitters is Not Novel: Plagiarism in AI Generated Research**|Tarun Gupta et.al.|[2502.16487](http://arxiv.org/abs/2502.16487)|null|
 |**2025-02-23**|**A Contemporary Survey on Semantic Communications:Theory of Mind, Generative AI, and Deep Joint Source-Channel Coding**|Loc X. Nguyen et.al.|[2502.16468](http://arxiv.org/abs/2502.16468)|null|
 |**2025-02-23**|**Facilitating Emergency Vehicle Passage in Congested Urban Areas Using Multi-agent Deep Reinforcement Learning**|Haoran Su et.al.|[2502.16449](http://arxiv.org/abs/2502.16449)|null|
-|**2025-02-23**|**VisFactor: Benchmarking Fundamental Visual Cognition in Multimodal Large Language Models**|Jen-Tse Huang et.al.|[2502.16435](http://arxiv.org/abs/2502.16435)|null|
-|**2025-02-22**|**Does Your AI Agent Get You? A Personalizable Framework for Approximating Human Models from Argumentation-based Dialogue Traces**|Yinxu Tang et.al.|[2502.16376](http://arxiv.org/abs/2502.16376)|null|
+|**2025-02-23**|**VisFactor: Benchmarking Fundamental Visual Cognition in Multimodal Large Language Models**|Jen-Tse Huang et.al.|[2502.16435](http://arxiv.org/abs/2502.16435)|**[link](https://github.com/cuhk-arise/visfactor)**|
+|**2025-02-22**|**Does Your AI Agent Get You? A Personalizable Framework for Approximating Human Models from Argumentation-based Dialogue Traces**|Yinxu Tang et.al.|[2502.16376](http://arxiv.org/abs/2502.16376)|**[link](https://github.com/yoda-lab/persona)**|
 |**2025-02-22**|**Exploring Sentiment Manipulation by LLM-Enabled Intelligent Trading Agents**|David Byrd et.al.|[2502.16343](http://arxiv.org/abs/2502.16343)|null|
 |**2025-02-22**|**Dynamic Coalition Structure Detection in Natural Language-based Interactions**|Abhishek N. Kulkarni et.al.|[2502.16339](http://arxiv.org/abs/2502.16339)|null|
-|**2025-02-22**|**Risk-Averse Reinforcement Learning: An Optimal Transport Perspective on Temporal Difference Learning**|Zahra Shahrooei et.al.|[2502.16328](http://arxiv.org/abs/2502.16328)|null|
+|**2025-02-22**|**Risk-Averse Reinforcement Learning: An Optimal Transport Perspective on Temporal Difference Learning**|Zahra Shahrooei et.al.|[2502.16328](http://arxiv.org/abs/2502.16328)|**[link](https://github.com/sailrit/risk-averse-td-learning)**|
 |**2025-02-22**|**Reproducibility Study of Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation**|Jose L. Garcia et.al.|[2502.16242](http://arxiv.org/abs/2502.16242)|null|
 |**2025-02-22**|**Brain-Model Evaluations Need the NeuroAI Turing Test**|Jenelle Feather et.al.|[2502.16238](http://arxiv.org/abs/2502.16238)|null|
 |**2025-02-22**|**An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning**|Masoud Shokrnezhad et.al.|[2502.16198](http://arxiv.org/abs/2502.16198)|null|
@@ -74,7 +74,7 @@
 |**2025-02-22**|**PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving**|Mihir Parmar et.al.|[2502.16111](http://arxiv.org/abs/2502.16111)|null|
 |**2025-02-22**|**Echo: A Large Language Model with Temporal Episodic Memory**|WenTao Liu et.al.|[2502.16090](http://arxiv.org/abs/2502.16090)|null|
 |**2025-02-22**|**Together We Rise: Optimizing Real-Time Multi-Robot Task Allocation using Coordinated Heterogeneous Plays**|Aritra Pal et.al.|[2502.16079](http://arxiv.org/abs/2502.16079)|null|
-|**2025-02-22**|**Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**|Patrick Tser Jern Kon et.al.|[2502.16069](http://arxiv.org/abs/2502.16069)|null|
+|**2025-02-22**|**Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**|Patrick Tser Jern Kon et.al.|[2502.16069](http://arxiv.org/abs/2502.16069)|**[link](https://github.com/just-curieous/curie)**|
 |**2025-02-21**|**Multi-Agent Multimodal Models for Multicultural Text to Image Generation**|Parth Bhalerao et.al.|[2502.15972](http://arxiv.org/abs/2502.15972)|null|
 |**2025-02-21**|**Enhancing PPO with Trajectory-Aware Hybrid Policies**|Qisai Liu et.al.|[2502.15968](http://arxiv.org/abs/2502.15968)|null|
 |**2025-02-21**|**R $^3$ Mem: Bridging Memory Retention and Retrieval via Reversible Compression**|Xiaoqiang Wang et.al.|[2502.15957](http://arxiv.org/abs/2502.15957)|null|
@@ -113,11 +113,11 @@
 |**2025-02-21**|**Real-Time Moving Flock Detection in Pedestrian Trajectories Using Sequential Deep Learning Models**|Amartaivan Sanjjamts et.al.|[2502.15252](http://arxiv.org/abs/2502.15252)|null|
 |**2025-02-21**|**Multi-agent Multi-armed Bandits with Minimum Reward Guarantee Fairness**|Piyushi Manupriya et.al.|[2502.15240](http://arxiv.org/abs/2502.15240)|null|
 |**2025-02-21**|**Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs**|Tingting Chen et.al.|[2502.15224](http://arxiv.org/abs/2502.15224)|null|
-|**2025-02-24**|**ESPnet-SpeechLM: An Open Speech Language Model Toolkit**|Jinchuan Tian et.al.|[2502.15218](http://arxiv.org/abs/2502.15218)|null|
+|**2025-02-24**|**ESPnet-SpeechLM: An Open Speech Language Model Toolkit**|Jinchuan Tian et.al.|[2502.15218](http://arxiv.org/abs/2502.15218)|**[link](https://github.com/espnet/espnet)**|
 |**2025-02-21**|**The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning**|Sheila Schoepp et.al.|[2502.15214](http://arxiv.org/abs/2502.15214)|null|
 |**2025-02-21**|**Measuring AI agent autonomy: Towards a scalable approach with code inspection**|Peter Cihon et.al.|[2502.15212](http://arxiv.org/abs/2502.15212)|null|
 |**2025-02-24**|**On the Hardness of the Drone Delivery Problem**|Simon Bartlmae et.al.|[2502.15194](http://arxiv.org/abs/2502.15194)|null|
-|**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[2502.15180](http://arxiv.org/abs/2502.15180)|null|
+|**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[2502.15180](http://arxiv.org/abs/2502.15180)|**[link](https://github.com/jlchen-c/occprophet)**|
 |**2025-02-21**|**Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems**|Tianjie Ju et.al.|[2502.15153](http://arxiv.org/abs/2502.15153)|null|
 |**2025-02-21**|**CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models**|Zihao Sheng et.al.|[2502.15119](http://arxiv.org/abs/2502.15119)|null|
 |**2025-02-20**|**Is Safety Standard Same for Everyone? User-Specific Safety Evaluation of Large Language Models**|Yeonjun In et.al.|[2502.15086](http://arxiv.org/abs/2502.15086)|null|
@@ -135,7 +135,7 @@
 |**2025-02-20**|**Byzantine Game Theory: Sun Tzus Boxes**|Andrei Constantinescu et.al.|[2502.14812](http://arxiv.org/abs/2502.14812)|null|
 |**2025-02-20**|**Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**|Gregg Rabideau et.al.|[2502.14803](http://arxiv.org/abs/2502.14803)|null|
 |**2025-02-20**|**A Multi-Agent Perspective on Modern Information Retrieval**|Haya Nachimovsky et.al.|[2502.14796](http://arxiv.org/abs/2502.14796)|null|
-|**2025-02-20**|**Making Universal Policies Universal**|Niklas Höpner et.al.|[2502.14777](http://arxiv.org/abs/2502.14777)|null|
+|**2025-02-20**|**Making Universal Policies Universal**|Niklas Höpner et.al.|[2502.14777](http://arxiv.org/abs/2502.14777)|**[link](https://github.com/NikeHop/UniversalPolicies)**|
 |**2025-02-20**|**Tree-of-Debate: Multi-Persona Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis**|Priyanka Kargupta et.al.|[2502.14767](http://arxiv.org/abs/2502.14767)|**[link](https://github.com/pkargupta/tree-of-debate)**|
 |**2025-02-21**|**Multi-Agent Coordination across Diverse Applications: A Survey**|Lijun Sun et.al.|[2502.14743](http://arxiv.org/abs/2502.14743)|null|
 |**2025-02-20**|**Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse**|Michael Doherty et.al.|[2502.14741](http://arxiv.org/abs/2502.14741)|null|
@@ -151,7 +151,7 @@
 |**2025-02-20**|**Plan-over-Graph: Towards Parallelable LLM Agent Schedule**|Shiqi Zhang et.al.|[2502.14563](http://arxiv.org/abs/2502.14563)|**[link](https://github.com/zsq259/plan-over-graph)**|
 |**2025-02-20**|**CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models**|Zhenhong Zhou et.al.|[2502.14529](http://arxiv.org/abs/2502.14529)|**[link](https://github.com/zhrli324/corba)**|
 |**2025-02-20**|**MLGym: A New Framework and Benchmark for Advancing AI Research Agents**|Deepak Nathani et.al.|[2502.14499](http://arxiv.org/abs/2502.14499)|null|
-|**2025-02-20**|**Enhancing Language Multi-Agent Learning with Multi-Agent Credit Re-Assignment for Interactive Environment Generalization**|Zhitao He et.al.|[2502.14496](http://arxiv.org/abs/2502.14496)|**[link](https://github.com/THUNLP-MT/CollabUIAgents)**|
+|**2025-02-20**|**Enhancing Language Multi-Agent Learning with Multi-Agent Credit Re-Assignment for Interactive Environment Generalization**|Zhitao He et.al.|[2502.14496](http://arxiv.org/abs/2502.14496)|null|
 |**2025-02-20**|**Evaluating Precise Geolocation Inference Capabilities of Vision Language Models**|Neel Jay et.al.|[2502.14412](http://arxiv.org/abs/2502.14412)|**[link](https://github.com/njspyx/location-inference)**|
 |**2025-02-20**|**Asymptotic Existence of Class Envy-free Matchings**|Tomohiko Yokoyama et.al.|[2502.14371](http://arxiv.org/abs/2502.14371)|null|
 |**2025-02-20**|**PPO-MI: Efficient Black-Box Model Inversion via Proximal Policy Optimization**|Xinpeng Shou et.al.|[2502.14370](http://arxiv.org/abs/2502.14370)|null|
@@ -4745,7 +4745,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
