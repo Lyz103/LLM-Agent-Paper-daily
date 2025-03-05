@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -202,7 +202,7 @@ layout: default
 |**2025-02-24**|**Hierarchical Imitation Learning of Team Behavior from Heterogeneous Demonstrations**|Sangwon Seo et.al.|[2502.17618](http://arxiv.org/abs/2502.17618)|null|
 |**2025-02-26**|**Learning Decentralized Swarms Using Rotation Equivariant Graph Neural Networks**|Taos Transue et.al.|[2502.17612](http://arxiv.org/abs/2502.17612)|null|
 |**2025-02-24**|**Gaussian Process-Based Scalar Field Estimation in GPS-Denied Environments**|Muzaffar Qureshi et.al.|[2502.17584](http://arxiv.org/abs/2502.17584)|null|
-|**2025-02-24**|**Training a Generally Curious Agent**|Fahim Tajwar et.al.|[2502.17543](http://arxiv.org/abs/2502.17543)|null|
+|**2025-02-24**|**Training a Generally Curious Agent**|Fahim Tajwar et.al.|[2502.17543](http://arxiv.org/abs/2502.17543)|**[link](https://github.com/tajwarfahim/paprika)**|
 |**2025-02-22**|**RAG-Enhanced Collaborative LLM Agents for Drug Discovery**|Namkyeong Lee et.al.|[2502.17506](http://arxiv.org/abs/2502.17506)|null|
 |**2025-02-24**|**Event-Based Limit Order Book Simulation under a Neural Hawkes Process: Application in Market-Making**|Luca Lalor et.al.|[2502.17417](http://arxiv.org/abs/2502.17417)|null|
 |**2025-02-24**|**Distributed Coordination for Heterogeneous Non-Terrestrial Networks**|Jikang Deng et.al.|[2502.17366](http://arxiv.org/abs/2502.17366)|null|
