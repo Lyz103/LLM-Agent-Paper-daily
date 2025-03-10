@@ -14,6 +14,46 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695](http://arxiv.org/abs/2503.05695)|null|
+|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
+|**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641](http://arxiv.org/abs/2503.05641)|null|
+|**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[2503.05573](http://arxiv.org/abs/2503.05573)|null|
+|**2025-03-07**|**Tractable Representations for Convergent Approximation of Distributional HJB Equations**|Julie Alhosh et.al.|[2503.05563](http://arxiv.org/abs/2503.05563)|null|
+|**2025-03-07**|**ALMAGAL I. The ALMA evolutionary study of high-mass protocluster formation in the Galaxy. Presentation of the survey and early results**|S. Molinari et.al.|[2503.05555](http://arxiv.org/abs/2503.05555)|null|
+|**2025-03-07**|**Impoola: The Power of Average Pooling for Image-Based Deep Reinforcement Learning**|Raphael Trumpp et.al.|[2503.05546](http://arxiv.org/abs/2503.05546)|null|
+|**2025-03-07**|**The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms to Unlock the Potential of Collective Intelligence**|Noah Mamie et.al.|[2503.05473](http://arxiv.org/abs/2503.05473)|null|
+|**2025-03-07**|**Game Theory in Formula 1: Multi-agent Physical and Strategical Interactions**|Giona Fienia et.al.|[2503.05421](http://arxiv.org/abs/2503.05421)|null|
+|**2025-03-07**|**First-passage-time statistics of active Brownian particles: A perturbative approach**|Yanis Baouche et.al.|[2503.05401](http://arxiv.org/abs/2503.05401)|null|
+|**2025-03-07**|**Multi Agent based Medical Assistant for Edge Devices**|Sakharam Gawade et.al.|[2503.05397](http://arxiv.org/abs/2503.05397)|null|
+|**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
+|**2025-03-07**|**GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation**|Zhenxuan Zhang et.al.|[2503.05347](http://arxiv.org/abs/2503.05347)|null|
+|**2025-03-07**|**Attenuation artifact detection and severity classification in intracoronary OCT using mixed image representations**|Pierandrea Cancian et.al.|[2503.05322](http://arxiv.org/abs/2503.05322)|null|
+|**2025-03-07**|**Deciphering the dual chemotaxis strategy of bacteria in porous media**|Sönke Beier et.al.|[2503.05286](http://arxiv.org/abs/2503.05286)|null|
+|**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274](http://arxiv.org/abs/2503.05274)|null|
+|**2025-03-07**|**Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration**|Chengqi Zheng et.al.|[2503.05246](http://arxiv.org/abs/2503.05246)|null|
+|**2025-03-07**|**MM-StoryAgent: Immersive Narrated Storybook Video Generation with a Multi-Agent Paradigm across Text, Image and Audio**|Xuenan Xu et.al.|[2503.05242](http://arxiv.org/abs/2503.05242)|null|
+|**2025-03-07**|**Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation**|Mohit Prashant et.al.|[2503.05238](http://arxiv.org/abs/2503.05238)|null|
+|**2025-03-07**|**ORANSight-2.0: Foundational LLMs for O-RAN**|Pranshav Gajjar et.al.|[2503.05200](http://arxiv.org/abs/2503.05200)|null|
+|**2025-03-07**|**A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**|Shanhe You et.al.|[2503.05164](http://arxiv.org/abs/2503.05164)|null|
+|**2025-03-07**|**Generative Trajectory Stitching through Diffusion Composition**|Yunhao Luo et.al.|[2503.05153](http://arxiv.org/abs/2503.05153)|null|
+|**2025-03-07**|**Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History**|Bowen Wu et.al.|[2503.05150](http://arxiv.org/abs/2503.05150)|null|
+|**2025-03-07**|**Unity RL Playground: A Versatile Reinforcement Learning Framework for Mobile Robots**|Linqi Ye et.al.|[2503.05146](http://arxiv.org/abs/2503.05146)|null|
+|**2025-03-07**|**FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data**|Wenhao Wang et.al.|[2503.05143](http://arxiv.org/abs/2503.05143)|null|
+|**2025-03-07**|**Multi-Task Reinforcement Learning Enables Parameter Scaling**|Reginald McLean et.al.|[2503.05126](http://arxiv.org/abs/2503.05126)|null|
+|**2025-03-07**|**Multi-Robot Collaboration through Reinforcement Learning and Abstract Simulation**|Adam Labiosa et.al.|[2503.05092](http://arxiv.org/abs/2503.05092)|null|
+|**2025-03-06**|**Addressing the Subsumption Thesis: A Formal Bridge between Microeconomics and Active Inference**|Noe Kuhn et.al.|[2503.05048](http://arxiv.org/abs/2503.05048)|null|
+|**2025-03-06**|**Bridging the AI Adoption Gap: Designing an Interactive Pedagogical Agent for Higher Education Instructors**|Si Chen et.al.|[2503.05039](http://arxiv.org/abs/2503.05039)|null|
+|**2025-03-06**|**Value of Information in Social Learning**|Hiroto Sato et.al.|[2503.05015](http://arxiv.org/abs/2503.05015)|null|
+|**2025-03-06**|**Multi-Agent Ergodic Exploration under Smoke-Based, Time-Varying Sensor Visibility Constraints**|Elena Wittemyer et.al.|[2503.04998](http://arxiv.org/abs/2503.04998)|null|
+|**2025-03-06**|**SafeArena: Evaluating the Safety of Autonomous Web Agents**|Ada Defne Tur et.al.|[2503.04957](http://arxiv.org/abs/2503.04957)|null|
+|**2025-03-06**|**Security-Aware Sensor Fusion with MATE: the Multi-Agent Trust Estimator**|R. Spencer Hallyburton et.al.|[2503.04954](http://arxiv.org/abs/2503.04954)|null|
+|**2025-03-06**|**INTENT: Trajectory Prediction Framework with Intention-Guided Contrastive Clustering**|Yihong Tang et.al.|[2503.04952](http://arxiv.org/abs/2503.04952)|null|
+|**2025-03-06**|**VQEL: Enabling Self-Developed Symbolic Language in Agents through Vector Quantization in Emergent Language Games**|Mohammad Mahdi Samiei Paqaleh et.al.|[2503.04940](http://arxiv.org/abs/2503.04940)|null|
+|**2025-03-06**|**Curiosity-Driven Imagination: Discovering Plan Operators and Learning Associated Policies for Open-World Adaptation**|Pierrick Lorang et.al.|[2503.04931](http://arxiv.org/abs/2503.04931)|null|
+|**2025-03-05**|**Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents**|Jingying Zeng et.al.|[2503.04830](http://arxiv.org/abs/2503.04830)|null|
+|**2025-03-05**|**Preserving Cultural Identity with Context-Aware Translation Through Multi-Agent AI Systems**|Mahfuz Ahmed Anik et.al.|[2503.04827](http://arxiv.org/abs/2503.04827)|**[link](https://github.com/ciol-researchlab/Context-Aware_Translation_MAS)**|
+|**2025-03-04**|**Multi-Agent System for AI-Assisted Extraction of Narrative Arcs in TV Series**|Roberto Balestri et.al.|[2503.04817](http://arxiv.org/abs/2503.04817)|null|
+|**2025-03-03**|**Advancing MAPF towards the Real World: A Scalable Multi-Agent Realistic Testbed (SMART)**|Jingtian Yan et.al.|[2503.04798](http://arxiv.org/abs/2503.04798)|null|
 |**2025-03-06**|**The Influence of Prior Discourse on Conversational Agent-Driven Decision-Making**|Stephen Pilli et.al.|[2503.04692](http://arxiv.org/abs/2503.04692)|null|
 |**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
 |**2025-03-06**|**Multi-Agent Inverse Q-Learning from Demonstrations**|Nathaniel Haynam et.al.|[2503.04679](http://arxiv.org/abs/2503.04679)|null|
