@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -115,7 +115,7 @@
 |**2025-03-07**|**Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History**|Bowen Wu et.al.|[2503.05150](http://arxiv.org/abs/2503.05150)|null|
 |**2025-03-07**|**Unity RL Playground: A Versatile Reinforcement Learning Framework for Mobile Robots**|Linqi Ye et.al.|[2503.05146](http://arxiv.org/abs/2503.05146)|null|
 |**2025-03-07**|**FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data**|Wenhao Wang et.al.|[2503.05143](http://arxiv.org/abs/2503.05143)|null|
-|**2025-03-07**|**Multi-Task Reinforcement Learning Enables Parameter Scaling**|Reginald McLean et.al.|[2503.05126](http://arxiv.org/abs/2503.05126)|null|
+|**2025-03-10**|**Multi-Task Reinforcement Learning Enables Parameter Scaling**|Reginald McLean et.al.|[2503.05126](http://arxiv.org/abs/2503.05126)|null|
 |**2025-03-07**|**Multi-Robot Collaboration through Reinforcement Learning and Abstract Simulation**|Adam Labiosa et.al.|[2503.05092](http://arxiv.org/abs/2503.05092)|null|
 |**2025-03-06**|**Addressing the Subsumption Thesis: A Formal Bridge between Microeconomics and Active Inference**|Noe Kuhn et.al.|[2503.05048](http://arxiv.org/abs/2503.05048)|null|
 |**2025-03-06**|**Bridging the AI Adoption Gap: Designing an Interactive Pedagogical Agent for Higher Education Instructors**|Si Chen et.al.|[2503.05039](http://arxiv.org/abs/2503.05039)|null|
@@ -5246,7 +5246,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

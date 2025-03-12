@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -112,7 +112,7 @@ layout: default
 |**2025-03-07**|**Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History**|Bowen Wu et.al.|[2503.05150](http://arxiv.org/abs/2503.05150)|null|
 |**2025-03-07**|**Unity RL Playground: A Versatile Reinforcement Learning Framework for Mobile Robots**|Linqi Ye et.al.|[2503.05146](http://arxiv.org/abs/2503.05146)|null|
 |**2025-03-07**|**FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data**|Wenhao Wang et.al.|[2503.05143](http://arxiv.org/abs/2503.05143)|null|
-|**2025-03-07**|**Multi-Task Reinforcement Learning Enables Parameter Scaling**|Reginald McLean et.al.|[2503.05126](http://arxiv.org/abs/2503.05126)|null|
+|**2025-03-10**|**Multi-Task Reinforcement Learning Enables Parameter Scaling**|Reginald McLean et.al.|[2503.05126](http://arxiv.org/abs/2503.05126)|null|
 |**2025-03-07**|**Multi-Robot Collaboration through Reinforcement Learning and Abstract Simulation**|Adam Labiosa et.al.|[2503.05092](http://arxiv.org/abs/2503.05092)|null|
 |**2025-03-06**|**Addressing the Subsumption Thesis: A Formal Bridge between Microeconomics and Active Inference**|Noe Kuhn et.al.|[2503.05048](http://arxiv.org/abs/2503.05048)|null|
 |**2025-03-06**|**Bridging the AI Adoption Gap: Designing an Interactive Pedagogical Agent for Higher Education Instructors**|Si Chen et.al.|[2503.05039](http://arxiv.org/abs/2503.05039)|null|
