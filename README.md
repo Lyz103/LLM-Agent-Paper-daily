@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-03-11**|**Hierarchical Multi Agent DRL for Soft Handovers Between Edge Clouds in Open RAN**|F. Giarrè et.al.|[2503.08493](http://arxiv.org/abs/2503.08493)|null|
 |**2025-03-11**|**Hybrid Deep Reinforcement Learning for Radio Tracer Localisation in Robotic-assisted Radioguided Surgery**|Hanyi Zhang et.al.|[2503.08492](http://arxiv.org/abs/2503.08492)|null|
 |**2025-03-11**|**Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding**|Tim Steinke et.al.|[2503.08474](http://arxiv.org/abs/2503.08474)|null|
-|**2025-03-11**|**An autonomous rl agent methodology for dynamic Web ui testing in a bdd framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
+|**2025-03-12**|**An Autonomous RL Agent Methodology for Dynamic Web UI Testing in a BDD Framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
 |**2025-03-11**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|null|
 |**2025-03-11**|**InfluenceNet: AI Models for Banzhaf and Shapley Value Prediction**|Benjamin Kempinski et.al.|[2503.08381](http://arxiv.org/abs/2503.08381)|null|
 |**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
@@ -42,11 +42,11 @@
 |**2025-03-11**|**FilmComposer: LLM-Driven Music Production for Silent Film Clips**|Zhifeng Xie et.al.|[2503.08147](http://arxiv.org/abs/2503.08147)|null|
 |**2025-03-11**|**LLM4MAC: An LLM-Driven Reinforcement Learning Framework for MAC Protocol Emergence**|Renxuan Tan et.al.|[2503.08123](http://arxiv.org/abs/2503.08123)|null|
 |**2025-03-11**|**Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments**|Soonwoo Kwon et.al.|[2503.08122](http://arxiv.org/abs/2503.08122)|null|
-|**2025-03-11**|**AI-native Memory 2.0: Second Me**|Jiale Wei et.al.|[2503.08102](http://arxiv.org/abs/2503.08102)|null|
+|**2025-03-12**|**AI-native Memory 2.0: Second Me**|Jiale Wei et.al.|[2503.08102](http://arxiv.org/abs/2503.08102)|null|
 |**2025-03-11**|**ForceGrip: Data-Free Curriculum Learning for Realistic Grip Force Control in VR Hand Manipulation**|DongHeun Han et.al.|[2503.08061](http://arxiv.org/abs/2503.08061)|null|
 |**2025-03-11**|**In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents**|Zhen Tan et.al.|[2503.08026](http://arxiv.org/abs/2503.08026)|null|
 |**2025-03-11**|**A Three-Dimensional Pursuit-Evasion Game Based on Fuzzy Actor-Critic Learning Algorithm**|Penglin Hu et.al.|[2503.08013](http://arxiv.org/abs/2503.08013)|null|
-|**2025-03-11**|**SQLCritic: Correcting Text-to-SQL Generation via Clause-wise Critic**|Jikai Chen et.al.|[2503.07996](http://arxiv.org/abs/2503.07996)|null|
+|**2025-03-12**|**SQLCritic: Correcting Text-to-SQL Generation via Clause-wise Critic**|Jikai Chen et.al.|[2503.07996](http://arxiv.org/abs/2503.07996)|null|
 |**2025-03-11**|**Provable Zero-Shot Generalization in Offline Reinforcement Learning**|Zhiyong Wang et.al.|[2503.07988](http://arxiv.org/abs/2503.07988)|null|
 |**2025-03-11**|**Decentralized Integration of Grid Edge Resources into Wholesale Electricity Markets via Mean-field Games**|Chen Feng et.al.|[2503.07984](http://arxiv.org/abs/2503.07984)|null|
 |**2025-03-10**|**Identification and Removal of System-Induced Autofluorescence in Miniaturized Fiber-optic Fluorescence Endoscopes**|Lei Xiang et.al.|[2503.07921](http://arxiv.org/abs/2503.07921)|null|
@@ -146,7 +146,7 @@
 |**2025-03-05**|**Market-based Architectures in RL and Beyond**|Abhimanyu Pallavi Sudhir et.al.|[2503.05828](http://arxiv.org/abs/2503.05828)|null|
 |**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695](http://arxiv.org/abs/2503.05695)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
-|**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641](http://arxiv.org/abs/2503.05641)|null|
+|**2025-03-11**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641](http://arxiv.org/abs/2503.05641)|null|
 |**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[2503.05573](http://arxiv.org/abs/2503.05573)|null|
 |**2025-03-07**|**Tractable Representations for Convergent Approximation of Distributional HJB Equations**|Julie Alhosh et.al.|[2503.05563](http://arxiv.org/abs/2503.05563)|null|
 |**2025-03-07**|**ALMAGAL I. The ALMA evolutionary study of high-mass protocluster formation in the Galaxy. Presentation of the survey and early results**|S. Molinari et.al.|[2503.05555](http://arxiv.org/abs/2503.05555)|null|
@@ -5300,7 +5300,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
