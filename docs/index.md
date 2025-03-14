@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -17,7 +17,7 @@ layout: default
 |**2025-03-12**|**Auspex: Building Threat Modeling Tradecraft into an Artificial Intelligence-based Copilot**|Andrew Crossman et.al.|[2503.09586](http://arxiv.org/abs/2503.09586)|null|
 |**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572](http://arxiv.org/abs/2503.09572)|null|
 |**2025-03-12**|**The turnpike control in stochastic multi-agent dynamics: a discrete-time approach with exponential integrators**|Fabio Cassini et.al.|[2503.09549](http://arxiv.org/abs/2503.09549)|null|
-|**2025-03-12**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533](http://arxiv.org/abs/2503.09533)|null|
+|**2025-03-13**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533](http://arxiv.org/abs/2503.09533)|null|
 |**2025-03-12**|**PairVDN - Pair-wise Decomposed Value Functions**|Zak Buzzard et.al.|[2503.09521](http://arxiv.org/abs/2503.09521)|null|
 |**2025-03-12**|**RESTRAIN: Reinforcement Learning-Based Secure Framework for Trigger-Action IoT Environment**|Md Morshed Alam et.al.|[2503.09513](http://arxiv.org/abs/2503.09513)|null|
 |**2025-03-12**|**TRACE: Real-Time Multimodal Common Ground Tracking in Situated Collaborative Dialogues**|Hannah VanderHoeven et.al.|[2503.09511](http://arxiv.org/abs/2503.09511)|null|
@@ -28,11 +28,11 @@ layout: default
 |**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
 |**2025-03-12**|**Multi-Agent Image Restoration**|Xu Jiang et.al.|[2503.09403](http://arxiv.org/abs/2503.09403)|null|
 |**2025-03-12**|**Networked Communication for Decentralised Cooperative Agents in Mean-Field Control**|Patrick Benjamin et.al.|[2503.09400](http://arxiv.org/abs/2503.09400)|null|
-|**2025-03-12**|**PCLA: A Framework for Testing Autonomous Agents in the CARLA Simulator**|Masoud Jamshidiyan Tehrani et.al.|[2503.09385](http://arxiv.org/abs/2503.09385)|null|
-|**2025-03-12**|**Faithful and Privacy-Preserving Implementation of Average Consensus**|Kaoru Teranishi et.al.|[2503.09381](http://arxiv.org/abs/2503.09381)|null|
+|**2025-03-13**|**PCLA: A Framework for Testing Autonomous Agents in the CARLA Simulator**|Masoud Jamshidiyan Tehrani et.al.|[2503.09385](http://arxiv.org/abs/2503.09385)|null|
+|**2025-03-13**|**Faithful and Privacy-Preserving Implementation of Average Consensus**|Kaoru Teranishi et.al.|[2503.09381](http://arxiv.org/abs/2503.09381)|null|
 |**2025-03-12**|**Task Allocation for Multi-agent Systems via Unequal-dimensional Optimal Transport**|Anqi Dong et.al.|[2503.09369](http://arxiv.org/abs/2503.09369)|null|
 |**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366](http://arxiv.org/abs/2503.09366)|null|
-|**2025-03-12**|**2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos**|Marvin Heidinger et.al.|[2503.09320](http://arxiv.org/abs/2503.09320)|null|
+|**2025-03-13**|**2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos**|Marvin Heidinger et.al.|[2503.09320](http://arxiv.org/abs/2503.09320)|null|
 |**2025-03-12**|**Steering No-Regret Agents in MFGs under Model Uncertainty**|Leo Widmer et.al.|[2503.09309](http://arxiv.org/abs/2503.09309)|null|
 |**2025-03-12**|**COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation**|Di Zhao et.al.|[2503.09263](http://arxiv.org/abs/2503.09263)|null|
 |**2025-03-12**|**Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning**|Qiang Li et.al.|[2503.09252](http://arxiv.org/abs/2503.09252)|null|
@@ -69,11 +69,11 @@ layout: default
 |**2025-03-11**|**Hybrid Deep Reinforcement Learning for Radio Tracer Localisation in Robotic-assisted Radioguided Surgery**|Hanyi Zhang et.al.|[2503.08492](http://arxiv.org/abs/2503.08492)|null|
 |**2025-03-11**|**Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding**|Tim Steinke et.al.|[2503.08474](http://arxiv.org/abs/2503.08474)|null|
 |**2025-03-12**|**An Autonomous RL Agent Methodology for Dynamic Web UI Testing in a BDD Framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
-|**2025-03-11**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|null|
+|**2025-03-13**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|null|
 |**2025-03-11**|**InfluenceNet: AI Models for Banzhaf and Shapley Value Prediction**|Benjamin Kempinski et.al.|[2503.08381](http://arxiv.org/abs/2503.08381)|null|
 |**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
 |**2025-03-11**|**Seeing and Reasoning with Confidence: Supercharging Multimodal LLMs with an Uncertainty-Aware Agentic Framework**|Zhuo Zhi et.al.|[2503.08308](http://arxiv.org/abs/2503.08308)|null|
-|**2025-03-11**|**Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach**|Steeven Janny et.al.|[2503.08306](http://arxiv.org/abs/2503.08306)|null|
+|**2025-03-12**|**Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach**|Steeven Janny et.al.|[2503.08306](http://arxiv.org/abs/2503.08306)|null|
 |**2025-03-11**|**General-Purpose Aerial Intelligent Agents Empowered by Large Language Models**|Ji Zhao et.al.|[2503.08302](http://arxiv.org/abs/2503.08302)|null|
 |**2025-03-11**|**Liquidity Competition Between Brokers and an Informed Trader**|Ryan Donnelly et.al.|[2503.08287](http://arxiv.org/abs/2503.08287)|null|
 |**2025-03-11**|**Beyond Outlining: Heterogeneous Recursive Planning for Adaptive Long-form Writing with Language Models**|Ruibin Xiong et.al.|[2503.08275](http://arxiv.org/abs/2503.08275)|null|
@@ -85,7 +85,7 @@ layout: default
 |**2025-03-11**|**LLM4MAC: An LLM-Driven Reinforcement Learning Framework for MAC Protocol Emergence**|Renxuan Tan et.al.|[2503.08123](http://arxiv.org/abs/2503.08123)|null|
 |**2025-03-11**|**Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments**|Soonwoo Kwon et.al.|[2503.08122](http://arxiv.org/abs/2503.08122)|null|
 |**2025-03-12**|**AI-native Memory 2.0: Second Me**|Jiale Wei et.al.|[2503.08102](http://arxiv.org/abs/2503.08102)|null|
-|**2025-03-11**|**ForceGrip: Data-Free Curriculum Learning for Realistic Grip Force Control in VR Hand Manipulation**|DongHeun Han et.al.|[2503.08061](http://arxiv.org/abs/2503.08061)|null|
+|**2025-03-13**|**ForceGrip: Data-Free Curriculum Learning for Realistic Grip Force Control in VR Hand Manipulation**|DongHeun Han et.al.|[2503.08061](http://arxiv.org/abs/2503.08061)|null|
 |**2025-03-11**|**In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents**|Zhen Tan et.al.|[2503.08026](http://arxiv.org/abs/2503.08026)|null|
 |**2025-03-11**|**A Three-Dimensional Pursuit-Evasion Game Based on Fuzzy Actor-Critic Learning Algorithm**|Penglin Hu et.al.|[2503.08013](http://arxiv.org/abs/2503.08013)|null|
 |**2025-03-12**|**SQLCritic: Correcting Text-to-SQL Generation via Clause-wise Critic**|Jikai Chen et.al.|[2503.07996](http://arxiv.org/abs/2503.07996)|null|
@@ -110,7 +110,7 @@ layout: default
 |**2025-03-08**|**HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2503.07662](http://arxiv.org/abs/2503.07662)|null|
 |**2025-03-07**|**DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving**|Xiaosong Jia et.al.|[2503.07656](http://arxiv.org/abs/2503.07656)|null|
 |**2025-03-06**|**A Case Study of Counting the Number of Unique Users in Linear and Non-Linear Trails -- A Multi-Agent System Approach**|Tanvir Rahman et.al.|[2503.07651](http://arxiv.org/abs/2503.07651)|null|
-|**2025-03-10**|**Design as Hope: Reimagining Futures for Seemingly Doomed Problems**|JaeWon Kim et.al.|[2503.07586](http://arxiv.org/abs/2503.07586)|null|
+|**2025-03-13**|**Design as Hope: Reimagining Futures for Seemingly Doomed Problems**|JaeWon Kim et.al.|[2503.07586](http://arxiv.org/abs/2503.07586)|null|
 |**2025-03-10**|**Bi-Directional Mental Model Reconciliation for Human-Robot Interaction with Large Language Models**|Nina Moorman et.al.|[2503.07547](http://arxiv.org/abs/2503.07547)|null|
 |**2025-03-10**|**Think Before You Segment: High-Quality Reasoning Segmentation with GPT Chain of Thoughts**|Shiu-hong Kao et.al.|[2503.07503](http://arxiv.org/abs/2503.07503)|null|
 |**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/abs/2503.07459)|null|
@@ -194,7 +194,7 @@ layout: default
 |**2025-03-07**|**ALMAGAL I. The ALMA evolutionary study of high-mass protocluster formation in the Galaxy. Presentation of the survey and early results**|S. Molinari et.al.|[2503.05555](http://arxiv.org/abs/2503.05555)|null|
 |**2025-03-07**|**Impoola: The Power of Average Pooling for Image-Based Deep Reinforcement Learning**|Raphael Trumpp et.al.|[2503.05546](http://arxiv.org/abs/2503.05546)|null|
 |**2025-03-07**|**The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms to Unlock the Potential of Collective Intelligence**|Noah Mamie et.al.|[2503.05473](http://arxiv.org/abs/2503.05473)|null|
-|**2025-03-07**|**Game Theory in Formula 1: Multi-agent Physical and Strategical Interactions**|Giona Fienia et.al.|[2503.05421](http://arxiv.org/abs/2503.05421)|null|
+|**2025-03-13**|**Game Theory in Formula 1: Multi-agent Physical and Strategical Interactions**|Giona Fieni et.al.|[2503.05421](http://arxiv.org/abs/2503.05421)|null|
 |**2025-03-07**|**First-passage-time statistics of active Brownian particles: A perturbative approach**|Yanis Baouche et.al.|[2503.05401](http://arxiv.org/abs/2503.05401)|null|
 |**2025-03-07**|**Multi Agent based Medical Assistant for Edge Devices**|Sakharam Gawade et.al.|[2503.05397](http://arxiv.org/abs/2503.05397)|null|
 |**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
