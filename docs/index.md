@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -41,7 +41,7 @@ layout: default
 |**2025-03-17**|**Practical Abstractions for Model Checking Continuous-Time Multi-Agent Systems**|Yan Kim et.al.|[2503.12976](http://arxiv.org/abs/2503.12976)|null|
 |**2025-03-17**|**HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**|Jiahe Zhao et.al.|[2503.12955](http://arxiv.org/abs/2503.12955)|null|
 |**2025-03-17**|**Time-Varying Distributed Optimization for A Class of Stochastic Multi-Agent Systems**|Wan-ying Li et.al.|[2503.12934](http://arxiv.org/abs/2503.12934)|null|
-|**2025-03-17**|**A Reference Architecture for Autonomous Networks An Agent-Based Approach**|Joseph Sifakis et.al.|[2503.12871](http://arxiv.org/abs/2503.12871)|null|
+|**2025-03-18**|**A Reference Architecture for Autonomous Networks: An Agent-Based Approach**|Joseph Sifakis et.al.|[2503.12871](http://arxiv.org/abs/2503.12871)|null|
 |**2025-03-17**|**Versatile Physics-based Character Control with Hybrid Latent Representation**|Jinseok Bae et.al.|[2503.12814](http://arxiv.org/abs/2503.12814)|null|
 |**2025-03-17**|**ViSpeak: Visual Instruction Feedback in Streaming Videos**|Shenghao Fu et.al.|[2503.12769](http://arxiv.org/abs/2503.12769)|null|
 |**2025-03-17**|**VasTSD: Learning 3D Vascular Tree-state Space Diffusion Model for Angiography Synthesis**|Zhifeng Wang et.al.|[2503.12758](http://arxiv.org/abs/2503.12758)|null|
@@ -63,8 +63,8 @@ layout: default
 |**2025-03-16**|**Iterative Motion Planning in Multi-agent Systems with Opportunistic Communication under Disturbance**|Neelanga Thelasingha et.al.|[2503.12457](http://arxiv.org/abs/2503.12457)|null|
 |**2025-03-16**|**A Survey on the Optimization of Large Language Model-based Agents**|Shangheng Du et.al.|[2503.12434](http://arxiv.org/abs/2503.12434)|null|
 |**2025-03-16**|**Unveiling Pitfalls: Understanding Why AI-driven Code Agents Fail at GitHub Issue Resolution**|Zhi Chen et.al.|[2503.12374](http://arxiv.org/abs/2503.12374)|null|
-|**2025-03-16**|**IPCGRL: Language-Instructed Reinforcement Learning for Procedural Level Generation**|In-Chang Baek et.al.|[2503.12358](http://arxiv.org/abs/2503.12358)|null|
-|**2025-03-16**|**SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?**|Jianzhu Yao et.al.|[2503.12349](http://arxiv.org/abs/2503.12349)|null|
+|**2025-03-18**|**IPCGRL: Language-Instructed Reinforcement Learning for Procedural Level Generation**|In-Chang Baek et.al.|[2503.12358](http://arxiv.org/abs/2503.12358)|null|
+|**2025-03-18**|**SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?**|Jianzhu Yao et.al.|[2503.12349](http://arxiv.org/abs/2503.12349)|null|
 |**2025-03-16**|**GameChat: Multi-LLM Dialogue for Safe, Agile, and Socially Optimal Multi-Agent Navigation in Constrained Environments**|Vagul Mahadevan et.al.|[2503.12333](http://arxiv.org/abs/2503.12333)|null|
 |**2025-03-15**|**Agentic Search Engine for Real-Time IoT Data**|Abdelrahman Elewah et.al.|[2503.12255](http://arxiv.org/abs/2503.12255)|null|
 |**2025-03-15**|**Evaluation-Time Policy Switching for Offline Reinforcement Learning**|Natinael Solomon Neggatu et.al.|[2503.12222](http://arxiv.org/abs/2503.12222)|null|
@@ -81,7 +81,7 @@ layout: default
 |**2025-03-15**|**Safety for Time-Varying Parameterized Sets Using Control Barrier Function Methods**|James Usevitch et.al.|[2503.12003](http://arxiv.org/abs/2503.12003)|null|
 |**2025-03-15**|**Automation and Feature Selection Enhancement with Reinforcement Learning (RL)**|Sumana Sanyasipura Nagaraju et.al.|[2503.11991](http://arxiv.org/abs/2503.11991)|null|
 |**2025-03-15**|**SPOC: Spatially-Progressing Object State Change Segmentation in Video**|Priyanka Mandikal et.al.|[2503.11953](http://arxiv.org/abs/2503.11953)|null|
-|**2025-03-15**|**SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning**|Edward Y. Chang et.al.|[2503.11951](http://arxiv.org/abs/2503.11951)|null|
+|**2025-03-18**|**SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning**|Edward Y. Chang et.al.|[2503.11951](http://arxiv.org/abs/2503.11951)|null|
 |**2025-03-15**|**End-to-End Edge AI Service Provisioning Framework in 6G ORAN**|Yun Tang et.al.|[2503.11933](http://arxiv.org/abs/2503.11933)|null|
 |**2025-03-14**|**Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation**|Bowen Baker et.al.|[2503.11926](http://arxiv.org/abs/2503.11926)|null|
 |**2025-03-14**|**Counterfactual Realizability**|Arvind Raghavan et.al.|[2503.11870](http://arxiv.org/abs/2503.11870)|null|
@@ -136,7 +136,7 @@ layout: default
 |**2025-03-12**|**Zero-Shot Subject-Centric Generation for Creative Application Using Entropy Fusion**|Kaifeng Zou et.al.|[2503.10697](http://arxiv.org/abs/2503.10697)|null|
 |**2025-03-12**|**Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents**|Dongjun Lee et.al.|[2503.10689](http://arxiv.org/abs/2503.10689)|null|
 |**2025-03-11**|**Open-World Skill Discovery from Unsegmented Demonstrations**|Jingwen Deng et.al.|[2503.10684](http://arxiv.org/abs/2503.10684)|null|
-|**2025-03-16**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
+|**2025-03-18**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630](http://arxiv.org/abs/2503.10630)|null|
 |**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628](http://arxiv.org/abs/2503.10628)|null|
 |**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
 |**2025-03-13**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596](http://arxiv.org/abs/2503.10596)|**[link](https://github.com/hustvl/groundingsuite)**|
@@ -183,7 +183,7 @@ layout: default
 |**2025-03-12**|**Multi-Agent LLM Actor-Critic Framework for Social Robot Navigation**|Weizheng Wang et.al.|[2503.09758](http://arxiv.org/abs/2503.09758)|null|
 |**2025-03-12**|**Distributionally Robust Multi-Agent Reinforcement Learning for Dynamic Chute Mapping**|Guangyi Liu et.al.|[2503.09755](http://arxiv.org/abs/2503.09755)|null|
 |**2025-03-12**|**Towards Causal Model-Based Policy Optimization**|Alberto Caron et.al.|[2503.09719](http://arxiv.org/abs/2503.09719)|null|
-|**2025-03-12**|**A Survey on Trustworthy LLM Agents: Threats and Countermeasures**|Miao Yu et.al.|[2503.09648](http://arxiv.org/abs/2503.09648)|null|
+|**2025-03-12**|**A Survey on Trustworthy LLM Agents: Threats and Countermeasures**|Miao Yu et.al.|[2503.09648](http://arxiv.org/abs/2503.09648)|**[link](https://github.com/Ymm-cll/TrustAgent)**|
 |**2025-03-12**|**Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy**|Abe Bohan Hou et.al.|[2503.09639](http://arxiv.org/abs/2503.09639)|null|
 |**2025-03-09**|**Adaptive Deadlock Avoidance for Decentralized Multi-agent Systems via CBF-inspired Risk Measurement**|Yanze Zhang et.al.|[2503.09621](http://arxiv.org/abs/2503.09621)|null|
 |**2025-03-12**|**Auspex: Building Threat Modeling Tradecraft into an Artificial Intelligence-based Copilot**|Andrew Crossman et.al.|[2503.09586](http://arxiv.org/abs/2503.09586)|null|
