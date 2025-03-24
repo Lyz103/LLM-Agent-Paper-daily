@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,15 +31,15 @@
 |**2025-03-20**|**Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**|Mats Faulborn et.al.|[2503.16148](http://arxiv.org/abs/2503.16148)|null|
 |**2025-03-20**|**Distributed Learning over Arbitrary Topology: Linear Speed-Up with Polynomial Transient Time**|Runze You et.al.|[2503.16123](http://arxiv.org/abs/2503.16123)|null|
 |**2025-03-20**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Bisola Faith Kayode et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
-|**2025-03-20**|**How much should we care about what others know? Jump signals in optimal investment under relative performance concerns**|Peter Bank et.al.|[2503.16039](http://arxiv.org/abs/2503.16039)|null|
+|**2025-03-21**|**How much should we care about what others know? Jump signals in optimal investment under relative performance concerns**|Peter Bank et.al.|[2503.16039](http://arxiv.org/abs/2503.16039)|null|
 |**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032](http://arxiv.org/abs/2503.16032)|null|
 |**2025-03-20**|**The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement**|Ruihan Yang et.al.|[2503.16024](http://arxiv.org/abs/2503.16024)|null|
-|**2025-03-20**|**Autonomous AI imitators increase diversity in homogeneous information ecosystems**|Emil Bakkensen Johansen et.al.|[2503.16021](http://arxiv.org/abs/2503.16021)|null|
+|**2025-03-21**|**Autonomous AI imitators increase diversity in homogeneous information ecosystems**|Emil Bakkensen Johansen et.al.|[2503.16021](http://arxiv.org/abs/2503.16021)|null|
 |**2025-03-20**|**The Algorithmic Landscape of Fair and Efficient Distribution of Delivery Orders in the Gig Economy**|Hadi Hosseini et.al.|[2503.16002](http://arxiv.org/abs/2503.16002)|null|
 |**2025-03-20**|**Information maximization for a broad variety of multi-armed bandit games**|Alex Barbier-Chebbah et.al.|[2503.15962](http://arxiv.org/abs/2503.15962)|null|
 |**2025-03-20**|**Consensus Tracking Control of Multi-agent Systems with A Time-varying Reference State under Binary-valued Communication**|Ting Wang et.al.|[2503.15955](http://arxiv.org/abs/2503.15955)|null|
 |**2025-03-20**|**Unreal-MAP: Unreal-Engine-Based General Platform for Multi-Agent Reinforcement Learning**|Tianyi Hu et.al.|[2503.15947](http://arxiv.org/abs/2503.15947)|null|
-|**2025-03-20**|**Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment**|Gaole Dai et.al.|[2503.15937](http://arxiv.org/abs/2503.15937)|null|
+|**2025-03-21**|**Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment**|Gaole Dai et.al.|[2503.15937](http://arxiv.org/abs/2503.15937)|null|
 |**2025-03-20**|**WeirdFlows: Anomaly Detection in Financial Transaction Flows**|Arthur Capozzi et.al.|[2503.15896](http://arxiv.org/abs/2503.15896)|null|
 |**2025-03-20**|**CONTHER: Human-Like Contextual Robot Learning via Hindsight Experience Replay and Transformers without Expert Demonstrations**|Maria Makarova et.al.|[2503.15895](http://arxiv.org/abs/2503.15895)|null|
 |**2025-03-20**|**DeepPsy-Agent: A Stage-Aware and Deep-Thinking Emotional Support Agent System**|Kai Chen et.al.|[2503.15876](http://arxiv.org/abs/2503.15876)|null|
@@ -85,7 +85,7 @@
 |**2025-03-19**|**1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities**|Kevin Wang et.al.|[2503.14858](http://arxiv.org/abs/2503.14858)|null|
 |**2025-03-19**|**Applying Large-Scale Distributed Computing to Structural Bioinformatics -- Bridging Legacy HPC Clusters With Big Data Technologies Using kafka-slurm-agent**|Pawel Rubach et.al.|[2503.14806](http://arxiv.org/abs/2503.14806)|null|
 |**2025-03-18**|**TestForge: Feedback-Driven, Agentic Test Suite Generation**|Kush Jain et.al.|[2503.14713](http://arxiv.org/abs/2503.14713)|null|
-|**2025-03-18**|**The Verification Problem for the Subgame Perfect Equilibrium and the Nash Equilibrium in Finite-Horizon Probabilistic Concurrent Game Systems**|Senthil Rajasekaran et.al.|[2503.14690](http://arxiv.org/abs/2503.14690)|null|
+|**2025-03-20**|**Verifying Equilibria in Finite-Horizon Probabilistic Concurrent Game Systems**|Senthil Rajasekaran et.al.|[2503.14690](http://arxiv.org/abs/2503.14690)|null|
 |**2025-03-18**|**Discussion about the assumptions of Category Theory approach to agent-based modeling in microeconomics**|Panu Jalas et.al.|[2503.14672](http://arxiv.org/abs/2503.14672)|null|
 |**2025-03-18**|**Safety-Critical and Distributed Nonlinear Predictive Controllers for Teams of Quadrupedal Robots**|Basit Muhammad Imran et.al.|[2503.14656](http://arxiv.org/abs/2503.14656)|null|
 |**2025-03-18**|**Retrieval-Augmented Simulacra: Generative Agents for Up-to-date and Knowledge-Adaptive Simulations**|Hikaru Shimadzu et.al.|[2503.14620](http://arxiv.org/abs/2503.14620)|null|
@@ -5630,7 +5630,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
