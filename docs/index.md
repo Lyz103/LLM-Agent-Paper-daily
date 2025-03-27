@@ -14,6 +14,42 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|
+|**2025-03-26**|**Welfare and Cost Aggregation for Multi-Agent Control: When to Choose Which Social Cost Function, and Why?**|Ilia Shilov et.al.|[2503.20772](http://arxiv.org/abs/2503.20772)|null|
+|**2025-03-26**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749](http://arxiv.org/abs/2503.20749)|null|
+|**2025-03-26**|**Prospect for measuring work statistics in quantum coherent systems**|Cheolhee Han et.al.|[2503.20729](http://arxiv.org/abs/2503.20729)|null|
+|**2025-03-26**|**Convergence Theory of Flexible ALADIN for Distributed Optimization**|Xu Du et.al.|[2503.20716](http://arxiv.org/abs/2503.20716)|null|
+|**2025-03-26**|**Graph-Enhanced Model-Free Reinforcement Learning Agents for Efficient Power Grid Topological Control**|Eloy Anguiano Batanero et.al.|[2503.20688](http://arxiv.org/abs/2503.20688)|null|
+|**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685](http://arxiv.org/abs/2503.20685)|null|
+|**2025-03-26**|**TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews**|Huimin Xu et.al.|[2503.20666](http://arxiv.org/abs/2503.20666)|null|
+|**2025-03-26**|**Agent-Based Analysis of the Impact of Near Real-Time Data and Smart Balancing on the Frequency Stability of Power Systems**|Johannes Lips et.al.|[2503.20665](http://arxiv.org/abs/2503.20665)|null|
+|**2025-03-26**|**State-Aware Perturbation Optimization for Robust Deep Reinforcement Learning**|Zongyuan Zhang et.al.|[2503.20613](http://arxiv.org/abs/2503.20613)|null|
+|**2025-03-26**|**A Theoretical Framework for Prompt Engineering: Approximating Smooth Functions with Transformer Prompts**|Ryumei Nakada et.al.|[2503.20561](http://arxiv.org/abs/2503.20561)|null|
+|**2025-03-26**|**On the order of the shortest solution sequences for the pebble motion problems**|Tomoki Nakamigawa et.al.|[2503.20550](http://arxiv.org/abs/2503.20550)|null|
+|**2025-03-26**|**Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design**|Yiran Zhang et.al.|[2503.20536](http://arxiv.org/abs/2503.20536)|null|
+|**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[2503.20523](http://arxiv.org/abs/2503.20523)|null|
+|**2025-03-26**|**Exploring the Effect of Robotic Embodiment and Empathetic Tone of LLMs on Empathy Elicitation**|Liza Darwesh et.al.|[2503.20518](http://arxiv.org/abs/2503.20518)|null|
+|**2025-03-26**|**From reductionism to realism: Holistic mathematical modelling for complex biological systems**|Ramón Nartallo-Kaluarachchi et.al.|[2503.20511](http://arxiv.org/abs/2503.20511)|null|
+|**2025-03-26**|**Harmonia: A Multi-Agent Reinforcement Learning Approach to Data Placement and Migration in Hybrid Storage Systems**|Rakesh Nadig et.al.|[2503.20507](http://arxiv.org/abs/2503.20507)|null|
+|**2025-03-26**|**A multi-agentic framework for real-time, autonomous freeform metasurface design**|Robert Lupoiu et.al.|[2503.20479](http://arxiv.org/abs/2503.20479)|null|
+|**2025-03-26**|**Multi-agent Uncertainty-Aware Pessimistic Model-Based Reinforcement Learning for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2503.20462](http://arxiv.org/abs/2503.20462)|null|
+|**2025-03-26**|**The Crucial Role of Problem Formulation in Real-World Reinforcement Learning**|Georg Schäfer et.al.|[2503.20442](http://arxiv.org/abs/2503.20442)|null|
+|**2025-03-26**|**Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation**|Kevin Alcedo et.al.|[2503.20425](http://arxiv.org/abs/2503.20425)|null|
+|**2025-03-26**|**Relative portfolio optimization via a value at risk based constraint**|Nicole Bäuerle et.al.|[2503.20340](http://arxiv.org/abs/2503.20340)|null|
+|**2025-03-26**|**CTS-CBS: A New Approach for Multi-Agent Collaborative Task Sequencing and Path Finding**|Junkai Jiang et.al.|[2503.20324](http://arxiv.org/abs/2503.20324)|null|
+|**2025-03-26**|**Model-Based Offline Reinforcement Learning with Adversarial Data Augmentation**|Hongye Cao et.al.|[2503.20285](http://arxiv.org/abs/2503.20285)|null|
+|**2025-03-26**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|null|
+|**2025-03-26**|**Fair and efficient allocation of indivisible items under category constraints**|Ayumi Igarashi et.al.|[2503.20260](http://arxiv.org/abs/2503.20260)|null|
+|**2025-03-26**|**Open Deep Search: Democratizing Search with Open-source Reasoning Agents**|Salaheddin Alzubi et.al.|[2503.20201](http://arxiv.org/abs/2503.20201)|null|
+|**2025-03-26**|**Look Before Leap: Look-Ahead Planning with Uncertainty in Reinforcement Learning**|Yongshuai Liu et.al.|[2503.20139](http://arxiv.org/abs/2503.20139)|null|
+|**2025-03-26**|**Synthesizing world models for bilevel planning**|Zergham Ahmed et.al.|[2503.20124](http://arxiv.org/abs/2503.20124)|null|
+|**2025-03-25**|**Direct Post-Training Preference Alignment for Multi-Agent Motion Generation Models Using Implicit Feedback from Pre-training Demonstrations**|Ran Tian et.al.|[2503.20105](http://arxiv.org/abs/2503.20105)|null|
+|**2025-03-25**|**Extendable Long-Horizon Planning via Hierarchical Multiscale Diffusion**|Chang Chen et.al.|[2503.20102](http://arxiv.org/abs/2503.20102)|null|
+|**2025-03-25**|**The importance of exploration: Modelling site-constant foraging**|Sarah A. MacQueen et.al.|[2503.20086](http://arxiv.org/abs/2503.20086)|null|
+|**2025-03-25**|**Abstracting Geo-specific Terrains to Scale Up Reinforcement Learning**|Volkan Ustun et.al.|[2503.20078](http://arxiv.org/abs/2503.20078)|null|
+|**2025-03-25**|**BugCraft: End-to-End Crash Bug Reproduction Using LLM Agents in Minecraft**|Eray Yapağcı et.al.|[2503.20036](http://arxiv.org/abs/2503.20036)|null|
+|**2025-03-25**|**OmniNova:A General Multimodal Agent Framework**|Pengfei Du et.al.|[2503.20028](http://arxiv.org/abs/2503.20028)|null|
+|**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
 |**2025-03-25**|**Energetic advantages for quantum agents in online execution of complex strategies**|Jayne Thompson et.al.|[2503.19896](http://arxiv.org/abs/2503.19896)|null|
 |**2025-03-25**|**A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**|Jie Tian et.al.|[2503.19889](http://arxiv.org/abs/2503.19889)|null|
 |**2025-03-25**|**Collaborative Satisfaction of Long-Term Spatial Constraints in Multi-Agent Systems: A Distributed Optimization Approach (extended version)**|Farhad Mehdifar et.al.|[2503.19879](http://arxiv.org/abs/2503.19879)|null|
