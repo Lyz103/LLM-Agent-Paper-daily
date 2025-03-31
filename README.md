@@ -17,6 +17,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
+|**2025-03-28**|**ActionStudio: A Lightweight Framework for Data and Training of Action Models**|Jianguo Zhang et.al.|[2503.22673](http://arxiv.org/abs/2503.22673)|**[link](https://github.com/SalesforceAIResearch/xLAM)**|
+|**2025-03-28**|**On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations**|Rajdeep Singh Hundal et.al.|[2503.22575](http://arxiv.org/abs/2503.22575)|null|
+|**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[2503.22541](http://arxiv.org/abs/2503.22541)|null|
+|**2025-03-28**|**Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement**|Wenqiang Luo et.al.|[2503.22512](http://arxiv.org/abs/2503.22512)|null|
+|**2025-03-28**|**Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**|Luke Rowe et.al.|[2503.22496](http://arxiv.org/abs/2503.22496)|null|
+|**2025-03-28**|**WorkTeam: Constructing Workflows from Natural Language with Multi-Agents**|Hanchao Liu et.al.|[2503.22473](http://arxiv.org/abs/2503.22473)|null|
+|**2025-03-28**|**Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey**|Shengyue Guan et.al.|[2503.22458](http://arxiv.org/abs/2503.22458)|null|
+|**2025-03-28**|**Scaling Laws of Scientific Discovery with AI and Robot Scientists**|Pengsong Zhang et.al.|[2503.22444](http://arxiv.org/abs/2503.22444)|null|
+|**2025-03-28**|**CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching**|Zhonghao Jiang et.al.|[2503.22424](http://arxiv.org/abs/2503.22424)|**[link](https://github.com/zhonghaojiang/cosil)**|
+|**2025-03-28**|**Distributed Constrained Online Nonconvex Optimization with Compressed Communication**|Kunpeng Zhang et.al.|[2503.22410](http://arxiv.org/abs/2503.22410)|null|
+|**2025-03-28**|**FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation**|Xianqi Zhang et.al.|[2503.22249](http://arxiv.org/abs/2503.22249)|null|
+|**2025-03-28**|**Agent-Centric Personalized Multiple Clustering with Multi-Modal LLMs**|Ziye Chen et.al.|[2503.22241](http://arxiv.org/abs/2503.22241)|null|
+|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201](http://arxiv.org/abs/2503.22201)|null|
+|**2025-03-28**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164](http://arxiv.org/abs/2503.22164)|null|
+|**2025-03-28**|**Cooperative Hybrid Multi-Agent Pathfinding Based on Shared Exploration Maps**|Ning Liu et.al.|[2503.22162](http://arxiv.org/abs/2503.22162)|null|
+|**2025-03-28**|**REMAC: Self-Reflective and Self-Evolving Multi-Agent Collaboration for Long-Horizon Robot Manipulation**|Puzhen Yuan et.al.|[2503.22122](http://arxiv.org/abs/2503.22122)|null|
+|**2025-03-27**|**Debate-Driven Multi-Agent LLMs for Phishing Email Detection**|Ngoc Tuong Vy Nguyen et.al.|[2503.22038](http://arxiv.org/abs/2503.22038)|null|
+|**2025-03-27**|**Learning to Lie: Reinforcement Learning Attacks Damage Human-AI Teams and Teams of LLMs**|Abed Kareem Musaffar et.al.|[2503.21983](http://arxiv.org/abs/2503.21983)|null|
+|**2025-03-27**|**Reward Design for Reinforcement Learning Agents**|Rati Devidze et.al.|[2503.21949](http://arxiv.org/abs/2503.21949)|**[link](https://github.com/adishs/neurips2021_explicable-reward-design_code)**|
+|**2025-03-27**|**Monitoring Spatially Distributed Cyber-Physical Systems with Alternating Finite Automata**|Anand Balakrishnan et.al.|[2503.21906](http://arxiv.org/abs/2503.21906)|null|
+|**2025-03-25**|**LERO: LLM-driven Evolutionary framework with Hybrid Rewards and Enhanced Observation for Multi-Agent Reinforcement Learning**|Yuan Wei et.al.|[2503.21807](http://arxiv.org/abs/2503.21807)|null|
+|**2025-03-22**|**Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation**|Robin Dietrich et.al.|[2503.21795](http://arxiv.org/abs/2503.21795)|null|
 |**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
 |**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735](http://arxiv.org/abs/2503.21735)|null|
 |**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720](http://arxiv.org/abs/2503.21720)|null|
