@@ -29,7 +29,7 @@
 |**2025-04-03**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|PeiJie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|**[link](https://github.com/yupeijei1997/MMTB)**|
 |**2025-04-03**|**Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving**|Daoguang Zan et.al.|[2504.02605](http://arxiv.org/abs/2504.02605)|null|
 |**2025-04-03**|**Exploring Individual Factors in the Adoption of LLMs for Specific Software Engineering Tasks**|Stefano Lambiase et.al.|[2504.02553](http://arxiv.org/abs/2504.02553)|null|
-|**2025-04-03**|**Exploration-Driven Generative Interactive Environments**|Nedko Savov et.al.|[2504.02515](http://arxiv.org/abs/2504.02515)|null|
+|**2025-04-03**|**Exploration-Driven Generative Interactive Environments**|Nedko Savov et.al.|[2504.02515](http://arxiv.org/abs/2504.02515)|**[link](https://github.com/insait-institute/genieredux)**|
 |**2025-04-03**|**A Memory-Augmented LLM-Driven Method for Autonomous Merging of 3D Printing Work Orders**|Yuhao Liu et.al.|[2504.02509](http://arxiv.org/abs/2504.02509)|null|
 |**2025-04-03**|**The Self-Learning Agent with a Progressive Neural Network Integrated Transformer**|Ajay Sivakumar et.al.|[2504.02489](http://arxiv.org/abs/2504.02489)|null|
 |**2025-04-03**|**Hierarchical Policy-Gradient Reinforcement Learning for Multi-Agent Shepherding Control of Non-Cohesive Targets**|Stefano Covone et.al.|[2504.02479](http://arxiv.org/abs/2504.02479)|null|
@@ -77,7 +77,7 @@
 |**2025-04-01**|**First Field-Trial Demonstration of L4 Autonomous Optical Network for Distributed AI Training Communication: An LLM-Powered Multi-AI-Agent Solution**|Yihao Zhang et.al.|[2504.01234](http://arxiv.org/abs/2504.01234)|null|
 |**2025-04-01**|**Remember, but also, Forget: Bridging Myopic and Perfect Recall Fairness with Past-Discounting**|Ashwin Kumar et.al.|[2504.01154](http://arxiv.org/abs/2504.01154)|null|
 |**2025-04-01**|**HomeEmergency -- Using Audio to Find and Respond to Emergencies in the Home**|James F. Mullen Jr et.al.|[2504.01089](http://arxiv.org/abs/2504.01089)|null|
-|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|null|
+|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|**[link](https://github.com/tbanker/MPCritic)**|
 |**2025-03-31**|**One Person, One Bot**|Liat Lavi et.al.|[2504.01039](http://arxiv.org/abs/2504.01039)|null|
 |**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957](http://arxiv.org/abs/2504.00957)|null|
 |**2025-04-01**|**On the Robustness of Agentic Function Calling**|Ella Rabinovich et.al.|[2504.00914](http://arxiv.org/abs/2504.00914)|null|
@@ -86,9 +86,9 @@
 |**2025-04-01**|**Improved Visual-Spatial Reasoning via R1-Zero-Like Training**|Zhenyi Liao et.al.|[2504.00883](http://arxiv.org/abs/2504.00883)|null|
 |**2025-04-03**|**An Investigation into the Causal Mechanism of Political Opinion Dynamics: A Model of Hierarchical Coarse-Graining with Community-Bounded Social Influence**|Valeria Widler et.al.|[2504.00877](http://arxiv.org/abs/2504.00877)|null|
 |**2025-04-01**|**Provably Stable Multi-Agent Routing with Bounded-Delay Adversaries in the Decision Loop**|Roee M. Francos et.al.|[2504.00863](http://arxiv.org/abs/2504.00863)|null|
-|**2025-04-02**|**Do We Truly Need So Many Samples? Multi-LLM Repeated Sampling Efficiently Scales Test-Time Compute**|Jianhao Chen et.al.|[2504.00762](http://arxiv.org/abs/2504.00762)|null|
+|**2025-04-02**|**Do We Truly Need So Many Samples? Multi-LLM Repeated Sampling Efficiently Scales Test-Time Compute**|Jianhao Chen et.al.|[2504.00762](http://arxiv.org/abs/2504.00762)|**[link](https://github.com/jianhaochen-nju/modelswitch)**|
 |**2025-04-01**|**Spatiotemporal Synchronization of Distributed Arrays using Particle-Based Loopy Belief Propagation**|Benjamin J. B. Deutschmann et.al.|[2504.00744](http://arxiv.org/abs/2504.00744)|null|
-|**2025-04-01**|**Accelerated Inorganic Materials Design with Generative AI Agents**|Izumi Takahara et.al.|[2504.00741](http://arxiv.org/abs/2504.00741)|null|
+|**2025-04-01**|**Accelerated Inorganic Materials Design with Generative AI Agents**|Izumi Takahara et.al.|[2504.00741](http://arxiv.org/abs/2504.00741)|**[link](https://github.com/izumitkhr/matagent)**|
 |**2025-04-01**|**Reinforcement learning for robust dynamic metabolic control**|Sebastián Espinel-Ríos et.al.|[2504.00735](http://arxiv.org/abs/2504.00735)|null|
 |**2025-04-01**|**Personality-Driven Decision-Making in LLM-Based Autonomous Agents**|Lewis Newsham et.al.|[2504.00727](http://arxiv.org/abs/2504.00727)|null|
 |**2025-04-01**|**GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments**|Enjun Du et.al.|[2504.00711](http://arxiv.org/abs/2504.00711)|null|
@@ -124,7 +124,7 @@
 |**2025-03-31**|**Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms**|Shuoming Zhang et.al.|[2503.24191](http://arxiv.org/abs/2503.24191)|null|
 |**2025-03-31**|**Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up**|Ziming Cheng et.al.|[2503.24180](http://arxiv.org/abs/2503.24180)|null|
 |**2025-03-31**|**Reinforcement Learning for Safe Autonomous Two Device Navigation of Cerebral Vessels in Mechanical Thrombectomy**|Harry Robertshaw et.al.|[2503.24140](http://arxiv.org/abs/2503.24140)|null|
-|**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
+|**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|**[link](https://github.com/jimmyma99/teleantifraud)**|
 |**2025-03-31**|**Grounding Agent Reasoning in Image Schemas: A Neurosymbolic Approach to Embodied Cognition**|François Olivier et.al.|[2503.24110](http://arxiv.org/abs/2503.24110)|null|
 |**2025-03-31**|**Data-Driven Distributed Output Synchronization of Heterogeneous Discrete-Time Multi-Agent Systems**|Giulio Fattore et.al.|[2503.24105](http://arxiv.org/abs/2503.24105)|null|
 |**2025-03-31**|**A Complete Epistemic Temporal Logic for Intelligent Agent**|Zining Cao et.al.|[2503.24078](http://arxiv.org/abs/2503.24078)|null|
