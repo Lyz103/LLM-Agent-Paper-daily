@@ -14,6 +14,47 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Fast Adaptation with Behavioral Foundation Models**|Harshit Sikchi et.al.|[2504.07896](http://arxiv.org/abs/2504.07896)|null|
+|**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
+|**2025-04-10**|**An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**|Xinyang Zhou et.al.|[2504.07881](http://arxiv.org/abs/2504.07881)|null|
+|**2025-04-10**|**Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis**|Fei-Hsuan Yu et.al.|[2504.07872](http://arxiv.org/abs/2504.07872)|null|
+|**2025-04-10**|**In itinere infections covertly undermine localized epidemic control in metapopulations**|Francesca Dilisante et.al.|[2504.07849](http://arxiv.org/abs/2504.07849)|null|
+|**2025-04-10**|**Anytime Single-Step MAPF Planning with Anytime PIBT**|Nayesha Gandotra et.al.|[2504.07841](http://arxiv.org/abs/2504.07841)|null|
+|**2025-04-10**|**Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight Systems**|Simon Lermen et.al.|[2504.07831](http://arxiv.org/abs/2504.07831)|null|
+|**2025-04-10**|**MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations**|Genglin Liu et.al.|[2504.07830](http://arxiv.org/abs/2504.07830)|null|
+|**2025-04-10**|**Active Matter Flocking via Predictive Alignment**|Julian Giraldo-Barreto et.al.|[2504.07778](http://arxiv.org/abs/2504.07778)|null|
+|**2025-04-10**|**Synthesizing High-Quality Programming Tasks with LLM-based Expert and Student Agents**|Manh Hung Nguyen et.al.|[2504.07655](http://arxiv.org/abs/2504.07655)|null|
+|**2025-04-10**|**CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections**|Florian Schneider et.al.|[2504.07643](http://arxiv.org/abs/2504.07643)|null|
+|**2025-04-10**|**Agent That Debugs: Dynamic State-Guided Vulnerability Repair**|Zhengyao Liu et.al.|[2504.07634](http://arxiv.org/abs/2504.07634)|null|
+|**2025-04-10**|**What Contributes to Affective Polarization in Networked Online Environments? Evidence from an Agent-Based Model**|Narayani Vedam et.al.|[2504.07610](http://arxiv.org/abs/2504.07610)|null|
+|**2025-04-10**|**Boosting Universal LLM Reward Design through the Heuristic Reward Observation Space Evolution**|Zen Kit Heng et.al.|[2504.07596](http://arxiv.org/abs/2504.07596)|null|
+|**2025-04-10**|**Controlling Complex Systems**|Marco Coraggio et.al.|[2504.07579](http://arxiv.org/abs/2504.07579)|null|
+|**2025-04-10**|**Strategic learning for disturbance rejection in multi-agent systems: Nash and Minmax in graphical games**|Xinyang Wang et.al.|[2504.07547](http://arxiv.org/abs/2504.07547)|null|
+|**2025-04-10**|**A taxonomy of epistemic injustice in the context of AI and the case for generative hermeneutical erasure**|Warmhold Jan Thomas Mollema et.al.|[2504.07531](http://arxiv.org/abs/2504.07531)|null|
+|**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[2504.07507](http://arxiv.org/abs/2504.07507)|null|
+|**2025-04-10**|**Kimi-VL Technical Report**|Kimi Team et.al.|[2504.07491](http://arxiv.org/abs/2504.07491)|null|
+|**2025-04-10**|**Enhanced Question-Answering for Skill-based learning using Knowledge-based AI and Generative AI**|Rahul K. Dass et.al.|[2504.07463](http://arxiv.org/abs/2504.07463)|null|
+|**2025-04-10**|**Achilles Heel of Distributed Multi-Agent Systems**|Yiting Zhang et.al.|[2504.07461](http://arxiv.org/abs/2504.07461)|null|
+|**2025-04-10**|**Beyond LLMs: A Linguistic Approach to Causal Graph Generation from Narrative Texts**|Zehan Li et.al.|[2504.07459](http://arxiv.org/abs/2504.07459)|null|
+|**2025-04-10**|**Enhancing Player Enjoyment with a Two-Tier DRL and LLM-Based Agent System for Fighting Games**|Shouren Wang et.al.|[2504.07425](http://arxiv.org/abs/2504.07425)|null|
+|**2025-04-10**|**AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery**|Amirhossein Abaskohi et.al.|[2504.07421](http://arxiv.org/abs/2504.07421)|null|
+|**2025-04-10**|**Automating quantum feature map design via large language models**|Kenya Sakka et.al.|[2504.07396](http://arxiv.org/abs/2504.07396)|**[link](https://github.com/Qyusu/astronaut)**|
+|**2025-04-10**|**TALE: A Tool-Augmented Framework for Reference-Free Evaluation of Large Language Models**|Sher Badshah et.al.|[2504.07385](http://arxiv.org/abs/2504.07385)|null|
+|**2025-04-10**|**Predefined-Time Target Localization and Circumnavigation using Bearing-Only Measurements: Theory and Experiments**|Donglin Sui et.al.|[2504.07349](http://arxiv.org/abs/2504.07349)|null|
+|**2025-04-10**|**Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents**|Yueying Li et.al.|[2504.07347](http://arxiv.org/abs/2504.07347)|null|
+|**2025-04-09**|**Modeling Response Consistency in Multi-Agent LLM Systems: A Comparative Analysis of Shared and Separate Context Approaches**|Tooraj Helmi et.al.|[2504.07303](http://arxiv.org/abs/2504.07303)|null|
+|**2025-04-09**|**Bridging Deep Reinforcement Learning and Motion Planning for Model-Free Navigation in Cluttered Environments**|Licheng Luo et.al.|[2504.07283](http://arxiv.org/abs/2504.07283)|null|
+|**2025-04-09**|**Agentic SLMs: Hunting Down Test Smells**|Rian Melo et.al.|[2504.07277](http://arxiv.org/abs/2504.07277)|null|
+|**2025-04-09**|**Better Decisions through the Right Causal World Model**|Elisabeth Dillies et.al.|[2504.07257](http://arxiv.org/abs/2504.07257)|null|
+|**2025-04-09**|**Reinforcement Learning Dynamics of Network Vaccination and Hysteresis: A Double-Edged Sword for Addressing Vaccine Hesitancy**|Atticus McWhorter et.al.|[2504.07254](http://arxiv.org/abs/2504.07254)|null|
+|**2025-04-09**|**Analysis of the Unscented Transform for Cooperative Localization with Ranging-Only Information**|Uthman Olawoye et.al.|[2504.07242](http://arxiv.org/abs/2504.07242)|null|
+|**2025-04-09**|**Compositional design for time-varying and nonlinear coordination**|Jonas Hansson et.al.|[2504.07226](http://arxiv.org/abs/2504.07226)|null|
+|**2025-04-09**|**Multi-Agent Trustworthy Consensus under Random Dynamic Attacks**|Orhan Eren Akgün et.al.|[2504.07189](http://arxiv.org/abs/2504.07189)|null|
+|**2025-04-09**|**Perception in Reflection**|Yana Wei et.al.|[2504.07165](http://arxiv.org/abs/2504.07165)|null|
+|**2025-04-09**|**R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents**|Naman Jain et.al.|[2504.07164](http://arxiv.org/abs/2504.07164)|null|
+|**2025-04-09**|**Multi-Object Tracking for Collision Avoidance Using Multiple Cameras in Open RAN Networks**|Jordi Serra et.al.|[2504.07163](http://arxiv.org/abs/2504.07163)|null|
+|**2025-04-09**|**Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model**|Yingjie Zhou et.al.|[2504.07148](http://arxiv.org/abs/2504.07148)|null|
+|**2025-04-06**|**Can SGD Select Good Fishermen? Local Convergence under Self-Selection Biases and Beyond**|Alkis Kalavasis et.al.|[2504.07133](http://arxiv.org/abs/2504.07133)|null|
 |**2025-04-09**|**SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills**|Boyuan Zheng et.al.|[2504.07079](http://arxiv.org/abs/2504.07079)|null|
 |**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|null|
 |**2025-04-09**|**Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration**|Kostas Hatalis et.al.|[2504.06943](http://arxiv.org/abs/2504.06943)|null|
@@ -172,12 +213,12 @@ layout: default
 |**2025-04-08**|**APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**|Akshara Prabhakar et.al.|[2504.03601](http://arxiv.org/abs/2504.03601)|null|
 |**2025-04-04**|**A Lower Bound on Conservative Elementary Object Systems Coverability**|Francesco Di Cosmo et.al.|[2504.03591](http://arxiv.org/abs/2504.03591)|null|
 |**2025-04-04**|**SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement**|Runnan Fang et.al.|[2504.03561](http://arxiv.org/abs/2504.03561)|null|
-|**2025-04-04**|**Agentic Knowledgeable Self-awareness**|Shuofei Qiao et.al.|[2504.03553](http://arxiv.org/abs/2504.03553)|null|
+|**2025-04-04**|**Agentic Knowledgeable Self-awareness**|Shuofei Qiao et.al.|[2504.03553](http://arxiv.org/abs/2504.03553)|**[link](https://github.com/zjunlp/knowself)**|
 |**2025-04-04**|**The Limits of "Fairness" of the Variational Generalized Nash Equilibrium**|Sophie Hall et.al.|[2504.03540](http://arxiv.org/abs/2504.03540)|null|
 |**2025-04-04**|**RANa: Retrieval-Augmented Navigation**|Gianluca Monaci et.al.|[2504.03524](http://arxiv.org/abs/2504.03524)|null|
 |**2025-04-04**|**Target Prediction Under Deceptive Switching Strategies via Outlier-Robust Filtering of Partially Observed Incomplete Trajectories**|Yiming Meng et.al.|[2504.03502](http://arxiv.org/abs/2504.03502)|null|
 |**2025-04-04**|**A stochastic volatility approximation for a tick-by-tick price model with mean-field interaction**|Paolo Dai Pra et.al.|[2504.03445](http://arxiv.org/abs/2504.03445)|null|
-|**2025-04-04**|**The AI Cosmologist I: An Agentic System for Automated Data Analysis**|Adam Moss et.al.|[2504.03424](http://arxiv.org/abs/2504.03424)|null|
+|**2025-04-04**|**The AI Cosmologist I: An Agentic System for Automated Data Analysis**|Adam Moss et.al.|[2504.03424](http://arxiv.org/abs/2504.03424)|**[link](https://github.com/adammoss/aicosmologist)**|
 |**2025-04-04**|**Leveraging Network Topology in a Two-way Competition for Influence in the Friedkin-Johnsen Model**|Aashi Shrinate et.al.|[2504.03397](http://arxiv.org/abs/2504.03397)|null|
 |**2025-04-04**|**Decentralized Collective World Model for Emergent Communication and Coordination**|Kentaro Nomura et.al.|[2504.03353](http://arxiv.org/abs/2504.03353)|null|
 |**2025-04-04**|**Talk2X -- An Open-Source Toolkit Facilitating Deployment of LLM-Powered Chatbots on the Web**|Lars Krupp et.al.|[2504.03343](http://arxiv.org/abs/2504.03343)|null|
