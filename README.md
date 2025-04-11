@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2025-04-09**|**A Novel Nonlinear Fertility Catastrophe Model Based on Thom's Differential Equations of Morphogenesis**|Rolando Gonzales Martinez et.al.|[2504.06668](http://arxiv.org/abs/2504.06668)|null|
 |**2025-04-09**|**Human-like compositional learning of visually-grounded concepts using synthetic environments**|Zijun Lin et.al.|[2504.06618](http://arxiv.org/abs/2504.06618)|null|
 |**2025-04-09**|**AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents**|Lingzhe Zhang et.al.|[2504.06614](http://arxiv.org/abs/2504.06614)|null|
-|**2025-04-09**|**Wanting to be Understood**|Chrisantha Fernando et.al.|[2504.06611](http://arxiv.org/abs/2504.06611)|null|
+|**2025-04-10**|**Wanting to be Understood**|Chrisantha Fernando et.al.|[2504.06611](http://arxiv.org/abs/2504.06611)|null|
 |**2025-04-09**|**Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis**|Umakanta Maharana et.al.|[2504.06581](http://arxiv.org/abs/2504.06581)|null|
 |**2025-04-09**|**NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables**|Lanrui Wang et.al.|[2504.06560](http://arxiv.org/abs/2504.06560)|null|
 |**2025-04-09**|**Market, power, gift, and concession economies: Comparison using four-mode primitive network models**|Takeshi Kato et.al.|[2504.06557](http://arxiv.org/abs/2504.06557)|null|
@@ -49,7 +49,7 @@
 |**2025-04-08**|**Linear Regulator-Based Synchronization of Positive Multi-Agent Systems**|Alba Gurpegui et.al.|[2504.06169](http://arxiv.org/abs/2504.06169)|null|
 |**2025-04-08**|**V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148](http://arxiv.org/abs/2504.06148)|null|
 |**2025-04-08**|**Deploying Chatbots in Customer Service: Adoption Hurdles and Simple Remedies**|Evgeny Kagan et.al.|[2504.06145](http://arxiv.org/abs/2504.06145)|null|
-|**2025-04-08**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138](http://arxiv.org/abs/2504.06138)|null|
+|**2025-04-10**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138](http://arxiv.org/abs/2504.06138)|null|
 |**2025-04-08**|**Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning**|Tooraj Helmi et.al.|[2504.06135](http://arxiv.org/abs/2504.06135)|null|
 |**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126](http://arxiv.org/abs/2504.06126)|null|
 |**2025-04-08**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112](http://arxiv.org/abs/2504.06112)|null|
@@ -74,7 +74,7 @@
 |**2025-04-07**|**SciSciGPT: Advancing Human-AI Collaboration in the Science of Science**|Erzhuo Shao et.al.|[2504.05559](http://arxiv.org/abs/2504.05559)|null|
 |**2025-04-07**|**Federated Hierarchical Reinforcement Learning for Adaptive Traffic Signal Control**|Yongjie Fu et.al.|[2504.05553](http://arxiv.org/abs/2504.05553)|null|
 |**2025-04-07**|**Bridging Industrial Expertise and XR with LLM-Powered Conversational Agents**|Despina Tomkou et.al.|[2504.05527](http://arxiv.org/abs/2504.05527)|null|
-|**2025-04-07**|**Prism: Dynamic and Flexible Benchmarking of LLMs Code Generation with Monte Carlo Tree Search**|Vahid Majdinasab et.al.|[2504.05500](http://arxiv.org/abs/2504.05500)|null|
+|**2025-04-10**|**Prism: Dynamic and Flexible Benchmarking of LLMs Code Generation with Monte Carlo Tree Search**|Vahid Majdinasab et.al.|[2504.05500](http://arxiv.org/abs/2504.05500)|null|
 |**2025-04-07**|**BC-ADMM: An Efficient Non-convex Constrained Optimizer with Robotic Applications**|Zherong Pan et.al.|[2504.05465](http://arxiv.org/abs/2504.05465)|null|
 |**2025-04-07**|**Broadcast via Mobile Agents in a Dynamic Network: Interplay of Graph Properties & Agents**|William K. Moses Jr. et.al.|[2504.05442](http://arxiv.org/abs/2504.05442)|null|
 |**2025-04-07**|**EP-Diffuser: An Efficient Diffusion Model for Traffic Scene Generation and Prediction via Polynomial Representations**|Yue Yao et.al.|[2504.05422](http://arxiv.org/abs/2504.05422)|null|
@@ -101,7 +101,7 @@
 |**2025-04-07**|**Joint Pedestrian and Vehicle Traffic Optimization in Urban Environments using Reinforcement Learning**|Bibek Poudel et.al.|[2504.05018](http://arxiv.org/abs/2504.05018)|null|
 |**2025-04-07**|**The Dream Within Huang Long Cave: AI-Driven Interactive Narrative for Family Storytelling and Emotional Reflection**|Jiayang Huang et.al.|[2504.04968](http://arxiv.org/abs/2504.04968)|null|
 |**2025-04-08**|**Initial Error Tolerant Distributed Mean Field Control under Partial and Discrete Information**|Yuxin Jin et.al.|[2504.04938](http://arxiv.org/abs/2504.04938)|null|
-|**2025-04-07**|**Hybrid Control Barrier Functions for Nonholonomic Multi-Agent Systems**|Aurora Haraldsen et.al.|[2504.04937](http://arxiv.org/abs/2504.04937)|null|
+|**2025-04-10**|**Hybrid Control Barrier Functions for Nonholonomic Multi-Agent Systems**|Aurora Haraldsen et.al.|[2504.04937](http://arxiv.org/abs/2504.04937)|null|
 |**2025-04-07**|**Simulating Persuasive Dialogues on Meat Reduction with Generative Agents**|Georg Ahnert et.al.|[2504.04872](http://arxiv.org/abs/2504.04872)|null|
 |**2025-04-07**|**GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**|Yunxiang Liu et.al.|[2504.04862](http://arxiv.org/abs/2504.04862)|null|
 |**2025-04-07**|**BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents**|Haoxuan Li et.al.|[2504.04855](http://arxiv.org/abs/2504.04855)|null|
@@ -158,7 +158,7 @@
 |**2025-04-05**|**ADAPT: Actively Discovering and Adapting to Preferences for any Task**|Maithili Patel et.al.|[2504.04040](http://arxiv.org/abs/2504.04040)|null|
 |**2025-04-08**|**Improving Mixed-Criticality Scheduling with Reinforcement Learning**|Muhammad El-Mahdy et.al.|[2504.03994](http://arxiv.org/abs/2504.03994)|null|
 |**2025-04-04**|**Algorithmic Prompt Generation for Diverse Human-like Teaming and Communication with Large Language Models**|Siddharth Srikanth et.al.|[2504.03991](http://arxiv.org/abs/2504.03991)|null|
-|**2025-04-04**|**OLAF: An Open Life Science Analysis Framework for Conversational Bioinformatics Powered by Large Language Models**|Dylan Riffle et.al.|[2504.03976](http://arxiv.org/abs/2504.03976)|null|
+|**2025-04-04**|**OLAF: An Open Life Science Analysis Framework for Conversational Bioinformatics Powered by Large Language Models**|Dylan Riffle et.al.|[2504.03976](http://arxiv.org/abs/2504.03976)|**[link](https://github.com/OpenTechBio/Olaf)**|
 |**2025-04-04**|**Understanding EFX Allocations: Counting and Variants**|Tzeh Yuan Neoh et.al.|[2504.03951](http://arxiv.org/abs/2504.03951)|null|
 |**2025-04-04**|**Deep Learning-Enhanced Robotic Subretinal Injection with Real-Time Retinal Motion Compensation**|Tianle Wu et.al.|[2504.03939](http://arxiv.org/abs/2504.03939)|null|
 |**2025-04-04**|**YaleNLP @ PerAnsSumm 2025: Multi-Perspective Integration via Mixture-of-Agents for Enhanced Healthcare QA Summarization**|Dongsuk Jang et.al.|[2504.03932](http://arxiv.org/abs/2504.03932)|null|
@@ -215,7 +215,7 @@
 |**2025-04-03**|**The Tension between Trust and Oversight in Long-term Relationships**|Peter Achim et.al.|[2504.02696](http://arxiv.org/abs/2504.02696)|null|
 |**2025-04-03**|**Handover and SINR-Aware Path Optimization in 5G-UAV mmWave Communication using DRL**|Achilles Kiwanuka Machumilane et.al.|[2504.02688](http://arxiv.org/abs/2504.02688)|null|
 |**2025-04-03**|**A Set-Theoretic Robust Control Approach for Linear Quadratic Games with Unknown Counterparts**|Francesco Bianchin et.al.|[2504.02679](http://arxiv.org/abs/2504.02679)|null|
-|**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670](http://arxiv.org/abs/2504.02670)|null|
+|**2025-04-10**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670](http://arxiv.org/abs/2504.02670)|null|
 |**2025-04-03**|**SymDQN: Symbolic Knowledge and Reasoning in Neural Network-based Reinforcement Learning**|Ivo Amador et.al.|[2504.02654](http://arxiv.org/abs/2504.02654)|null|
 |**2025-04-04**|**Controlled Social Learning: Altruism vs. Bias**|Raghu Arghal et.al.|[2504.02648](http://arxiv.org/abs/2504.02648)|null|
 |**2025-04-03**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|PeiJie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|**[link](https://github.com/yupeijei1997/MMTB)**|
@@ -6240,7 +6240,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
