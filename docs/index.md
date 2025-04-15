@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -122,7 +122,7 @@ layout: default
 |**2025-04-10**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138](http://arxiv.org/abs/2504.06138)|null|
 |**2025-04-08**|**Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning**|Tooraj Helmi et.al.|[2504.06135](http://arxiv.org/abs/2504.06135)|null|
 |**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126](http://arxiv.org/abs/2504.06126)|null|
-|**2025-04-08**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112](http://arxiv.org/abs/2504.06112)|null|
+|**2025-04-11**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112](http://arxiv.org/abs/2504.06112)|null|
 |**2025-04-08**|**Real-Time LaCAM**|Runzhe Liang et.al.|[2504.06091](http://arxiv.org/abs/2504.06091)|null|
 |**2025-04-08**|**Virtual Agent Tutors in Sheltered Workshops: A Feasibility Study on Attention Training for Individuals with Intellectual Disabilities**|Julian Leichert et.al.|[2504.06031](http://arxiv.org/abs/2504.06031)|null|
 |**2025-04-09**|**CAI: An Open, Bug Bounty-Ready Cybersecurity AI**|Víctor Mayoral-Vilches et.al.|[2504.06017](http://arxiv.org/abs/2504.06017)|null|
