@@ -17,8 +17,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/abs/2504.11442)|null|
+|**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419](http://arxiv.org/abs/2504.11419)|null|
+|**2025-04-15**|**Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions**|Wang Bill Zhu et.al.|[2504.11373](http://arxiv.org/abs/2504.11373)|null|
+|**2025-04-15**|**DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks**|Yupei Liu et.al.|[2504.11358](http://arxiv.org/abs/2504.11358)|null|
+|**2025-04-15**|**Learning to Be A Doctor: Searching for Effective Medical Agent Architectures**|Yangyang Zhuang et.al.|[2504.11301](http://arxiv.org/abs/2504.11301)|null|
+|**2025-04-15**|**Policy heterogeneity improves collective olfactory search in 3-D turbulence**|Lorenzo Piro et.al.|[2504.11291](http://arxiv.org/abs/2504.11291)|null|
+|**2025-04-15**|**The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections**|Chaoran Chen et.al.|[2504.11281](http://arxiv.org/abs/2504.11281)|null|
+|**2025-04-15**|**Multi-Agent Reinforcement Learning for Greenhouse Gas Offset Credit Markets**|Liam Welsh et.al.|[2504.11258](http://arxiv.org/abs/2504.11258)|null|
+|**2025-04-15**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Xinyi Liu et.al.|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
+|**2025-04-15**|**A Rollout-Based Algorithm and Reward Function for Efficient Resource Allocation in Business Processes**|Jeroen Middelhuis et.al.|[2504.11250](http://arxiv.org/abs/2504.11250)|null|
+|**2025-04-15**|**Towards Automated Safety Requirements Derivation Using Agent-based RAG**|Balahari Vignesh Balu et.al.|[2504.11243](http://arxiv.org/abs/2504.11243)|null|
+|**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200](http://arxiv.org/abs/2504.11200)|null|
+|**2025-04-15**|**The Lifetime of the Covid Memorial Wall: Modelling with Collections Demography, Social Media Data and Citizen Science**|Josep Grau-Bové et.al.|[2504.11196](http://arxiv.org/abs/2504.11196)|null|
+|**2025-04-15**|**Exploring Backdoor Attack and Defense for LLM-empowered Recommendations**|Liangbo Ning et.al.|[2504.11182](http://arxiv.org/abs/2504.11182)|null|
+|**2025-04-15**|**GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention**|Mahir Gulzar et.al.|[2504.11150](http://arxiv.org/abs/2504.11150)|null|
+|**2025-04-15**|**An Application of Membrane Computing to Humanitarian Relief via Generalized Nash Equilibrium**|Alejandro Luque-Cerpa et.al.|[2504.11149](http://arxiv.org/abs/2504.11149)|null|
+|**2025-04-15**|**Revealing Covert Attention by Analyzing Human and Reinforcement Learning Agent Gameplay**|Henrik Krauss et.al.|[2504.11118](http://arxiv.org/abs/2504.11118)|null|
+|**2025-04-15**|**Emergence of Goal-Directed Behaviors via Active Inference with Self-Prior**|Dongmin Kim et.al.|[2504.11075](http://arxiv.org/abs/2504.11075)|null|
+|**2025-04-15**|**Synthesis and characterization of gold-coated nanodiamonds through green chemistry as potential radiosensitizers for proton therapy**|Edgar Mendes et.al.|[2504.11061](http://arxiv.org/abs/2504.11061)|null|
+|**2025-04-15**|**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**|Andrea Tirinzoni et.al.|[2504.11054](http://arxiv.org/abs/2504.11054)|null|
+|**2025-04-15**|**Dynamic Compressing Prompts for Efficient Inference of Large Language Models**|Jinwu Hu et.al.|[2504.11004](http://arxiv.org/abs/2504.11004)|null|
+|**2025-04-15**|**Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation**|Yan Rong et.al.|[2504.11002](http://arxiv.org/abs/2504.11002)|null|
+|**2025-04-15**|**Deep Learning in Concealed Dense Prediction**|Pancheng Zhao et.al.|[2504.10979](http://arxiv.org/abs/2504.10979)|null|
+|**2025-04-15**|**AgentPolyp: Accurate Polyp Segmentation via Image Enhancement Agent**|Pu Wang et.al.|[2504.10978](http://arxiv.org/abs/2504.10978)|null|
+|**2025-04-15**|**A Linear Push-Pull Average Consensus Algorithm for Delay-Prone Networks**|Evagoras Makridis et.al.|[2504.10960](http://arxiv.org/abs/2504.10960)|null|
+|**2025-04-15**|**Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective**|Mengyao Wang et.al.|[2504.10918](http://arxiv.org/abs/2504.10918)|null|
+|**2025-04-15**|**LOKA Protocol: A Decentralized Framework for Trustworthy and Ethical AI Agent Ecosystems**|Rajesh Ranjan et.al.|[2504.10915](http://arxiv.org/abs/2504.10915)|null|
+|**2025-04-15**|**Design and Verification of a Synchronus First In First Out (FIFO)**|Yatheeswar Penta et.al.|[2504.10901](http://arxiv.org/abs/2504.10901)|null|
+|**2025-04-15**|**Hallucination-Aware Generative Pretrained Transformer for Cooperative Aerial Mobility Control**|Hyojun Ahn et.al.|[2504.10831](http://arxiv.org/abs/2504.10831)|null|
+|**2025-04-15**|**Following Is All You Need: Robot Crowd Navigation Using People As Planners**|Yuwen Liao et.al.|[2504.10828](http://arxiv.org/abs/2504.10828)|null|
+|**2025-04-15**|**Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations**|Alejandro Lopez-Lira et.al.|[2504.10789](http://arxiv.org/abs/2504.10789)|null|
+|**2025-04-15**|**Collaborative Bayesian Optimization via Wasserstein Barycenters**|Donglin Zhan et.al.|[2504.10770](http://arxiv.org/abs/2504.10770)|null|
+|**2025-04-14**|**Communication-aware Hierarchical Map Compression of Time-Varying Environments for Mobile Robots**|Daniel T. Larsson et.al.|[2504.10751](http://arxiv.org/abs/2504.10751)|null|
+|**2025-04-14**|**Introducing Large Language Models as the Next Challenging Internet Traffic Source**|Nataliia Koneva et.al.|[2504.10688](http://arxiv.org/abs/2504.10688)|null|
+|**2025-04-14**|**Achieving Optimal Tissue Repair Through MARL with Reward Shaping and Curriculum Learning**|Muhammad Al-Zafar Khan et.al.|[2504.10677](http://arxiv.org/abs/2504.10677)|null|
+|**2025-04-14**|**Molecular Learning Dynamics**|Yaroslav Gusev et.al.|[2504.10560](http://arxiv.org/abs/2504.10560)|null|
+|**2025-04-11**|**Toward Super Agent System with Hybrid AI Routers**|Yuhang Yao et.al.|[2504.10519](http://arxiv.org/abs/2504.10519)|null|
 |**2025-04-14**|**The Price of Competitive Information Disclosure**|Siddhartha Banerjee et.al.|[2504.10459](http://arxiv.org/abs/2504.10459)|null|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445](http://arxiv.org/abs/2504.10445)|null|
 |**2025-04-14**|**Position Uncertainty in a Prisoner's Dilemma Game : An Experiment**|Chowdhury Mohammad Sakib Anwar et.al.|[2504.10441](http://arxiv.org/abs/2504.10441)|null|
 |**2025-04-14**|**Silent Self-Stabilizing Ranking: Time Optimal and Space Efficient**|Petra Berenbrink et.al.|[2504.10417](http://arxiv.org/abs/2504.10417)|null|
@@ -35,7 +72,7 @@
 |**2025-04-14**|**Fact-Checking with Contextual Narratives: Leveraging Retrieval-Augmented LLMs for Social Media Analysis**|Arka Ujjal Dey et.al.|[2504.10166](http://arxiv.org/abs/2504.10166)|null|
 |**2025-04-14**|**SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users**|Xinnong Zhang et.al.|[2504.10157](http://arxiv.org/abs/2504.10157)|null|
 |**2025-04-14**|**A Survey of Personalization: From RAG to Agent**|Xiaopeng Li et.al.|[2504.10147](http://arxiv.org/abs/2504.10147)|**[link](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)**|
-|**2025-04-14**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junlei Zhang et.al.|[2504.10127](http://arxiv.org/abs/2504.10127)|null|
+|**2025-04-15**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junlei Zhang et.al.|[2504.10127](http://arxiv.org/abs/2504.10127)|null|
 |**2025-04-14**|**CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography**|I-Sheng Fang et.al.|[2504.10090](http://arxiv.org/abs/2504.10090)|null|
 |**2025-04-14**|**Pay Attention to What and Where? Interpretable Feature Extractor in Vision-based Deep Reinforcement Learning**|Tien Pham et.al.|[2504.10071](http://arxiv.org/abs/2504.10071)|null|
 |**2025-04-14**|**Joint Action Language Modelling for Transparent Policy Execution**|Theodor Wulff et.al.|[2504.10055](http://arxiv.org/abs/2504.10055)|null|
@@ -142,7 +179,7 @@
 |**2025-04-10**|**Strategic learning for disturbance rejection in multi-agent systems: Nash and Minmax in graphical games**|Xinyang Wang et.al.|[2504.07547](http://arxiv.org/abs/2504.07547)|null|
 |**2025-04-10**|**A taxonomy of epistemic injustice in the context of AI and the case for generative hermeneutical erasure**|Warmhold Jan Thomas Mollema et.al.|[2504.07531](http://arxiv.org/abs/2504.07531)|null|
 |**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[2504.07507](http://arxiv.org/abs/2504.07507)|null|
-|**2025-04-10**|**Kimi-VL Technical Report**|Kimi Team et.al.|[2504.07491](http://arxiv.org/abs/2504.07491)|**[link](https://github.com/moonshotai/kimi-vl)**|
+|**2025-04-15**|**Kimi-VL Technical Report**|Kimi Team et.al.|[2504.07491](http://arxiv.org/abs/2504.07491)|**[link](https://github.com/moonshotai/kimi-vl)**|
 |**2025-04-10**|**Enhanced Question-Answering for Skill-based learning using Knowledge-based AI and Generative AI**|Rahul K. Dass et.al.|[2504.07463](http://arxiv.org/abs/2504.07463)|null|
 |**2025-04-10**|**Achilles Heel of Distributed Multi-Agent Systems**|Yiting Zhang et.al.|[2504.07461](http://arxiv.org/abs/2504.07461)|null|
 |**2025-04-10**|**Beyond LLMs: A Linguistic Approach to Causal Graph Generation from Narrative Texts**|Zehan Li et.al.|[2504.07459](http://arxiv.org/abs/2504.07459)|null|
