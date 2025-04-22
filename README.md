@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -53,7 +53,7 @@
 |**2025-04-15**|**X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents**|Salman Rahman et.al.|[2504.13203](http://arxiv.org/abs/2504.13203)|null|
 |**2025-04-13**|**CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent**|Liang-bo Ning et.al.|[2504.13192](http://arxiv.org/abs/2504.13192)|null|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
-|**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
+|**2025-04-18**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
 |**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yusi Sun et.al.|[2504.13119](http://arxiv.org/abs/2504.13119)|null|
 |**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|
 |**2025-04-17**|**InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning**|Zheng Wang et.al.|[2504.13032](http://arxiv.org/abs/2504.13032)|null|
@@ -90,7 +90,7 @@
 |**2025-04-11**|**A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis**|Xin Gao et.al.|[2504.12322](http://arxiv.org/abs/2504.12322)|**[link](https://github.com/gx-xingao/gra)**|
 |**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Marko Tot et.al.|[2504.12299](http://arxiv.org/abs/2504.12299)|null|
 |**2025-04-16**|**Optimal flock formation induced by agent heterogeneity**|Arthur N. Montanari et.al.|[2504.12297](http://arxiv.org/abs/2504.12297)|**[link](https://github.com/montanariarthur/optflock)**|
-|**2025-04-16**|**Advancing Arabic Speech Recognition Through Large-Scale Weakly Supervised Learning**|Mahmoud Salhab et.al.|[2504.12254](http://arxiv.org/abs/2504.12254)|null|
+|**2025-04-19**|**Advancing Arabic Speech Recognition Through Large-Scale Weakly Supervised Learning**|Mahmoud Salhab et.al.|[2504.12254](http://arxiv.org/abs/2504.12254)|null|
 |**2025-04-16**|**Data Assimilation for Robust UQ Within Agent-Based Simulation on HPC Systems**|Adam Spannaus et.al.|[2504.12228](http://arxiv.org/abs/2504.12228)|null|
 |**2025-04-16**|**Communication Optimization for Decentralized Learning atop Bandwidth-limited Edge Networks**|Tingyang Sun et.al.|[2504.12210](http://arxiv.org/abs/2504.12210)|null|
 |**2025-04-16**|**ARCeR: an Agentic RAG for the Automated Definition of Cyber Ranges**|Matteo Lupinacci et.al.|[2504.12143](http://arxiv.org/abs/2504.12143)|null|
@@ -195,7 +195,7 @@
 |**2025-04-13**|**Learning-based decentralized control with collision avoidance for multi-agent systems**|Omayra Yago Nieto et.al.|[2504.09730](http://arxiv.org/abs/2504.09730)|null|
 |**2025-04-13**|**AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents**|Dakuo Wang et.al.|[2504.09723](http://arxiv.org/abs/2504.09723)|null|
 |**2025-04-13**|**MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?**|Yunxiang Zhang et.al.|[2504.09702](http://arxiv.org/abs/2504.09702)|null|
-|**2025-04-13**|**EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**|Jiahao Qiu et.al.|[2504.09689](http://arxiv.org/abs/2504.09689)|**[link](https://github.com/1akaman/emoagent)**|
+|**2025-04-19**|**EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**|Jiahao Qiu et.al.|[2504.09689](http://arxiv.org/abs/2504.09689)|**[link](https://github.com/1akaman/emoagent)**|
 |**2025-04-13**|**Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps**|Xiaohui Bei et.al.|[2504.09669](http://arxiv.org/abs/2504.09669)|null|
 |**2025-04-13**|**CLEAR-KGQA: Clarification-Enhanced Ambiguity Resolution for Knowledge Graph Question Answering**|Liqiang Wen et.al.|[2504.09665](http://arxiv.org/abs/2504.09665)|null|
 |**2025-04-13**|**AgentDynEx: Nudging the Mechanics and Dynamics of Multi-Agent Simulations**|Jenny Ma et.al.|[2504.09662](http://arxiv.org/abs/2504.09662)|null|
@@ -6527,7 +6527,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
