@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -71,7 +71,7 @@ layout: default
 |**2025-04-21**|**Mechanism Design for Auctions with Externalities on Budgets**|Yusen Zheng et.al.|[2504.14948](http://arxiv.org/abs/2504.14948)|null|
 |**2025-04-21**|**EducationQ: Evaluating LLMs' Teaching Capabilities Through Multi-Agent Dialogue Framework**|Yao Shi et.al.|[2504.14928](http://arxiv.org/abs/2504.14928)|null|
 |**2025-04-21**|**Distributed Time-Varying Gaussian Regression via Kalman Filtering**|Nicola Taddei et.al.|[2504.14900](http://arxiv.org/abs/2504.14900)|null|
-|**2025-04-21**|**Expected Free Energy-based Planning as Variational Inference**|Bert de Vries et.al.|[2504.14898](http://arxiv.org/abs/2504.14898)|null|
+|**2025-04-23**|**Expected Free Energy-based Planning as Variational Inference**|Bert de Vries et.al.|[2504.14898](http://arxiv.org/abs/2504.14898)|null|
 |**2025-04-21**|**Event triggered optimal formation control for nonlinear multi-agent systems under Denial-of-Service attacks**|Jianqiang Zhang et.al.|[2504.14874](http://arxiv.org/abs/2504.14874)|null|
 |**2025-04-21**|**Twin Co-Adaptive Dialogue for Progressive Image Generation**|Jianhui Wang et.al.|[2504.14868](http://arxiv.org/abs/2504.14868)|null|
 |**2025-04-21**|**SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation**|Jiahui Li et.al.|[2504.14837](http://arxiv.org/abs/2504.14837)|null|
@@ -86,7 +86,7 @@ layout: default
 |**2025-04-20**|**SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs**|Minh V. T. Pham et.al.|[2504.14757](http://arxiv.org/abs/2504.14757)|null|
 |**2025-04-22**|**AI with Emotions: Exploring Emotional Expressions in Large Language Models**|Shin-nosuke Ishikawa et.al.|[2504.14706](http://arxiv.org/abs/2504.14706)|null|
 |**2025-04-20**|**An LLM-enabled Multi-Agent Autonomous Mechatronics Design Framework**|Zeyu Wang et.al.|[2504.14681](http://arxiv.org/abs/2504.14681)|null|
-|**2025-04-20**|**A Complete and Bounded-Suboptimal Algorithm for a Moving Target Traveling Salesman Problem with Obstacles in 3D**|Anoop Bhat et.al.|[2504.14680](http://arxiv.org/abs/2504.14680)|null|
+|**2025-04-23**|**A Complete and Bounded-Suboptimal Algorithm for a Moving Target Traveling Salesman Problem with Obstacles in 3D**|Anoop Bhat et.al.|[2504.14680](http://arxiv.org/abs/2504.14680)|null|
 |**2025-04-20**|**A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents**|Yuting Huang et.al.|[2504.14650](http://arxiv.org/abs/2504.14650)|null|
 |**2025-04-20**|**Towards Optimal Circuit Generation: Multi-Agent Collaboration Meets Collective Intelligence**|Haiyan Qin et.al.|[2504.14625](http://arxiv.org/abs/2504.14625)|null|
 |**2025-04-20**|**UFO2: The Desktop AgentOS**|Chaoyun Zhang et.al.|[2504.14603](http://arxiv.org/abs/2504.14603)|**[link](https://github.com/microsoft/UFO)**|
@@ -113,13 +113,13 @@ layout: default
 |**2025-04-19**|**InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners**|Yuhang Liu et.al.|[2504.14239](http://arxiv.org/abs/2504.14239)|**[link](https://github.com/reallm-labs/infigui-r1)**|
 |**2025-04-19**|**Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval**|Yong-En Tian et.al.|[2504.14233](http://arxiv.org/abs/2504.14233)|**[link](https://github.com/bryant-nn/template-based-financial-report-generation)**|
 |**2025-04-19**|**tAIfa: Enhancing Team Effectiveness and Cohesion with AI-Generated Automated Feedback**|Mohammed Almutairi et.al.|[2504.14222](http://arxiv.org/abs/2504.14222)|null|
-|**2025-04-22**|**TALES: Text Adventure Learning Environment Suite**|Christopher Zhang Cui et.al.|[2504.14128](http://arxiv.org/abs/2504.14128)|null|
+|**2025-04-23**|**TALES: Text Adventure Learning Environment Suite**|Christopher Zhang Cui et.al.|[2504.14128](http://arxiv.org/abs/2504.14128)|null|
 |**2025-04-19**|**Longitudinal Study on Social and Emotional Use of AI Conversational Agent**|Mohit Chandra et.al.|[2504.14112](http://arxiv.org/abs/2504.14112)|null|
 |**2025-04-18**|**System of Agentic AI for the Discovery of Metal-Organic Frameworks**|Theo Jaffrelot Inizan et.al.|[2504.14110](http://arxiv.org/abs/2504.14110)|null|
 |**2025-04-22**|**DoomArena: A framework for Testing AI Agents Against Evolving Security Threats**|Leo Boisvert et.al.|[2504.14064](http://arxiv.org/abs/2504.14064)|null|
 |**2025-04-22**|**A framework for distributed discrete evacuation strategies**|Piotr Borowiecki et.al.|[2504.14052](http://arxiv.org/abs/2504.14052)|null|
 |**2025-04-18**|**Going Whole Hog: A Philosophical Defense of AI Cognition**|Herman Cappelen et.al.|[2504.13988](http://arxiv.org/abs/2504.13988)|null|
-|**2025-04-17**|**Tinker Tales: Interactive Storytelling Framework for Early Childhood Narrative Development and AI Literacy**|Nayoung Choi et.al.|[2504.13969](http://arxiv.org/abs/2504.13969)|null|
+|**2025-04-22**|**Tinker Tales: Interactive Storytelling Framework for Early Childhood Narrative Development and AI Literacy**|Nayoung Choi et.al.|[2504.13969](http://arxiv.org/abs/2504.13969)|null|
 |**2025-04-15**|**ViMo: A Generative Visual GUI World Model for App Agent**|Dezhao Luo et.al.|[2504.13936](http://arxiv.org/abs/2504.13936)|null|
 |**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|**[link](https://github.com/jhu-clsp/science-hierarchography)**|
 |**2025-04-18**|**LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark**|Guangyi Liu et.al.|[2504.13805](http://arxiv.org/abs/2504.13805)|null|
@@ -181,7 +181,7 @@ layout: default
 |**2025-04-17**|**On Equivalence Between Decentralized Policy-Profile Mixtures and Behavioral Coordination Policies in Multi-Agent Systems**|Nouman Khan et.al.|[2504.12635](http://arxiv.org/abs/2504.12635)|null|
 |**2025-04-17**|**The Chronicles of Foundation AI for Forensics of Multi-Agent Provenance**|Ching-Chun Chang et.al.|[2504.12612](http://arxiv.org/abs/2504.12612)|null|
 |**2025-04-17**|**MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation**|Haris Riaz et.al.|[2504.12563](http://arxiv.org/abs/2504.12563)|null|
-|**2025-04-17**|**TraCeS: Trajectory Based Credit Assignment From Sparse Safety Feedback**|Siow Meng Low et.al.|[2504.12557](http://arxiv.org/abs/2504.12557)|null|
+|**2025-04-23**|**TraCeS: Trajectory Based Credit Assignment From Sparse Safety Feedback**|Siow Meng Low et.al.|[2504.12557](http://arxiv.org/abs/2504.12557)|null|
 |**2025-04-21**|**Anonymous Public Announcements**|Thomas Ågotnes et.al.|[2504.12546](http://arxiv.org/abs/2504.12546)|null|
 |**2025-04-16**|**A Framework for Information Disorder: Modeling Mechanisms and Implications Based on a Systematic Literature Review**|Julie Ricard et.al.|[2504.12537](http://arxiv.org/abs/2504.12537)|null|
 |**2025-04-16**|**BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents**|Jason Wei et.al.|[2504.12516](http://arxiv.org/abs/2504.12516)|**[link](https://github.com/openai/simple-evals)**|
