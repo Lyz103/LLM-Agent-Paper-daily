@@ -14,6 +14,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents**|Raghav Thind et.al.|[2504.16918](http://arxiv.org/abs/2504.16918)|null|
+|**2025-04-23**|**Building A Secure Agentic AI Application Leveraging A2A Protocol**|Idan Habler et.al.|[2504.16902](http://arxiv.org/abs/2504.16902)|null|
+|**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/abs/2504.16884)|null|
+|**2025-04-23**|**Hybrid Reinforcement Learning and Model Predictive Control for Adaptive Control of Hydrogen-Diesel Dual-Fuel Combustion**|Julian Bedei et.al.|[2504.16875](http://arxiv.org/abs/2504.16875)|null|
+|**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
+|**2025-04-23**|**Fair division of the replacement-units without an appraiser in urban renewal processes**|Noga Klein Elmalem et.al.|[2504.16852](http://arxiv.org/abs/2504.16852)|null|
+|**2025-04-23**|**MLOps Monitoring at Scale for Digital Platforms**|Yu Jeffrey Hu et.al.|[2504.16789](http://arxiv.org/abs/2504.16789)|null|
+|**2025-04-23**|**A Survey of AI Agent Protocols**|Yingxuan Yang et.al.|[2504.16736](http://arxiv.org/abs/2504.16736)|null|
+|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734](http://arxiv.org/abs/2504.16734)|null|
+|**2025-04-23**|**IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery**|Aniketh Garikaparthi et.al.|[2504.16728](http://arxiv.org/abs/2504.16728)|null|
+|**2025-04-23**|**Algorithmic Pricing and Algorithmic Collusion**|Martin Bichler et.al.|[2504.16592](http://arxiv.org/abs/2504.16592)|null|
+|**2025-04-23**|**Revisiting Regret Benchmarks in Online Non-Stochastic Control**|Vijeth Hebbar et.al.|[2504.16581](http://arxiv.org/abs/2504.16581)|null|
+|**2025-04-23**|**Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution**|Junjie Chen et.al.|[2504.16563](http://arxiv.org/abs/2504.16563)|null|
+|**2025-04-23**|**How Irrationality Shapes Nash Equilibria: A Prospect-Theoretic Perspective**|Ashok Krishnan K. S. et.al.|[2504.16556](http://arxiv.org/abs/2504.16556)|null|
+|**2025-04-23**|**Self-organized fractal architectures driven by motility-dependent chemotactic feedback**|Subhashree Subhrasmita Khuntia et.al.|[2504.16539](http://arxiv.org/abs/2504.16539)|null|
+|**2025-04-23**|**Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation**|Junrong Yue et.al.|[2504.16516](http://arxiv.org/abs/2504.16516)|null|
+|**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489](http://arxiv.org/abs/2504.16489)|null|
+|**2025-04-23**|**A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradigms**|Chengkai Huang et.al.|[2504.16420](http://arxiv.org/abs/2504.16420)|null|
+|**2025-04-23**|**FeedQUAC: Quick Unobtrusive AI-Generated Commentary**|Tao Long et.al.|[2504.16416](http://arxiv.org/abs/2504.16416)|null|
+|**2025-04-23**|**Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation**|Jiahao Yuan et.al.|[2504.16408](http://arxiv.org/abs/2504.16408)|null|
+|**2025-04-23**|**The Safety-Privacy Tradeoff in Linear Bandits**|Arghavan Zibaie et.al.|[2504.16371](http://arxiv.org/abs/2504.16371)|null|
+|**2025-04-23**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem Solving**|Jie JW Wu et.al.|[2504.16331](http://arxiv.org/abs/2504.16331)|null|
+|**2025-04-22**|**Schelling segregation dynamics in densely-connected social network graphs**|Sage Anastasi et.al.|[2504.16307](http://arxiv.org/abs/2504.16307)|null|
+|**2025-04-22**|**SLiM-Gym: Reinforcement Learning for Population Genetics**|Niko Zuppas et.al.|[2504.16301](http://arxiv.org/abs/2504.16301)|null|
+|**2025-04-22**|**Quantum reinforcement learning of classical rare dynamics: Enhancement by intrinsic Fourier features**|Alissa Wilms et.al.|[2504.16258](http://arxiv.org/abs/2504.16258)|null|
+|**2025-04-22**|**A PDE Model for Janus Particle Swarming**|Griffin Smith et.al.|[2504.16243](http://arxiv.org/abs/2504.16243)|null|
+|**2025-04-22**|**Nash Equilibrium Learning In Large Populations With First Order Payoff Modifications**|Matthew S. Hankins et.al.|[2504.16222](http://arxiv.org/abs/2504.16222)|null|
+|**2025-04-22**|**One-Point Sampling for Distributed Bandit Convex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2504.16211](http://arxiv.org/abs/2504.16211)|null|
+|**2025-04-22**|**On a modified quantum theory with objective quantum thermalization and spontaneous universal irreversibility**|Aritro Mukherjee et.al.|[2504.16197](http://arxiv.org/abs/2504.16197)|null|
+|**2025-04-21**|**MARFT: Multi-Agent Reinforcement Fine-Tuning**|Junwei Liao et.al.|[2504.16129](http://arxiv.org/abs/2504.16129)|null|
+|**2025-04-20**|**Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection**|Xiangyu Chang et.al.|[2504.16125](http://arxiv.org/abs/2504.16125)|null|
+|**2025-04-19**|**SOTOPIA-S4: a user-friendly system for flexible, customizable, and large-scale social simulation**|Xuhui Zhou et.al.|[2504.16122](http://arxiv.org/abs/2504.16122)|null|
+|**2025-04-17**|**Trusted Identities for AI Agents: Leveraging Telco-Hosted eSIM Infrastructure**|Sebastian Barros et.al.|[2504.16108](http://arxiv.org/abs/2504.16108)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
 |**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
@@ -55,7 +88,7 @@ layout: default
 |**2025-04-20**|**PolicyEvol-Agent: Evolving Policy via Environment Perception and Self-Awareness with Theory of Mind**|Yajie Yu et.al.|[2504.15313](http://arxiv.org/abs/2504.15313)|null|
 |**2025-04-18**|**Can Machine Learning Agents Deal with Hard Choices?**|Kangyu Wang et.al.|[2504.15304](http://arxiv.org/abs/2504.15304)|null|
 |**2025-04-17**|**A biologically Inspired Trust Model for Open Multi-Agent Systems that is Resilient to Rapid Performance Fluctuations**|Zoi Lygizou et.al.|[2504.15301](http://arxiv.org/abs/2504.15301)|null|
-|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
+|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|**[link](https://github.com/Chenyu-Wang567/All-Angles-Bench)**|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
 |**2025-04-21**|**FlowReasoner: Reinforcing Query-Level Meta-Agents**|Hongcheng Gao et.al.|[2504.15257](http://arxiv.org/abs/2504.15257)|**[link](https://github.com/sail-sg/flowreasoner)**|
 |**2025-04-21**|**A Self-Improving Coding Agent**|Maxime Robeyns et.al.|[2504.15228](http://arxiv.org/abs/2504.15228)|null|
