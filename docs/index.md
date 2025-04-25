@@ -14,6 +14,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Robotic Task Ambiguity Resolution via Natural Language Interaction**|Eugenio Chisari et.al.|[2504.17748](http://arxiv.org/abs/2504.17748)|null|
+|**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700](http://arxiv.org/abs/2504.17700)|null|
+|**2025-04-24**|**'The Boring and the Tedious': Invisible Labour in India's Gig-Economy**|Pratyay Suvarnapathaki et.al.|[2504.17697](http://arxiv.org/abs/2504.17697)|null|
+|**2025-04-24**|**Towards a HIPAA Compliant Agentic AI System in Healthcare**|Subash Neupane et.al.|[2504.17669](http://arxiv.org/abs/2504.17669)|null|
+|**2025-04-24**|**A Constraint Opinion Model**|Fabio Gadducci et.al.|[2504.17605](http://arxiv.org/abs/2504.17605)|null|
+|**2025-04-24**|**Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach**|Sihem Bakri et.al.|[2504.17590](http://arxiv.org/abs/2504.17590)|null|
+|**2025-04-24**|**A Multi-Agent, Laxity-Based Aggregation Strategy for Cost-Effective Electric Vehicle Charging and Local Transformer Overload Prevention**|Kristoffer Christensen et.al.|[2504.17575](http://arxiv.org/abs/2504.17575)|null|
+|**2025-04-24**|**Cooperative Task Offloading through Asynchronous Deep Reinforcement Learning in Mobile Edge Computing for Future Networks**|Yuelin Liu et.al.|[2504.17526](http://arxiv.org/abs/2504.17526)|null|
+|**2025-04-24**|**Communication-Efficient Personalized Distributed Learning with Data and Node Heterogeneity**|Zhuojun Tian et.al.|[2504.17520](http://arxiv.org/abs/2504.17520)|null|
+|**2025-04-23**|**Moving mountains: grazing agents drive terracette formation on steep hillslopes**|Benjamin Seleb et.al.|[2504.17496](http://arxiv.org/abs/2504.17496)|null|
+|**2025-04-24**|**Plasticine: Accelerating Research in Plasticity-Motivated Deep Reinforcement Learning**|Mingqi Yuan et.al.|[2504.17490](http://arxiv.org/abs/2504.17490)|null|
+|**2025-04-24**|**Optimal design of reinsurance contracts under adverse selection with a continuum of types**|Ka Chun Cheung et.al.|[2504.17468](http://arxiv.org/abs/2504.17468)|null|
+|**2025-04-24**|**AGCo-MATA: Air-Ground Collaborative Multi-Agent Task Allocation in Mobile Crowdsensing**|Tianhao Shao et.al.|[2504.17409](http://arxiv.org/abs/2504.17409)|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
+|**2025-04-24**|**Doubly Adaptive Social Learning**|Marco Carpentiero et.al.|[2504.17370](http://arxiv.org/abs/2504.17370)|null|
+|**2025-04-24**|**Comprehend, Divide, and Conquer: Feature Subspace Exploration via Multi-Agent Hierarchical Reinforcement Learning**|Weiliang Zhang et.al.|[2504.17356](http://arxiv.org/abs/2504.17356)|null|
+|**2025-04-24**|**Collaborative Multi-Agent Reinforcement Learning for Automated Feature Transformation with Graph-Driven Path Optimization**|Xiaohan Huang et.al.|[2504.17355](http://arxiv.org/abs/2504.17355)|null|
+|**2025-04-24**|**DataScout: Automatic Data Fact Retrieval for Statement Augmentation with an LLM-Based Agent**|Chuer Chen et.al.|[2504.17334](http://arxiv.org/abs/2504.17334)|null|
+|**2025-04-24**|**Cracking the Code of Action: a Generative Approach to Affordances for Reinforcement Learning**|Lynn Cherif et.al.|[2504.17282](http://arxiv.org/abs/2504.17282)|null|
+|**2025-04-24**|**MCAF: Efficient Agent-based Video Understanding Framework through Multimodal Coarse-to-Fine Attention Focusing**|Shiwen Cao et.al.|[2504.17213](http://arxiv.org/abs/2504.17213)|null|
+|**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207](http://arxiv.org/abs/2504.17207)|null|
+|**2025-04-24**|**A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation**|Yangxinyu Xie et.al.|[2504.17200](http://arxiv.org/abs/2504.17200)|null|
+|**2025-04-24**|**Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning**|Minju Seo et.al.|[2504.17192](http://arxiv.org/abs/2504.17192)|null|
+|**2025-04-23**|**Peer-Aware Cost Estimation in Nonlinear General-Sum Dynamic Games for Mutual Learning and Intent Inference**|Seyed Yousef Soltanian et.al.|[2504.17129](http://arxiv.org/abs/2504.17129)|null|
+|**2025-04-23**|**PACE: A Framework for Learning and Control in Linear Incomplete-Information Differential Games**|Seyed Yousef Soltanian et.al.|[2504.17128](http://arxiv.org/abs/2504.17128)|null|
+|**2025-04-23**|**Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments**|Yuran Li et.al.|[2504.17087](http://arxiv.org/abs/2504.17087)|null|
+|**2025-04-23**|**Structural roles and gender disparities in corruption networks**|Arthur A. B. Pessa et.al.|[2504.17086](http://arxiv.org/abs/2504.17086)|null|
+|**2025-04-18**|**MobileCity: An Efficient Framework for Large-Scale Urban Behavior Simulation**|Xiaotong Ye et.al.|[2504.16946](http://arxiv.org/abs/2504.16946)|null|
 |**2025-04-23**|**OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents**|Raghav Thind et.al.|[2504.16918](http://arxiv.org/abs/2504.16918)|null|
 |**2025-04-23**|**Building A Secure Agentic AI Application Leveraging A2A Protocol**|Idan Habler et.al.|[2504.16902](http://arxiv.org/abs/2504.16902)|null|
 |**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/abs/2504.16884)|null|
