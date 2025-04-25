@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-04-23**|**Fair division of the replacement-units without an appraiser in urban renewal processes**|Noga Klein Elmalem et.al.|[2504.16852](http://arxiv.org/abs/2504.16852)|null|
 |**2025-04-23**|**MLOps Monitoring at Scale for Digital Platforms**|Yu Jeffrey Hu et.al.|[2504.16789](http://arxiv.org/abs/2504.16789)|null|
 |**2025-04-23**|**A Survey of AI Agent Protocols**|Yingxuan Yang et.al.|[2504.16736](http://arxiv.org/abs/2504.16736)|null|
-|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734](http://arxiv.org/abs/2504.16734)|null|
+|**2025-04-24**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734](http://arxiv.org/abs/2504.16734)|null|
 |**2025-04-23**|**IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery**|Aniketh Garikaparthi et.al.|[2504.16728](http://arxiv.org/abs/2504.16728)|null|
 |**2025-04-23**|**Algorithmic Pricing and Algorithmic Collusion**|Martin Bichler et.al.|[2504.16592](http://arxiv.org/abs/2504.16592)|null|
 |**2025-04-23**|**Revisiting Regret Benchmarks in Online Non-Stochastic Control**|Vijeth Hebbar et.al.|[2504.16581](http://arxiv.org/abs/2504.16581)|null|
@@ -44,9 +44,9 @@
 |**2025-04-22**|**Quantum reinforcement learning of classical rare dynamics: Enhancement by intrinsic Fourier features**|Alissa Wilms et.al.|[2504.16258](http://arxiv.org/abs/2504.16258)|null|
 |**2025-04-22**|**A PDE Model for Janus Particle Swarming**|Griffin Smith et.al.|[2504.16243](http://arxiv.org/abs/2504.16243)|null|
 |**2025-04-22**|**Nash Equilibrium Learning In Large Populations With First Order Payoff Modifications**|Matthew S. Hankins et.al.|[2504.16222](http://arxiv.org/abs/2504.16222)|null|
-|**2025-04-22**|**One-Point Sampling for Distributed Bandit Convex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2504.16211](http://arxiv.org/abs/2504.16211)|null|
+|**2025-04-24**|**One-Point Sampling for Distributed Bandit Convex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2504.16211](http://arxiv.org/abs/2504.16211)|null|
 |**2025-04-22**|**On a modified quantum theory with objective quantum thermalization and spontaneous universal irreversibility**|Aritro Mukherjee et.al.|[2504.16197](http://arxiv.org/abs/2504.16197)|null|
-|**2025-04-21**|**MARFT: Multi-Agent Reinforcement Fine-Tuning**|Junwei Liao et.al.|[2504.16129](http://arxiv.org/abs/2504.16129)|null|
+|**2025-04-24**|**MARFT: Multi-Agent Reinforcement Fine-Tuning**|Junwei Liao et.al.|[2504.16129](http://arxiv.org/abs/2504.16129)|null|
 |**2025-04-20**|**Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection**|Xiangyu Chang et.al.|[2504.16125](http://arxiv.org/abs/2504.16125)|null|
 |**2025-04-19**|**SOTOPIA-S4: a user-friendly system for flexible, customizable, and large-scale social simulation**|Xuhui Zhou et.al.|[2504.16122](http://arxiv.org/abs/2504.16122)|null|
 |**2025-04-17**|**Trusted Identities for AI Agents: Leveraging Telco-Hosted eSIM Infrastructure**|Sebastian Barros et.al.|[2504.16108](http://arxiv.org/abs/2504.16108)|null|
@@ -85,7 +85,7 @@
 |**2025-04-21**|**Solving Multi-Agent Safe Optimal Control with Distributed Epigraph Form MARL**|Songyuan Zhang et.al.|[2504.15425](http://arxiv.org/abs/2504.15425)|null|
 |**2025-04-21**|**LLM-Assisted Translation of Legacy FORTRAN Codes to C++: A Cross-Platform Study**|Nishath Rajiv Ranasinghe et.al.|[2504.15424](http://arxiv.org/abs/2504.15424)|null|
 |**2025-04-21**|**MRTA-Sim: A Modular Simulator for Multi-Robot Allocation, Planning, and Control in Open-World Environments**|Victoria Marie Tuck et.al.|[2504.15418](http://arxiv.org/abs/2504.15418)|null|
-|**2025-04-21**|**Bare Minimum Mitigations for Autonomous AI Development**|Joshua Clymer et.al.|[2504.15416](http://arxiv.org/abs/2504.15416)|null|
+|**2025-04-23**|**Bare Minimum Mitigations for Autonomous AI Development**|Joshua Clymer et.al.|[2504.15416](http://arxiv.org/abs/2504.15416)|null|
 |**2025-04-21**|**Post-Convergence Sim-to-Real Policy Transfer: A Principled Alternative to Cherry-Picking**|Dylan Khor et.al.|[2504.15414](http://arxiv.org/abs/2504.15414)|null|
 |**2025-04-21**|**Solving New Tasks by Adapting Internet Video Knowledge**|Calvin Luo et.al.|[2504.15369](http://arxiv.org/abs/2504.15369)|null|
 |**2025-04-20**|**PolicyEvol-Agent: Evolving Policy via Environment Perception and Self-Awareness with Theory of Mind**|Yajie Yu et.al.|[2504.15313](http://arxiv.org/abs/2504.15313)|null|
@@ -110,7 +110,7 @@
 |**2025-04-23**|**Expected Free Energy-based Planning as Variational Inference**|Bert de Vries et.al.|[2504.14898](http://arxiv.org/abs/2504.14898)|null|
 |**2025-04-21**|**Event triggered optimal formation control for nonlinear multi-agent systems under Denial-of-Service attacks**|Jianqiang Zhang et.al.|[2504.14874](http://arxiv.org/abs/2504.14874)|null|
 |**2025-04-21**|**Twin Co-Adaptive Dialogue for Progressive Image Generation**|Jianhui Wang et.al.|[2504.14868](http://arxiv.org/abs/2504.14868)|null|
-|**2025-04-21**|**SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation**|Jiahui Li et.al.|[2504.14837](http://arxiv.org/abs/2504.14837)|null|
+|**2025-04-24**|**SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation**|Jiahui Li et.al.|[2504.14837](http://arxiv.org/abs/2504.14837)|null|
 |**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835](http://arxiv.org/abs/2504.14835)|null|
 |**2025-04-21**|**An Enhanced Dual-Currency VCG Auction Mechanism for Resource Allocation in IoV: A Value of Information Perspective**|Wei Wang et.al.|[2504.14824](http://arxiv.org/abs/2504.14824)|null|
 |**2025-04-21**|**Completing A Systematic Review in Hours instead of Months with Interactive AI Agents**|Rui Qiu et.al.|[2504.14822](http://arxiv.org/abs/2504.14822)|null|
@@ -149,7 +149,7 @@
 |**2025-04-19**|**InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners**|Yuhang Liu et.al.|[2504.14239](http://arxiv.org/abs/2504.14239)|**[link](https://github.com/reallm-labs/infigui-r1)**|
 |**2025-04-19**|**Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval**|Yong-En Tian et.al.|[2504.14233](http://arxiv.org/abs/2504.14233)|**[link](https://github.com/bryant-nn/template-based-financial-report-generation)**|
 |**2025-04-19**|**tAIfa: Enhancing Team Effectiveness and Cohesion with AI-Generated Automated Feedback**|Mohammed Almutairi et.al.|[2504.14222](http://arxiv.org/abs/2504.14222)|null|
-|**2025-04-23**|**TALES: Text Adventure Learning Environment Suite**|Christopher Zhang Cui et.al.|[2504.14128](http://arxiv.org/abs/2504.14128)|null|
+|**2025-04-24**|**TALES: Text Adventure Learning Environment Suite**|Christopher Zhang Cui et.al.|[2504.14128](http://arxiv.org/abs/2504.14128)|null|
 |**2025-04-19**|**Longitudinal Study on Social and Emotional Use of AI Conversational Agent**|Mohit Chandra et.al.|[2504.14112](http://arxiv.org/abs/2504.14112)|null|
 |**2025-04-18**|**System of Agentic AI for the Discovery of Metal-Organic Frameworks**|Theo Jaffrelot Inizan et.al.|[2504.14110](http://arxiv.org/abs/2504.14110)|null|
 |**2025-04-22**|**DoomArena: A framework for Testing AI Agents Against Evolving Security Threats**|Leo Boisvert et.al.|[2504.14064](http://arxiv.org/abs/2504.14064)|null|
@@ -6668,7 +6668,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
