@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2025-04-24**|**Plasticine: Accelerating Research in Plasticity-Motivated Deep Reinforcement Learning**|Mingqi Yuan et.al.|[2504.17490](http://arxiv.org/abs/2504.17490)|null|
 |**2025-04-24**|**Optimal design of reinsurance contracts under adverse selection with a continuum of types**|Ka Chun Cheung et.al.|[2504.17468](http://arxiv.org/abs/2504.17468)|null|
 |**2025-04-24**|**AGCo-MATA: Air-Ground Collaborative Multi-Agent Task Allocation in Mobile Crowdsensing**|Tianhao Shao et.al.|[2504.17409](http://arxiv.org/abs/2504.17409)|null|
-|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
+|**2025-04-25**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
 |**2025-04-24**|**Doubly Adaptive Social Learning**|Marco Carpentiero et.al.|[2504.17370](http://arxiv.org/abs/2504.17370)|null|
 |**2025-04-24**|**Comprehend, Divide, and Conquer: Feature Subspace Exploration via Multi-Agent Hierarchical Reinforcement Learning**|Weiliang Zhang et.al.|[2504.17356](http://arxiv.org/abs/2504.17356)|null|
 |**2025-04-24**|**Collaborative Multi-Agent Reinforcement Learning for Automated Feature Transformation with Graph-Driven Path Optimization**|Xiaohan Huang et.al.|[2504.17355](http://arxiv.org/abs/2504.17355)|null|
@@ -60,7 +60,7 @@
 |**2025-04-23**|**Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution**|Junjie Chen et.al.|[2504.16563](http://arxiv.org/abs/2504.16563)|null|
 |**2025-04-23**|**How Irrationality Shapes Nash Equilibria: A Prospect-Theoretic Perspective**|Ashok Krishnan K. S. et.al.|[2504.16556](http://arxiv.org/abs/2504.16556)|null|
 |**2025-04-23**|**Self-organized fractal architectures driven by motility-dependent chemotactic feedback**|Subhashree Subhrasmita Khuntia et.al.|[2504.16539](http://arxiv.org/abs/2504.16539)|null|
-|**2025-04-23**|**Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation**|Junrong Yue et.al.|[2504.16516](http://arxiv.org/abs/2504.16516)|null|
+|**2025-04-24**|**Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation**|Junrong Yue et.al.|[2504.16516](http://arxiv.org/abs/2504.16516)|null|
 |**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489](http://arxiv.org/abs/2504.16489)|null|
 |**2025-04-23**|**A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradigms**|Chengkai Huang et.al.|[2504.16420](http://arxiv.org/abs/2504.16420)|null|
 |**2025-04-23**|**FeedQUAC: Quick Unobtrusive AI-Generated Commentary**|Tao Long et.al.|[2504.16416](http://arxiv.org/abs/2504.16416)|null|
@@ -152,8 +152,8 @@
 |**2025-04-20**|**An LLM-enabled Multi-Agent Autonomous Mechatronics Design Framework**|Zeyu Wang et.al.|[2504.14681](http://arxiv.org/abs/2504.14681)|null|
 |**2025-04-23**|**A Complete and Bounded-Suboptimal Algorithm for a Moving Target Traveling Salesman Problem with Obstacles in 3D**|Anoop Bhat et.al.|[2504.14680](http://arxiv.org/abs/2504.14680)|null|
 |**2025-04-20**|**A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents**|Yuting Huang et.al.|[2504.14650](http://arxiv.org/abs/2504.14650)|null|
-|**2025-04-20**|**Towards Optimal Circuit Generation: Multi-Agent Collaboration Meets Collective Intelligence**|Haiyan Qin et.al.|[2504.14625](http://arxiv.org/abs/2504.14625)|null|
-|**2025-04-20**|**UFO2: The Desktop AgentOS**|Chaoyun Zhang et.al.|[2504.14603](http://arxiv.org/abs/2504.14603)|**[link](https://github.com/microsoft/UFO)**|
+|**2025-04-25**|**Towards Optimal Circuit Generation: Multi-Agent Collaboration Meets Collective Intelligence**|Haiyan Qin et.al.|[2504.14625](http://arxiv.org/abs/2504.14625)|null|
+|**2025-04-25**|**UFO2: The Desktop AgentOS**|Chaoyun Zhang et.al.|[2504.14603](http://arxiv.org/abs/2504.14603)|**[link](https://github.com/microsoft/UFO)**|
 |**2025-04-20**|**Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction**|Charlie Campbell et.al.|[2504.14557](http://arxiv.org/abs/2504.14557)|null|
 |**2025-04-20**|**BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation**|Yiting Ran et.al.|[2504.14538](http://arxiv.org/abs/2504.14538)|null|
 |**2025-04-20**|**Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey**|Ahsan Bilal et.al.|[2504.14520](http://arxiv.org/abs/2504.14520)|null|
@@ -166,7 +166,7 @@
 |**2025-04-19**|**Quantum-Enhanced Reinforcement Learning for Power Grid Security Assessment**|Benjamin M. Peter et.al.|[2504.14412](http://arxiv.org/abs/2504.14412)|null|
 |**2025-04-22**|**Planet as a Brain: Towards Internet of AgentSites based on AIOS Server**|Xiang Zhang et.al.|[2504.14411](http://arxiv.org/abs/2504.14411)|null|
 |**2025-04-19**|**Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models**|Chung-En et.al.|[2504.14395](http://arxiv.org/abs/2504.14395)|null|
-|**2025-04-22**|**Manipulating Multimodal Agents via Cross-Modal Prompt Injection**|Le Wang et.al.|[2504.14348](http://arxiv.org/abs/2504.14348)|null|
+|**2025-04-25**|**Manipulating Multimodal Agents via Cross-Modal Prompt Injection**|Le Wang et.al.|[2504.14348](http://arxiv.org/abs/2504.14348)|null|
 |**2025-04-19**|**Iterative Polynomial Approximation Algorithms for Inverse Graph Filters**|Cheng Cheng et.al.|[2504.14341](http://arxiv.org/abs/2504.14341)|null|
 |**2025-04-19**|**Toward Generation of Test Cases from Task Descriptions via History-aware Planning**|Duy Cao et.al.|[2504.14336](http://arxiv.org/abs/2504.14336)|null|
 |**2025-04-19**|**Dusty stellar sources classification by implementing machine learning methods based on spectroscopic observations in the Magellanic Clouds**|Sepideh Ghaziasgar et.al.|[2504.14332](http://arxiv.org/abs/2504.14332)|null|
@@ -6696,7 +6696,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
