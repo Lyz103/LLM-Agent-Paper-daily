@@ -367,7 +367,7 @@ layout: default
 |**2025-04-13**|**AgentDynEx: Nudging the Mechanics and Dynamics of Multi-Agent Simulations**|Jenny Ma et.al.|[2504.09662](http://arxiv.org/abs/2504.09662)|null|
 |**2025-04-13**|**Metropolis-Hastings Captioning Game: Knowledge Fusion of Vision Language Models via Decentralized Bayesian Inference**|Yuta Matsui et.al.|[2504.09620](http://arxiv.org/abs/2504.09620)|null|
 |**2025-04-13**|**ERL-MPP: Evolutionary Reinforcement Learning with Multi-head Puzzle Perception for Solving Large-scale Jigsaw Puzzles of Eroded Gaps**|Xingke Song et.al.|[2504.09608](http://arxiv.org/abs/2504.09608)|null|
-|**2025-04-13**|**Fine-tuning an Large Language Model for Automating Computational Fluid Dynamics Simulations**|Zhehao Dong et.al.|[2504.09602](http://arxiv.org/abs/2504.09602)|null|
+|**2025-04-13**|**Fine-tuning an Large Language Model for Automating Computational Fluid Dynamics Simulations**|Zhehao Dong et.al.|[2504.09602](http://arxiv.org/abs/2504.09602)|**[link](https://github.com/yygroup/autocfd)**|
 |**2025-04-13**|**GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation**|Haotian Xu et.al.|[2504.09587](http://arxiv.org/abs/2504.09587)|null|
 |**2025-04-13**|**AirVista-II: An Agentic System for Embodied UAVs Toward Dynamic Scene Semantic Understanding**|Fei Lin et.al.|[2504.09583](http://arxiv.org/abs/2504.09583)|null|
 |**2025-04-13**|**Unification of Consensus-Based Multi-Objective Optimization and Multi-Robot Path Planning**|Michael P. Wozniak et.al.|[2504.09577](http://arxiv.org/abs/2504.09577)|null|
@@ -397,7 +397,7 @@ layout: default
 |**2025-04-11**|**X-Guard: Multilingual Guard Agent for Content Moderation**|Bibek Upadhayay et.al.|[2504.08848](http://arxiv.org/abs/2504.08848)|null|
 |**2025-04-09**|**PriM: Principle-Inspired Material Discovery through Multi-Agent Collaboration**|Zheyuan Lai et.al.|[2504.08810](http://arxiv.org/abs/2504.08810)|**[link](https://github.com/amair-lab/prim)**|
 |**2025-04-09**|**Endowing Embodied Agents with Spatial Reasoning Capabilities for Vision-and-Language Navigation**|Luo Ling et.al.|[2504.08806](http://arxiv.org/abs/2504.08806)|null|
-|**2025-04-18**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
+|**2025-04-18**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|**[link](https://github.com/facebookresearch/docagent)**|
 |**2025-04-14**|**SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents**|Muhammad Shihab Rashid et.al.|[2504.08703](http://arxiv.org/abs/2504.08703)|**[link](https://github.com/amazon-science/swe-polybench)**|
 |**2025-04-14**|**SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow**|Timothy Bula et.al.|[2504.08696](http://arxiv.org/abs/2504.08696)|null|
 |**2025-04-11**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694](http://arxiv.org/abs/2504.08694)|null|
@@ -678,7 +678,7 @@ layout: default
 |**2025-04-03**|**A Memory-Augmented LLM-Driven Method for Autonomous Merging of 3D Printing Work Orders**|Yuhao Liu et.al.|[2504.02509](http://arxiv.org/abs/2504.02509)|null|
 |**2025-04-03**|**The Self-Learning Agent with a Progressive Neural Network Integrated Transformer**|Ajay Sivakumar et.al.|[2504.02489](http://arxiv.org/abs/2504.02489)|null|
 |**2025-04-03**|**Hierarchical Policy-Gradient Reinforcement Learning for Multi-Agent Shepherding Control of Non-Cohesive Targets**|Stefano Covone et.al.|[2504.02479](http://arxiv.org/abs/2504.02479)|**[link](https://github.com/sincrogroup/hierarchical-policy-gradient-rl-for-multi-agent-shepherding-control-of-non-cohesive-targets)**|
-|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|null|
+|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|**[link](https://github.com/wutad-wjy/charms)**|
 |**2025-04-03**|**ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback**|Xiaolei Li et.al.|[2504.02357](http://arxiv.org/abs/2504.02357)|null|
 |**2025-04-03**|**Parallel Market Environments for FinRL Contests**|Keyi Wang et.al.|[2504.02281](http://arxiv.org/abs/2504.02281)|null|
 |**2025-04-03**|**LLMs as Deceptive Agents: How Role-Based Prompting Induces Semantic Ambiguity in Puzzle Tasks**|Seunghyun Yoo et.al.|[2504.02254](http://arxiv.org/abs/2504.02254)|null|
@@ -755,7 +755,7 @@ layout: default
 |**2025-03-31**|**Rack Position Optimization in Large-Scale Heterogeneous Data Centers**|Chang-Lin Chen et.al.|[2504.00277](http://arxiv.org/abs/2504.00277)|null|
 |**2025-03-31**|**SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers**|Yanzheng Xiang et.al.|[2504.00255](http://arxiv.org/abs/2504.00255)|**[link](https://github.com/xyzcs/scireplicate-bench)**|
 |**2025-03-31**|**Large Language Models in Numberland: A Quick Test of Their Numerical Reasoning Abilities**|Roussel Rahman et.al.|[2504.00226](http://arxiv.org/abs/2504.00226)|null|
-|**2025-03-31**|**Distributed Model Predictive Control for Dynamic Cooperation of Multi-Agent Systems**|Matthias Köhler et.al.|[2504.00225](http://arxiv.org/abs/2504.00225)|null|
+|**2025-03-31**|**Distributed Model Predictive Control for Dynamic Cooperation of Multi-Agent Systems**|Matthias Köhler et.al.|[2504.00225](http://arxiv.org/abs/2504.00225)|**[link](https://github.com/MatthiasKoehler/DMPC_for_dynamic_cooperation)**|
 |**2025-03-31**|**GazeLLM: Multimodal LLMs incorporating Human Visual Attention**|Jun Rekimoto et.al.|[2504.00221](http://arxiv.org/abs/2504.00221)|null|
 |**2025-03-31**|**$\textit{Agents Under Siege}$ : Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks**|Rana Muhammad Shahroz Khan et.al.|[2504.00218](http://arxiv.org/abs/2504.00218)|null|
 |**2025-03-31**|**Nuclear Microreactor Control with Deep Reinforcement Learning**|Leo Tunkle et.al.|[2504.00156](http://arxiv.org/abs/2504.00156)|null|
