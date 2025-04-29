@@ -14,6 +14,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010](http://arxiv.org/abs/2504.20010)|null|
+|**2025-04-28**|**Simplified and Secure MCP Gateways for Enterprise AI Integration**|Ivo Brett et.al.|[2504.19997](http://arxiv.org/abs/2504.19997)|null|
+|**2025-04-28**|**TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons**|Emre Can Acikgoz et.al.|[2504.19982](http://arxiv.org/abs/2504.19982)|null|
+|**2025-04-28**|**On one generalization of stable allocations in a two-sided market**|Alexander V. Karzanov et.al.|[2504.19978](http://arxiv.org/abs/2504.19978)|null|
+|**2025-04-28**|**Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents**|Vineeth Sai Narajala et.al.|[2504.19956](http://arxiv.org/abs/2504.19956)|null|
+|**2025-04-28**|**Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach**|Vineeth Sai Narajala et.al.|[2504.19951](http://arxiv.org/abs/2504.19951)|null|
+|**2025-04-24**|**Assessing the Potential of Generative Agents in Crowdsourced Fact-Checking**|Luigia Costabile et.al.|[2504.19940](http://arxiv.org/abs/2504.19940)|null|
+|**2025-04-28**|**Automated decision-making for dynamic task assignment at scale**|Riccardo Lo Bianco et.al.|[2504.19933](http://arxiv.org/abs/2504.19933)|null|
+|**2025-04-28**|**Can AI Agents Design and Implement Drug Discovery Pipelines?**|Khachik Smbatyan et.al.|[2504.19912](http://arxiv.org/abs/2504.19912)|null|
+|**2025-04-28**|**LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects**|Guangyi Liu et.al.|[2504.19838](http://arxiv.org/abs/2504.19838)|null|
+|**2025-04-28**|**PhenoAssistant: A Conversational Multi-Agent AI System for Automated Plant Phenotyping**|Feng Chen et.al.|[2504.19818](http://arxiv.org/abs/2504.19818)|null|
+|**2025-04-28**|**Prompt Injection Attack to Tool Selection in LLM Agents**|Jiawen Shi et.al.|[2504.19793](http://arxiv.org/abs/2504.19793)|null|
+|**2025-04-28**|**Bio-Derived Graphite from Pterocarpus marsupium Leaves for rGO-MoO $_3$ Nanocomposites with Enhanced Photocatalytic Efficiency**|P. Princeya Mary et.al.|[2504.19758](http://arxiv.org/abs/2504.19758)|null|
+|**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678](http://arxiv.org/abs/2504.19678)|null|
+|**2025-04-28**|**Diffusion Stochastic Learning Over Adaptive Competing Networks**|Yike Zhao et.al.|[2504.19635](http://arxiv.org/abs/2504.19635)|null|
+|**2025-04-28**|**A Time-dependent Risk-aware distributed Multi-Agent Path Finder based on A***|S Nordström et.al.|[2504.19593](http://arxiv.org/abs/2504.19593)|null|
+|**2025-04-28**|**m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training**|Meng Xiao et.al.|[2504.19565](http://arxiv.org/abs/2504.19565)|null|
+|**2025-04-28**|**Cholic Acid-Based Mixed Micelles as siRNA Delivery Agents for Gene Therapy**|Alexander J Cunningham et.al.|[2504.19558](http://arxiv.org/abs/2504.19558)|null|
+|**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
+|**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499](http://arxiv.org/abs/2504.19499)|null|
+|**2025-04-28**|**Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies**|Kavindu Warnakulasuriya et.al.|[2504.19487](http://arxiv.org/abs/2504.19487)|null|
+|**2025-04-28**|**An Automated Reinforcement Learning Reward Design Framework with Large Language Model for Cooperative Platoon Coordination**|Dixiao Wei et.al.|[2504.19480](http://arxiv.org/abs/2504.19480)|null|
+|**2025-04-28**|**Bearing-Only Tracking and Circumnavigation of a Fast Time-Varied Velocity Target Utilising an LSTM**|Mitchell Torok et.al.|[2504.19463](http://arxiv.org/abs/2504.19463)|null|
+|**2025-04-28**|**Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**|Prateek Chhikara et.al.|[2504.19413](http://arxiv.org/abs/2504.19413)|null|
+|**2025-04-28**|**Symmetric Policy Design for Multi-Agent Dispatch Coordination in Supply Chains**|Sagar Sudhakara et.al.|[2504.19397](http://arxiv.org/abs/2504.19397)|null|
+|**2025-04-28**|**Observational Learning with a Budget**|Shuo Wu et.al.|[2504.19396](http://arxiv.org/abs/2504.19396)|null|
+|**2025-04-27**|**Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model**|Weidi Luo et.al.|[2504.19373](http://arxiv.org/abs/2504.19373)|null|
+|**2025-04-27**|**OpenFOAMGPT 2.0: end-to-end, trustworthy automation for computational fluid dynamics**|Jingsen Feng et.al.|[2504.19338](http://arxiv.org/abs/2504.19338)|null|
+|**2025-04-27**|**Logic-Based Artificial Intelligence Algorithms Supporting Categorical Semantics**|Ralph Wojtowicz et.al.|[2504.19320](http://arxiv.org/abs/2504.19320)|null|
+|**2025-04-27**|**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**|Peilin Zhou et.al.|[2504.19314](http://arxiv.org/abs/2504.19314)|null|
+|**2025-04-27**|**AndroidGen: Building an Android Language Agent under Data Scarcity**|Hanyu Lai et.al.|[2504.19298](http://arxiv.org/abs/2504.19298)|null|
+|**2025-04-27**|**Anyprefer: An Agentic Framework for Preference Data Synthesis**|Yiyang Zhou et.al.|[2504.19276](http://arxiv.org/abs/2504.19276)|null|
+|**2025-04-27**|**APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries**|Huajian Xin et.al.|[2504.19110](http://arxiv.org/abs/2504.19110)|null|
+|**2025-04-26**|**Sparks: Multi-Agent Artificial Intelligence Model Discovers Protein Design Principles**|Alireza Ghafarollahi et.al.|[2504.19017](http://arxiv.org/abs/2504.19017)|null|
+|**2025-04-26**|**Generative AI in Embodied Systems: System-Level Analysis of Performance, Efficiency and Scalability**|Zishen Wan et.al.|[2504.18945](http://arxiv.org/abs/2504.18945)|null|
+|**2025-04-26**|**Two-Agent DRL for Power Allocation and IRS Orientation in Dynamic NOMA-based OWC Networks**|Ahrar N. Hamad et.al.|[2504.18937](http://arxiv.org/abs/2504.18937)|null|
+|**2025-04-26**|**Reshaping MOFs Text Mining with a Dynamic Multi-Agent Framework of Large Language Agents**|Zuhong Lin et.al.|[2504.18880](http://arxiv.org/abs/2504.18880)|null|
+|**2025-04-26**|**Welfare and Beyond in Multi-Agent Contracts**|Gil Aharoni et.al.|[2504.18876](http://arxiv.org/abs/2504.18876)|null|
+|**2025-04-26**|**Generative to Agentic AI: Survey, Conceptualization, and Challenges**|Johannes Schneider et.al.|[2504.18875](http://arxiv.org/abs/2504.18875)|null|
+|**2025-04-26**|**Stealing Creator's Workflow: A Creator-Inspired Agentic Framework with Iterative Feedback Loop for Improved Scientific Short-form Generation**|Jong Inn Park et.al.|[2504.18805](http://arxiv.org/abs/2504.18805)|null|
+|**2025-04-26**|**A Vision for Auto Research with LLM Agents**|Chengwei Liu et.al.|[2504.18765](http://arxiv.org/abs/2504.18765)|null|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
+|**2025-04-25**|**MODP: Multi Objective Directional Prompting**|Aashutosh Nema et.al.|[2504.18722](http://arxiv.org/abs/2504.18722)|null|
+|**2025-04-25**|**Proof-of-TBI -- Fine-Tuned Vision Language Model Consortium and OpenAI-o3 Reasoning LLM-Based Medical Diagnosis Support System for Mild Traumatic Brain Injury (TBI) Prediction**|Ross Gore et.al.|[2504.18671](http://arxiv.org/abs/2504.18671)|null|
+|**2025-04-24**|**Toward Personalizing Quantum Computing Education: An Evolutionary LLM-Powered Approach**|Iizalaarab Elhaimeur et.al.|[2504.18603](http://arxiv.org/abs/2504.18603)|null|
+|**2025-04-24**|**The Philosophic Turn for AI Agents: Replacing centralized digital rhetoric with decentralized truth-seeking**|Philipp Koralus et.al.|[2504.18601](http://arxiv.org/abs/2504.18601)|null|
+|**2025-04-24**|**Training Large Language Models to Reason via EM Policy Gradient**|Tianbing Xu et.al.|[2504.18587](http://arxiv.org/abs/2504.18587)|null|
+|**2025-04-22**|**Defending Against Intelligent Attackers at Large Scales**|Andrew J. Lohn et.al.|[2504.18577](http://arxiv.org/abs/2504.18577)|null|
+|**2025-04-22**|**WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks**|Ivan Evtimov et.al.|[2504.18575](http://arxiv.org/abs/2504.18575)|null|
+|**2025-04-21**|**RepliBench: Evaluating the autonomous replication capabilities of language model agents**|Sid Black et.al.|[2504.18565](http://arxiv.org/abs/2504.18565)|null|
 |**2025-04-25**|**Instrumentation for Better Demonstrations: A Case Study**|Remko Proesmans et.al.|[2504.18481](http://arxiv.org/abs/2504.18481)|null|
 |**2025-04-25**|**Improved Dwell-times for Switched Nonlinear Systems using Memory Regression Extension**|Muzaffar Qureshi et.al.|[2504.18457](http://arxiv.org/abs/2504.18457)|null|
 |**2025-04-25**|**Generalization Guarantees for Multi-View Representation Learning and Application to Regularization via Gaussian Product Mixture Prior**|Milad Sefidgaran et.al.|[2504.18455](http://arxiv.org/abs/2504.18455)|null|
@@ -62,7 +112,7 @@ layout: default
 |**2025-04-24**|**Collaborative Multi-Agent Reinforcement Learning for Automated Feature Transformation with Graph-Driven Path Optimization**|Xiaohan Huang et.al.|[2504.17355](http://arxiv.org/abs/2504.17355)|null|
 |**2025-04-24**|**DataScout: Automatic Data Fact Retrieval for Statement Augmentation with an LLM-Based Agent**|Chuer Chen et.al.|[2504.17334](http://arxiv.org/abs/2504.17334)|null|
 |**2025-04-24**|**Cracking the Code of Action: a Generative Approach to Affordances for Reinforcement Learning**|Lynn Cherif et.al.|[2504.17282](http://arxiv.org/abs/2504.17282)|null|
-|**2025-04-24**|**MCAF: Efficient Agent-based Video Understanding Framework through Multimodal Coarse-to-Fine Attention Focusing**|Shiwen Cao et.al.|[2504.17213](http://arxiv.org/abs/2504.17213)|null|
+|**2025-04-28**|**MASR: Self-Reflective Reasoning through Multimodal Hierarchical Attention Focusing for Agent-based Video Understanding**|Shiwen Cao et.al.|[2504.17213](http://arxiv.org/abs/2504.17213)|null|
 |**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207](http://arxiv.org/abs/2504.17207)|null|
 |**2025-04-24**|**A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation**|Yangxinyu Xie et.al.|[2504.17200](http://arxiv.org/abs/2504.17200)|null|
 |**2025-04-26**|**Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning**|Minju Seo et.al.|[2504.17192](http://arxiv.org/abs/2504.17192)|null|
@@ -164,7 +214,7 @@ layout: default
 |**2025-04-23**|**Expected Free Energy-based Planning as Variational Inference**|Bert de Vries et.al.|[2504.14898](http://arxiv.org/abs/2504.14898)|null|
 |**2025-04-21**|**Event triggered optimal formation control for nonlinear multi-agent systems under Denial-of-Service attacks**|Jianqiang Zhang et.al.|[2504.14874](http://arxiv.org/abs/2504.14874)|null|
 |**2025-04-21**|**Twin Co-Adaptive Dialogue for Progressive Image Generation**|Jianhui Wang et.al.|[2504.14868](http://arxiv.org/abs/2504.14868)|null|
-|**2025-04-24**|**SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation**|Jiahui Li et.al.|[2504.14837](http://arxiv.org/abs/2504.14837)|null|
+|**2025-04-28**|**SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation**|Jiahui Li et.al.|[2504.14837](http://arxiv.org/abs/2504.14837)|null|
 |**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835](http://arxiv.org/abs/2504.14835)|null|
 |**2025-04-21**|**An Enhanced Dual-Currency VCG Auction Mechanism for Resource Allocation in IoV: A Value of Information Perspective**|Wei Wang et.al.|[2504.14824](http://arxiv.org/abs/2504.14824)|null|
 |**2025-04-21**|**Completing A Systematic Review in Hours instead of Months with Interactive AI Agents**|Rui Qiu et.al.|[2504.14822](http://arxiv.org/abs/2504.14822)|null|
