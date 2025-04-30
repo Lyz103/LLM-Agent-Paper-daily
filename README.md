@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2025-04-28**|**Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**|Prateek Chhikara et.al.|[2504.19413](http://arxiv.org/abs/2504.19413)|null|
 |**2025-04-28**|**Symmetric Policy Design for Multi-Agent Dispatch Coordination in Supply Chains**|Sagar Sudhakara et.al.|[2504.19397](http://arxiv.org/abs/2504.19397)|null|
 |**2025-04-28**|**Observational Learning with a Budget**|Shuo Wu et.al.|[2504.19396](http://arxiv.org/abs/2504.19396)|null|
-|**2025-04-27**|**Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model**|Weidi Luo et.al.|[2504.19373](http://arxiv.org/abs/2504.19373)|null|
+|**2025-04-29**|**Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model**|Weidi Luo et.al.|[2504.19373](http://arxiv.org/abs/2504.19373)|null|
 |**2025-04-27**|**OpenFOAMGPT 2.0: end-to-end, trustworthy automation for computational fluid dynamics**|Jingsen Feng et.al.|[2504.19338](http://arxiv.org/abs/2504.19338)|null|
 |**2025-04-27**|**Logic-Based Artificial Intelligence Algorithms Supporting Categorical Semantics**|Ralph Wojtowicz et.al.|[2504.19320](http://arxiv.org/abs/2504.19320)|null|
 |**2025-04-27**|**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**|Peilin Zhou et.al.|[2504.19314](http://arxiv.org/abs/2504.19314)|null|
@@ -136,7 +136,7 @@
 |**2025-04-23**|**IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery**|Aniketh Garikaparthi et.al.|[2504.16728](http://arxiv.org/abs/2504.16728)|null|
 |**2025-04-23**|**Algorithmic Pricing and Algorithmic Collusion**|Martin Bichler et.al.|[2504.16592](http://arxiv.org/abs/2504.16592)|null|
 |**2025-04-23**|**Revisiting Regret Benchmarks in Online Non-Stochastic Control**|Vijeth Hebbar et.al.|[2504.16581](http://arxiv.org/abs/2504.16581)|null|
-|**2025-04-26**|**Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution**|Junjie Chen et.al.|[2504.16563](http://arxiv.org/abs/2504.16563)|null|
+|**2025-04-29**|**Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution**|Junjie Chen et.al.|[2504.16563](http://arxiv.org/abs/2504.16563)|null|
 |**2025-04-23**|**How Irrationality Shapes Nash Equilibria: A Prospect-Theoretic Perspective**|Ashok Krishnan K. S. et.al.|[2504.16556](http://arxiv.org/abs/2504.16556)|null|
 |**2025-04-23**|**Self-organized fractal architectures driven by motility-dependent chemotactic feedback**|Subhashree Subhrasmita Khuntia et.al.|[2504.16539](http://arxiv.org/abs/2504.16539)|null|
 |**2025-04-24**|**Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation**|Junrong Yue et.al.|[2504.16516](http://arxiv.org/abs/2504.16516)|null|
@@ -160,7 +160,7 @@
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
 |**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
-|**2025-04-22**|**ForesightNav: Learning Scene Imagination for Efficient Exploration**|Hardik Shah et.al.|[2504.16062](http://arxiv.org/abs/2504.16062)|null|
+|**2025-04-29**|**ForesightNav: Learning Scene Imagination for Efficient Exploration**|Hardik Shah et.al.|[2504.16062](http://arxiv.org/abs/2504.16062)|null|
 |**2025-04-22**|**Reinforcement Learning and Metaheuristics for Feynman Integral Reduction**|Mao Zeng et.al.|[2504.16045](http://arxiv.org/abs/2504.16045)|null|
 |**2025-04-22**|**A Lagrangian Approach to Optimal Lotteries in Non-Convex Economies**|Chengfeng Shen et.al.|[2504.15997](http://arxiv.org/abs/2504.15997)|null|
 |**2025-04-22**|**Neuroadaptive Haptics: Comparing Reinforcement Learning from Explicit Ratings and Neural Signals for Adaptive XR Systems**|Lukas Gehrke et.al.|[2504.15984](http://arxiv.org/abs/2504.15984)|null|
@@ -6776,7 +6776,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
