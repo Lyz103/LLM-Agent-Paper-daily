@@ -17,6 +17,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
+|**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
+|**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
+|**2025-05-01**|**A Finite-State Controller Based Offline Solver for Deterministic POMDPs**|Alex Schutz et.al.|[2505.00596](http://arxiv.org/abs/2505.00596)|null|
+|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
+|**2025-05-01**|**A continuum thermodynamic model of the influence of non-ionic surfactant on mass transfer from gas bubbles**|Dieter Bothe et.al.|[2505.00581](http://arxiv.org/abs/2505.00581)|null|
+|**2025-05-01**|**Directly Forecasting Belief for Reinforcement Learning with Delays**|Qingyuan Wu et.al.|[2505.00546](http://arxiv.org/abs/2505.00546)|null|
+|**2025-05-01**|**Emergence of Roles in Robotic Teams with Model Sharing and Limited Communication**|Ian O'Flynn et.al.|[2505.00540](http://arxiv.org/abs/2505.00540)|null|
+|**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|
+|**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503](http://arxiv.org/abs/2505.00503)|null|
+|**2025-05-01**|**UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces**|Alaa Saleh et.al.|[2505.00472](http://arxiv.org/abs/2505.00472)|null|
+|**2025-05-01**|**ScaleTrack: Scaling and back-tracking Automated GUI Agents**|Jing Huang et.al.|[2505.00416](http://arxiv.org/abs/2505.00416)|null|
+|**2025-05-01**|**Non-reciprocal anti-aligning active mixtures: deriving the exact Boltzmann collision operator**|Jakob Mihatsch et.al.|[2505.00357](http://arxiv.org/abs/2505.00357)|null|
+|**2025-05-01**|**AI2-Active Safety: AI-enabled Interaction-aware Active Safety Analysis with Vehicle Dynamics**|Keshu Wu et.al.|[2505.00322](http://arxiv.org/abs/2505.00322)|null|
+|**2025-05-01**|**Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**|Tien Comlekoglu et.al.|[2505.00316](http://arxiv.org/abs/2505.00316)|null|
+|**2025-05-01**|**Intelligent Task Scheduling for Microservices via A3C-Based Reinforcement Learning**|Yang Wang et.al.|[2505.00299](http://arxiv.org/abs/2505.00299)|null|
+|**2025-05-01**|**The Complexity of Minimum-Envy House Allocation Over Graphs**|Palash Dey et.al.|[2505.00296](http://arxiv.org/abs/2505.00296)|null|
+|**2025-05-01**|**LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving**|Zhijie Qiao et.al.|[2505.00284](http://arxiv.org/abs/2505.00284)|null|
+|**2025-05-01**|**Large Language Models as AI Agents for Digital Atoms and Molecules: Catalyzing a New Era in Computational Biophysics**|Yijie Xia et.al.|[2505.00270](http://arxiv.org/abs/2505.00270)|null|
+|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
+|**2025-05-01**|**Revisiting the physical properties of (LaS)1+d(NbS2) misfit-layered compounds**|Masanori Nagao et.al.|[2505.00248](http://arxiv.org/abs/2505.00248)|null|
+|**2025-05-01**|**Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks**|Vishnu Sarukkai et.al.|[2505.00234](http://arxiv.org/abs/2505.00234)|null|
+|**2025-04-30**|**Online Federation For Mixtures of Proprietary Agents with Black-Box Encoders**|Xuwei Yang et.al.|[2505.00216](http://arxiv.org/abs/2505.00216)|null|
+|**2025-04-30**|**PSN Game: Game-theoretic Planning via a Player Selection Network**|Tianyu Qiu et.al.|[2505.00213](http://arxiv.org/abs/2505.00213)|null|
+|**2025-04-30**|**Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems**|Shaokun Zhang et.al.|[2505.00212](http://arxiv.org/abs/2505.00212)|null|
+|**2025-04-30**|**Optimal Platform Design**|Cole Wittbrodt et.al.|[2505.00205](http://arxiv.org/abs/2505.00205)|null|
+|**2025-04-30**|**Investigating Adaptive Tuning of Assistive Exoskeletons Using Offline Reinforcement Learning: Challenges and Insights**|Yasin Findik et.al.|[2505.00201](http://arxiv.org/abs/2505.00201)|null|
+|**2025-04-30**|**Deep Reinforcement Learning Policies for Underactuated Satellite Attitude Control**|Matteo El Hariry et.al.|[2505.00165](http://arxiv.org/abs/2505.00165)|null|
+|**2025-04-30**|**CoordField: Coordination Field for Agentic UAV Task Allocation In Low-altitude Urban Scenarios**|Tengchao Zhang et.al.|[2505.00091](http://arxiv.org/abs/2505.00091)|null|
+|**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
+|**2025-04-30**|**Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications**|Wenhan Dong et.al.|[2505.00049](http://arxiv.org/abs/2505.00049)|null|
+|**2025-04-24**|**Position Paper: Towards Open Complex Human-AI Agents Collaboration System for Problem-Solving and Knowledge Management**|Ju Wu et.al.|[2505.00018](http://arxiv.org/abs/2505.00018)|null|
 |**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853](http://arxiv.org/abs/2504.21853)|null|
 |**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
 |**2025-04-30**|**Characterizing AI Agents for Alignment and Governance**|Atoosa Kasirzadeh et.al.|[2504.21848](http://arxiv.org/abs/2504.21848)|null|
