@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,7 +44,7 @@
 |**2025-04-29**|**Theoretical Foundations for Semantic Cognition in Artificial Intelligence**|Sebastian Dumbrava et.al.|[2504.21218](http://arxiv.org/abs/2504.21218)|null|
 |**2025-04-29**|**PhysicsFC: Learning User-Controlled Skills for a Physics-Based Football Player Controller**|Minsu Kim et.al.|[2504.21216](http://arxiv.org/abs/2504.21216)|null|
 |**2025-04-29**|**SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories**|Connor Dilgren et.al.|[2504.21205](http://arxiv.org/abs/2504.21205)|null|
-|**2025-04-29**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
+|**2025-05-01**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
 |**2025-04-29**|**Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions**|Bhavini Jeloka et.al.|[2504.21164](http://arxiv.org/abs/2504.21164)|null|
 |**2025-04-29**|**LLM Enhancer: Merged Approach using Vector Embedding for Reducing Large Language Model Hallucinations with External Knowledge**|Naheed Rayhan et.al.|[2504.21132](http://arxiv.org/abs/2504.21132)|null|
 |**2025-04-29**|**NavEX: A Multi-Agent Coverage in Non-Convex and Uneven Environments via Exemplar-Clustering**|Donipolo Ghimire et.al.|[2504.21113](http://arxiv.org/abs/2504.21113)|null|
@@ -122,7 +122,7 @@
 |**2025-04-29**|**Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model**|Weidi Luo et.al.|[2504.19373](http://arxiv.org/abs/2504.19373)|null|
 |**2025-04-27**|**OpenFOAMGPT 2.0: end-to-end, trustworthy automation for computational fluid dynamics**|Jingsen Feng et.al.|[2504.19338](http://arxiv.org/abs/2504.19338)|null|
 |**2025-04-27**|**Logic-Based Artificial Intelligence Algorithms Supporting Categorical Semantics**|Ralph Wojtowicz et.al.|[2504.19320](http://arxiv.org/abs/2504.19320)|null|
-|**2025-04-27**|**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**|Peilin Zhou et.al.|[2504.19314](http://arxiv.org/abs/2504.19314)|null|
+|**2025-05-01**|**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**|Peilin Zhou et.al.|[2504.19314](http://arxiv.org/abs/2504.19314)|null|
 |**2025-04-27**|**AndroidGen: Building an Android Language Agent under Data Scarcity**|Hanyu Lai et.al.|[2504.19298](http://arxiv.org/abs/2504.19298)|null|
 |**2025-04-27**|**Anyprefer: An Agentic Framework for Preference Data Synthesis**|Yiyang Zhou et.al.|[2504.19276](http://arxiv.org/abs/2504.19276)|null|
 |**2025-04-27**|**APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries**|Huajian Xin et.al.|[2504.19110](http://arxiv.org/abs/2504.19110)|null|
@@ -6852,7 +6852,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
