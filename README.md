@@ -679,7 +679,7 @@
 |**2025-04-09**|**Human-like compositional learning of visually-grounded concepts using synthetic environments**|Zijun Lin et.al.|[2504.06618](http://arxiv.org/abs/2504.06618)|null|
 |**2025-04-09**|**AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents**|Lingzhe Zhang et.al.|[2504.06614](http://arxiv.org/abs/2504.06614)|null|
 |**2025-04-10**|**Wanting to be Understood**|Chrisantha Fernando et.al.|[2504.06611](http://arxiv.org/abs/2504.06611)|null|
-|**2025-04-09**|**Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis**|Umakanta Maharana et.al.|[2504.06581](http://arxiv.org/abs/2504.06581)|null|
+|**2025-04-09**|**Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis**|Umakanta Maharana et.al.|[2504.06581](http://arxiv.org/abs/2504.06581)|**[link](https://github.com/Umakantamaharana/right-prediction-wrong-reasoning)**|
 |**2025-04-09**|**NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables**|Lanrui Wang et.al.|[2504.06560](http://arxiv.org/abs/2504.06560)|null|
 |**2025-04-09**|**Market, power, gift, and concession economies: Comparison using four-mode primitive network models**|Takeshi Kato et.al.|[2504.06557](http://arxiv.org/abs/2504.06557)|null|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Daniel Tcheurekdjian et.al.|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
@@ -1033,7 +1033,7 @@
 |**2025-03-26**|**ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning**|Zhaorun Chen et.al.|[2503.22738](http://arxiv.org/abs/2503.22738)|null|
 |**2025-04-01**|**A Large-Scale Vision-Language Dataset Derived from Open Scientific Literature to Advance Biomedical Generalist AI**|Alejandro Lozano et.al.|[2503.22727](http://arxiv.org/abs/2503.22727)|null|
 |**2025-03-26**|**InfoBid: A Simulation Framework for Studying Information Disclosure in Auctions with Large Language Model-based Agents**|Yue Yin et.al.|[2503.22726](http://arxiv.org/abs/2503.22726)|null|
-|**2025-03-26**|**Zero-Shot LLMs in Human-in-the-Loop RL: Replacing Human Feedback for Reward Shaping**|Mohammad Saif Nazir et.al.|[2503.22723](http://arxiv.org/abs/2503.22723)|null|
+|**2025-03-26**|**Zero-Shot LLMs in Human-in-the-Loop RL: Replacing Human Feedback for Reward Shaping**|Mohammad Saif Nazir et.al.|[2503.22723](http://arxiv.org/abs/2503.22723)|**[link](https://github.com/RizanSM/zero_shot_llms_in_HIL_RL)**|
 |**2025-03-25**|**LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation**|Sarah Martinson et.al.|[2503.22719](http://arxiv.org/abs/2503.22719)|**[link](https://github.com/sarahmart/llm-abs-armman-prediction)**|
 |**2025-03-25**|**LLM-ABM for Transportation: Assessing the Potential of LLM Agents in System Analysis**|Tianming Liu et.al.|[2503.22718](http://arxiv.org/abs/2503.22718)|null|
 |**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
