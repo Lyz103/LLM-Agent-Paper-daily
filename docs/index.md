@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -73,7 +73,7 @@ layout: default
 |**2025-04-30**|**Optimal Platform Design**|Cole Wittbrodt et.al.|[2505.00205](http://arxiv.org/abs/2505.00205)|null|
 |**2025-04-30**|**Investigating Adaptive Tuning of Assistive Exoskeletons Using Offline Reinforcement Learning: Challenges and Insights**|Yasin Findik et.al.|[2505.00201](http://arxiv.org/abs/2505.00201)|null|
 |**2025-04-30**|**Deep Reinforcement Learning Policies for Underactuated Satellite Attitude Control**|Matteo El Hariry et.al.|[2505.00165](http://arxiv.org/abs/2505.00165)|null|
-|**2025-04-30**|**CoordField: Coordination Field for Agentic UAV Task Allocation In Low-altitude Urban Scenarios**|Tengchao Zhang et.al.|[2505.00091](http://arxiv.org/abs/2505.00091)|null|
+|**2025-05-03**|**CoordField: Coordination Field for Agentic UAV Task Allocation In Low-altitude Urban Scenarios**|Tengchao Zhang et.al.|[2505.00091](http://arxiv.org/abs/2505.00091)|null|
 |**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
 |**2025-04-30**|**Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications**|Wenhan Dong et.al.|[2505.00049](http://arxiv.org/abs/2505.00049)|null|
 |**2025-04-24**|**Position Paper: Towards Open Complex Human-AI Agents Collaboration System for Problem-Solving and Knowledge Management**|Ju Wu et.al.|[2505.00018](http://arxiv.org/abs/2505.00018)|null|
@@ -143,7 +143,7 @@ layout: default
 |**2025-04-29**|**CrashFixer: A crash resolution agent for the Linux kernel**|Alex Mathai et.al.|[2504.20412](http://arxiv.org/abs/2504.20412)|null|
 |**2025-04-29**|**AKIBoards: A Structure-Following Multiagent System for Predicting Acute Kidney Injury**|David Gordon et.al.|[2504.20368](http://arxiv.org/abs/2504.20368)|null|
 |**2025-04-28**|**MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools**|Nishant Subramani et.al.|[2504.20168](http://arxiv.org/abs/2504.20168)|null|
-|**2025-04-28**|**ResearchCodeAgent: An LLM Multi-Agent System for Automated Codification of Research Methodologies**|Shubham Gandhi et.al.|[2504.20117](http://arxiv.org/abs/2504.20117)|null|
+|**2025-05-03**|**ResearchCodeAgent: An LLM Multi-Agent System for Automated Codification of Research Methodologies**|Shubham Gandhi et.al.|[2504.20117](http://arxiv.org/abs/2504.20117)|null|
 |**2025-04-28**|**AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers**|Zijie Lin et.al.|[2504.20115](http://arxiv.org/abs/2504.20115)|null|
 |**2025-04-26**|**MATCHA: Can Multi-Agent Collaboration Build a Trustworthy Conversational Recommender?**|Zheng Hui et.al.|[2504.20094](http://arxiv.org/abs/2504.20094)|null|
 |**2025-04-25**|**Self-Healing Software Systems: Lessons from Nature, Powered by AI**|Mohammad Baqar et.al.|[2504.20093](http://arxiv.org/abs/2504.20093)|null|
@@ -157,7 +157,7 @@ layout: default
 |**2025-04-28**|**Simplified and Secure MCP Gateways for Enterprise AI Integration**|Ivo Brett et.al.|[2504.19997](http://arxiv.org/abs/2504.19997)|null|
 |**2025-04-28**|**TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons**|Emre Can Acikgoz et.al.|[2504.19982](http://arxiv.org/abs/2504.19982)|null|
 |**2025-04-28**|**On one generalization of stable allocations in a two-sided market**|Alexander V. Karzanov et.al.|[2504.19978](http://arxiv.org/abs/2504.19978)|null|
-|**2025-04-28**|**Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents**|Vineeth Sai Narajala et.al.|[2504.19956](http://arxiv.org/abs/2504.19956)|null|
+|**2025-05-02**|**Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents**|Vineeth Sai Narajala et.al.|[2504.19956](http://arxiv.org/abs/2504.19956)|null|
 |**2025-04-28**|**Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach**|Vineeth Sai Narajala et.al.|[2504.19951](http://arxiv.org/abs/2504.19951)|null|
 |**2025-04-24**|**Assessing the Potential of Generative Agents in Crowdsourced Fact-Checking**|Luigia Costabile et.al.|[2504.19940](http://arxiv.org/abs/2504.19940)|null|
 |**2025-04-28**|**Automated decision-making for dynamic task assignment at scale**|Riccardo Lo Bianco et.al.|[2504.19933](http://arxiv.org/abs/2504.19933)|null|
