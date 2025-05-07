@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,10 +28,10 @@
 |**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|null|
 |**2025-05-05**|**Exploring LLM-Powered Role and Action-Switching Pedagogical Agents for History Education in Virtual Reality**|Zihao Zhu et.al.|[2505.02699](http://arxiv.org/abs/2505.02699)|null|
 |**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
+|**2025-05-06**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
 |**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634](http://arxiv.org/abs/2505.02634)|null|
 |**2025-05-05**|**Agentic Neurodivergence as a Contingent Solution to the AI Alignment Problem**|Alberto Hernández-Espinosa et.al.|[2505.02581](http://arxiv.org/abs/2505.02581)|null|
-|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560](http://arxiv.org/abs/2505.02560)|null|
+|**2025-05-06**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560](http://arxiv.org/abs/2505.02560)|null|
 |**2025-05-05**|**Beyond the model: Key differentiators in large language models and multi-agent services**|Muskaan Goyal et.al.|[2505.02489](http://arxiv.org/abs/2505.02489)|null|
 |**2025-05-05**|**El Agente: An Autonomous Agent for Quantum Chemistry**|Yunheng Zou et.al.|[2505.02484](http://arxiv.org/abs/2505.02484)|null|
 |**2025-05-05**|**MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans**|Huangyue Yu et.al.|[2505.02388](http://arxiv.org/abs/2505.02388)|null|
@@ -40,7 +40,7 @@
 |**2025-05-04**|**A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)**|Abul Ehtesham et.al.|[2505.02279](http://arxiv.org/abs/2505.02279)|null|
 |**2025-05-04**|**Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**|Shangzhe Li et.al.|[2505.02228](http://arxiv.org/abs/2505.02228)|null|
 |**2025-05-04**|**Interpretable Emergent Language Using Inter-Agent Transformers**|Mannan Bhardwaj et.al.|[2505.02215](http://arxiv.org/abs/2505.02215)|null|
-|**2025-05-04**|**Think on your Feet: Adaptive Thinking via Reinforcement Learning for Social Agents**|Minzheng Wang et.al.|[2505.02156](http://arxiv.org/abs/2505.02156)|**[link](https://github.com/MozerWang/AMPO)**|
+|**2025-05-06**|**Think on your Feet: Adaptive Thinking via Reinforcement Learning for Social Agents**|Minzheng Wang et.al.|[2505.02156](http://arxiv.org/abs/2505.02156)|**[link](https://github.com/MozerWang/AMPO)**|
 |**2025-05-04**|**VECSR: Virtually Embodied Common Sense Reasoning System**|Alexis R. Tudor et.al.|[2505.02144](http://arxiv.org/abs/2505.02144)|null|
 |**2025-05-04**|**Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved Accuracy, Reliability, and Latency**|Nazmus Ashrafi et.al.|[2505.02133](http://arxiv.org/abs/2505.02133)|null|
 |**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[2505.02123](http://arxiv.org/abs/2505.02123)|null|
@@ -55,7 +55,7 @@
 |**2025-05-03**|**Quantum Many-body Simulations from a Reinforcement-Learned Exponential Ansatz**|Yuchen Wang et.al.|[2505.01935](http://arxiv.org/abs/2505.01935)|null|
 |**2025-05-03**|**CAMOUFLAGE: Exploiting Misinformation Detection Systems Through LLM-driven Adversarial Claim Transformation**|Mazal Bethany et.al.|[2505.01900](http://arxiv.org/abs/2505.01900)|null|
 |**2025-05-03**|**Securing 5G and Beyond-Enabled UAV Networks: Resilience Through Multiagent Learning and Transformers Detection**|Joseanne Viana et.al.|[2505.01885](http://arxiv.org/abs/2505.01885)|null|
-|**2025-05-03**|**ReLI: A Language-Agnostic Approach to Human-Robot Interaction**|Linus Nwankwo et.al.|[2505.01862](http://arxiv.org/abs/2505.01862)|null|
+|**2025-05-06**|**ReLI: A Language-Agnostic Approach to Human-Robot Interaction**|Linus Nwankwo et.al.|[2505.01862](http://arxiv.org/abs/2505.01862)|null|
 |**2025-05-03**|**Mean Field Game of Optimal Tracking Portfolio**|Lijun Bo et.al.|[2505.01858](http://arxiv.org/abs/2505.01858)|null|
 |**2025-05-03**|**Model Context Protocol-based Internet of Experts For Wireless Environment-aware LLM Agents**|Zongxi Liu et.al.|[2505.01834](http://arxiv.org/abs/2505.01834)|null|
 |**2025-05-03**|**Pathfinders in the Sky: Formal Decision-Making Models for Collaborative Air Traffic Control in Convective Weather**|Jimin Choi et.al.|[2505.01804](http://arxiv.org/abs/2505.01804)|null|
@@ -152,7 +152,7 @@
 |**2025-04-30**|**Meeseeks: An Iterative Benchmark Evaluating LLMs Multi-Turn Instruction-Following Ability**|Jiaming Wang et.al.|[2504.21625](http://arxiv.org/abs/2504.21625)|null|
 |**2025-04-30**|**Applying Machine Learning for characterizing social networks Agent-based models**|Haoyuan Li et.al.|[2504.21609](http://arxiv.org/abs/2504.21609)|null|
 |**2025-04-30**|**Uncertainty, bias and the institution bootstrapping problem**|Stavros Anagnou et.al.|[2504.21579](http://arxiv.org/abs/2504.21579)|null|
-|**2025-04-30**|**Iterative Trajectory Exploration for Multimodal Agents**|Pengxiang Li et.al.|[2504.21561](http://arxiv.org/abs/2504.21561)|null|
+|**2025-05-06**|**Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning**|Pengxiang Li et.al.|[2504.21561](http://arxiv.org/abs/2504.21561)|null|
 |**2025-04-30**|**SimPRIVE: a Simulation framework for Physical Robot Interaction with Virtual Environments**|Federico Nesti et.al.|[2504.21454](http://arxiv.org/abs/2504.21454)|null|
 |**2025-04-30**|**Stability of Open Multi-agent Systems over Dynamic Signed Graphs**|Pelin Sekercioglu et.al.|[2504.21443](http://arxiv.org/abs/2504.21443)|null|
 |**2025-04-30**|**NGENT: Next-Generation AI Agents Must Integrate Multi-Domain Abilities to Achieve Artificial General Intelligence**|Zhicong Li et.al.|[2504.21433](http://arxiv.org/abs/2504.21433)|null|
@@ -164,7 +164,7 @@
 |**2025-04-30**|**Robust Multi-agent Communication Based on Decentralization-Oriented Adversarial Training**|Xuyan Ma et.al.|[2504.21278](http://arxiv.org/abs/2504.21278)|null|
 |**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252](http://arxiv.org/abs/2504.21252)|null|
 |**2025-04-29**|**Theoretical Foundations for Semantic Cognition in Artificial Intelligence**|Sebastian Dumbrava et.al.|[2504.21218](http://arxiv.org/abs/2504.21218)|null|
-|**2025-04-29**|**PhysicsFC: Learning User-Controlled Skills for a Physics-Based Football Player Controller**|Minsu Kim et.al.|[2504.21216](http://arxiv.org/abs/2504.21216)|null|
+|**2025-05-05**|**PhysicsFC: Learning User-Controlled Skills for a Physics-Based Football Player Controller**|Minsu Kim et.al.|[2504.21216](http://arxiv.org/abs/2504.21216)|null|
 |**2025-04-29**|**SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories**|Connor Dilgren et.al.|[2504.21205](http://arxiv.org/abs/2504.21205)|null|
 |**2025-05-01**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
 |**2025-04-29**|**Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions**|Bhavini Jeloka et.al.|[2504.21164](http://arxiv.org/abs/2504.21164)|null|
@@ -6974,7 +6974,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
