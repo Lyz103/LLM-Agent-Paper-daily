@@ -17,6 +17,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735](http://arxiv.org/abs/2505.03735)|null|
+|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|null|
+|**2025-05-06**|**Critical habitat size of organisms diffusing with stochastic resetting**|Luiz Menon et.al.|[2505.03727](http://arxiv.org/abs/2505.03727)|null|
+|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725](http://arxiv.org/abs/2505.03725)|null|
+|**2025-05-06**|**Accelerated Decentralized Constraint-Coupled Optimization: A Dual $^2$ Approach**|Jingwang Li et.al.|[2505.03719](http://arxiv.org/abs/2505.03719)|null|
+|**2025-05-06**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694](http://arxiv.org/abs/2505.03694)|null|
+|**2025-05-06**|**Location-Restricted Stable Matching**|Garret Castro et.al.|[2505.03680](http://arxiv.org/abs/2505.03680)|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
+|**2025-05-06**|**Gap the (Theory of) Mind: Sharing Beliefs About Teammates' Goals Boosts Collaboration Perception, Not Performance**|Yotam Amitai et.al.|[2505.03674](http://arxiv.org/abs/2505.03674)|null|
+|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673](http://arxiv.org/abs/2505.03673)|null|
+|**2025-05-06**|**Rainbow Delay Compensation: A Multi-Agent Reinforcement Learning Framework for Mitigating Delayed Observation**|Songchen Fu et.al.|[2505.03586](http://arxiv.org/abs/2505.03586)|null|
+|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581](http://arxiv.org/abs/2505.03581)|null|
+|**2025-05-06**|**LlamaFirewall: An open source guardrail system for building secure AI agents**|Sahana Chennabasappa et.al.|[2505.03574](http://arxiv.org/abs/2505.03574)|null|
+|**2025-05-06**|**OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents**|Mariya Davydova et.al.|[2505.03570](http://arxiv.org/abs/2505.03570)|null|
+|**2025-05-06**|**Multi-Agent Reinforcement Learning Scheduling to Support Low Latency in Teleoperated Driving**|Giacomo Avanzi et.al.|[2505.03558](http://arxiv.org/abs/2505.03558)|null|
+|**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
+|**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
+|**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533](http://arxiv.org/abs/2505.03533)|null|
+|**2025-05-06**|**Barrier induced stalemate-consensus transition of self-propelled participants subject to majority rule**|Yan-Wen Xiao et.al.|[2505.03464](http://arxiv.org/abs/2505.03464)|null|
+|**2025-05-06**|**LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs**|Xinyuan Zhang et.al.|[2505.03460](http://arxiv.org/abs/2505.03460)|null|
+|**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439](http://arxiv.org/abs/2505.03439)|null|
+|**2025-05-06**|**Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents**|Schaun Wheeler et.al.|[2505.03434](http://arxiv.org/abs/2505.03434)|null|
+|**2025-05-06**|**Truthful Facility Location with Candidate Locations and Limited Resources**|Panagiotis Kanellopoulos et.al.|[2505.03391](http://arxiv.org/abs/2505.03391)|null|
+|**2025-05-06**|**An Active Inference perspective on Neurofeedback Training**|Côme Annicchiarico et.al.|[2505.03308](http://arxiv.org/abs/2505.03308)|null|
+|**2025-05-06**|**Multi-Agent Deep Reinforcement Learning for Zonal Ancillary Market Coupling**|Francesco Morri et.al.|[2505.03288](http://arxiv.org/abs/2505.03288)|null|
+|**2025-05-06**|**MDPs with a State Sensing Cost**|Vansh Kapoor et.al.|[2505.03280](http://arxiv.org/abs/2505.03280)|null|
+|**2025-05-06**|**Model Predictive Fuzzy Control: A Hierarchical Multi-Agent Control Architecture for Outdoor Search-and-Rescue Robots**|Craig Maxwell et.al.|[2505.03257](http://arxiv.org/abs/2505.03257)|null|
+|**2025-05-06**|**DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning**|Borui Wang et.al.|[2505.03209](http://arxiv.org/abs/2505.03209)|null|
+|**2025-05-06**|**VLM Q-Learning: Aligning Vision-Language Models for Interactive Decision-Making**|Jake Grigsby et.al.|[2505.03181](http://arxiv.org/abs/2505.03181)|null|
+|**2025-05-06**|**RADE: Learning Risk-Adjustable Driving Environment via Multi-Agent Conditional Diffusion**|Jiawei Wang et.al.|[2505.03178](http://arxiv.org/abs/2505.03178)|null|
+|**2025-05-06**|**An LLM-based Self-Evolving Security Framework for 6G Space-Air-Ground Integrated Networks**|Qi Qin et.al.|[2505.03161](http://arxiv.org/abs/2505.03161)|null|
+|**2025-05-06**|**Integrated Sensing, Computing, Communication, and Control for Time-Sequence-Based Semantic Communications**|Qingliang Li et.al.|[2505.03127](http://arxiv.org/abs/2505.03127)|null|
+|**2025-05-06**|**Assessing and Enhancing the Robustness of LLM-based Multi-Agent Systems Through Chaos Engineering**|Joshua Owotogbe et.al.|[2505.03096](http://arxiv.org/abs/2505.03096)|null|
+|**2025-05-06**|**Global Task-aware Fault Detection, Identification For On-Orbit Multi-Spacecraft Collaborative Inspection**|Akshita Gupta et.al.|[2505.03088](http://arxiv.org/abs/2505.03088)|null|
+|**2025-05-06**|**Coevolution of Actions and Opinions in Networks of Coordinating and Anti-Coordinating Agents**|Hong Liang et.al.|[2505.03078](http://arxiv.org/abs/2505.03078)|null|
+|**2025-05-05**|**Improving Model Alignment Through Collective Intelligence of Open-Source LLMS**|Junlin Wang et.al.|[2505.03059](http://arxiv.org/abs/2505.03059)|null|
+|**2025-05-05**|**34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery**|Yoel Zimmermann et.al.|[2505.03049](http://arxiv.org/abs/2505.03049)|null|
+|**2025-05-05**|**Lesion-Aware Generative Artificial Intelligence for Virtual Contrast-Enhanced Mammography in Breast Cancer**|Aurora Rofena et.al.|[2505.03018](http://arxiv.org/abs/2505.03018)|null|
+|**2025-05-05**|**Smooth Quadratic Prediction Markets**|Enrique Nueve et.al.|[2505.02959](http://arxiv.org/abs/2505.02959)|null|
+|**2025-05-05**|**The Cognitive Foundations of Economic Exchange: A Modular Framework Grounded in Behavioral Evidence**|Egil Diau et.al.|[2505.02945](http://arxiv.org/abs/2505.02945)|null|
+|**2025-05-05**|**The Art of Repair: Optimizing Iterative Program Repair with Instruction-Tuned Models**|Fernando Vallecillos Ruiz et.al.|[2505.02931](http://arxiv.org/abs/2505.02931)|null|
+|**2025-05-05**|**When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger**|Rintaro Ando et.al.|[2505.02888](http://arxiv.org/abs/2505.02888)|null|
+|**2025-05-03**|**Neural Orchestration for Multi-Agent Systems: A Deep Learning Framework for Optimal Agent Selection in Multi-Domain Task Environments**|Kushagra Agrawal et.al.|[2505.02861](http://arxiv.org/abs/2505.02861)|null|
+|**2025-05-02**|**A Computational Model of Inclusive Pedagogy: From Understanding to Application**|Francesco Balzan et.al.|[2505.02853](http://arxiv.org/abs/2505.02853)|null|
+|**2025-05-01**|**Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models**|Bang Zhang et.al.|[2505.02847](http://arxiv.org/abs/2505.02847)|null|
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
 |**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820](http://arxiv.org/abs/2505.02820)|null|
 |**2025-05-05**|**Generating HomeAssistant Automations Using an LLM-based Chatbot**|Mathyas Giudici et.al.|[2505.02802](http://arxiv.org/abs/2505.02802)|null|
