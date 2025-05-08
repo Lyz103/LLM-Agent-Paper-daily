@@ -17,6 +17,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions**|Stéphane Aroca-Ouellette et.al.|[2505.04579](http://arxiv.org/abs/2505.04579)|null|
+|**2025-05-07**|**Optimal Deterministic Rendezvous in Labeled Lines**|Yann Bourreau et.al.|[2505.04564](http://arxiv.org/abs/2505.04564)|null|
+|**2025-05-07**|**Qualitative Analysis of $ω$ -Regular Objectives on Robust MDPs**|Ali Asadi et.al.|[2505.04539](http://arxiv.org/abs/2505.04539)|null|
+|**2025-05-07**|**Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving**|Qi Liu et.al.|[2505.04528](http://arxiv.org/abs/2505.04528)|null|
+|**2025-05-07**|**RLMiniStyler: Light-weight RL Style Agent for Arbitrary Sequential Neural Style Generation**|Jing Hu et.al.|[2505.04424](http://arxiv.org/abs/2505.04424)|null|
+|**2025-05-07**|**Consensus-Aware AV Behavior: Trade-offs Between Safety, Interaction, and Performance in Mixed Urban Traffic**|Mohammad Elayan et.al.|[2505.04379](http://arxiv.org/abs/2505.04379)|**[link](https://github.com/wissamkontar/consensus-av-analysis)**|
+|**2025-05-07**|**Extending a Quantum Reinforcement Learning Exploration Policy with Flags to Connect Four**|Filipe Santos et.al.|[2505.04371](http://arxiv.org/abs/2505.04371)|null|
+|**2025-05-07**|**Benchmarking LLMs' Swarm intelligence**|Kai Ruan et.al.|[2505.04364](http://arxiv.org/abs/2505.04364)|**[link](https://github.com/x66ccff/swarmbench)**|
+|**2025-05-07**|**Optimization Problem Solving Can Transition to Evolutionary Agentic Workflows**|Wenhao Li et.al.|[2505.04354](http://arxiv.org/abs/2505.04354)|null|
+|**2025-05-07**|**Resist Platform-Controlled AI Agents and Champion User-Centric Agent Advocates**|Sayash Kapoor et.al.|[2505.04345](http://arxiv.org/abs/2505.04345)|null|
+|**2025-05-07**|**Adaptive and Robust DBSCAN with Multi-agent Reinforcement Learning**|Hao Peng et.al.|[2505.04339](http://arxiv.org/abs/2505.04339)|null|
+|**2025-05-07**|**Mastering Multi-Drone Volleyball through Hierarchical Co-Self-Play Reinforcement Learning**|Ruize Zhang et.al.|[2505.04317](http://arxiv.org/abs/2505.04317)|null|
+|**2025-05-07**|**PPO-ACT: Proximal Policy Optimization with Adversarial Curriculum Transfer for Spatial Public Goods Games**|Zhaoqilin Yang et.al.|[2505.04302](http://arxiv.org/abs/2505.04302)|null|
+|**2025-05-07**|**CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System**|Li Hu et.al.|[2505.04254](http://arxiv.org/abs/2505.04254)|null|
+|**2025-05-07**|**Facilitating Trustworthy Human-Agent Collaboration in LLM-based Multi-Agent System oriented Software Engineering**|Krishna Ronanki et.al.|[2505.04251](http://arxiv.org/abs/2505.04251)|null|
+|**2025-05-07**|**Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**|Taoyuan Yu et.al.|[2505.04231](http://arxiv.org/abs/2505.04231)|null|
+|**2025-05-07**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195](http://arxiv.org/abs/2505.04195)|null|
+|**2025-05-07**|**Trajectory Entropy Reinforcement Learning for Predictable and Robust Control**|Bang You et.al.|[2505.04193](http://arxiv.org/abs/2505.04193)|null|
+|**2025-05-07**|**Optimization of Infectious Disease Intervention Measures Based on Reinforcement Learning -- Empirical analysis based on UK COVID-19 epidemic data**|Baida Zhang et.al.|[2505.04161](http://arxiv.org/abs/2505.04161)|null|
+|**2025-05-07**|**Delegation and Participation in Decentralized Governance: An Epistemic View**|Jeff Strnad et.al.|[2505.04136](http://arxiv.org/abs/2505.04136)|null|
+|**2025-05-07**|**Identification and Optimization of Redundant Code Using Large Language Models**|Shamse Tasnim Cynthia et.al.|[2505.04040](http://arxiv.org/abs/2505.04040)|null|
+|**2025-05-07**|**Study of the Extended Yard Sale model of wealth distribution on Erdős-Rényi random networks**|Nicolás Vazquez Von Bibow et.al.|[2505.04032](http://arxiv.org/abs/2505.04032)|null|
+|**2025-05-07**|**Appeal and Scope of Misinformation Spread by AI Agents and Humans**|Lynnette Hui Xian Ng et.al.|[2505.04028](http://arxiv.org/abs/2505.04028)|null|
+|**2025-05-06**|**SLOT: Structuring the Output of Large Language Models**|Darren Yow-Bang Wang et.al.|[2505.04016](http://arxiv.org/abs/2505.04016)|null|
+|**2025-05-06**|**An alignment safety case sketch based on debate**|Marie Davidsen Buhl et.al.|[2505.03989](http://arxiv.org/abs/2505.03989)|null|
+|**2025-05-06**|**Divide, Optimize, Merge: Fine-Grained LLM Agent Optimization at Scale**|Jiale Liu et.al.|[2505.03973](http://arxiv.org/abs/2505.03973)|null|
+|**2025-05-06**|**The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete**|Gerrit Großmann et.al.|[2505.03961](http://arxiv.org/abs/2505.03961)|**[link](https://github.com/storyagents25/story-agents)**|
+|**2025-05-06**|**Deep Q-Network (DQN) multi-agent reinforcement learning (MARL) for Stock Trading**|John Christopher Tidwell et.al.|[2505.03949](http://arxiv.org/abs/2505.03949)|null|
+|**2025-05-06**|**Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents**|Xiang Li et.al.|[2505.03947](http://arxiv.org/abs/2505.03947)|**[link](https://github.com/alienkevin/frogger)**|
+|**2025-05-06**|**GRAML: Dynamic Goal Recognition As Metric Learning**|Matan Shamir et.al.|[2505.03941](http://arxiv.org/abs/2505.03941)|null|
+|**2025-05-06**|**Omnidirectional vision sensors based on catadioptric systems with discrete infrared photoreceptors for swarm robotics**|Jose Fernando Contreras-Monsalvo et.al.|[2505.03920](http://arxiv.org/abs/2505.03920)|null|
+|**2025-05-06**|**MARCO: A Multi-Agent System for Optimizing HPC Code Generation Using Large Language Models**|Asif Rahman et.al.|[2505.03906](http://arxiv.org/abs/2505.03906)|null|
+|**2025-05-06**|**From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems**|Qiaomu Li et.al.|[2505.03864](http://arxiv.org/abs/2505.03864)|null|
+|**2025-05-06**|**An Active Inference Model of Covert and Overt Visual Attention**|Tin Mišić et.al.|[2505.03856](http://arxiv.org/abs/2505.03856)|**[link](https://github.com/unizgfer-lamor/ainf-visual-attention)**|
+|**2025-05-02**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|
+|**2025-05-02**|**Modeling Behavioral Preferences of Cyber Adversaries Using Inverse Reinforcement Learning**|Aditya Shinde et.al.|[2505.03817](http://arxiv.org/abs/2505.03817)|null|
+|**2025-05-02**|**Facilitating Video Story Interaction with Multi-Agent Collaborative System**|Yiwen Zhang et.al.|[2505.03807](http://arxiv.org/abs/2505.03807)|null|
+|**2025-05-01**|**Modeling Human Behavior in a Strategic Network Game with Complex Group Dynamics**|Jacob W. Crandall et.al.|[2505.03795](http://arxiv.org/abs/2505.03795)|null|
+|**2025-05-01**|**Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning**|Lang Feng et.al.|[2505.03792](http://arxiv.org/abs/2505.03792)|null|
 |**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735](http://arxiv.org/abs/2505.03735)|null|
 |**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|null|
 |**2025-05-06**|**Critical habitat size of organisms diffusing with stochastic resetting**|Luiz Menon et.al.|[2505.03727](http://arxiv.org/abs/2505.03727)|null|
@@ -55,7 +94,7 @@
 |**2025-05-05**|**Improving Model Alignment Through Collective Intelligence of Open-Source LLMS**|Junlin Wang et.al.|[2505.03059](http://arxiv.org/abs/2505.03059)|null|
 |**2025-05-05**|**34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery**|Yoel Zimmermann et.al.|[2505.03049](http://arxiv.org/abs/2505.03049)|null|
 |**2025-05-05**|**Lesion-Aware Generative Artificial Intelligence for Virtual Contrast-Enhanced Mammography in Breast Cancer**|Aurora Rofena et.al.|[2505.03018](http://arxiv.org/abs/2505.03018)|null|
-|**2025-05-05**|**Smooth Quadratic Prediction Markets**|Enrique Nueve et.al.|[2505.02959](http://arxiv.org/abs/2505.02959)|null|
+|**2025-05-07**|**Smooth Quadratic Prediction Markets**|Enrique Nueve et.al.|[2505.02959](http://arxiv.org/abs/2505.02959)|null|
 |**2025-05-05**|**The Cognitive Foundations of Economic Exchange: A Modular Framework Grounded in Behavioral Evidence**|Egil Diau et.al.|[2505.02945](http://arxiv.org/abs/2505.02945)|null|
 |**2025-05-05**|**The Art of Repair: Optimizing Iterative Program Repair with Instruction-Tuned Models**|Fernando Vallecillos Ruiz et.al.|[2505.02931](http://arxiv.org/abs/2505.02931)|null|
 |**2025-05-05**|**When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger**|Rintaro Ando et.al.|[2505.02888](http://arxiv.org/abs/2505.02888)|**[link](https://github.com/rintaro-ando-tech/n2m-rsi-demo)**|
