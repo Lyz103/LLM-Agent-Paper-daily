@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -40,7 +40,7 @@ layout: default
 |**2025-05-06**|**SLOT: Structuring the Output of Large Language Models**|Darren Yow-Bang Wang et.al.|[2505.04016](http://arxiv.org/abs/2505.04016)|null|
 |**2025-05-06**|**An alignment safety case sketch based on debate**|Marie Davidsen Buhl et.al.|[2505.03989](http://arxiv.org/abs/2505.03989)|null|
 |**2025-05-06**|**Divide, Optimize, Merge: Fine-Grained LLM Agent Optimization at Scale**|Jiale Liu et.al.|[2505.03973](http://arxiv.org/abs/2505.03973)|null|
-|**2025-05-06**|**The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete**|Gerrit Großmann et.al.|[2505.03961](http://arxiv.org/abs/2505.03961)|**[link](https://github.com/storyagents25/story-agents)**|
+|**2025-05-08**|**The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete**|Gerrit Großmann et.al.|[2505.03961](http://arxiv.org/abs/2505.03961)|**[link](https://github.com/storyagents25/story-agents)**|
 |**2025-05-06**|**Deep Q-Network (DQN) multi-agent reinforcement learning (MARL) for Stock Trading**|John Christopher Tidwell et.al.|[2505.03949](http://arxiv.org/abs/2505.03949)|null|
 |**2025-05-06**|**Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents**|Xiang Li et.al.|[2505.03947](http://arxiv.org/abs/2505.03947)|**[link](https://github.com/alienkevin/frogger)**|
 |**2025-05-06**|**GRAML: Dynamic Goal Recognition As Metric Learning**|Matan Shamir et.al.|[2505.03941](http://arxiv.org/abs/2505.03941)|null|
@@ -58,7 +58,7 @@ layout: default
 |**2025-05-06**|**Critical habitat size of organisms diffusing with stochastic resetting**|Luiz Menon et.al.|[2505.03727](http://arxiv.org/abs/2505.03727)|null|
 |**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725](http://arxiv.org/abs/2505.03725)|null|
 |**2025-05-06**|**Accelerated Decentralized Constraint-Coupled Optimization: A Dual $^2$ Approach**|Jingwang Li et.al.|[2505.03719](http://arxiv.org/abs/2505.03719)|null|
-|**2025-05-06**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694](http://arxiv.org/abs/2505.03694)|null|
+|**2025-05-08**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694](http://arxiv.org/abs/2505.03694)|null|
 |**2025-05-06**|**Location-Restricted Stable Matching**|Garret Castro et.al.|[2505.03680](http://arxiv.org/abs/2505.03680)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
 |**2025-05-06**|**Gap the (Theory of) Mind: Sharing Beliefs About Teammates' Goals Boosts Collaboration Perception, Not Performance**|Yotam Amitai et.al.|[2505.03674](http://arxiv.org/abs/2505.03674)|null|
@@ -71,7 +71,7 @@ layout: default
 |**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
 |**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
 |**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533](http://arxiv.org/abs/2505.03533)|null|
-|**2025-05-06**|**Barrier induced stalemate-consensus transition of self-propelled participants subject to majority rule**|Yan-Wen Xiao et.al.|[2505.03464](http://arxiv.org/abs/2505.03464)|null|
+|**2025-05-08**|**Barrier induced stalemate-consensus transition of self-propelled participants subject to majority rule**|Yan-Wen Xiao et.al.|[2505.03464](http://arxiv.org/abs/2505.03464)|null|
 |**2025-05-06**|**LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs**|Xinyuan Zhang et.al.|[2505.03460](http://arxiv.org/abs/2505.03460)|null|
 |**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439](http://arxiv.org/abs/2505.03439)|null|
 |**2025-05-06**|**Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents**|Schaun Wheeler et.al.|[2505.03434](http://arxiv.org/abs/2505.03434)|null|
@@ -108,10 +108,10 @@ layout: default
 |**2025-05-05**|**Technical Report: Evaluating Goal Drift in Language Model Agents**|Rauno Arike et.al.|[2505.02709](http://arxiv.org/abs/2505.02709)|null|
 |**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|**[link](https://github.com/maitrix-org/voila)**|
 |**2025-05-05**|**Exploring LLM-Powered Role and Action-Switching Pedagogical Agents for History Education in Virtual Reality**|Zihao Zhu et.al.|[2505.02699](http://arxiv.org/abs/2505.02699)|null|
-|**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
+|**2025-05-08**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
 |**2025-05-06**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
 |**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634](http://arxiv.org/abs/2505.02634)|null|
-|**2025-05-05**|**Agentic Neurodivergence as a Contingent Solution to the AI Alignment Problem**|Alberto Hernández-Espinosa et.al.|[2505.02581](http://arxiv.org/abs/2505.02581)|null|
+|**2025-05-08**|**Agentic Neurodivergence as a Contingent Solution to the AI Alignment Problem**|Alberto Hernández-Espinosa et.al.|[2505.02581](http://arxiv.org/abs/2505.02581)|null|
 |**2025-05-06**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560](http://arxiv.org/abs/2505.02560)|null|
 |**2025-05-05**|**Beyond the model: Key differentiators in large language models and multi-agent services**|Muskaan Goyal et.al.|[2505.02489](http://arxiv.org/abs/2505.02489)|null|
 |**2025-05-05**|**El Agente: An Autonomous Agent for Quantum Chemistry**|Yunheng Zou et.al.|[2505.02484](http://arxiv.org/abs/2505.02484)|null|
@@ -141,7 +141,7 @@ layout: default
 |**2025-05-03**|**Model Context Protocol-based Internet of Experts For Wireless Environment-aware LLM Agents**|Zongxi Liu et.al.|[2505.01834](http://arxiv.org/abs/2505.01834)|null|
 |**2025-05-03**|**Pathfinders in the Sky: Formal Decision-Making Models for Collaborative Air Traffic Control in Convective Weather**|Jimin Choi et.al.|[2505.01804](http://arxiv.org/abs/2505.01804)|null|
 |**2025-05-07**|**RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation**|Kaidong Zhang et.al.|[2505.01709](http://arxiv.org/abs/2505.01709)|null|
-|**2025-05-03**|**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency**|Sihyeong Park et.al.|[2505.01658](http://arxiv.org/abs/2505.01658)|null|
+|**2025-05-08**|**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency**|Sihyeong Park et.al.|[2505.01658](http://arxiv.org/abs/2505.01658)|null|
 |**2025-05-03**|**Human-AI Governance (HAIG): A Trust-Utility Approach**|Zeynep Engin et.al.|[2505.01651](http://arxiv.org/abs/2505.01651)|null|
 |**2025-05-03**|**Interaction Configurations and Prompt Guidance in Conversational AI for Question Answering in Human-AI Teams**|Jaeyoon Song et.al.|[2505.01648](http://arxiv.org/abs/2505.01648)|null|
 |**2025-05-03**|**Structured Prompting and Feedback-Guided Reasoning with LLMs for Data Interpretation**|Amit Rath et.al.|[2505.01636](http://arxiv.org/abs/2505.01636)|null|
