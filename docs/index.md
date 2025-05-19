@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -43,7 +43,7 @@ layout: default
 |**2025-05-15**|**Demystifying AI Agents: The Final Generation of Intelligence**|Kevin J McNamara et.al.|[2505.09932](http://arxiv.org/abs/2505.09932)|null|
 |**2025-05-15**|**Comparing Exploration-Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-armed Bandit Tasks**|Ziyuan Zhang et.al.|[2505.09901](http://arxiv.org/abs/2505.09901)|**[link](https://github.com/sjgershm/exploration)**|
 |**2025-05-15**|**Stability and Convergence Analysis of Multi-Agent Consensus with Communication Delays: A Lambert W Function Approach**|Layan Badran et.al.|[2505.09897](http://arxiv.org/abs/2505.09897)|null|
-|**2025-05-15**|**Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing**|Shuning Zhang et.al.|[2505.09875](http://arxiv.org/abs/2505.09875)|null|
+|**2025-05-16**|**Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing**|Shuning Zhang et.al.|[2505.09875](http://arxiv.org/abs/2505.09875)|null|
 |**2025-05-14**|**Chisme: Fully Decentralized Differentiated Deep Learning for Edge Intelligence**|Harikrishna Kuttivelil et.al.|[2505.09854](http://arxiv.org/abs/2505.09854)|null|
 |**2025-05-14**|**Hamilton's Rule for Enabling Altruism in Multi-Agent Systems**|Brooks A. Butler et.al.|[2505.09841](http://arxiv.org/abs/2505.09841)|null|
 |**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|**[link](https://github.com/egirgin/storaige-b950)**|
@@ -155,7 +155,7 @@ layout: default
 |**2025-05-12**|**Multi-Domain Audio Question Answering Toward Acoustic Content Reasoning in The DCASE 2025 Challenge**|Chao-Han Huck Yang et.al.|[2505.07365](http://arxiv.org/abs/2505.07365)|null|
 |**2025-05-12**|**Swarm Antenna Arrays: From Deterministic to Stochastic Modeling**|Tiebin Mi et.al.|[2505.07335](http://arxiv.org/abs/2505.07335)|null|
 |**2025-05-12**|**Private LoRA Fine-tuning of Open-Source LLMs with Homomorphic Encryption**|Jordan Frery et.al.|[2505.07329](http://arxiv.org/abs/2505.07329)|null|
-|**2025-05-12**|**Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study**|Baixuan Xu et.al.|[2505.07313](http://arxiv.org/abs/2505.07313)|null|
+|**2025-05-16**|**Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study**|Baixuan Xu et.al.|[2505.07313](http://arxiv.org/abs/2505.07313)|null|
 |**2025-05-12**|**Online Episodic Convex Reinforcement Learning**|Bianca Marin Moreno et.al.|[2505.07303](http://arxiv.org/abs/2505.07303)|null|
 |**2025-05-12**|**Multi-Agent DRL for Multi-Objective Twin Migration Routing with Workload Prediction in 6G-enabled IoV**|Peng Yin et.al.|[2505.07290](http://arxiv.org/abs/2505.07290)|null|
 |**2025-05-12**|**A Turing Test for ''Localness'': Conceptualizing, Defining, and Recognizing Localness in People and Machines**|Zihan Gao et.al.|[2505.07282](http://arxiv.org/abs/2505.07282)|null|
@@ -163,7 +163,7 @@ layout: default
 |**2025-05-12**|**DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward**|Yi Zhang et.al.|[2505.07257](http://arxiv.org/abs/2505.07257)|null|
 |**2025-05-12**|**Continuous-Time Control Synthesis for Multiple Quadrotors under Signal Temporal Logic Specifications**|Yating Yuan et.al.|[2505.07240](http://arxiv.org/abs/2505.07240)|null|
 |**2025-05-12**|**UAV-CodeAgents: Scalable UAV Mission Planning via Multi-Agent ReAct and Vision-Language Reasoning**|Oleg Sautenkov et.al.|[2505.07236](http://arxiv.org/abs/2505.07236)|null|
-|**2025-05-12**|**DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2505.07233](http://arxiv.org/abs/2505.07233)|**[link](https://github.com/gasolsun36/dynamicrag)**|
+|**2025-05-16**|**DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2505.07233](http://arxiv.org/abs/2505.07233)|**[link](https://github.com/gasolsun36/dynamicrag)**|
 |**2025-05-12**|**Measuring General Intelligence with Generated Games**|Vivek Verma et.al.|[2505.07215](http://arxiv.org/abs/2505.07215)|**[link](https://github.com/vivek3141/gg-bench)**|
 |**2025-05-15**|**Towards user-centered interactive medical image segmentation in VR with an assistive AI agent**|Pascal Spiegler et.al.|[2505.07214](http://arxiv.org/abs/2505.07214)|null|
 |**2025-05-12**|**Hypergraph Coordination Networks with Dynamic Grouping for Multi-Agent Reinforcement Learning**|Chiqiang Liu et.al.|[2505.07207](http://arxiv.org/abs/2505.07207)|null|
