@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
-|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405](http://arxiv.org/abs/2505.13405)|null|
+|**2025-05-20**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405](http://arxiv.org/abs/2505.13405)|null|
 |**2025-05-19**|**Robin: A multi-agent system for automating scientific discovery**|Ali Essam Ghareeb et.al.|[2505.13400](http://arxiv.org/abs/2505.13400)|null|
 |**2025-05-19**|**Rethinking Stateful Tool Use in Multi-Turn Dialogues: Benchmarks and Challenges**|Hongru Wang et.al.|[2505.13328](http://arxiv.org/abs/2505.13328)|null|
 |**2025-05-19**|**Synthesis of Communication Policies for Multi-Agent Systems Robust to Communication Restrictions**|Saleh Soudijani et.al.|[2505.13311](http://arxiv.org/abs/2505.13311)|null|
@@ -33,9 +33,9 @@ layout: default
 |**2025-05-19**|**The Hidden Dangers of Browsing AI Agents**|Mykyta Mudryi et.al.|[2505.13076](http://arxiv.org/abs/2505.13076)|null|
 |**2025-05-19**|**CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents**|Rebecca Westhäußer et.al.|[2505.13044](http://arxiv.org/abs/2505.13044)|null|
 |**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
-|**2025-05-19**|**From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents**|Liangxuan Wu et.al.|[2505.12981](http://arxiv.org/abs/2505.12981)|null|
+|**2025-05-20**|**From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents**|Liangxuan Wu et.al.|[2505.12981](http://arxiv.org/abs/2505.12981)|null|
 |**2025-05-19**|**Improved Approximation Ratio for Strategyproof Facility Location on a Cycle**|Krzysztof Rogowski et.al.|[2505.12943](http://arxiv.org/abs/2505.12943)|null|
-|**2025-05-19**|**Leveraging LLM Inconsistency to Boost Pass@k Performance**|Uri Dalal et.al.|[2505.12938](http://arxiv.org/abs/2505.12938)|null|
+|**2025-05-20**|**Leveraging LLM Inconsistency to Boost Pass@k Performance**|Uri Dalal et.al.|[2505.12938](http://arxiv.org/abs/2505.12938)|null|
 |**2025-05-19**|**The Traitors: Deception and Trust in Multi-Agent Language Model Simulations**|Pedro M. P. Curvo et.al.|[2505.12923](http://arxiv.org/abs/2505.12923)|null|
 |**2025-05-19**|**PyFCG: Fluid Construction Grammar in Python**|Paul Van Eecke et.al.|[2505.12920](http://arxiv.org/abs/2505.12920)|null|
 |**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
@@ -68,9 +68,9 @@ layout: default
 |**2025-05-18**|**Beyond Frameworks: Unpacking Collaboration Strategies in Multi-Agent Systems**|Haochun Wang et.al.|[2505.12467](http://arxiv.org/abs/2505.12467)|null|
 |**2025-05-18**|**Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning**|Junzhe Jiang et.al.|[2505.12465](http://arxiv.org/abs/2505.12465)|null|
 |**2025-05-18**|**BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation**|Wenqi Lyu et.al.|[2505.12443](http://arxiv.org/abs/2505.12443)|null|
-|**2025-05-18**|**IP Leakage Attacks Targeting LLM-Based Multi-Agent Systems**|Liwen Wang et.al.|[2505.12442](http://arxiv.org/abs/2505.12442)|null|
+|**2025-05-20**|**IP Leakage Attacks Targeting LLM-Based Multi-Agent Systems**|Liwen Wang et.al.|[2505.12442](http://arxiv.org/abs/2505.12442)|null|
 |**2025-05-18**|**Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Games**|Jinming Zhang et.al.|[2505.12439](http://arxiv.org/abs/2505.12439)|null|
-|**2025-05-18**|**Steady-State Strategy Synthesis for Swarms of Autonomous Agents**|Martin Jonáš et.al.|[2505.12406](http://arxiv.org/abs/2505.12406)|null|
+|**2025-05-20**|**Steady-State Strategy Synthesis for Swarms of Autonomous Agents**|Martin Jonáš et.al.|[2505.12406](http://arxiv.org/abs/2505.12406)|null|
 |**2025-05-18**|**Automated Profile Inference with Language Model Agents**|Yuntao Du et.al.|[2505.12402](http://arxiv.org/abs/2505.12402)|null|
 |**2025-05-18**|**MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks**|Yinghao Zhu et.al.|[2505.12371](http://arxiv.org/abs/2505.12371)|null|
 |**2025-05-18**|**Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning**|Xinbin Yuan et.al.|[2505.12370](http://arxiv.org/abs/2505.12370)|**[link](https://github.com/yxb-nku/se-gui)**|
@@ -82,7 +82,7 @@ layout: default
 |**2025-05-18**|**Enhance Mobile Agents Thinking Process Via Iterative Preference Learning**|Kun Huang et.al.|[2505.12299](http://arxiv.org/abs/2505.12299)|null|
 |**2025-05-18**|**LAMeTA: Intent-Aware Agentic Network Optimization via a Large AI Model-Empowered Two-Stage Approach**|Yinqiu Liu et.al.|[2505.12247](http://arxiv.org/abs/2505.12247)|null|
 |**2025-05-18**|**Of Mice and Machines: A Comparison of Learning Between Real World Mice and RL Agents**|Shuo Han et.al.|[2505.12204](http://arxiv.org/abs/2505.12204)|null|
-|**2025-05-18**|**LLM-DSE: Searching Accelerator Parameters with LLM Agents**|Hanyu Wang et.al.|[2505.12188](http://arxiv.org/abs/2505.12188)|null|
+|**2025-05-20**|**LLM-DSE: Searching Accelerator Parameters with LLM Agents**|Hanyu Wang et.al.|[2505.12188](http://arxiv.org/abs/2505.12188)|null|
 |**2025-05-17**|**LLM-BABYBENCH: Understanding and Evaluating Grounded Planning and Reasoning in LLMs**|Omar Choukrani et.al.|[2505.12135](http://arxiv.org/abs/2505.12135)|**[link](https://github.com/choukrani/llm-babybench)**|
 |**2025-05-17**|**Towards Sustainability in 6G Network Slicing with Energy-Saving and Optimization Methods**|Rodrigo Moreira et.al.|[2505.12132](http://arxiv.org/abs/2505.12132)|null|
 |**2025-05-17**|**Scalable Time-Tagged Data Acquisition for Entanglement Distribution in Quantum Networks**|Abderrahim Amlou et.al.|[2505.12102](http://arxiv.org/abs/2505.12102)|null|
@@ -99,7 +99,7 @@ layout: default
 |**2025-05-17**|**Benchmarking LLMs in an Embodied Environment for Blue Team Threat Hunting**|Xiaoqun Liu et.al.|[2505.11901](http://arxiv.org/abs/2505.11901)|null|
 |**2025-05-17**|**Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents**|Weikai Xu et.al.|[2505.11891](http://arxiv.org/abs/2505.11891)|null|
 |**2025-05-17**|**AR Secretary Agent: Real-time Memory Augmentation via LLM-powered Augmented Reality Glasses**|Raphaël A. El Haddad et.al.|[2505.11888](http://arxiv.org/abs/2505.11888)|null|
-|**2025-05-17**|**Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation**|Shuo Wang et.al.|[2505.11886](http://arxiv.org/abs/2505.11886)|null|
+|**2025-05-20**|**Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation**|Shuo Wang et.al.|[2505.11886](http://arxiv.org/abs/2505.11886)|null|
 |**2025-05-17**|**Position Paper: Bounded Alignment: What (Not) To Expect From AGI Agents**|Ali A. Minai et.al.|[2505.11866](http://arxiv.org/abs/2505.11866)|null|
 |**2025-05-17**|**Learning Pareto-Optimal Rewards from Noisy Preferences: A Framework for Multi-Objective Inverse Reinforcement Learning**|Kalyan Cherukuri et.al.|[2505.11864](http://arxiv.org/abs/2505.11864)|null|
 |**2025-05-17**|**RVTBench: A Benchmark for Visual Reasoning Tasks**|Yiqing Shen et.al.|[2505.11838](http://arxiv.org/abs/2505.11838)|null|
@@ -116,7 +116,7 @@ layout: default
 |**2025-05-16**|**Terminators: Terms of Service Parsing and Auditing Agents**|Maruf Ahmed Mridul et.al.|[2505.11672](http://arxiv.org/abs/2505.11672)|null|
 |**2025-05-16**|**Learning from Less: Guiding Deep Reinforcement Learning with Differentiable Symbolic Planning**|Zihan Ye et.al.|[2505.11661](http://arxiv.org/abs/2505.11661)|null|
 |**2025-05-16**|**PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning**|Falong Fan et.al.|[2505.11642](http://arxiv.org/abs/2505.11642)|null|
-|**2025-05-16**|**Talk to Your Slides: Efficient Slide Editing Agent with Large Language Models**|Kyudan Jung et.al.|[2505.11604](http://arxiv.org/abs/2505.11604)|null|
+|**2025-05-20**|**Talk to Your Slides: Language-Driven Agents for Efficient Slide Editing**|Kyudan Jung et.al.|[2505.11604](http://arxiv.org/abs/2505.11604)|null|
 |**2025-05-16**|**Continuous Optimization for Feature Selection with Permutation-Invariant Embedding and Policy-Guided Search**|Rui Liu et.al.|[2505.11601](http://arxiv.org/abs/2505.11601)|null|
 |**2025-05-16**|**LLM Agents Are Hypersensitive to Nudges**|Manuel Cherep et.al.|[2505.11584](http://arxiv.org/abs/2505.11584)|null|
 |**2025-05-16**|**Toward Adaptive Categories: Dimensional Governance for Agentic AI**|Zeynep Engin et.al.|[2505.11579](http://arxiv.org/abs/2505.11579)|null|
@@ -176,7 +176,7 @@ layout: default
 |**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Xinrui Wang et.al.|[2505.10522](http://arxiv.org/abs/2505.10522)|null|
 |**2025-05-15**|**Fixing Incomplete Value Function Decomposition for Multi-Agent Reinforcement Learning**|Andrea Baisero et.al.|[2505.10484](http://arxiv.org/abs/2505.10484)|null|
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
-|**2025-05-16**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
+|**2025-05-20**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
 |**2025-05-15**|**Bridging Theory and Perception in Fair Division: A Study on Comparative and Fair Share Notions**|Hadi Hosseini et.al.|[2505.10433](http://arxiv.org/abs/2505.10433)|null|
 |**2025-05-15**|**Aggregating Information and Preferences with Bounded-Size Deviations**|Qishen Han et.al.|[2505.10388](http://arxiv.org/abs/2505.10388)|null|
 |**2025-05-15**|**Multi-Agent Path Finding For Large Agents Is Intractable**|Artem Agafonov et.al.|[2505.10387](http://arxiv.org/abs/2505.10387)|null|
