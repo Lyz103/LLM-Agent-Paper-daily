@@ -21,7 +21,7 @@
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
 |**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
 |**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787](http://arxiv.org/abs/2505.24787)|null|
-|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785](http://arxiv.org/abs/2505.24785)|null|
+|**2025-06-02**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785](http://arxiv.org/abs/2505.24785)|null|
 |**2025-05-30**|**Emergent Dynamics of Active Systems on Curved Environments**|Euan D. Mackay et.al.|[2505.24730](http://arxiv.org/abs/2505.24730)|null|
 |**2025-05-30**|**CoRet: Improved Retriever for Code Editing**|Fabio Fehr et.al.|[2505.24715](http://arxiv.org/abs/2505.24715)|null|
 |**2025-05-30**|**Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting**|Wei Chen et.al.|[2505.24710](http://arxiv.org/abs/2505.24710)|null|
@@ -31,7 +31,7 @@
 |**2025-05-30**|**Online Budget-Feasible Mechanism Design with Predictions**|Georgios Amanatidis et.al.|[2505.24624](http://arxiv.org/abs/2505.24624)|null|
 |**2025-05-30**|**Distributed Intelligence in the Computing Continuum with Active Inference**|Victor Casamayor Pujol et.al.|[2505.24618](http://arxiv.org/abs/2505.24618)|null|
 |**2025-05-30**|**When Harry Meets Superman: The Role of The Interlocutor in Persona-Based Dialogue Generation**|Daniela Occhipinti et.al.|[2505.24613](http://arxiv.org/abs/2505.24613)|null|
-|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
 |**2025-05-30**|**NexusSum: Hierarchical LLM Agents for Long-Form Narrative Summarization**|Hyuntak Kim et.al.|[2505.24575](http://arxiv.org/abs/2505.24575)|null|
 |**2025-05-30**|**CREFT: Sequential Multi-Agent LLM for Character Relation Extraction**|Ye Eun Chun et.al.|[2505.24553](http://arxiv.org/abs/2505.24553)|null|
 |**2025-05-30**|**Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility**|Leonid Kondrashov et.al.|[2505.24551](http://arxiv.org/abs/2505.24551)|null|
@@ -101,14 +101,14 @@
 |**2025-05-29**|**Socratic-PRMBench: Benchmarking Process Reward Models with Systematic Reasoning Patterns**|Xiang Li et.al.|[2505.23474](http://arxiv.org/abs/2505.23474)|null|
 |**2025-05-29**|**On Global Convergence Rates for Federated Policy Gradient under Heterogeneous Environment**|Safwan Labbi et.al.|[2505.23459](http://arxiv.org/abs/2505.23459)|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
-|**2025-05-29**|**Emergent Risk Awareness in Rational Agents under Resource Constraints**|Daniel Jarne Ornia et.al.|[2505.23436](http://arxiv.org/abs/2505.23436)|null|
+|**2025-06-01**|**Emergent Risk Awareness in Rational Agents under Resource Constraints**|Daniel Jarne Ornia et.al.|[2505.23436](http://arxiv.org/abs/2505.23436)|null|
 |**2025-05-29**|**From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents**|Tobias Lindenbauer et.al.|[2505.23422](http://arxiv.org/abs/2505.23422)|**[link](https://github.com/liqs-v2/ctim-rover)**|
-|**2025-05-29**|**SWE-bench Goes Live!**|Linghao Zhang et.al.|[2505.23419](http://arxiv.org/abs/2505.23419)|**[link](https://github.com/microsoft/swe-bench-live)**|
+|**2025-06-01**|**SWE-bench Goes Live!**|Linghao Zhang et.al.|[2505.23419](http://arxiv.org/abs/2505.23419)|**[link](https://github.com/microsoft/swe-bench-live)**|
 |**2025-05-29**|**Agent Interpolation for Knowledge**|Marta Bílková et.al.|[2505.23401](http://arxiv.org/abs/2505.23401)|null|
 |**2025-05-29**|**GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning**|Jusheng Zhang et.al.|[2505.23399](http://arxiv.org/abs/2505.23399)|null|
 |**2025-05-29**|**Grower-in-the-Loop Interactive Reinforcement Learning for Greenhouse Climate Control**|Maxiu Xiao et.al.|[2505.23355](http://arxiv.org/abs/2505.23355)|null|
 |**2025-05-29**|**Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems**|Xu Shen et.al.|[2505.23352](http://arxiv.org/abs/2505.23352)|**[link](https://github.com/se7esx/eib)**|
-|**2025-05-29**|**ScEdit: Script-based Assessment of Knowledge Editing**|Xinye Li et.al.|[2505.23291](http://arxiv.org/abs/2505.23291)|**[link](https://github.com/asdfo123/scedit)**|
+|**2025-06-02**|**ScEdit: Script-based Assessment of Knowledge Editing**|Xinye Li et.al.|[2505.23291](http://arxiv.org/abs/2505.23291)|**[link](https://github.com/asdfo123/scedit)**|
 |**2025-05-29**|**Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**|Guangyuan Liu et.al.|[2505.23275](http://arxiv.org/abs/2505.23275)|null|
 |**2025-05-29**|**Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion**|Chunlong Xie et.al.|[2505.23266](http://arxiv.org/abs/2505.23266)|null|
 |**2025-05-29**|**Achieving Equitability with Subsidy**|Yuanyuan Wang et.al.|[2505.23251](http://arxiv.org/abs/2505.23251)|null|
@@ -157,7 +157,7 @@
 |**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657](http://arxiv.org/abs/2505.22657)|null|
 |**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
 |**2025-05-28**|**WebDancer: Towards Autonomous Information Seeking Agency**|Jialong Wu et.al.|[2505.22648](http://arxiv.org/abs/2505.22648)|**[link](https://github.com/alibaba-nlp/webagent)**|
-|**2025-05-29**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
+|**2025-06-01**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
 |**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634](http://arxiv.org/abs/2505.22634)|null|
 |**2025-05-28**|**HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym**|Ngoc La et.al.|[2505.22597](http://arxiv.org/abs/2505.22597)|**[link](https://github.com/HDDLGym/HDDLGym)**|
 |**2025-05-28**|**GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git**|Tobias Lindenbauer et.al.|[2505.22583](http://arxiv.org/abs/2505.22583)|**[link](https://github.com/JetBrains-Research/git-good-bench)**|
