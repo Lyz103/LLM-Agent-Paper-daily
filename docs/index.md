@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -40,7 +40,7 @@ layout: default
 |**2025-06-11**|**Optimizing Cooperative Multi-Object Tracking using Graph Signal Processing**|Maria Damanaki et.al.|[2506.09469](http://arxiv.org/abs/2506.09469)|null|
 |**2025-06-11**|**Generalization Error Analysis for Attack-Free and Byzantine-Resilient Decentralized Learning with Data Heterogeneity**|Haoxiang Ye et.al.|[2506.09438](http://arxiv.org/abs/2506.09438)|null|
 |**2025-06-11**|**When Is Diversity Rewarded in Cooperative Multi-Agent Learning?**|Michael Amir et.al.|[2506.09434](http://arxiv.org/abs/2506.09434)|null|
-|**2025-06-11**|**A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy**|Henry Peng Zou et.al.|[2506.09420](http://arxiv.org/abs/2506.09420)|null|
+|**2025-06-11**|**A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy**|Henry Peng Zou et.al.|[2506.09420](http://arxiv.org/abs/2506.09420)|**[link](https://github.com/henrypengzou/awesome-llm-based-human-agent-systems)**|
 |**2025-06-11**|**Reasoning as a Resource: Optimizing Fast and Slow Thinking in Code Generation Models**|Zongjie Li et.al.|[2506.09396](http://arxiv.org/abs/2506.09396)|null|
 |**2025-06-11**|**LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization**|Jiaqi Tang et.al.|[2506.09373](http://arxiv.org/abs/2506.09373)|null|
 |**2025-06-11**|**ContextBuddy: AI-Enhanced Contextual Insights for Security Alert Investigation (Applied to Intrusion Detection)**|Ronal Singh et.al.|[2506.09365](http://arxiv.org/abs/2506.09365)|null|
@@ -81,10 +81,10 @@ layout: default
 |**2025-06-10**|**HGFormer: A Hierarchical Graph Transformer Framework for Two-Stage Colonel Blotto Games via Reinforcement Learning**|Yang Lv et.al.|[2506.08580](http://arxiv.org/abs/2506.08580)|null|
 |**2025-06-10**|**Generating Vision-Language Navigation Instructions Incorporated Fine-Grained Alignment Annotations**|Yibo Cui et.al.|[2506.08566](http://arxiv.org/abs/2506.08566)|null|
 |**2025-06-10**|**FEDTAIL: Federated Long-Tailed Domain Generalization with Sharpness-Guided Gradient Matching**|Sunny Gupta et.al.|[2506.08518](http://arxiv.org/abs/2506.08518)|null|
-|**2025-06-10**|**MasHost Builds It All: Autonomous Multi-Agent System Directed by Reinforcement Learning**|Kuo Yang et.al.|[2506.08507](http://arxiv.org/abs/2506.08507)|null|
+|**2025-06-12**|**MasHost Builds It All: Autonomous Multi-Agent System Directed by Reinforcement Learning**|Kuo Yang et.al.|[2506.08507](http://arxiv.org/abs/2506.08507)|null|
 |**2025-06-10**|**Learning to Lead: Incentivizing Strategic Agents in the Dark**|Yuchen Wu et.al.|[2506.08438](http://arxiv.org/abs/2506.08438)|null|
 |**2025-06-10**|**Attention-based Learning for 3D Informative Path Planning**|Rui Zhao et.al.|[2506.08434](http://arxiv.org/abs/2506.08434)|null|
-|**2025-06-10**|**CAF-I: A Collaborative Multi-Agent Framework for Enhanced Irony Detection with Large Language Models**|Ziqi. Liu et.al.|[2506.08430](http://arxiv.org/abs/2506.08430)|null|
+|**2025-06-12**|**CAF-I: A Collaborative Multi-Agent Framework for Enhanced Irony Detection with Large Language Models**|Ziqi. Liu et.al.|[2506.08430](http://arxiv.org/abs/2506.08430)|null|
 |**2025-06-10**|**Mic-hackathon 2024: Hackathon on Machine Learning for Electron and Scanning Probe Microscopy**|Utkarsh Pratiush et.al.|[2506.08423](http://arxiv.org/abs/2506.08423)|null|
 |**2025-06-11**|**TACTIC: Translation Agents with Cognitive-Theoretic Interactive Collaboration**|Weiya Li et.al.|[2506.08403](http://arxiv.org/abs/2506.08403)|**[link](https://github.com/weiyali126/TACTIC)**|
 |**2025-06-10**|**Reinforce LLM Reasoning through Multi-Agent Reflection**|Yurun Yuan et.al.|[2506.08379](http://arxiv.org/abs/2506.08379)|null|
@@ -117,7 +117,7 @@ layout: default
 |**2025-06-09**|**Simulating nationwide coupled disease and fear spread in an agent-based model**|Joy Kitson et.al.|[2506.07842](http://arxiv.org/abs/2506.07842)|null|
 |**2025-06-09**|**Control strategies and trends to equilibrium for kinetic models of opinion dynamics driven by social activity**|Andrea Bondesan et.al.|[2506.07840](http://arxiv.org/abs/2506.07840)|null|
 |**2025-06-09**|**Decentralizing Multi-Agent Reinforcement Learning with Temporal Causal Information**|Jan Corazza et.al.|[2506.07829](http://arxiv.org/abs/2506.07829)|null|
-|**2025-06-09**|**A Proposal to Extend the Common Model of Cognition with Metacognition**|John Laird et.al.|[2506.07807](http://arxiv.org/abs/2506.07807)|null|
+|**2025-06-11**|**A Proposal to Extend the Common Model of Cognition with Metacognition**|John Laird et.al.|[2506.07807](http://arxiv.org/abs/2506.07807)|null|
 |**2025-06-09**|**Agent Semantics, Semantic Spacetime, and Graphical Reasoning**|Mark Burgess et.al.|[2506.07756](http://arxiv.org/abs/2506.07756)|null|
 |**2025-06-09**|**Deep Equivariant Multi-Agent Control Barrier Functions**|Nikolaos Bousias et.al.|[2506.07755](http://arxiv.org/abs/2506.07755)|null|
 |**2025-06-09**|**Delay Optimization in Remote ID-Based UAV Communication via BLE and Wi-Fi Switching**|Yian Zhu et.al.|[2506.07715](http://arxiv.org/abs/2506.07715)|null|
@@ -128,7 +128,7 @@ layout: default
 |**2025-06-09**|**MalGEN: A Generative Agent Framework for Modeling Malicious Software in Cybersecurity**|Bikash Saha et.al.|[2506.07586](http://arxiv.org/abs/2506.07586)|null|
 |**2025-06-09**|**Beyond the Sentence: A Survey on Context-Aware Machine Translation with Large Language Models**|Ramakrishna Appicharla et.al.|[2506.07583](http://arxiv.org/abs/2506.07583)|null|
 |**2025-06-11**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|null|
-|**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
+|**2025-06-12**|**CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
 |**2025-06-09**|**Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning**|Weiqiang Jin et.al.|[2506.07548](http://arxiv.org/abs/2506.07548)|null|
 |**2025-06-09**|**Fractional Collisions: A Framework for Risk Estimation of Counterfactual Conflicts using Autonomous Driving Behavior Simulations**|Sreeja Roy-Singh et.al.|[2506.07540](http://arxiv.org/abs/2506.07540)|null|
 |**2025-06-09**|**Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification**|Qisheng Hu et.al.|[2506.07528](http://arxiv.org/abs/2506.07528)|null|
@@ -139,7 +139,7 @@ layout: default
 |**2025-06-09**|**Generate Realistic Test Scenes for V2X Communication Systems**|An Guo et.al.|[2506.07419](http://arxiv.org/abs/2506.07419)|null|
 |**2025-06-11**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip R. Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
 |**2025-06-09**|**G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems**|Guibin Zhang et.al.|[2506.07398](http://arxiv.org/abs/2506.07398)|null|
-|**2025-06-09**|**From Static to Adaptive Defense: Federated Multi-Agent Deep Reinforcement Learning-Driven Moving Target Defense Against DoS Attacks in UAV Swarm Networks**|Yuyang Zhou et.al.|[2506.07392](http://arxiv.org/abs/2506.07392)|null|
+|**2025-06-09**|**From Static to Adaptive Defense: Federated Multi-Agent Deep Reinforcement Learning-Driven Moving Target Defense Against DoS Attacks in UAV Swarm Networks**|Yuyang Zhou et.al.|[2506.07392](http://arxiv.org/abs/2506.07392)|**[link](https://github.com/seu-proactivesecurity-group/pg-fmadrl)**|
 |**2025-06-09**|**Shapley-Coop: Credit Assignment for Emergent Cooperation in Self-Interested LLM Agents**|Yun Hua et.al.|[2506.07388](http://arxiv.org/abs/2506.07388)|null|
 |**2025-06-09**|**Extended Version of "Distributed Adaptive Resilient Consensus Control for Uncertain Nonlinear Multiagent Systems Against Deception Attacks"**|Mengze Yu et.al.|[2506.07374](http://arxiv.org/abs/2506.07374)|null|
 |**2025-06-09**|**Decentralized Optimization on Compact Submanifolds by Quantized Riemannian Gradient Tracking**|Jun Chen et.al.|[2506.07351](http://arxiv.org/abs/2506.07351)|null|
@@ -188,8 +188,8 @@ layout: default
 |**2025-06-07**|**Self-Adapting Improvement Loops for Robotic Learning**|Calvin Luo et.al.|[2506.06658](http://arxiv.org/abs/2506.06658)|null|
 |**2025-06-07**|**Active Test-time Vision-Language Navigation**|Heeju Ko et.al.|[2506.06630](http://arxiv.org/abs/2506.06630)|null|
 |**2025-06-06**|**AI Simulation by Digital Twins: Systematic Survey, Reference Framework, and Mapping to a Standardized Architecture**|Xiaoran Liu et.al.|[2506.06580](http://arxiv.org/abs/2506.06580)|null|
-|**2025-06-06**|**Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**|Yijia Shao et.al.|[2506.06576](http://arxiv.org/abs/2506.06576)|null|
-|**2025-06-06**|**The Optimization Paradox in Clinical AI Multi-Agent Systems**|Suhana Bedi et.al.|[2506.06574](http://arxiv.org/abs/2506.06574)|null|
+|**2025-06-11**|**Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**|Yijia Shao et.al.|[2506.06576](http://arxiv.org/abs/2506.06576)|null|
+|**2025-06-12**|**The Optimization Paradox in Clinical AI Multi-Agent Systems**|Suhana Bedi et.al.|[2506.06574](http://arxiv.org/abs/2506.06574)|null|
 |**2025-06-06**|**Enhancing Robot Safety via MLLM-Based Semantic Interpretation of Failure Data**|Aryaman Gupta et.al.|[2506.06570](http://arxiv.org/abs/2506.06570)|null|
 |**2025-06-06**|**Adapting Under Fire: Multi-Agent Reinforcement Learning for Adversarial Drift in Network Security**|Emilia Rivas et.al.|[2506.06565](http://arxiv.org/abs/2506.06565)|null|
 |**2025-06-06**|**KramaBench: A Benchmark for AI Systems on Data-to-Insight Pipelines over Data Lakes**|Eugenie Lai et.al.|[2506.06541](http://arxiv.org/abs/2506.06541)|null|
