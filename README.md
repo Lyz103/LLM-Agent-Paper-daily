@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-06-12**|**CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training**|Alireza Salemi et.al.|[2506.10844](http://arxiv.org/abs/2506.10844)|null|
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825](http://arxiv.org/abs/2506.10825)|null|
 |**2025-06-12**|**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**|Huaying Yuan et.al.|[2506.10821](http://arxiv.org/abs/2506.10821)|null|
-|**2025-06-12**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815](http://arxiv.org/abs/2506.10815)|null|
+|**2025-06-13**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815](http://arxiv.org/abs/2506.10815)|null|
 |**2025-06-12**|**OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems**|Xiaozhe Li et.al.|[2506.10764](http://arxiv.org/abs/2506.10764)|null|
 |**2025-06-12**|**Integrating Large Language Models into Text Animation: An Intelligent Editing System with Inline and Chat Interaction**|Bao Zhang et.al.|[2506.10762](http://arxiv.org/abs/2506.10762)|null|
 |**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
@@ -39,7 +39,7 @@
 |**2025-06-12**|**AniMaker: Automated Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation**|Haoyuan Shi et.al.|[2506.10540](http://arxiv.org/abs/2506.10540)|null|
 |**2025-06-12**|**Beyond Single-User Dialogue: Assessing Multi-User Dialogue State Tracking Capabilities of Large Language Models**|Sangmin Song et.al.|[2506.10504](http://arxiv.org/abs/2506.10504)|null|
 |**2025-06-12**|**BugGen: A Self-Correcting Multi-Agent LLM Pipeline for Realistic RTL Bug Synthesis**|Surya Jasper et.al.|[2506.10501](http://arxiv.org/abs/2506.10501)|null|
-|**2025-06-12**|**Specification and Evaluation of Multi-Agent LLM Systems -- Prototype and Cybersecurity Applications**|Felix Härer et.al.|[2506.10467](http://arxiv.org/abs/2506.10467)|null|
+|**2025-06-13**|**Specification and Evaluation of Multi-Agent LLM Systems -- Prototype and Cybersecurity Applications**|Felix Härer et.al.|[2506.10467](http://arxiv.org/abs/2506.10467)|null|
 |**2025-06-12**|**Are We Generalizing from the Exception? An In-the-Wild Study on Group-Sensitive Conversation Design in Human-Agent Interactions**|Ana Müller et.al.|[2506.10462](http://arxiv.org/abs/2506.10462)|null|
 |**2025-06-12**|**Equitable Mechanism Design for Facility Location**|Toby Walsh et.al.|[2506.10460](http://arxiv.org/abs/2506.10460)|null|
 |**2025-06-12**|**Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods**|Boris Sedlak et.al.|[2506.10420](http://arxiv.org/abs/2506.10420)|null|
@@ -172,7 +172,7 @@
 |**2025-06-09**|**Control strategies and trends to equilibrium for kinetic models of opinion dynamics driven by social activity**|Andrea Bondesan et.al.|[2506.07840](http://arxiv.org/abs/2506.07840)|null|
 |**2025-06-09**|**Decentralizing Multi-Agent Reinforcement Learning with Temporal Causal Information**|Jan Corazza et.al.|[2506.07829](http://arxiv.org/abs/2506.07829)|null|
 |**2025-06-11**|**A Proposal to Extend the Common Model of Cognition with Metacognition**|John Laird et.al.|[2506.07807](http://arxiv.org/abs/2506.07807)|null|
-|**2025-06-09**|**Agent Semantics, Semantic Spacetime, and Graphical Reasoning**|Mark Burgess et.al.|[2506.07756](http://arxiv.org/abs/2506.07756)|null|
+|**2025-06-13**|**Agent Semantics, Semantic Spacetime, and Graphical Reasoning**|Mark Burgess et.al.|[2506.07756](http://arxiv.org/abs/2506.07756)|null|
 |**2025-06-09**|**Deep Equivariant Multi-Agent Control Barrier Functions**|Nikolaos Bousias et.al.|[2506.07755](http://arxiv.org/abs/2506.07755)|null|
 |**2025-06-09**|**Delay Optimization in Remote ID-Based UAV Communication via BLE and Wi-Fi Switching**|Yian Zhu et.al.|[2506.07715](http://arxiv.org/abs/2506.07715)|null|
 |**2025-06-09**|**QUITE: A Query Rewrite System Beyond Rules with LLM Agents**|Yuyang Song et.al.|[2506.07675](http://arxiv.org/abs/2506.07675)|null|
@@ -213,7 +213,7 @@
 |**2025-06-08**|**Efficient RL-based Cache Vulnerability Exploration by Penalizing Useless Agent Actions**|Kanato Nakanishi et.al.|[2506.07200](http://arxiv.org/abs/2506.07200)|null|
 |**2025-06-08**|**Exploring Effective Strategies for Building a Customised GPT Agent for Coding Classroom Dialogues**|Luwei Bai et.al.|[2506.07194](http://arxiv.org/abs/2506.07194)|null|
 |**2025-06-08**|**Value-Set Iteration: Computing Optimal Correlated Equilibria in Infinite-Horizon Multi-Player Stochastic Games**|Jiarui Gan et.al.|[2506.07186](http://arxiv.org/abs/2506.07186)|null|
-|**2025-06-08**|**Delegation with Costly Inspection**|Mohammad T. Hajiaghayi et.al.|[2506.07162](http://arxiv.org/abs/2506.07162)|null|
+|**2025-06-12**|**Delegation with Costly Inspection**|Mohammad T. Hajiaghayi et.al.|[2506.07162](http://arxiv.org/abs/2506.07162)|null|
 |**2025-06-08**|**Mind the Web: The Security of Web Use Agents**|Avishag Shapira et.al.|[2506.07153](http://arxiv.org/abs/2506.07153)|null|
 |**2025-06-08**|**BRIGHT+: Upgrading the BRIGHT Benchmark with MARCUS, a Multi-Agent RAG Clean-Up Suite**|Liyang Chen et.al.|[2506.07116](http://arxiv.org/abs/2506.07116)|null|
 |**2025-06-08**|**Theorem-of-Thought: A Multi-Agent Framework for Abductive, Deductive, and Inductive Reasoning in Language Models**|Samir Abdaljalil et.al.|[2506.07106](http://arxiv.org/abs/2506.07106)|null|
@@ -8753,7 +8753,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
