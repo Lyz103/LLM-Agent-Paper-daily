@@ -14,6 +14,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
+|**2025-06-13**|**Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?**|Ramesh Raskar et.al.|[2506.12003](http://arxiv.org/abs/2506.12003)|null|
+|**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
+|**2025-06-13**|**Visual Pre-Training on Unlabeled Images using Reinforcement Learning**|Dibya Ghosh et.al.|[2506.11967](http://arxiv.org/abs/2506.11967)|null|
+|**2025-06-13**|**Automated Treatment Planning for Interstitial HDR Brachytherapy for Locally Advanced Cervical Cancer using Deep Reinforcement Learning**|Mohammadamin Moradi et.al.|[2506.11957](http://arxiv.org/abs/2506.11957)|null|
+|**2025-06-13**|**Secure API-Driven Research Automation to Accelerate Scientific Discovery**|Tyler J. Skluzacek et.al.|[2506.11950](http://arxiv.org/abs/2506.11950)|null|
+|**2025-06-13**|**Breaking Habits: On the Role of the Advantage Function in Learning Causal State Representations**|Miguel Suau et.al.|[2506.11912](http://arxiv.org/abs/2506.11912)|null|
+|**2025-06-13**|**Palpation Alters Auditory Pain Expressions with Gender-Specific Variations in Robopatients**|Chapa Sirithunge et.al.|[2506.11906](http://arxiv.org/abs/2506.11906)|null|
+|**2025-06-13**|**An Explainable AI Framework for Dynamic Resource Management in Vehicular Network Slicing**|Haochen Sun et.al.|[2506.11882](http://arxiv.org/abs/2506.11882)|null|
+|**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[2506.11842](http://arxiv.org/abs/2506.11842)|null|
+|**2025-06-13**|**Mean Field Games without Rational Expectations**|Benjamin Moll et.al.|[2506.11838](http://arxiv.org/abs/2506.11838)|null|
+|**2025-06-13**|**The Space Between Us: A Methodological Framework for Researching Bonding and Proxemics in Situated Group-Agent Interactions**|Ana Müller et.al.|[2506.11829](http://arxiv.org/abs/2506.11829)|null|
+|**2025-06-13**|**Revealing Political Bias in LLMs through Structured Multi-Agent Debate**|Aishwarya Bandaru et.al.|[2506.11825](http://arxiv.org/abs/2506.11825)|null|
+|**2025-06-13**|**PE-MA: Parameter-Efficient Co-Evolution of Multi-Agent Systems**|Yingfan Deng et.al.|[2506.11803](http://arxiv.org/abs/2506.11803)|null|
+|**2025-06-13**|**Solving Inverse Problems in Stochastic Self-Organising Systems through Invariant Representations**|Elias Najarro et.al.|[2506.11796](http://arxiv.org/abs/2506.11796)|null|
+|**2025-06-13**|**ALEA IACTA EST: A Declarative Domain-Specific Language for Manually Performable Random Experiments**|Baltasar Trancón y Widemann et.al.|[2506.11794](http://arxiv.org/abs/2506.11794)|null|
+|**2025-06-13**|**SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks**|Hwiwon Lee et.al.|[2506.11791](http://arxiv.org/abs/2506.11791)|null|
+|**2025-06-13**|**AgentSense: Virtual Sensor Data Generation Using LLM Agent in Simulated Home Environments**|Zikang Leng et.al.|[2506.11773](http://arxiv.org/abs/2506.11773)|null|
+|**2025-06-13**|**Convergence to equilibrium for a class of exchange economies**|R. S. MacKay et.al.|[2506.11770](http://arxiv.org/abs/2506.11770)|null|
+|**2025-06-13**|**DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents**|Mingxuan Du et.al.|[2506.11763](http://arxiv.org/abs/2506.11763)|null|
+|**2025-06-13**|**Bias and Identifiability in the Bounded Confidence Model**|Claudio Borile et.al.|[2506.11751](http://arxiv.org/abs/2506.11751)|null|
+|**2025-06-13**|**Interaction, Process, Infrastructure: A Unified Architecture for Human-Agent Collaboration**|Yun Wang et.al.|[2506.11718](http://arxiv.org/abs/2506.11718)|null|
+|**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710](http://arxiv.org/abs/2506.11710)|null|
+|**2025-06-13**|**Growing with Experience: Growing Neural Networks in Deep Reinforcement Learning**|Lukas Fehring et.al.|[2506.11706](http://arxiv.org/abs/2506.11706)|null|
+|**2025-06-13**|**LLMs for Sentence Simplification: A Hybrid Multi-Agent prompting Approach**|Pratibha Zunjare et.al.|[2506.11681](http://arxiv.org/abs/2506.11681)|null|
+|**2025-06-13**|**Robot Context Protocol (RCP): A Runtime-Agnostic Interface for Agent-Aware Robot Control**|Lambert Lee et.al.|[2506.11650](http://arxiv.org/abs/2506.11650)|null|
+|**2025-06-13**|**High Probability Convergence of Distributed Clipped Stochastic Gradient Descent with Heavy-tailed Noise**|Yuchen Yang et.al.|[2506.11647](http://arxiv.org/abs/2506.11647)|null|
+|**2025-06-13**|**LoRA-Gen: Specializing Large Language Model via Online LoRA Generation**|Yicheng Xiao et.al.|[2506.11638](http://arxiv.org/abs/2506.11638)|null|
+|**2025-06-13**|**"If we misunderstand the client, we misspend 100 hours": Exploring conversational AI and response types for information elicitation**|Daniel Hove Paludan et.al.|[2506.11610](http://arxiv.org/abs/2506.11610)|null|
+|**2025-06-13**|**Learn to Preserve Personality: Federated Foundation Models in Recommendations**|Zhiwei Li et.al.|[2506.11563](http://arxiv.org/abs/2506.11563)|null|
+|**2025-06-13**|**AutoGen Driven Multi Agent Framework for Iterative Crime Data Analysis and Prediction**|Syeda Kisaa Fatima et.al.|[2506.11475](http://arxiv.org/abs/2506.11475)|null|
+|**2025-06-13**|**Linear-quadratic stochastic nonzero-sum differential games between graphon teams**|De-xuan Xu et.al.|[2506.11468](http://arxiv.org/abs/2506.11468)|null|
+|**2025-06-13**|**Resolve Highway Conflict in Multi-Autonomous Vehicle Controls with Local State Attention**|Xuan Duy Ta et.al.|[2506.11445](http://arxiv.org/abs/2506.11445)|null|
+|**2025-06-13**|**ReVeal: Self-Evolving Code Agents via Iterative Generation-Verification**|Yiyang Jin et.al.|[2506.11442](http://arxiv.org/abs/2506.11442)|null|
+|**2025-06-13**|**Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards**|Jeff Da et.al.|[2506.11425](http://arxiv.org/abs/2506.11425)|null|
+|**2025-06-13**|**FocalAD: Local Motion Planning for End-to-End Autonomous Driving**|Bin Sun et.al.|[2506.11419](http://arxiv.org/abs/2506.11419)|null|
+|**2025-06-13**|**Complexity guarantees for risk-neutral generalized Nash equilibrium problems**|Haochen Tao et.al.|[2506.11409](http://arxiv.org/abs/2506.11409)|null|
+|**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376](http://arxiv.org/abs/2506.11376)|null|
+|**2025-06-12**|**From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review**|Yaohui Zhang et.al.|[2506.11343](http://arxiv.org/abs/2506.11343)|null|
+|**2025-06-12**|**A Hybrid Adaptive Nash Equilibrium Solver for Distributed Multi-Agent Systems with Game-Theoretic Jump Triggering**|Qiuyu Miao et.al.|[2506.11304](http://arxiv.org/abs/2506.11304)|null|
+|**2025-06-12**|**TARDIS STRIDE: A Spatio-Temporal Road Image Dataset for Exploration and Autonomy**|Héctor Carrión et.al.|[2506.11302](http://arxiv.org/abs/2506.11302)|null|
+|**2025-06-12**|**Shapley Machine: A Game-Theoretic Framework for N-Agent Ad Hoc Teamwork**|Jianhong Wang et.al.|[2506.11285](http://arxiv.org/abs/2506.11285)|null|
+|**2025-06-12**|**Invocable APIs derived from NL2SQL datasets for LLM Tool-Calling Evaluation**|Benjamin Elder et.al.|[2506.11266](http://arxiv.org/abs/2506.11266)|null|
+|**2025-06-12**|**Sensor Model Identification via Simultaneous Model Selection and State Variable Determination**|Christian Brommer et.al.|[2506.11263](http://arxiv.org/abs/2506.11263)|null|
+|**2025-06-12**|**LLM-as-a-Judge for Reference-less Automatic Code Validation and Refinement for Natural Language to Bash in IT Automation**|Ngoc Phuoc An Vo et.al.|[2506.11237](http://arxiv.org/abs/2506.11237)|null|
+|**2025-06-12**|**Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing**|Luis Miguel Vieira da Silva et.al.|[2506.11180](http://arxiv.org/abs/2506.11180)|null|
+|**2025-06-12**|**Collapsing Sequence-Level Data-Policy Coverage via Poisoning Attack in Offline Reinforcement Learning**|Xue Zhou et.al.|[2506.11172](http://arxiv.org/abs/2506.11172)|null|
+|**2025-06-11**|**ADAgent: LLM Agent for Alzheimer's Disease Analysis with Collaborative Coordinator**|Wenlong Hou et.al.|[2506.11150](http://arxiv.org/abs/2506.11150)|null|
+|**2025-06-11**|**Autonomous Computer Vision Development with Agentic AI**|Jin Kim et.al.|[2506.11140](http://arxiv.org/abs/2506.11140)|**[link](https://github.com/jink-ucla/OpenManus-SimpleMind)**|
+|**2025-06-10**|**GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions**|Wenkang Han et.al.|[2506.11127](http://arxiv.org/abs/2506.11127)|null|
 |**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
 |**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
 |**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|**[link](https://github.com/deepsoftwareanalytics/swe-factory)**|
