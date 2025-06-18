@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -25,7 +25,7 @@ layout: default
 |**2025-06-16**|**Agent Capability Negotiation and Binding Protocol (ACNBP)**|Ken Huang et.al.|[2506.13590](http://arxiv.org/abs/2506.13590)|null|
 |**2025-06-16**|**Non-exchangeable mean-field theory for adaptive weights: propagation of chaos and graphon sampling lemma**|Datong Zhou et.al.|[2506.13587](http://arxiv.org/abs/2506.13587)|null|
 |**2025-06-16**|**Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes**|Bernhard Hilpert et.al.|[2506.13583](http://arxiv.org/abs/2506.13583)|null|
-|**2025-06-16**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566](http://arxiv.org/abs/2506.13566)|null|
+|**2025-06-17**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566](http://arxiv.org/abs/2506.13566)|null|
 |**2025-06-16**|**Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework**|Hemjyoti Das et.al.|[2506.13478](http://arxiv.org/abs/2506.13478)|null|
 |**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474](http://arxiv.org/abs/2506.13474)|null|
 |**2025-06-16**|**A Two-stage Optimization Method for Wide-range Single-electron Quantum Magnetic Sensing**|Shiqian Guo et.al.|[2506.13469](http://arxiv.org/abs/2506.13469)|null|
@@ -47,7 +47,7 @@ layout: default
 |**2025-06-16**|**AlphaEvolve: A coding agent for scientific and algorithmic discovery**|Alexander Novikov et.al.|[2506.13131](http://arxiv.org/abs/2506.13131)|null|
 |**2025-06-16**|**Dynamic Reinsurance Treaty Bidding via Multi-Agent Reinforcement Learning**|Stella C. Dong et.al.|[2506.13113](http://arxiv.org/abs/2506.13113)|null|
 |**2025-06-16**|**Leveraging In-Context Learning for Language Model Agents**|Shivanshu Gupta et.al.|[2506.13109](http://arxiv.org/abs/2506.13109)|null|
-|**2025-06-16**|**Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol**|Haowen Xu et.al.|[2506.13068](http://arxiv.org/abs/2506.13068)|null|
+|**2025-06-17**|**Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol**|Haowen Xu et.al.|[2506.13068](http://arxiv.org/abs/2506.13068)|null|
 |**2025-06-16**|**MotiveBench: How Far Are We From Human-Like Motivational Reasoning in Large Language Models?**|Xixian Yong et.al.|[2506.13065](http://arxiv.org/abs/2506.13065)|null|
 |**2025-06-16**|**PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue**|George Shaikovski et.al.|[2506.13063](http://arxiv.org/abs/2506.13063)|null|
 |**2025-06-16**|**MAGIC: Multi-Agent Argumentation and Grammar Integrated Critiquer**|Joaquin Jordan et.al.|[2506.13037](http://arxiv.org/abs/2506.13037)|null|
@@ -72,10 +72,10 @@ layout: default
 |**2025-06-14**|**Synthetic Socratic Debates: Examining Persona Effects on Moral Decision and Persuasion Dynamics**|Jiarui Liu et.al.|[2506.12657](http://arxiv.org/abs/2506.12657)|null|
 |**2025-06-14**|**Mapping Neural Signals to Agent Performance, A Step Towards Reinforcement Learning from Neural Feedback**|Julia Santaniello et.al.|[2506.12636](http://arxiv.org/abs/2506.12636)|null|
 |**2025-06-14**|**Towards Building General Purpose Embedding Models for Industry 4.0 Agents**|Christodoulos Constantinides et.al.|[2506.12607](http://arxiv.org/abs/2506.12607)|null|
-|**2025-06-14**|**The Rise of AI Companions: How Human-Chatbot Relationships Influence Well-Being**|Yutong Zhang et.al.|[2506.12605](http://arxiv.org/abs/2506.12605)|null|
+|**2025-06-17**|**The Rise of AI Companions: How Human-Chatbot Relationships Influence Well-Being**|Yutong Zhang et.al.|[2506.12605](http://arxiv.org/abs/2506.12605)|null|
 |**2025-06-14**|**Trust-MARL: Trust-Based Multi-Agent Reinforcement Learning Framework for Cooperative On-Ramp Merging Control in Heterogeneous Traffic Flow**|Jie Pan et.al.|[2506.12600](http://arxiv.org/abs/2506.12600)|null|
 |**2025-06-14**|**Moment Restrictions for Nonlinear Panel Data Models with Feedback**|Stéphane Bonhomme et.al.|[2506.12569](http://arxiv.org/abs/2506.12569)|null|
-|**2025-06-14**|**AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving**|Wentao Zhang et.al.|[2506.12508](http://arxiv.org/abs/2506.12508)|null|
+|**2025-06-17**|**AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving**|Wentao Zhang et.al.|[2506.12508](http://arxiv.org/abs/2506.12508)|null|
 |**2025-06-14**|**Wasserstein-Barycenter Consensus for Cooperative Multi-Agent Reinforcement Learning**|Ali Baheri et.al.|[2506.12497](http://arxiv.org/abs/2506.12497)|null|
 |**2025-06-14**|**Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare**|Yubin Kim et.al.|[2506.12482](http://arxiv.org/abs/2506.12482)|null|
 |**2025-06-14**|**Generalizable Trajectory Prediction via Inverse Reinforcement Learning with Mamba-Graph Architecture**|Wenyun Li et.al.|[2506.12474](http://arxiv.org/abs/2506.12474)|null|
@@ -84,7 +84,7 @@ layout: default
 |**2025-06-14**|**Topology-Assisted Spatio-Temporal Pattern Disentangling for Scalable MARL in Large-scale Autonomous Traffic Control**|Rongpeng Li et.al.|[2506.12453](http://arxiv.org/abs/2506.12453)|null|
 |**2025-06-14**|**Plan Your Travel and Travel with Your Plan: Wide-Horizon Planning and Evaluation via LLM**|Dongjie Yang et.al.|[2506.12421](http://arxiv.org/abs/2506.12421)|null|
 |**2025-06-14**|**Ghost Policies: A New Paradigm for Understanding and Learning from Failure in Deep Reinforcement Learning**|Xabier Olaz et.al.|[2506.12366](http://arxiv.org/abs/2506.12366)|null|
-|**2025-06-14**|**How Developers Use AI Agents: When They Work, When They Don't, and Why**|Aayush Kumar et.al.|[2506.12347](http://arxiv.org/abs/2506.12347)|null|
+|**2025-06-17**|**Sharp Tools: How Developers Wield Agentic AI in Real Software Engineering Tasks**|Aayush Kumar et.al.|[2506.12347](http://arxiv.org/abs/2506.12347)|null|
 |**2025-06-14**|**SheetMind: An End-to-End LLM-Powered Multi-Agent Framework for Spreadsheet Automation**|Ruiyan Zhu et.al.|[2506.12339](http://arxiv.org/abs/2506.12339)|null|
 |**2025-06-14**|**Artificial Intelligence in Team Dynamics: Who Gets Replaced and Why?**|Xienan Cheng et.al.|[2506.12337](http://arxiv.org/abs/2506.12337)|null|
 |**2025-06-14**|**IndoorWorld: Integrating Physical Task Solving and Social Simulation in A Heterogeneous Multi-Agent Environment**|Dekun Wu et.al.|[2506.12331](http://arxiv.org/abs/2506.12331)|null|
@@ -127,7 +127,7 @@ layout: default
 |**2025-06-13**|**Interaction, Process, Infrastructure: A Unified Architecture for Human-Agent Collaboration**|Yun Wang et.al.|[2506.11718](http://arxiv.org/abs/2506.11718)|null|
 |**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710](http://arxiv.org/abs/2506.11710)|null|
 |**2025-06-13**|**Growing with Experience: Growing Neural Networks in Deep Reinforcement Learning**|Lukas Fehring et.al.|[2506.11706](http://arxiv.org/abs/2506.11706)|null|
-|**2025-06-13**|**LLMs for Sentence Simplification: A Hybrid Multi-Agent prompting Approach**|Pratibha Zunjare et.al.|[2506.11681](http://arxiv.org/abs/2506.11681)|null|
+|**2025-06-17**|**A Hybrid Multi-Agent Prompting Approach for Simplifying Complex Sentences**|Pratibha Zunjare et.al.|[2506.11681](http://arxiv.org/abs/2506.11681)|null|
 |**2025-06-13**|**Robot Context Protocol (RCP): A Runtime-Agnostic Interface for Agent-Aware Robot Control**|Lambert Lee et.al.|[2506.11650](http://arxiv.org/abs/2506.11650)|null|
 |**2025-06-13**|**High Probability Convergence of Distributed Clipped Stochastic Gradient Descent with Heavy-tailed Noise**|Yuchen Yang et.al.|[2506.11647](http://arxiv.org/abs/2506.11647)|null|
 |**2025-06-13**|**LoRA-Gen: Specializing Large Language Model via Online LoRA Generation**|Yicheng Xiao et.al.|[2506.11638](http://arxiv.org/abs/2506.11638)|null|
@@ -203,7 +203,7 @@ layout: default
 |**2025-06-11**|**A quantum semantic framework for natural language processing**|Christopher J. Agostino et.al.|[2506.10077](http://arxiv.org/abs/2506.10077)|null|
 |**2025-06-11**|**Patient-Specific Deep Reinforcement Learning for Automatic Replanning in Head-and-Neck Cancer Proton Therapy**|Malvern Madondo et.al.|[2506.10073](http://arxiv.org/abs/2506.10073)|null|
 |**2025-06-11**|**Cooling a Qubit using n Others**|Jake Xuereb et.al.|[2506.10059](http://arxiv.org/abs/2506.10059)|null|
-|**2025-06-11**|**TaskCraft: Automated Generation of Agentic Tasks**|Dingfeng Shi et.al.|[2506.10055](http://arxiv.org/abs/2506.10055)|null|
+|**2025-06-17**|**TaskCraft: Automated Generation of Agentic Tasks**|Dingfeng Shi et.al.|[2506.10055](http://arxiv.org/abs/2506.10055)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**SRLAgent: Enhancing Self-Regulated Learning Skills through Gamification and LLM Assistance**|Wentao Ge et.al.|[2506.09968](http://arxiv.org/abs/2506.09968)|null|
 |**2025-06-11**|**The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability**|Jiachen Hu et.al.|[2506.09940](http://arxiv.org/abs/2506.09940)|null|
