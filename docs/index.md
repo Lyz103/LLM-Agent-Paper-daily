@@ -14,6 +14,59 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763](http://arxiv.org/abs/2506.14763)|null|
+|**2025-06-17**|**Swarm-STL: A Framework for Motion Planning in Large-Scale, Multi-Swarm Systems**|Shiyu Cheng et.al.|[2506.14749](http://arxiv.org/abs/2506.14749)|null|
+|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
+|**2025-06-17**|**Linear Planar 3-SAT and Its Applications in Planning**|Victorien Desbois et.al.|[2506.14713](http://arxiv.org/abs/2506.14713)|null|
+|**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697](http://arxiv.org/abs/2506.14697)|null|
+|**2025-06-17**|**Factor-Graph-Based Passive Acoustic Navigation for Decentralized Cooperative Localization Using Bearing Elevation Depth Difference**|Kalliyan Velasco et.al.|[2506.14690](http://arxiv.org/abs/2506.14690)|null|
+|**2025-06-17**|**Unified Software Engineering agent as AI Software Engineer**|Leonhard Applis et.al.|[2506.14683](http://arxiv.org/abs/2506.14683)|null|
+|**2025-06-17**|**StreetLens: Enabling Human-Centered AI Agents for Neighborhood Assessment from Street View Imagery**|Jina Kim et.al.|[2506.14670](http://arxiv.org/abs/2506.14670)|null|
+|**2025-06-17**|**SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning**|Hexian Ni et.al.|[2506.14648](http://arxiv.org/abs/2506.14648)|null|
+|**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580](http://arxiv.org/abs/2506.14580)|null|
+|**2025-06-17**|**Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack**|Daewon Kang et.al.|[2506.14539](http://arxiv.org/abs/2506.14539)|null|
+|**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529](http://arxiv.org/abs/2506.14529)|null|
+|**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512](http://arxiv.org/abs/2506.14512)|null|
+|**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[2506.14502](http://arxiv.org/abs/2506.14502)|null|
+|**2025-06-17**|**LLM-Powered Swarms: A New Frontier or a Conceptual Stretch?**|Muhammad Atta Ur Rahman et.al.|[2506.14496](http://arxiv.org/abs/2506.14496)|null|
+|**2025-06-17**|**GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies**|Jingqi Yang et.al.|[2506.14477](http://arxiv.org/abs/2506.14477)|null|
+|**2025-06-17**|**SimSpark: Interactive Simulation of Social Media Behaviors**|Ziyue Lin et.al.|[2506.14476](http://arxiv.org/abs/2506.14476)|null|
+|**2025-06-17**|**Hamiltonian Formalism for Comparing Quantum and Classical Intelligence**|Elija Perrier et.al.|[2506.14456](http://arxiv.org/abs/2506.14456)|null|
+|**2025-06-17**|**Active Digital Twins via Active Inference**|Matteo Torzoni et.al.|[2506.14453](http://arxiv.org/abs/2506.14453)|null|
+|**2025-06-17**|**Adaptive Reinforcement Learning for Unobservable Random Delays**|John Wikman et.al.|[2506.14411](http://arxiv.org/abs/2506.14411)|null|
+|**2025-06-17**|**System 0: Transforming Artificial Intelligence into a Cognitive Extension**|Massimo Chiriatti et.al.|[2506.14376](http://arxiv.org/abs/2506.14376)|null|
+|**2025-06-17**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
+|**2025-06-17**|**Expectation Confirmation Preference Optimization for Multi-Turn Conversational Recommendation Agent**|Xueyang Feng et.al.|[2506.14302](http://arxiv.org/abs/2506.14302)|null|
+|**2025-06-17**|**ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems**|Fanzhi Zeng et.al.|[2506.14299](http://arxiv.org/abs/2506.14299)|null|
+|**2025-06-17**|**From What to Respond to When to Respond: Timely Response Generation for Open-domain Dialogue Agents**|Seongbo Jang et.al.|[2506.14285](http://arxiv.org/abs/2506.14285)|null|
+|**2025-06-17**|**Mxplainer: Explain and Learn Insights by Imitating Mahjong Agents**|Lingfeng Li et.al.|[2506.14246](http://arxiv.org/abs/2506.14246)|null|
+|**2025-06-17**|**A Novel Indicator for Quantifying and Minimizing Information Utility Loss of Robot Teams**|Xiyu Zhao et.al.|[2506.14237](http://arxiv.org/abs/2506.14237)|null|
+|**2025-06-17**|**Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team**|Md Tanzib Hosain et.al.|[2506.14234](http://arxiv.org/abs/2506.14234)|null|
+|**2025-06-17**|**AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents**|Jingxu Xie et.al.|[2506.14205](http://arxiv.org/abs/2506.14205)|null|
+|**2025-06-17**|**MAS-LitEval : Multi-Agent System for Literary Translation Quality Assessment**|Junghwan Kim et.al.|[2506.14199](http://arxiv.org/abs/2506.14199)|null|
+|**2025-06-17**|**Hierarchical Multi-Agent Reinforcement Learning-based Coordinated Spatial Reuse for Next Generation WLANs**|Jiaming Yu et.al.|[2506.14187](http://arxiv.org/abs/2506.14187)|null|
+|**2025-06-17**|**Affective-CARA: A Knowledge Graph Driven Framework for Culturally Adaptive Emotional Intelligence in HCI**|Nirodya Pussadeniya et.al.|[2506.14166](http://arxiv.org/abs/2506.14166)|null|
+|**2025-06-17**|**Light Aircraft Game : Basic Implementation and training results analysis**|Hanzhong Cao et.al.|[2506.14164](http://arxiv.org/abs/2506.14164)|null|
+|**2025-06-17**|**Common Benchmarks Undervalue the Generalization Power of Programmatic Policies**|Amirhossein Rajabpour et.al.|[2506.14162](http://arxiv.org/abs/2506.14162)|null|
+|**2025-06-17**|**StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework**|Shayan Talaei et.al.|[2506.14159](http://arxiv.org/abs/2506.14159)|null|
+|**2025-06-17**|**Dividing Conflicting Items Fairly**|Ayumi Igarashi et.al.|[2506.14149](http://arxiv.org/abs/2506.14149)|null|
+|**2025-06-17**|**RadFabric: Agentic AI System with Reasoning Capability for Radiology**|Wenting Chen et.al.|[2506.14142](http://arxiv.org/abs/2506.14142)|null|
+|**2025-06-17**|**FormGym: Doing Paperwork with Agents**|Matthew Toles et.al.|[2506.14079](http://arxiv.org/abs/2506.14079)|null|
+|**2025-06-17**|**Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification**|Nathaniel Pinckney et.al.|[2506.14074](http://arxiv.org/abs/2506.14074)|null|
+|**2025-06-16**|**Discovering Temporal Structure: An Overview of Hierarchical Reinforcement Learning**|Martin Klissarov et.al.|[2506.14045](http://arxiv.org/abs/2506.14045)|null|
+|**2025-06-16**|**SimpleDoc: Multi-Modal Document Understanding with Dual-Cue Page Retrieval and Iterative Refinement**|Chelsi Jain et.al.|[2506.14035](http://arxiv.org/abs/2506.14035)|null|
+|**2025-06-16**|**A Cooperative Contactless Object Transport with Acoustic Robots**|Narsimlu Kemsaram et.al.|[2506.13957](http://arxiv.org/abs/2506.13957)|null|
+|**2025-06-16**|**ReinDSplit: Reinforced Dynamic Split Learning for Pest Recognition in Precision Agriculture**|Vishesh Kumar Tanwar et.al.|[2506.13935](http://arxiv.org/abs/2506.13935)|null|
+|**2025-06-16**|**How Does LLM Reasoning Work for Code? A Survey and a Call to Action**|Ira Ceka et.al.|[2506.13932](http://arxiv.org/abs/2506.13932)|null|
+|**2025-06-16**|**Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems**|Zhongzhi Yu et.al.|[2506.13905](http://arxiv.org/abs/2506.13905)|null|
+|**2025-06-16**|**LocationReasoner: Evaluating LLMs on Real-World Site Selection Reasoning**|Miho Koda et.al.|[2506.13841](http://arxiv.org/abs/2506.13841)|null|
+|**2025-06-16**|**Recent trends in socio-epidemic modelling: behaviours and their determinants**|Daniele Proverbio et.al.|[2506.13837](http://arxiv.org/abs/2506.13837)|null|
+|**2025-06-15**|**The Reflexive Integrated Information Unit: A Differentiable Primitive for Artificial Consciousness**|Gnankan Landry Regis N'guessan et.al.|[2506.13825](http://arxiv.org/abs/2506.13825)|null|
+|**2025-06-15**|**The Synthetic Mirror -- Synthetic Data at the Age of Agentic AI**|Marcelle Momha et.al.|[2506.13818](http://arxiv.org/abs/2506.13818)|null|
+|**2025-06-14**|**DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models**|Saleem A. Al Dajani et.al.|[2506.13817](http://arxiv.org/abs/2506.13817)|null|
+|**2025-06-13**|**Investigating the Potential of Large Language Model-Based Router Multi-Agent Architectures for Foundation Design Automation: A Task Classification and Expert Selection Study**|Sompote Youwai et.al.|[2506.13811](http://arxiv.org/abs/2506.13811)|null|
+|**2025-06-13**|**Causality in the human niche: lessons for machine learning**|Richard D. Lange et.al.|[2506.13803](http://arxiv.org/abs/2506.13803)|null|
+|**2025-06-13**|**Enhancing Clinical Decision Support and EHR Insights through LLMs and the Model Context Protocol: An Open-Source MCP-FHIR Framework**|Abul Ehtesham et.al.|[2506.13800](http://arxiv.org/abs/2506.13800)|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755](http://arxiv.org/abs/2506.13755)|null|
 |**2025-06-16**|**PB $^2$ : Preference Space Exploration via Population-Based Methods in Preference-Based Reinforcement Learning**|Brahim Driss et.al.|[2506.13741](http://arxiv.org/abs/2506.13741)|null|
 |**2025-06-16**|**The Courage to Stop: Overcoming Sunk Cost Fallacy in Deep Reinforcement Learning**|Jiashun Liu et.al.|[2506.13672](http://arxiv.org/abs/2506.13672)|null|
