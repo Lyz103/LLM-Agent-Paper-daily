@@ -14,6 +14,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
+|**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
+|**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
+|**2025-06-25**|**Towards Community-Driven Agents for Machine Learning Engineering**|Sijie Li et.al.|[2506.20640](http://arxiv.org/abs/2506.20640)|null|
+|**2025-06-25**|**Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm**|Baixiang Huang et.al.|[2506.20606](http://arxiv.org/abs/2506.20606)|null|
+|**2025-06-25**|**Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges**|Alexander D. Kalian et.al.|[2506.20598](http://arxiv.org/abs/2506.20598)|null|
+|**2025-06-25**|**An Explicit Solution for the Problem of Optimal Investment with Random Endowment**|Michael Donisch et.al.|[2506.20506](http://arxiv.org/abs/2506.20506)|null|
+|**2025-06-25**|**Engineering Sentience**|Konstantin Demin et.al.|[2506.20504](http://arxiv.org/abs/2506.20504)|null|
+|**2025-06-25**|**Opinion Dynamics with Highly Oscillating Opinions**|Víctor A. Vargas-Pérez et.al.|[2506.20472](http://arxiv.org/abs/2506.20472)|null|
+|**2025-06-25**|**An Agentic System for Rare Disease Diagnosis with Traceable Reasoning**|Weike Zhao et.al.|[2506.20430](http://arxiv.org/abs/2506.20430)|null|
+|**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
+|**2025-06-25**|**TAPS: Tool-Augmented Personalisation via Structured Tagging**|Ekaterina Taktasheva et.al.|[2506.20409](http://arxiv.org/abs/2506.20409)|null|
+|**2025-06-25**|**A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem**|Kristoffer Christensen et.al.|[2506.20400](http://arxiv.org/abs/2506.20400)|null|
+|**2025-06-25**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Jihao Gu et.al.|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
+|**2025-06-25**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320](http://arxiv.org/abs/2506.20320)|null|
+|**2025-06-25**|**Exact and approximate maximin share allocations in multi-graphs**|George Christodoulou et.al.|[2506.20317](http://arxiv.org/abs/2506.20317)|null|
+|**2025-06-25**|**Language Modeling by Language Models**|Junyan Cheng et.al.|[2506.20249](http://arxiv.org/abs/2506.20249)|null|
+|**2025-06-25**|**Autonomous Cyber Resilience via a Co-Evolutionary Arms Race within a Fortified Digital Twin Sandbox**|Malikussaid et.al.|[2506.20102](http://arxiv.org/abs/2506.20102)|null|
+|**2025-06-25**|**PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models**|Wang Bill Zhu et.al.|[2506.20097](http://arxiv.org/abs/2506.20097)|null|
+|**2025-06-25**|**From Conversation to Orchestration: HCI Challenges and Opportunities in Interactive Multi-Agentic Systems**|Sarah Schömbs et.al.|[2506.20091](http://arxiv.org/abs/2506.20091)|null|
+|**2025-06-24**|**Beyond Autocomplete: Designing CopilotLens Towards Transparent and Explainable AI Coding Agents**|Runlong Ye et.al.|[2506.20062](http://arxiv.org/abs/2506.20062)|null|
+|**2025-06-24**|**Learning Instruction-Following Policies through Open-Ended Instruction Relabeling with Large Language Models**|Zhicheng Zhang et.al.|[2506.20061](http://arxiv.org/abs/2506.20061)|null|
+|**2025-06-24**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045](http://arxiv.org/abs/2506.20045)|null|
+|**2025-06-24**|**Learning Bilateral Team Formation in Cooperative Multi-Agent Reinforcement Learning**|Koorosh Moslemi et.al.|[2506.20039](http://arxiv.org/abs/2506.20039)|null|
+|**2025-06-24**|**Automated Generation of Diverse Courses of Actions for Multi-Agent Operations using Binary Optimization and Graph Learning**|Prithvi Poddar et.al.|[2506.20031](http://arxiv.org/abs/2506.20031)|null|
+|**2025-06-24**|**Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More**|Robin Bowers et.al.|[2506.20030](http://arxiv.org/abs/2506.20030)|null|
+|**2025-06-24**|**QHackBench: Benchmarking Large Language Models for Quantum Code Generation Using PennyLane Hackathon Challenges**|Abdul Basit et.al.|[2506.20008](http://arxiv.org/abs/2506.20008)|null|
+|**2025-06-24**|**Can One Safety Loop Guard Them All? Agentic Guard Rails for Federated Computing**|Narasimha Raghavan Veeraragavan et.al.|[2506.20000](http://arxiv.org/abs/2506.20000)|null|
+|**2025-06-24**|**Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation**|Xinyi Ni et.al.|[2506.19998](http://arxiv.org/abs/2506.19998)|null|
+|**2025-06-24**|**TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design**|Geonwoo Cho et.al.|[2506.19997](http://arxiv.org/abs/2506.19997)|null|
+|**2025-06-24**|**Prover Agent: An Agent-based Framework for Formal Mathematical Proofs**|Kaito Baba et.al.|[2506.19923](http://arxiv.org/abs/2506.19923)|null|
 |**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
 |**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
 |**2025-06-24**|**Curating art exhibitions using machine learning**|Eurico Covas et.al.|[2506.19813](http://arxiv.org/abs/2506.19813)|null|
