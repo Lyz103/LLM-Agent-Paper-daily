@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -47,7 +47,7 @@ layout: default
 |**2025-06-24**|**Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs**|Liang Zeng et.al.|[2506.19290](http://arxiv.org/abs/2506.19290)|null|
 |**2025-06-24**|**Robust Behavior Cloning Via Global Lipschitz Regularization**|Shili Wu et.al.|[2506.19250](http://arxiv.org/abs/2506.19250)|null|
 |**2025-06-24**|**Augmenting Multi-Agent Communication with State Delta Trajectory**|Yichen Tang et.al.|[2506.19209](http://arxiv.org/abs/2506.19209)|null|
-|**2025-06-23**|**Vertex addition to a ball graph with application to reliability and area coverage in autonomous swarms**|Calum Buchanan et.al.|[2506.19197](http://arxiv.org/abs/2506.19197)|null|
+|**2025-06-25**|**Vertex addition to a ball graph with application to reliability and area coverage in autonomous swarms**|Calum Buchanan et.al.|[2506.19197](http://arxiv.org/abs/2506.19197)|null|
 |**2025-06-23**|**Bayesian Evolutionary Swarm Architecture: A Formal Epistemic System Grounded in Truth-Based Competition**|Craig Steven Wright et.al.|[2506.19191](http://arxiv.org/abs/2506.19191)|null|
 |**2025-06-23**|**Distilling Tool Knowledge into Language Models via Back-Translated Traces**|Xingyue Huang et.al.|[2506.19171](http://arxiv.org/abs/2506.19171)|null|
 |**2025-06-23**|**AgenticControl: An Automated Control Design Framework Using Large Language Models**|Mohammad Narimani et.al.|[2506.19160](http://arxiv.org/abs/2506.19160)|null|
@@ -62,7 +62,7 @@ layout: default
 |**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
 |**2025-06-23**|**Broad Validity of the First-Order Approach in Moral Hazard**|Eduardo Azevedo et.al.|[2506.18873](http://arxiv.org/abs/2506.18873)|null|
-|**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847](http://arxiv.org/abs/2506.18847)|null|
+|**2025-06-25**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847](http://arxiv.org/abs/2506.18847)|null|
 |**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
 |**2025-06-23**|**Multi-Agent Online Control with Adversarial Disturbances**|Anas Barakat et.al.|[2506.18814](http://arxiv.org/abs/2506.18814)|null|
 |**2025-06-23**|**Fair Allocation with Money: What is Your Objective?**|Noga Klein Elmalem et.al.|[2506.18794](http://arxiv.org/abs/2506.18794)|null|
@@ -146,7 +146,7 @@ layout: default
 |**2025-06-18**|**Context manipulation attacks : Web agents are susceptible to corrupted memory**|Atharv Singh Patlan et.al.|[2506.17318](http://arxiv.org/abs/2506.17318)|null|
 |**2025-06-18**|**Can Large Language Models Be Trusted Paper Reviewers? A Feasibility Study**|Chuanlei Li et.al.|[2506.17311](http://arxiv.org/abs/2506.17311)|null|
 |**2025-06-17**|**SafeRL-Lite: A Lightweight, Explainable, and Constrained Reinforcement Learning Library**|Satyam Mishra et.al.|[2506.17297](http://arxiv.org/abs/2506.17297)|null|
-|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
+|**2025-06-25**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213](http://arxiv.org/abs/2506.17213)|**[link](https://github.com/orangesodahub/infgen)**|
 |**2025-06-20**|**Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**|Matias Martinez et.al.|[2506.17208](http://arxiv.org/abs/2506.17208)|null|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
