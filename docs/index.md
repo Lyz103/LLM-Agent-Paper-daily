@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -25,10 +25,10 @@ layout: default
 |**2025-06-25**|**Opinion Dynamics with Highly Oscillating Opinions**|Víctor A. Vargas-Pérez et.al.|[2506.20472](http://arxiv.org/abs/2506.20472)|null|
 |**2025-06-25**|**An Agentic System for Rare Disease Diagnosis with Traceable Reasoning**|Weike Zhao et.al.|[2506.20430](http://arxiv.org/abs/2506.20430)|null|
 |**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
-|**2025-06-25**|**TAPS: Tool-Augmented Personalisation via Structured Tagging**|Ekaterina Taktasheva et.al.|[2506.20409](http://arxiv.org/abs/2506.20409)|null|
+|**2025-06-26**|**TAPS: Tool-Augmented Personalisation via Structured Tagging**|Ekaterina Taktasheva et.al.|[2506.20409](http://arxiv.org/abs/2506.20409)|null|
 |**2025-06-25**|**A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem**|Kristoffer Christensen et.al.|[2506.20400](http://arxiv.org/abs/2506.20400)|null|
 |**2025-06-25**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Jihao Gu et.al.|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
-|**2025-06-25**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320](http://arxiv.org/abs/2506.20320)|null|
+|**2025-06-26**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320](http://arxiv.org/abs/2506.20320)|null|
 |**2025-06-25**|**Exact and approximate maximin share allocations in multi-graphs**|George Christodoulou et.al.|[2506.20317](http://arxiv.org/abs/2506.20317)|null|
 |**2025-06-25**|**Language Modeling by Language Models**|Junyan Cheng et.al.|[2506.20249](http://arxiv.org/abs/2506.20249)|null|
 |**2025-06-25**|**Autonomous Cyber Resilience via a Co-Evolutionary Arms Race within a Fortified Digital Twin Sandbox**|Malikussaid et.al.|[2506.20102](http://arxiv.org/abs/2506.20102)|null|
@@ -36,7 +36,7 @@ layout: default
 |**2025-06-25**|**From Conversation to Orchestration: HCI Challenges and Opportunities in Interactive Multi-Agentic Systems**|Sarah Schömbs et.al.|[2506.20091](http://arxiv.org/abs/2506.20091)|null|
 |**2025-06-24**|**Beyond Autocomplete: Designing CopilotLens Towards Transparent and Explainable AI Coding Agents**|Runlong Ye et.al.|[2506.20062](http://arxiv.org/abs/2506.20062)|null|
 |**2025-06-24**|**Learning Instruction-Following Policies through Open-Ended Instruction Relabeling with Large Language Models**|Zhicheng Zhang et.al.|[2506.20061](http://arxiv.org/abs/2506.20061)|null|
-|**2025-06-24**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045](http://arxiv.org/abs/2506.20045)|null|
+|**2025-06-26**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045](http://arxiv.org/abs/2506.20045)|null|
 |**2025-06-24**|**Learning Bilateral Team Formation in Cooperative Multi-Agent Reinforcement Learning**|Koorosh Moslemi et.al.|[2506.20039](http://arxiv.org/abs/2506.20039)|null|
 |**2025-06-24**|**Automated Generation of Diverse Courses of Actions for Multi-Agent Operations using Binary Optimization and Graph Learning**|Prithvi Poddar et.al.|[2506.20031](http://arxiv.org/abs/2506.20031)|null|
 |**2025-06-24**|**Polynomial-Time Approximation Schemes via Utility Alignment: Unit-Demand Pricing and More**|Robin Bowers et.al.|[2506.20030](http://arxiv.org/abs/2506.20030)|null|
@@ -74,7 +74,7 @@ layout: default
 |**2025-06-24**|**Do cell culturing influence the radiosensitizing effect of gold nanoparticles part 1: scrutinizing recent evidence for data consistency**|Hans Rabus et.al.|[2506.19372](http://arxiv.org/abs/2506.19372)|null|
 |**2025-06-24**|**Computing Tree Structures in Anonymous Graphs via Mobile Agents**|Prabhat Kumar Chand et.al.|[2506.19365](http://arxiv.org/abs/2506.19365)|null|
 |**2025-06-24**|**Distributed Interview Selection for Stable Matching in Large Random Markets**|Richard Cole et.al.|[2506.19345](http://arxiv.org/abs/2506.19345)|null|
-|**2025-06-24**|**The Autonomy of the Lightning Network: A Mathematical and Economic Proof of Structural Decoupling from BTC**|Craig Steven Wright et.al.|[2506.19333](http://arxiv.org/abs/2506.19333)|null|
+|**2025-06-26**|**The Autonomy of the Lightning Network: A Mathematical and Economic Proof of Structural Decoupling from BTC**|Craig Steven Wright et.al.|[2506.19333](http://arxiv.org/abs/2506.19333)|null|
 |**2025-06-24**|**Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs**|Liang Zeng et.al.|[2506.19290](http://arxiv.org/abs/2506.19290)|null|
 |**2025-06-24**|**Robust Behavior Cloning Via Global Lipschitz Regularization**|Shili Wu et.al.|[2506.19250](http://arxiv.org/abs/2506.19250)|null|
 |**2025-06-24**|**Augmenting Multi-Agent Communication with State Delta Trajectory**|Yichen Tang et.al.|[2506.19209](http://arxiv.org/abs/2506.19209)|null|
@@ -85,7 +85,7 @@ layout: default
 |**2025-06-23**|**Model Reference Adaptive Control of Networked Systems with State and Input Delays**|Moh Kamalul Wafi et.al.|[2506.19138](http://arxiv.org/abs/2506.19138)|null|
 |**2025-06-23**|**Emergent collective dynamics from motile photokinetic organisms**|J. Morales et.al.|[2506.19081](http://arxiv.org/abs/2506.19081)|null|
 |**2025-06-23**|**How brains build higher order representations of uncertainty**|Megan A. K. Peters et.al.|[2506.19057](http://arxiv.org/abs/2506.19057)|null|
-|**2025-06-23**|**From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents**|Weizhi Zhang et.al.|[2506.18959](http://arxiv.org/abs/2506.18959)|null|
+|**2025-06-26**|**From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents**|Weizhi Zhang et.al.|[2506.18959](http://arxiv.org/abs/2506.18959)|null|
 |**2025-06-23**|**A Comment On "The Illusion of Thinking": Reframing the Reasoning Cliff as an Agentic Gap**|Sheraz Khan et.al.|[2506.18957](http://arxiv.org/abs/2506.18957)|null|
 |**2025-06-23**|**SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications**|Jinyang Li et.al.|[2506.18951](http://arxiv.org/abs/2506.18951)|null|
 |**2025-06-22**|**Advanced Applications of Generative AI in Actuarial Science: Case Studies Beyond ChatGPT**|Simon Hatzesberger et.al.|[2506.18942](http://arxiv.org/abs/2506.18942)|null|
@@ -129,7 +129,7 @@ layout: default
 |**2025-06-22**|**Decentralized Consensus Inference-based Hierarchical Reinforcement Learning for Multi-Constrained UAV Pursuit-Evasion Game**|Xiang Yuming et.al.|[2506.18126](http://arxiv.org/abs/2506.18126)|null|
 |**2025-06-22**|**Deep Research Agents: A Systematic Examination And Roadmap**|Yuxuan Huang et.al.|[2506.18096](http://arxiv.org/abs/2506.18096)|null|
 |**2025-06-22**|**MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering**|Jisheng Dang et.al.|[2506.18071](http://arxiv.org/abs/2506.18071)|null|
-|**2025-06-22**|**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**|Yuanchen Bei et.al.|[2506.18019](http://arxiv.org/abs/2506.18019)|null|
+|**2025-06-26**|**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**|Yuanchen Bei et.al.|[2506.18019](http://arxiv.org/abs/2506.18019)|null|
 |**2025-06-22**|**Ultra-Efficient Contracts: Breaking the Substitutes Barrier in Combinatorial Contracts**|Michal Feldman et.al.|[2506.18008](http://arxiv.org/abs/2506.18008)|null|
 |**2025-06-22**|**An Axiomatization of the Random Priority Rule**|Christian Basteck et.al.|[2506.17997](http://arxiv.org/abs/2506.17997)|null|
 |**2025-06-22**|**Non-Euclidean Enriched Contraction Theory for Monotone Operators and Monotone Dynamical Systems**|Diego Deplano et.al.|[2506.17990](http://arxiv.org/abs/2506.17990)|null|
@@ -154,7 +154,7 @@ layout: default
 |**2025-06-21**|**Diffusion of Tracer Particles in Early Growing Biofilms. A Computer Simulation Study**|Fabian A. Garcia Daza et.al.|[2506.17653](http://arxiv.org/abs/2506.17653)|null|
 |**2025-06-21**|**May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs**|Shaoyu Yang et.al.|[2506.17642](http://arxiv.org/abs/2506.17642)|null|
 |**2025-06-21**|**JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent**|Yunlong Lin et.al.|[2506.17612](http://arxiv.org/abs/2506.17612)|null|
-|**2025-06-21**|**Taming the Untamed: Graph-Based Knowledge Retrieval and Reasoning for MLLMs to Conquer the Unknown**|Bowen Wang et.al.|[2506.17589](http://arxiv.org/abs/2506.17589)|null|
+|**2025-06-26**|**Taming the Untamed: Graph-Based Knowledge Retrieval and Reasoning for MLLMs to Conquer the Unknown**|Bowen Wang et.al.|[2506.17589](http://arxiv.org/abs/2506.17589)|null|
 |**2025-06-21**|**Towards Zero-Shot Coordination between Teams of Agents: The N-XPlay Framework**|Ava Abderezaei et.al.|[2506.17560](http://arxiv.org/abs/2506.17560)|null|
 |**2025-06-24**|**Breaking Single-Tester Limits: Multi-Agent LLMs for Multi-User Feature Testing**|Sidong Feng et.al.|[2506.17539](http://arxiv.org/abs/2506.17539)|null|
 |**2025-06-20**|**Kaleidoscopic Teaming in Multi Agent Simulations**|Ninareh Mehrabi et.al.|[2506.17514](http://arxiv.org/abs/2506.17514)|null|
