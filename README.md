@@ -17,6 +17,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419](http://arxiv.org/abs/2506.22419)|null|
+|**2025-06-27**|**Why Are Parsing Actions for Understanding Message Hierarchies Not Random?**|Daichi Kato et.al.|[2506.22366](http://arxiv.org/abs/2506.22366)|null|
+|**2025-06-27**|**Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation**|Tao Li et.al.|[2506.22365](http://arxiv.org/abs/2506.22365)|null|
+|**2025-06-27**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
+|**2025-06-27**|**Agent-based modeling and the sociology of money: some suggestions for refining monetary theory using social simulation**|Eduardo Coltre Ferraciolli et.al.|[2506.22318](http://arxiv.org/abs/2506.22318)|null|
+|**2025-06-27**|**Artificial Intelligent Disobedience: Rethinking the Agency of Our Artificial Teammates**|Reuth Mirsky et.al.|[2506.22276](http://arxiv.org/abs/2506.22276)|null|
+|**2025-06-27**|**Exploring Modularity of Agentic Systems for Drug Discovery**|Laura van Weesep et.al.|[2506.22189](http://arxiv.org/abs/2506.22189)|null|
+|**2025-06-27**|**Autonomic Microservice Management via Agentic AI and MAPE-K Integration**|Matteo Esposito et.al.|[2506.22185](http://arxiv.org/abs/2506.22185)|null|
+|**2025-06-27**|**A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety**|Camille François et.al.|[2506.22183](http://arxiv.org/abs/2506.22183)|null|
+|**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174](http://arxiv.org/abs/2506.22174)|null|
+|**2025-06-27**|**Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control**|Fenglan Wang et.al.|[2506.22117](http://arxiv.org/abs/2506.22117)|null|
+|**2025-06-27**|**Flocking with random non-reciprocal interactions**|Jiwon Choi et.al.|[2506.22060](http://arxiv.org/abs/2506.22060)|null|
+|**2025-06-27**|**Universal Retrieval for Multimodal Trajectory Modeling**|Xuan Zhang et.al.|[2506.22056](http://arxiv.org/abs/2506.22056)|null|
+|**2025-06-27**|**TROFI: Trajectory-Ranked Offline Inverse Reinforcement Learning**|Alessandro Sestini et.al.|[2506.22008](http://arxiv.org/abs/2506.22008)|null|
+|**2025-06-27**|**A MILP-Based Solution to Multi-Agent Motion Planning and Collision Avoidance in Constrained Environments**|Akshay Jaitly et.al.|[2506.21982](http://arxiv.org/abs/2506.21982)|null|
+|**2025-06-27**|**SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model**|Shuhan Tan et.al.|[2506.21976](http://arxiv.org/abs/2506.21976)|null|
+|**2025-06-27**|**Don't Trust Generative Agents to Mimic Communication on Social Networks Unless You Benchmarked their Empirical Realism**|Simon Münker et.al.|[2506.21974](http://arxiv.org/abs/2506.21974)|null|
+|**2025-06-27**|**More Vulnerable than You Think: On the Stability of Tool-Integrated LLM Agents**|Weimin Xiong et.al.|[2506.21967](http://arxiv.org/abs/2506.21967)|null|
+|**2025-06-27**|**CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design**|Najmeh Forouzandehmehr et.al.|[2506.21934](http://arxiv.org/abs/2506.21934)|null|
+|**2025-06-27**|**ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation**|Reza Yousefi Maragheh et.al.|[2506.21931](http://arxiv.org/abs/2506.21931)|null|
+|**2025-06-27**|**SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding**|Zhao Jin et.al.|[2506.21924](http://arxiv.org/abs/2506.21924)|null|
+|**2025-06-27**|**Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review**|Amara Zuffer et.al.|[2506.21899](http://arxiv.org/abs/2506.21899)|null|
+|**2025-06-27**|**Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation**|Qiyue Gao et.al.|[2506.21876](http://arxiv.org/abs/2506.21876)|null|
+|**2025-06-27**|**A Survey of Continual Reinforcement Learning**|Chaofan Pan et.al.|[2506.21872](http://arxiv.org/abs/2506.21872)|null|
+|**2025-06-27**|**GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles**|Mengyi Shan et.al.|[2506.21839](http://arxiv.org/abs/2506.21839)|null|
+|**2025-06-26**|**When Networks Mislead: How Partisan Communication Undermines Democratic Decision-Making**|Hsuan-Wei Lee et.al.|[2506.21820](http://arxiv.org/abs/2506.21820)|null|
+|**2025-06-26**|**CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation**|Nicolas Bougie et.al.|[2506.21805](http://arxiv.org/abs/2506.21805)|null|
+|**2025-06-26**|**Adaptive Multipath-Based SLAM for Distributed MIMO Systems**|Xuhong Li et.al.|[2506.21798](http://arxiv.org/abs/2506.21798)|null|
+|**2025-06-26**|**MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models**|Yifan Liu et.al.|[2506.21784](http://arxiv.org/abs/2506.21784)|null|
+|**2025-06-26**|**Simultaneously Fair Allocation of Indivisible Items Across Multiple Dimensions**|Yasushi Kawase et.al.|[2506.21727](http://arxiv.org/abs/2506.21727)|null|
+|**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
+|**2025-06-26**|**Monetary Macro Accounting Theory**|Renéee Menéndez et.al.|[2506.21651](http://arxiv.org/abs/2506.21651)|null|
+|**2025-06-23**|**TrajTok: Technical Report for 2025 Waymo Open Sim Agents Challenge**|Zhiyuan Zhang et.al.|[2506.21618](http://arxiv.org/abs/2506.21618)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
 |**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
 |**2025-06-26**|**Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**|Boyu Gou et.al.|[2506.21506](http://arxiv.org/abs/2506.21506)|null|
