@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -54,7 +54,7 @@ layout: default
 |**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
 |**2025-06-26**|**TAPS: Tool-Augmented Personalisation via Structured Tagging**|Ekaterina Taktasheva et.al.|[2506.20409](http://arxiv.org/abs/2506.20409)|null|
 |**2025-06-25**|**A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem**|Kristoffer Christensen et.al.|[2506.20400](http://arxiv.org/abs/2506.20400)|null|
-|**2025-06-25**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Jihao Gu et.al.|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
+|**2025-06-27**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Jihao Gu et.al.|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
 |**2025-06-26**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320](http://arxiv.org/abs/2506.20320)|null|
 |**2025-06-25**|**Exact and approximate maximin share allocations in multi-graphs**|George Christodoulou et.al.|[2506.20317](http://arxiv.org/abs/2506.20317)|null|
 |**2025-06-25**|**Language Modeling by Language Models**|Junyan Cheng et.al.|[2506.20249](http://arxiv.org/abs/2506.20249)|null|
@@ -145,7 +145,7 @@ layout: default
 |**2025-06-23**|**GraspMAS: Zero-Shot Language-driven Grasp Detection with Multi-Agent System**|Quang Nguyen et.al.|[2506.18448](http://arxiv.org/abs/2506.18448)|null|
 |**2025-06-23**|**A Large Language Model-based Multi-Agent Framework for Analog Circuits' Sizing Relationships Extraction**|Chengjie Liu et.al.|[2506.18424](http://arxiv.org/abs/2506.18424)|null|
 |**2025-06-23**|**Robots and Children that Learn Together : Improving Knowledge Retention by Teaching Peer-Like Interactive Robots**|Imene Tarakli et.al.|[2506.18365](http://arxiv.org/abs/2506.18365)|null|
-|**2025-06-23**|**Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team**|Weilun Yu et.al.|[2506.18348](http://arxiv.org/abs/2506.18348)|null|
+|**2025-06-27**|**Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team**|Weilun Yu et.al.|[2506.18348](http://arxiv.org/abs/2506.18348)|null|
 |**2025-06-23**|**Use Property-Based Testing to Bridge LLM Code Generation and Validation**|Lehan He et.al.|[2506.18315](http://arxiv.org/abs/2506.18315)|null|
 |**2025-06-23**|**A stochastic model for the diffusion of competing opinions with trend-following, opposition, and indifference**|Manuel González-Navarrete et.al.|[2506.18313](http://arxiv.org/abs/2506.18313)|null|
 |**2025-06-23**|**Advanced For-Loop for QML algorithm search**|FuTe Wong et.al.|[2506.18260](http://arxiv.org/abs/2506.18260)|null|
@@ -155,7 +155,7 @@ layout: default
 |**2025-06-22**|**CoachGPT: A Scaffolding-based Academic Writing Assistant**|Fumian Chen et.al.|[2506.18149](http://arxiv.org/abs/2506.18149)|null|
 |**2025-06-22**|**Decentralized Consensus Inference-based Hierarchical Reinforcement Learning for Multi-Constrained UAV Pursuit-Evasion Game**|Xiang Yuming et.al.|[2506.18126](http://arxiv.org/abs/2506.18126)|null|
 |**2025-06-22**|**Deep Research Agents: A Systematic Examination And Roadmap**|Yuxuan Huang et.al.|[2506.18096](http://arxiv.org/abs/2506.18096)|null|
-|**2025-06-22**|**MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering**|Jisheng Dang et.al.|[2506.18071](http://arxiv.org/abs/2506.18071)|null|
+|**2025-06-27**|**MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering**|Jisheng Dang et.al.|[2506.18071](http://arxiv.org/abs/2506.18071)|null|
 |**2025-06-26**|**Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**|Yuanchen Bei et.al.|[2506.18019](http://arxiv.org/abs/2506.18019)|null|
 |**2025-06-22**|**Ultra-Efficient Contracts: Breaking the Substitutes Barrier in Combinatorial Contracts**|Michal Feldman et.al.|[2506.18008](http://arxiv.org/abs/2506.18008)|null|
 |**2025-06-22**|**An Axiomatization of the Random Priority Rule**|Christian Basteck et.al.|[2506.17997](http://arxiv.org/abs/2506.17997)|null|
