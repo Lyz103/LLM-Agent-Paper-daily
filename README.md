@@ -17,6 +17,84 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
+|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-02**|**An in-silico lung phantom to assess the performance of pulmonary artery segmentation using angiogram**|Sunder Neelakantan et.al.|[2507.01867](http://arxiv.org/abs/2507.01867)|null|
+|**2025-07-02**|**Bridging UI Design and chatbot Interactions: Applying Form-Based Principles to Conversational Agents**|Sanjay Krishna Anbalagan et.al.|[2507.01862](http://arxiv.org/abs/2507.01862)|null|
+|**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
+|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|
+|**2025-07-02**|**ECCV 2024 W-CODA: 1st Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving**|Kai Chen et.al.|[2507.01735](http://arxiv.org/abs/2507.01735)|null|
+|**2025-07-02**|**Agent Ideate: A Framework for Product Idea Generation from Patents Using Agentic AI**|Gopichand Kanumolu et.al.|[2507.01717](http://arxiv.org/abs/2507.01717)|null|
+|**2025-07-02**|**Using Machine Learning to Compute Constrained Optimal Carbon Tax Rules**|Felix Kübler et.al.|[2507.01704](http://arxiv.org/abs/2507.01704)|null|
+|**2025-07-02**|**AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness**|Zixin Chen et.al.|[2507.01702](http://arxiv.org/abs/2507.01702)|null|
+|**2025-07-02**|**Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture**|Bochen Han et.al.|[2507.01701](http://arxiv.org/abs/2507.01701)|null|
+|**2025-07-02**|**Quantum reinforcement learning in dynamic environments**|Oliver Sefrin et.al.|[2507.01691](http://arxiv.org/abs/2507.01691)|null|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
+|**2025-07-02**|**Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems**|Zhaoyan Sun et.al.|[2507.01599](http://arxiv.org/abs/2507.01599)|null|
+|**2025-07-02**|**Emotionally Intelligent Task-oriented Dialogue Systems: Architecture, Representation, and Optimisation**|Shutong Feng et.al.|[2507.01594](http://arxiv.org/abs/2507.01594)|null|
+|**2025-07-02**|**Vision-Aided ISAC in Low-Altitude Economy Networks via De-Diffused Visual Priors**|Yulan Gao et.al.|[2507.01574](http://arxiv.org/abs/2507.01574)|null|
+|**2025-07-02**|**Time-Varying Coverage Control: A Distributed Tracker-Planner MPC Framework**|Patrick Benito Eberhard et.al.|[2507.01567](http://arxiv.org/abs/2507.01567)|null|
+|**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|
+|**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489](http://arxiv.org/abs/2507.01489)|null|
+|**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485](http://arxiv.org/abs/2507.01485)|null|
+|**2025-07-02**|**Using multi-agent architecture to mitigate the risk of LLM hallucinations**|Abd Elrahman Amer et.al.|[2507.01446](http://arxiv.org/abs/2507.01446)|null|
+|**2025-07-02**|**Reinforcement Learning for Discrete-time LQG Mean Field Social Control Problems with Unknown Dynamics**|Hanfang Zhang et.al.|[2507.01420](http://arxiv.org/abs/2507.01420)|null|
+|**2025-07-02**|**Evaluating LLM Agent Collusion in Double Auctions**|Kushal Agrawal et.al.|[2507.01413](http://arxiv.org/abs/2507.01413)|null|
+|**2025-07-02**|**RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms**|Ziyao Wang et.al.|[2507.01378](http://arxiv.org/abs/2507.01378)|null|
+|**2025-07-02**|**AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing**|Yinwang Ren et.al.|[2507.01376](http://arxiv.org/abs/2507.01376)|null|
+|**2025-07-02**|**Context-Aware Code Wiring Recommendation with LLM-based Agent**|Taiming Wang et.al.|[2507.01315](http://arxiv.org/abs/2507.01315)|null|
+|**2025-07-02**|**LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**|Muhammad Atta ur Rahman et.al.|[2507.01308](http://arxiv.org/abs/2507.01308)|null|
+|**2025-07-02**|**Optimal Dispersion Under Asynchrony**|Debasish Pattanayak et.al.|[2507.01298](http://arxiv.org/abs/2507.01298)|null|
+|**2025-07-02**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
+|**2025-07-02**|**GAIus: Combining Genai with Legal Clauses Retrieval for Knowledge-based Assistant**|Michał Matak et.al.|[2507.01259](http://arxiv.org/abs/2507.01259)|null|
+|**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
+|**2025-07-01**|**Rethinking the Illusion of Thinking**|Iñaki Dellibarda Varela et.al.|[2507.01231](http://arxiv.org/abs/2507.01231)|null|
+|**2025-07-01**|**SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound**|Yunke Ao et.al.|[2507.01152](http://arxiv.org/abs/2507.01152)|null|
+|**2025-07-01**|**Agentic AI in Product Management: A Co-Evolutionary Model**|Nishant A. Parikh et.al.|[2507.01069](http://arxiv.org/abs/2507.01069)|null|
+|**2025-06-30**|**Epitome: Pioneering an Experimental Platform for AI-Social Science Integration**|Jingjing Qu et.al.|[2507.01061](http://arxiv.org/abs/2507.01061)|null|
+|**2025-06-30**|**Optimizing Conversational Product Recommendation via Reinforcement Learning**|Kang Liu et.al.|[2507.01060](http://arxiv.org/abs/2507.01060)|null|
+|**2025-06-29**|**Automated Vehicles Should be Connected with Natural Language**|Xiangbo Gao et.al.|[2507.01059](http://arxiv.org/abs/2507.01059)|null|
+|**2025-07-01**|**Running Quantum Computers in Discovery Mode**|Benedikt Placke et.al.|[2507.01013](http://arxiv.org/abs/2507.01013)|null|
+|**2025-07-02**|**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**|GLM-V Team et.al.|[2507.01006](http://arxiv.org/abs/2507.01006)|null|
+|**2025-07-01**|**RTMap: Real-Time Recursive Mapping with Change Detection and Localization**|Yuheng Du et.al.|[2507.00980](http://arxiv.org/abs/2507.00980)|null|
+|**2025-07-01**|**Enhancing LLM Agent Safety via Causal Influence Prompting**|Dongyoon Hahm et.al.|[2507.00979](http://arxiv.org/abs/2507.00979)|null|
+|**2025-07-01**|**Decentralised Multi-Manager Fund Framework**|Arman Abgaryan et.al.|[2507.00978](http://arxiv.org/abs/2507.00978)|null|
+|**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
+|**2025-07-01**|**WebArXiv: Evaluating Multimodal Agents on Time-Invariant arXiv Tasks**|Zihao Sun et.al.|[2507.00938](http://arxiv.org/abs/2507.00938)|null|
+|**2025-07-01**|**A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**|Xiaoxiao Long et.al.|[2507.00917](http://arxiv.org/abs/2507.00917)|null|
+|**2025-07-01**|**Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications**|Jindong Han et.al.|[2507.00914](http://arxiv.org/abs/2507.00914)|null|
+|**2025-07-01**|**MemeCMD: An Automatically Generated Chinese Multi-turn Dialogue Dataset with Contextually Retrieved Memes**|Yuheng Wang et.al.|[2507.00891](http://arxiv.org/abs/2507.00891)|null|
+|**2025-07-01**|**TransLaw: Benchmarking Large Language Models in Multi-Agent Simulation of the Collaborative Translation**|Xi Xuan et.al.|[2507.00875](http://arxiv.org/abs/2507.00875)|null|
+|**2025-07-01**|**The Evolution of Altruistic Rationality Provides a Solution to Social Dilemmas via Rational Reciprocity**|Mohammad Salahshour et.al.|[2507.00858](http://arxiv.org/abs/2507.00858)|null|
+|**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856](http://arxiv.org/abs/2507.00856)|null|
+|**2025-07-01**|**Ranking Quantilized Mean-Field Games with an Application to Early-Stage Venture Investments**|Rinel Foguen Tchuendom et.al.|[2507.00853](http://arxiv.org/abs/2507.00853)|null|
+|**2025-07-01**|**SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents**|Siyuan Liang et.al.|[2507.00841](http://arxiv.org/abs/2507.00841)|null|
+|**2025-07-01**|**Many LLMs Are More Utilitarian Than One**|Anita Keshmirian et.al.|[2507.00814](http://arxiv.org/abs/2507.00814)|null|
+|**2025-07-02**|**Leveraging Genetic Algorithms for Efficient Demonstration Generation in Real-World Reinforcement Learning Environments**|Tom Maus et.al.|[2507.00762](http://arxiv.org/abs/2507.00762)|null|
+|**2025-07-01**|**Generative Exaggeration in LLM Social Agents: Consistency, Bias, and Toxicity**|Jacopo Nudo et.al.|[2507.00657](http://arxiv.org/abs/2507.00657)|null|
+|**2025-07-01**|**ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis**|Runkai Li et.al.|[2507.00642](http://arxiv.org/abs/2507.00642)|null|
+|**2025-07-02**|**Horus: A Protocol for Trustless Delegation Under Uncertainty**|David Shi et.al.|[2507.00631](http://arxiv.org/abs/2507.00631)|null|
+|**2025-07-01**|**Quantum Circuit Structure Optimization for Quantum Reinforcement Learning**|Seok Bin Son et.al.|[2507.00589](http://arxiv.org/abs/2507.00589)|null|
+|**2025-07-01**|**Collaborative Multi-Agent Reinforcement Learning Approach for Elastic Cloud Resource Scaling**|Bruce Fang et.al.|[2507.00550](http://arxiv.org/abs/2507.00550)|null|
+|**2025-07-01**|**Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support**|Dietmar Jannach et.al.|[2507.00535](http://arxiv.org/abs/2507.00535)|null|
+|**2025-07-01**|**PNAct: Crafting Backdoor Attacks in Safe Reinforcement Learning**|Weiran Guo et.al.|[2507.00485](http://arxiv.org/abs/2507.00485)|null|
+|**2025-07-01**|**ARIG: Autoregressive Interactive Head Generation for Real-time Conversations**|Ying Guo et.al.|[2507.00472](http://arxiv.org/abs/2507.00472)|null|
+|**2025-07-01**|**Best Agent Identification for General Game Playing**|Matthew Stephenson et.al.|[2507.00451](http://arxiv.org/abs/2507.00451)|null|
+|**2025-07-01**|**Novel Pigeon-inspired 3D Obstacle Detection and Avoidance Maneuver for Multi-UAV Systems**|Reza Ahmadvand et.al.|[2507.00443](http://arxiv.org/abs/2507.00443)|null|
+|**2025-07-01**|**Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning**|Maggie Huan et.al.|[2507.00432](http://arxiv.org/abs/2507.00432)|null|
+|**2025-07-01**|**Multi-Agent Coordination under Poisson Observations: A Global Game Approach**|Marcos M. Vasconcelos et.al.|[2507.00424](http://arxiv.org/abs/2507.00424)|null|
+|**2025-07-01**|**Evolutionary Dynamics with Self-Interaction Learning in Networked Systems**|Ziyan Zeng et.al.|[2507.00422](http://arxiv.org/abs/2507.00422)|null|
+|**2025-07-01**|**Minimal Construction of Graphs with Maximum Robustness**|Haejoon Lee et.al.|[2507.00415](http://arxiv.org/abs/2507.00415)|null|
+|**2025-07-01**|**iPanda: An Intelligent Protocol Testing and Debugging Agent for Conformance Testing**|Xikai Sun et.al.|[2507.00378](http://arxiv.org/abs/2507.00378)|null|
+|**2025-07-01**|**VTS-Guided AI Interaction Workflow for Business Insights**|Sun Ding et.al.|[2507.00347](http://arxiv.org/abs/2507.00347)|null|
+|**2025-06-30**|**Control-Optimized Deep Reinforcement Learning for Artificially Intelligent Autonomous Systems**|Oren Fivel et.al.|[2507.00268](http://arxiv.org/abs/2507.00268)|null|
+|**2025-06-30**|**Examining Reject Relations in Stimulus Equivalence Simulations**|Alexis Carrillo et.al.|[2507.00265](http://arxiv.org/abs/2507.00265)|null|
+|**2025-06-30**|**Endogenous Network Structures with Precision and Dimension Choices**|Nikhil Kumar et.al.|[2507.00249](http://arxiv.org/abs/2507.00249)|null|
+|**2025-06-30**|**LineRetriever: Planning-Aware Observation Reduction for Web Agents**|Imene Kerboua et.al.|[2507.00210](http://arxiv.org/abs/2507.00210)|null|
+|**2025-06-30**|**BlackBoxToBlueprint: Extracting Interpretable Logic from Legacy Systems using Reinforcement Learning and Counterfactual Analysis**|Vidhi Rathore et.al.|[2507.00180](http://arxiv.org/abs/2507.00180)|null|
+|**2025-06-30**|**AI-Governed Agent Architecture for Web-Trustworthy Tokenization of Alternative Assets**|Ailiya Borjigin et.al.|[2507.00096](http://arxiv.org/abs/2507.00096)|null|
+|**2025-06-30**|**State and Memory is All You Need for Robust and Reliable AI Agents**|Matthew Muhoberac et.al.|[2507.00081](http://arxiv.org/abs/2507.00081)|null|
+|**2025-06-29**|**VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems**|Ethan Smyth et.al.|[2507.00079](http://arxiv.org/abs/2507.00079)|null|
 |**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Protocol insecurity with finitely many sessions and XOR**|R Ramanujam et.al.|[2506.24072](http://arxiv.org/abs/2506.24072)|null|
 |**2025-06-30**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|null|
