@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-06-28**|**CP-Guard: A Unified, Probability-Agnostic, and Adaptive Framework for Malicious Agent Detection and Defense in Multi-Agent Embodied Perception Systems**|Senkang Hu et.al.|[2506.22890](http://arxiv.org/abs/2506.22890)|null|
 |**2025-06-28**|**Cooperation as Black Box: Conceptual Fluctuation and Diagnostic Tools for Misalignment in MAS**|Shayak Nandi et.al.|[2506.22876](http://arxiv.org/abs/2506.22876)|null|
 |**2025-06-28**|**Momentum-based Accelerated Algorithm for Distributed Optimization under Sector-Bound Nonlinearity**|Mohammadreza Doostmohammadian et.al.|[2506.22855](http://arxiv.org/abs/2506.22855)|null|
-|**2025-06-28**|**DICE-BENCH: Evaluating the Tool-Use Capabilities of Large Language Models in Multi-Round, Multi-Party Dialogues**|Kyochul Jang et.al.|[2506.22853](http://arxiv.org/abs/2506.22853)|null|
+|**2025-07-02**|**DICE-BENCH: Evaluating the Tool-Use Capabilities of Large Language Models in Multi-Round, Multi-Party Dialogues**|Kyochul Jang et.al.|[2506.22853](http://arxiv.org/abs/2506.22853)|null|
 |**2025-06-28**|**Knowledge Augmented Finetuning Matters in both RAG and Agent Based Dialog Systems**|Yucheng Cai et.al.|[2506.22852](http://arxiv.org/abs/2506.22852)|null|
 |**2025-06-28**|**Actively induced supercoiling can slow down plasmid solutions by trapping the threading entanglements**|Roman Staňo et.al.|[2506.22842](http://arxiv.org/abs/2506.22842)|null|
 |**2025-06-28**|**Memory as a Service (MaaS): Rethinking Contextual Memory as Service-Oriented Modules for Collaborative Agents**|Haichang Li et.al.|[2506.22815](http://arxiv.org/abs/2506.22815)|null|
@@ -178,7 +178,7 @@
 |**2025-06-24**|**QHackBench: Benchmarking Large Language Models for Quantum Code Generation Using PennyLane Hackathon Challenges**|Abdul Basit et.al.|[2506.20008](http://arxiv.org/abs/2506.20008)|null|
 |**2025-06-24**|**Can One Safety Loop Guard Them All? Agentic Guard Rails for Federated Computing**|Narasimha Raghavan Veeraragavan et.al.|[2506.20000](http://arxiv.org/abs/2506.20000)|null|
 |**2025-06-24**|**Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation**|Xinyi Ni et.al.|[2506.19998](http://arxiv.org/abs/2506.19998)|null|
-|**2025-06-24**|**TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design**|Geonwoo Cho et.al.|[2506.19997](http://arxiv.org/abs/2506.19997)|null|
+|**2025-07-02**|**TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design**|Geonwoo Cho et.al.|[2506.19997](http://arxiv.org/abs/2506.19997)|null|
 |**2025-06-24**|**Prover Agent: An Agent-based Framework for Formal Mathematical Proofs**|Kaito Baba et.al.|[2506.19923](http://arxiv.org/abs/2506.19923)|null|
 |**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
 |**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
@@ -188,7 +188,7 @@
 |**2025-06-24**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783](http://arxiv.org/abs/2506.19783)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-24**|**From Reproduction to Replication: Evaluating Research Agents with Progressive Code Masking**|Gyeongwon James Kim et.al.|[2506.19724](http://arxiv.org/abs/2506.19724)|null|
-|**2025-07-01**|**A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures**|Dezhang Kong et.al.|[2506.19676](http://arxiv.org/abs/2506.19676)|null|
+|**2025-07-02**|**A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures**|Dezhang Kong et.al.|[2506.19676](http://arxiv.org/abs/2506.19676)|null|
 |**2025-06-24**|**How trust networks shape students' opinions about the proficiency of artificially intelligent assistants**|Yutong Bu et.al.|[2506.19655](http://arxiv.org/abs/2506.19655)|null|
 |**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639](http://arxiv.org/abs/2506.19639)|null|
 |**2025-06-24**|**Mobile oscillators in a mobile multi-cluster network**|Venceslas Nguefoue Meli et.al.|[2506.19617](http://arxiv.org/abs/2506.19617)|null|
@@ -9347,7 +9347,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
