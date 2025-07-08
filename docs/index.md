@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -62,7 +62,7 @@ layout: default
 |**2025-07-02**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
 |**2025-07-01**|**STELLA: Self-Evolving LLM Agent for Biomedical Research**|Ruofan Jin et.al.|[2507.02004](http://arxiv.org/abs/2507.02004)|null|
 |**2025-07-01**|**Dynamic Strategy Adaptation in Multi-Agent Environments with Large Language Models**|Shaurya Mallampati et.al.|[2507.02002](http://arxiv.org/abs/2507.02002)|null|
-|**2025-07-01**|**Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting**|Zhihao Wang et.al.|[2507.01997](http://arxiv.org/abs/2507.01997)|null|
+|**2025-07-04**|**Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting**|Zhihao Wang et.al.|[2507.01997](http://arxiv.org/abs/2507.01997)|null|
 |**2025-06-29**|**Integrating Large Language Models in Financial Investments and Market Analysis: A Survey**|Sedigheh Mahdavi et.al.|[2507.01990](http://arxiv.org/abs/2507.01990)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
 |**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
@@ -120,7 +120,7 @@ layout: default
 |**2025-07-02**|**Leveraging Genetic Algorithms for Efficient Demonstration Generation in Real-World Reinforcement Learning Environments**|Tom Maus et.al.|[2507.00762](http://arxiv.org/abs/2507.00762)|null|
 |**2025-07-01**|**Generative Exaggeration in LLM Social Agents: Consistency, Bias, and Toxicity**|Jacopo Nudo et.al.|[2507.00657](http://arxiv.org/abs/2507.00657)|null|
 |**2025-07-01**|**ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis**|Runkai Li et.al.|[2507.00642](http://arxiv.org/abs/2507.00642)|null|
-|**2025-07-03**|**Horus: A Protocol for Trustless Delegation Under Uncertainty**|David Shi et.al.|[2507.00631](http://arxiv.org/abs/2507.00631)|null|
+|**2025-07-04**|**Horus: A Protocol for Trustless Delegation Under Uncertainty**|David Shi et.al.|[2507.00631](http://arxiv.org/abs/2507.00631)|null|
 |**2025-07-01**|**Quantum Circuit Structure Optimization for Quantum Reinforcement Learning**|Seok Bin Son et.al.|[2507.00589](http://arxiv.org/abs/2507.00589)|null|
 |**2025-07-01**|**Collaborative Multi-Agent Reinforcement Learning Approach for Elastic Cloud Resource Scaling**|Bruce Fang et.al.|[2507.00550](http://arxiv.org/abs/2507.00550)|null|
 |**2025-07-01**|**Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support**|Dietmar Jannach et.al.|[2507.00535](http://arxiv.org/abs/2507.00535)|null|
