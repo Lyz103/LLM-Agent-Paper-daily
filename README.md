@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,9 +22,9 @@
 |**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
 |**2025-07-07**|**Action Space Reduction Strategies for Reinforcement Learning in Autonomous Driving**|Elahe Delavari et.al.|[2507.05251](http://arxiv.org/abs/2507.05251)|null|
 |**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244](http://arxiv.org/abs/2507.05244)|null|
-|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241](http://arxiv.org/abs/2507.05241)|null|
+|**2025-07-08**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241](http://arxiv.org/abs/2507.05241)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
-|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
+|**2025-07-08**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
 |**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178](http://arxiv.org/abs/2507.05178)|null|
 |**2025-07-07**|**Vector Cost Bimatrix Games with Applications to Autonomous Racing**|Benjamin R. Toaz et.al.|[2507.05171](http://arxiv.org/abs/2507.05171)|null|
 |**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169](http://arxiv.org/abs/2507.05169)|null|
@@ -51,7 +51,7 @@
 |**2025-07-07**|**LTMSformer: A Local Trend-Aware Attention and Motion State Encoding Transformer for Multi-Agent Trajectory Prediction**|Yixin Yan et.al.|[2507.04634](http://arxiv.org/abs/2507.04634)|null|
 |**2025-07-07**|**Equilibrium Strategies for the N-agent Mean-Variance Investment Problem over a Random Horizon**|Xiaoqing Liang et.al.|[2507.04611](http://arxiv.org/abs/2507.04611)|null|
 |**2025-07-07**|**VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents**|Rui Meng et.al.|[2507.04590](http://arxiv.org/abs/2507.04590)|null|
-|**2025-07-06**|**Greedy Dynamic Matching**|Nick Arnosti et.al.|[2507.04551](http://arxiv.org/abs/2507.04551)|null|
+|**2025-07-08**|**Greedy Dynamic Matching**|Nick Arnosti et.al.|[2507.04551](http://arxiv.org/abs/2507.04551)|null|
 |**2025-07-06**|**Grounded Gesture Generation: Language, Motion, and Space**|Anna Deichler et.al.|[2507.04522](http://arxiv.org/abs/2507.04522)|null|
 |**2025-07-06**|**Constant-Approximate and Constant-Strategyproof Two-Facility Location**|Elijah Journey Fullerton et.al.|[2507.04485](http://arxiv.org/abs/2507.04485)|null|
 |**2025-07-06**|**Agentic Distributed Computing**|Ajay D. Kshemkalyani et.al.|[2507.04459](http://arxiv.org/abs/2507.04459)|null|
@@ -59,7 +59,7 @@
 |**2025-07-06**|**MOMENTS: A Comprehensive Multimodal Benchmark for Theory of Mind**|Emilio Villa-Cueva et.al.|[2507.04415](http://arxiv.org/abs/2507.04415)|null|
 |**2025-07-06**|**Multimedia Verification Through Multi-Agent Deep Research Multimodal Large Language Models**|Huy Hoan Le et.al.|[2507.04410](http://arxiv.org/abs/2507.04410)|null|
 |**2025-07-06**|**Inverse Reinforcement Learning using Revealed Preferences and Passive Stochastic Optimization**|Vikram Krishnamurthy et.al.|[2507.04396](http://arxiv.org/abs/2507.04396)|null|
-|**2025-07-06**|**MOD-X: A Modular Open Decentralized eXchange Framework proposal for Heterogeneous Interoperable Artificial Agents**|Georgios Ioannides et.al.|[2507.04376](http://arxiv.org/abs/2507.04376)|null|
+|**2025-07-08**|**MOD-X: A Modular Open Decentralized eXchange Framework proposal for Heterogeneous Interoperable Artificial Intelligence Agents**|Georgios Ioannides et.al.|[2507.04376](http://arxiv.org/abs/2507.04376)|null|
 |**2025-07-06**|**Adaptive Malware Detection using Sequential Feature Selection: A Dueling Double Deep Q-Network (D3QN) Framework for Intelligent Classification**|Naseem Khan et.al.|[2507.04372](http://arxiv.org/abs/2507.04372)|null|
 |**2025-07-06**|**WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis**|Yifei Gao et.al.|[2507.04370](http://arxiv.org/abs/2507.04370)|null|
 |**2025-07-06**|**Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations**|Vyacheslav Kungurtsev et.al.|[2507.04356](http://arxiv.org/abs/2507.04356)|null|
@@ -69,7 +69,7 @@
 |**2025-07-06**|**Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties**|Guohong Liu et.al.|[2507.04227](http://arxiv.org/abs/2507.04227)|null|
 |**2025-07-05**|**Gathering Teams of Bounded Memory Agents on a Line**|Younan Gao et.al.|[2507.04172](http://arxiv.org/abs/2507.04172)|null|
 |**2025-07-05**|**Comparative Evaluation of VR-Enabled Robots and Human Operators for Targeted Disease Management in Vineyards**|Hasan Seyyedhasani et.al.|[2507.04167](http://arxiv.org/abs/2507.04167)|null|
-|**2025-07-05**|**Adaptive Two-sided Assortment Optimization: Revenue Maximization**|Mohammadreza et.al.|[2507.04156](http://arxiv.org/abs/2507.04156)|null|
+|**2025-07-08**|**Adaptive Two-sided Assortment Optimization: Revenue Maximization**|Mohammadreza Ahmadnejadsaein et.al.|[2507.04156](http://arxiv.org/abs/2507.04156)|null|
 |**2025-07-05**|**Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning**|Ho Jae Lee et.al.|[2507.04140](http://arxiv.org/abs/2507.04140)|null|
 |**2025-07-05**|**BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering**|Costas Mavromatis et.al.|[2507.04127](http://arxiv.org/abs/2507.04127)|null|
 |**2025-07-05**|**Enhancing Robustness of LLM-Driven Multi-Agent Systems through Randomized Smoothing**|Jinwei Hu et.al.|[2507.04105](http://arxiv.org/abs/2507.04105)|null|
@@ -95,7 +95,7 @@
 |**2025-07-04**|**Learning Dark Souls Combat Through Pixel Input With Neuroevolution**|Jim O'Connor et.al.|[2507.03793](http://arxiv.org/abs/2507.03793)|null|
 |**2025-07-04**|**Less is More: Empowering GUI Agent with Context-Aware Simplification**|Gongwei Chen et.al.|[2507.03730](http://arxiv.org/abs/2507.03730)|null|
 |**2025-07-04**|**Agent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models**|Riya Naik et.al.|[2507.03726](http://arxiv.org/abs/2507.03726)|null|
-|**2025-07-04**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
+|**2025-07-08**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
 |**2025-07-04**|**Towards Machine Theory of Mind with Large Language Model-Augmented Inverse Planning**|Rebekah A. Gelpí et.al.|[2507.03682](http://arxiv.org/abs/2507.03682)|null|
 |**2025-07-04**|**STRUCTSENSE: A Task-Agnostic Agentic Framework for Structured Information Extraction with Human-In-The-Loop Evaluation and Benchmarking**|Tek Raj Chhetri et.al.|[2507.03674](http://arxiv.org/abs/2507.03674)|null|
 |**2025-07-04**|**Recon, Answer, Verify: Agents in Search of Truth**|Satyam Shukla et.al.|[2507.03671](http://arxiv.org/abs/2507.03671)|null|
@@ -159,7 +159,7 @@
 |**2025-07-03**|**SurgVisAgent: Multimodal Agentic Model for Versatile Surgical Visual Enhancement**|Zeyu Lei et.al.|[2507.02252](http://arxiv.org/abs/2507.02252)|null|
 |**2025-07-04**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245](http://arxiv.org/abs/2507.02245)|null|
 |**2025-07-04**|**Dilution, Diffusion and Symbiosis in Spatial Prisoner's Dilemma with Reinforcement Learning**|Gustavo C. Mangold et.al.|[2507.02211](http://arxiv.org/abs/2507.02211)|null|
-|**2025-07-03**|**Average Action Efficiency Rises Monotonically in Self-Organizing Systems via Stochastic Least-Action Dynamics**|Georgi Yordanov Georgiev et.al.|[2507.02209](http://arxiv.org/abs/2507.02209)|null|
+|**2025-07-08**|**Average Action Efficiency Rises Monotonically in Self-Organizing Systems via Stochastic Least-Action Dynamics**|Georgi Yordanov Georgiev et.al.|[2507.02209](http://arxiv.org/abs/2507.02209)|null|
 |**2025-07-02**|**Operator-Theoretic Methods for Differential Games**|Craig Bakker et.al.|[2507.02203](http://arxiv.org/abs/2507.02203)|null|
 |**2025-07-02**|**Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust**|Amogh Mannekote et.al.|[2507.02197](http://arxiv.org/abs/2507.02197)|null|
 |**2025-07-02**|**Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models**|Fangjian Lei et.al.|[2507.02182](http://arxiv.org/abs/2507.02182)|null|
@@ -9584,7 +9584,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
