@@ -14,6 +14,49 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
+|**2025-07-08**|**Aligned Textual Scoring Rules**|Yuxuan Lu et.al.|[2507.06221](http://arxiv.org/abs/2507.06221)|null|
+|**2025-07-08**|**Evaluation of Habitat Robotics using Large Language Models**|William Li et.al.|[2507.06157](http://arxiv.org/abs/2507.06157)|null|
+|**2025-07-08**|**OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety**|Sanidhya Vijayvargiya et.al.|[2507.06134](http://arxiv.org/abs/2507.06134)|null|
+|**2025-07-08**|**A Directed Lazy Random Walk Model to Three-Way Dynamic Matching Problem**|Souvik Roy et.al.|[2507.06126](http://arxiv.org/abs/2507.06126)|null|
+|**2025-07-08**|**On Lockean beliefs that are deductively closed and minimal change**|Tommaso Flaminio et.al.|[2507.06042](http://arxiv.org/abs/2507.06042)|null|
+|**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
+|**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004](http://arxiv.org/abs/2507.06004)|null|
+|**2025-07-08**|**Multi-Agent Debate Strategies to Enhance Requirements Engineering with Large Language Models**|Marc Oriol et.al.|[2507.05981](http://arxiv.org/abs/2507.05981)|null|
+|**2025-07-08**|**CogniPlay: a work-in-progress Human-like model for General Game Playing**|Aloïs Rautureau et.al.|[2507.05868](http://arxiv.org/abs/2507.05868)|null|
+|**2025-07-08**|**Constella: Supporting Storywriters' Interconnected Character Creation through LLM-based Multi-Agents**|Syemin Park et.al.|[2507.05820](http://arxiv.org/abs/2507.05820)|null|
+|**2025-07-08**|**Just Say Better or Worse: A Human-AI Collaborative Framework for Medical Image Segmentation Without Manual Annotations**|Yizhe Zhang et.al.|[2507.05815](http://arxiv.org/abs/2507.05815)|null|
+|**2025-07-08**|**GTA1: GUI Test-time Scaling Agent**|Yan Yang et.al.|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
+|**2025-07-08**|**On the detection of medium inhomogeneity by contrast agent: wave scattering models and numerical implementations**|Zhe Wang et.al.|[2507.05773](http://arxiv.org/abs/2507.05773)|null|
+|**2025-07-08**|**An autonomous agent for auditing and improving the reliability of clinical AI models**|Lukas Kuhn et.al.|[2507.05755](http://arxiv.org/abs/2507.05755)|null|
+|**2025-07-08**|**An efficiency ordering of k-price auctions under complete information**|Sumit Goel et.al.|[2507.05738](http://arxiv.org/abs/2507.05738)|null|
+|**2025-07-08**|**Large Language Models for Agent-Based Modelling: Current and possible uses across the modelling cycle**|Loïs Vanhée et.al.|[2507.05723](http://arxiv.org/abs/2507.05723)|null|
+|**2025-07-08**|**MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment**|Yucheng Shi et.al.|[2507.05720](http://arxiv.org/abs/2507.05720)|null|
+|**2025-07-08**|**Agentic-R1: Distilled Dual-Strategy Reasoning**|Weihua Du et.al.|[2507.05707](http://arxiv.org/abs/2507.05707)|null|
+|**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Joonhyung Park et.al.|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
+|**2025-07-08**|**ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?**|Haoxin Wang et.al.|[2507.05639](http://arxiv.org/abs/2507.05639)|null|
+|**2025-07-08**|**LLMs are Introvert**|Litian Zhang et.al.|[2507.05638](http://arxiv.org/abs/2507.05638)|null|
+|**2025-07-08**|**How Not to Detect Prompt Injections with an LLM**|Sarthak Choudhary et.al.|[2507.05630](http://arxiv.org/abs/2507.05630)|null|
+|**2025-07-08**|**Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study**|Ibne Farabi Shihab et.al.|[2507.05619](http://arxiv.org/abs/2507.05619)|null|
+|**2025-07-08**|**Density Discontinuity Regression**|Surya T Tokdar et.al.|[2507.05581](http://arxiv.org/abs/2507.05581)|null|
+|**2025-07-08**|**Preemptive Solving of Future Problems: Multitask Preplay in Humans and Machines**|Wilka Carvalho et.al.|[2507.05561](http://arxiv.org/abs/2507.05561)|null|
+|**2025-07-08**|**AI Agent Smart Contract Exploit Generation**|Arthur Gervais et.al.|[2507.05558](http://arxiv.org/abs/2507.05558)|null|
+|**2025-07-07**|**Evolutionary and Coevolutionary Multi-Agent Design Choices and Dynamics**|Erik Hemberg et.al.|[2507.05534](http://arxiv.org/abs/2507.05534)|null|
+|**2025-07-07**|**Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment**|Jiahuan Pei et.al.|[2507.05528](http://arxiv.org/abs/2507.05528)|null|
+|**2025-07-07**|**Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis**|Karishma Thakrar et.al.|[2507.05520](http://arxiv.org/abs/2507.05520)|null|
+|**2025-07-07**|**Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications**|Jean-Philippe Corbeil et.al.|[2507.05517](http://arxiv.org/abs/2507.05517)|null|
+|**2025-07-07**|**Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents**|Prahaladh Chandrahasan et.al.|[2507.05495](http://arxiv.org/abs/2507.05495)|null|
+|**2025-07-07**|**Constraint Hypergraphs as a Unifying Framework for Digital Twins**|John Morris et.al.|[2507.05494](http://arxiv.org/abs/2507.05494)|null|
+|**2025-07-07**|**Inaugural MOASEI Competition at AAMAS'2025: A Technical Report**|Ceferino Patino et.al.|[2507.05469](http://arxiv.org/abs/2507.05469)|null|
+|**2025-07-07**|**2048: Reinforcement Learning in a Delayed Reward Environment**|Prady Saligram et.al.|[2507.05465](http://arxiv.org/abs/2507.05465)|null|
+|**2025-07-07**|**A Systematization of Security Vulnerabilities in Computer Use Agents**|Daniel Jones et.al.|[2507.05445](http://arxiv.org/abs/2507.05445)|null|
+|**2025-07-07**|**Motion Generation: A Survey of Generative Approaches and Benchmarks**|Aliasghar Khani et.al.|[2507.05419](http://arxiv.org/abs/2507.05419)|null|
+|**2025-07-07**|**MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents**|Ming Gong et.al.|[2507.05330](http://arxiv.org/abs/2507.05330)|null|
+|**2025-07-07**|**AGACCI : Affiliated Grading Agents for Criteria-Centric Interface in Educational Coding Contexts**|Kwangsuk Park et.al.|[2507.05321](http://arxiv.org/abs/2507.05321)|null|
+|**2025-07-07**|**OASBuilder: Generating OpenAPI Specifications from Online API Documentation with Large Language Models**|Koren Lazar et.al.|[2507.05316](http://arxiv.org/abs/2507.05316)|null|
+|**2025-07-06**|**Fuzzy Classification Aggregation for a Continuum of Agents**|Zijun Meng et.al.|[2507.05297](http://arxiv.org/abs/2507.05297)|null|
+|**2025-07-05**|**A LLM-Driven Multi-Agent Systems for Professional Development of Mathematics Teachers**|Kaiqi Yang et.al.|[2507.05292](http://arxiv.org/abs/2507.05292)|null|
+|**2025-07-03**|**A Fuzzy Supervisor Agent Design for Clinical Reasoning Assistance in a Multi-Agent Educational Clinical Scenario Simulation**|Weibing Zheng et.al.|[2507.05275](http://arxiv.org/abs/2507.05275)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
 |**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
