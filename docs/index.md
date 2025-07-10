@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -26,7 +26,7 @@ layout: default
 |**2025-07-08**|**CogniPlay: a work-in-progress Human-like model for General Game Playing**|Aloïs Rautureau et.al.|[2507.05868](http://arxiv.org/abs/2507.05868)|null|
 |**2025-07-08**|**Constella: Supporting Storywriters' Interconnected Character Creation through LLM-based Multi-Agents**|Syemin Park et.al.|[2507.05820](http://arxiv.org/abs/2507.05820)|null|
 |**2025-07-08**|**Just Say Better or Worse: A Human-AI Collaborative Framework for Medical Image Segmentation Without Manual Annotations**|Yizhe Zhang et.al.|[2507.05815](http://arxiv.org/abs/2507.05815)|null|
-|**2025-07-08**|**GTA1: GUI Test-time Scaling Agent**|Yan Yang et.al.|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
+|**2025-07-09**|**GTA1: GUI Test-time Scaling Agent**|Yan Yang et.al.|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
 |**2025-07-08**|**On the detection of medium inhomogeneity by contrast agent: wave scattering models and numerical implementations**|Zhe Wang et.al.|[2507.05773](http://arxiv.org/abs/2507.05773)|null|
 |**2025-07-08**|**An autonomous agent for auditing and improving the reliability of clinical AI models**|Lukas Kuhn et.al.|[2507.05755](http://arxiv.org/abs/2507.05755)|null|
 |**2025-07-08**|**An efficiency ordering of k-price auctions under complete information**|Sumit Goel et.al.|[2507.05738](http://arxiv.org/abs/2507.05738)|null|
@@ -40,7 +40,7 @@ layout: default
 |**2025-07-08**|**Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study**|Ibne Farabi Shihab et.al.|[2507.05619](http://arxiv.org/abs/2507.05619)|null|
 |**2025-07-08**|**Density Discontinuity Regression**|Surya T Tokdar et.al.|[2507.05581](http://arxiv.org/abs/2507.05581)|null|
 |**2025-07-08**|**Preemptive Solving of Future Problems: Multitask Preplay in Humans and Machines**|Wilka Carvalho et.al.|[2507.05561](http://arxiv.org/abs/2507.05561)|null|
-|**2025-07-08**|**AI Agent Smart Contract Exploit Generation**|Arthur Gervais et.al.|[2507.05558](http://arxiv.org/abs/2507.05558)|null|
+|**2025-07-09**|**AI Agent Smart Contract Exploit Generation**|Arthur Gervais et.al.|[2507.05558](http://arxiv.org/abs/2507.05558)|null|
 |**2025-07-07**|**Evolutionary and Coevolutionary Multi-Agent Design Choices and Dynamics**|Erik Hemberg et.al.|[2507.05534](http://arxiv.org/abs/2507.05534)|null|
 |**2025-07-07**|**Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment**|Jiahuan Pei et.al.|[2507.05528](http://arxiv.org/abs/2507.05528)|null|
 |**2025-07-07**|**Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis**|Karishma Thakrar et.al.|[2507.05520](http://arxiv.org/abs/2507.05520)|null|
@@ -54,7 +54,7 @@ layout: default
 |**2025-07-07**|**MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents**|Ming Gong et.al.|[2507.05330](http://arxiv.org/abs/2507.05330)|null|
 |**2025-07-07**|**AGACCI : Affiliated Grading Agents for Criteria-Centric Interface in Educational Coding Contexts**|Kwangsuk Park et.al.|[2507.05321](http://arxiv.org/abs/2507.05321)|null|
 |**2025-07-07**|**OASBuilder: Generating OpenAPI Specifications from Online API Documentation with Large Language Models**|Koren Lazar et.al.|[2507.05316](http://arxiv.org/abs/2507.05316)|null|
-|**2025-07-06**|**Fuzzy Classification Aggregation for a Continuum of Agents**|Zijun Meng et.al.|[2507.05297](http://arxiv.org/abs/2507.05297)|null|
+|**2025-07-09**|**Fuzzy Classification Aggregation for a Continuum of Agents**|Zijun Meng et.al.|[2507.05297](http://arxiv.org/abs/2507.05297)|null|
 |**2025-07-05**|**A LLM-Driven Multi-Agent Systems for Professional Development of Mathematics Teachers**|Kaiqi Yang et.al.|[2507.05292](http://arxiv.org/abs/2507.05292)|null|
 |**2025-07-03**|**A Fuzzy Supervisor Agent Design for Clinical Reasoning Assistance in a Multi-Agent Educational Clinical Scenario Simulation**|Weibing Zheng et.al.|[2507.05275](http://arxiv.org/abs/2507.05275)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
@@ -135,7 +135,7 @@ layout: default
 |**2025-07-04**|**Learning Dark Souls Combat Through Pixel Input With Neuroevolution**|Jim O'Connor et.al.|[2507.03793](http://arxiv.org/abs/2507.03793)|null|
 |**2025-07-04**|**Less is More: Empowering GUI Agent with Context-Aware Simplification**|Gongwei Chen et.al.|[2507.03730](http://arxiv.org/abs/2507.03730)|null|
 |**2025-07-04**|**Agent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models**|Riya Naik et.al.|[2507.03726](http://arxiv.org/abs/2507.03726)|null|
-|**2025-07-08**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
+|**2025-07-09**|**Can LLMs Play Ô Ăn Quan Game? A Study of Multi-Step Planning and Decision Making**|Sang Quang Nguyen et.al.|[2507.03711](http://arxiv.org/abs/2507.03711)|null|
 |**2025-07-04**|**Towards Machine Theory of Mind with Large Language Model-Augmented Inverse Planning**|Rebekah A. Gelpí et.al.|[2507.03682](http://arxiv.org/abs/2507.03682)|null|
 |**2025-07-04**|**STRUCTSENSE: A Task-Agnostic Agentic Framework for Structured Information Extraction with Human-In-The-Loop Evaluation and Benchmarking**|Tek Raj Chhetri et.al.|[2507.03674](http://arxiv.org/abs/2507.03674)|null|
 |**2025-07-04**|**Recon, Answer, Verify: Agents in Search of Truth**|Satyam Shukla et.al.|[2507.03671](http://arxiv.org/abs/2507.03671)|null|
@@ -143,7 +143,7 @@ layout: default
 |**2025-07-04**|**Is It Time To Treat Prompts As Code? A Multi-Use Case Study For Prompt Optimization Using DSPy**|Francisca Lemos et.al.|[2507.03620](http://arxiv.org/abs/2507.03620)|null|
 |**2025-07-04**|**EvoAgentX: An Automated Framework for Evolving Agentic Workflows**|Yingxu Wang et.al.|[2507.03616](http://arxiv.org/abs/2507.03616)|null|
 |**2025-07-04**|**On characterization and existence of a constrained correlated equilibria in Markov games**|Tingting Ni et.al.|[2507.03502](http://arxiv.org/abs/2507.03502)|null|
-|**2025-07-04**|**Reinforcement Learning-based Feature Generation Algorithm for Scientific Data**|Meng Xiao et.al.|[2507.03498](http://arxiv.org/abs/2507.03498)|null|
+|**2025-07-09**|**Reinforcement Learning-based Feature Generation Algorithm for Scientific Data**|Meng Xiao et.al.|[2507.03498](http://arxiv.org/abs/2507.03498)|null|
 |**2025-07-04**|**AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions**|Abdellah Zeggai et.al.|[2507.03493](http://arxiv.org/abs/2507.03493)|null|
 |**2025-07-04**|**Explainable Information Retrieval in the Audit Domain**|Alexander Frummet et.al.|[2507.03479](http://arxiv.org/abs/2507.03479)|null|
 |**2025-07-04**|**REAL: Benchmarking Abilities of Large Language Models for Housing Transactions and Services**|Kexin Zhu et.al.|[2507.03477](http://arxiv.org/abs/2507.03477)|null|
@@ -166,7 +166,7 @@ layout: default
 |**2025-07-03**|**From Turing to Tomorrow: The UK's Approach to AI Regulation**|Oliver Ritchie et.al.|[2507.03050](http://arxiv.org/abs/2507.03050)|null|
 |**2025-07-02**|**Generalized Adaptive Transfer Network: Enhancing Transfer Learning in Reinforcement Learning Across Domains**|Abhishek Verma et.al.|[2507.03026](http://arxiv.org/abs/2507.03026)|null|
 |**2025-07-02**|**OpenTable-R1: A Reinforcement Learning Augmented Tool Agent for Open-Domain Table Question Answering**|Zipeng Qiu et.al.|[2507.03018](http://arxiv.org/abs/2507.03018)|null|
-|**2025-07-03**|**Establishing Best Practices for Building Rigorous Agentic Benchmarks**|Yuxuan Zhu et.al.|[2507.02825](http://arxiv.org/abs/2507.02825)|null|
+|**2025-07-08**|**Establishing Best Practices for Building Rigorous Agentic Benchmarks**|Yuxuan Zhu et.al.|[2507.02825](http://arxiv.org/abs/2507.02825)|null|
 |**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788](http://arxiv.org/abs/2507.02788)|null|
 |**2025-07-06**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
 |**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760](http://arxiv.org/abs/2507.02760)|null|
