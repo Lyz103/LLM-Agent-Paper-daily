@@ -17,6 +17,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521](http://arxiv.org/abs/2507.11521)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**On the Complexity of the Optimal Correlated Equilibria in Extensive-Form Games**|Vincent Cheval et.al.|[2507.11509](http://arxiv.org/abs/2507.11509)|null|
+|**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464](http://arxiv.org/abs/2507.11464)|null|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407](http://arxiv.org/abs/2507.11407)|null|
+|**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Supun Dissanayaka et.al.|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
+|**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
+|**2025-07-15**|**Taming Uncertainty via Automation: Observing, Analyzing, and Optimizing Agentic AI Systems**|Dany Moshkovich et.al.|[2507.11277](http://arxiv.org/abs/2507.11277)|null|
+|**2025-07-15**|**An Empirical Study of Multi-Agent RAG for Real-World University Admissions Counseling**|Anh Nguyen-Duc et.al.|[2507.11272](http://arxiv.org/abs/2507.11272)|null|
+|**2025-07-15**|**Turning Sand to Gold: Recycling Data to Bridge On-Policy and Off-Policy Learning via Causal Bound**|Tal Fiskus et.al.|[2507.11269](http://arxiv.org/abs/2507.11269)|null|
+|**2025-07-15**|**An Agentic Flow for Finite State Machine Extraction using Prompt Chaining**|Fares Wael et.al.|[2507.11222](http://arxiv.org/abs/2507.11222)|null|
+|**2025-07-15**|**Fair Contracts**|Matteo Castiglioni et.al.|[2507.11214](http://arxiv.org/abs/2507.11214)|null|
+|**2025-07-15**|**Role-Playing LLM-Based Multi-Agent Support Framework for Detecting and Addressing Family Communication Bias**|Rushia Harada et.al.|[2507.11210](http://arxiv.org/abs/2507.11210)|null|
+|**2025-07-15**|**Temperature and Persona Shape LLM Agent Consensus With Minimal Accuracy Gains in Qualitative Coding**|Conrad Borchers et.al.|[2507.11198](http://arxiv.org/abs/2507.11198)|null|
+|**2025-07-15**|**Quantized Rank Reduction: A Communications-Efficient Federated Learning Scheme for Network-Critical Applications**|Dimitrios Kritsiolis et.al.|[2507.11183](http://arxiv.org/abs/2507.11183)|null|
+|**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
+|**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Li Wang et.al.|[2507.11079](http://arxiv.org/abs/2507.11079)|null|
+|**2025-07-15**|**SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks**|Pavel Adamenko et.al.|[2507.11059](http://arxiv.org/abs/2507.11059)|null|
+|**2025-07-15**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
+|**2025-07-15**|**Value of History in Social Learning: Applications to Markets for History**|Hiroto Sato et.al.|[2507.11029](http://arxiv.org/abs/2507.11029)|null|
+|**2025-07-15**|**DS@GT at eRisk 2025: From prompts to predictions, benchmarking early depression detection with conversational agent based assessments and temporal attention models**|Anthony Miyaguchi et.al.|[2507.10958](http://arxiv.org/abs/2507.10958)|null|
+|**2025-07-15**|**A Learning Framework For Cooperative Collision Avoidance of UAV Swarms Leveraging Domain Knowledge**|Shuangyao Huang et.al.|[2507.10913](http://arxiv.org/abs/2507.10913)|null|
+|**2025-07-15**|**Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation**|Yicong Wu et.al.|[2507.10911](http://arxiv.org/abs/2507.10911)|null|
+|**2025-07-15**|**NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization**|Zongtao He et.al.|[2507.10894](http://arxiv.org/abs/2507.10894)|null|
+|**2025-07-15**|**Start from the End: A Framework for Computational Policy Exploration to Inform Effective and Geospatially Consistent Interventions applied to COVID-19 in St. Louis**|David O'Gara et.al.|[2507.10870](http://arxiv.org/abs/2507.10870)|null|
+|**2025-07-14**|**LLM-Guided Agentic Object Detection for Open-World Understanding**|Furkan Mumcu et.al.|[2507.10844](http://arxiv.org/abs/2507.10844)|null|
+|**2025-07-14**|**Past, Present and Future: Exploring Adaptive AI in Software Development Bots**|Omar Elsisi et.al.|[2507.10822](http://arxiv.org/abs/2507.10822)|null|
+|**2025-07-14**|**Semantic Context for Tool Orchestration**|Robert Müller et.al.|[2507.10820](http://arxiv.org/abs/2507.10820)|null|
+|**2025-07-14**|**Versatile and Generalizable Manipulation via Goal-Conditioned Reinforcement Learning with Grounded Object Detection**|Huiyi Wang et.al.|[2507.10814](http://arxiv.org/abs/2507.10814)|null|
+|**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Chuxuan Zhang et.al.|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
+|**2025-07-14**|**Warehouse Spatial Question Answering with LLM Agent**|Hsiang-Wei Huang et.al.|[2507.10778](http://arxiv.org/abs/2507.10778)|null|
+|**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/abs/2507.10749)|null|
+|**2025-07-14**|**Ground-Compose-Reinforce: Tasking Reinforcement Learning Agents through Formal Language**|Andrew C. Li et.al.|[2507.10741](http://arxiv.org/abs/2507.10741)|null|
+|**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
+|**2025-07-14**|**Exploring User Security and Privacy Attitudes and Concerns Toward the Use of General-Purpose LLM Chatbots for Mental Health**|Jabari Kwesi et.al.|[2507.10695](http://arxiv.org/abs/2507.10695)|null|
+|**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Muhayy Ud Din et.al.|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
+|**2025-07-14**|**From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents**|Tatiana Petrova et.al.|[2507.10644](http://arxiv.org/abs/2507.10644)|null|
+|**2025-07-14**|**Enhancing the Capabilities of Large Language Models for API calls through Knowledge Graphs**|Ye Yang et.al.|[2507.10630](http://arxiv.org/abs/2507.10630)|null|
+|**2025-07-14**|**Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats**|Quanyan Zhu et.al.|[2507.10621](http://arxiv.org/abs/2507.10621)|null|
+|**2025-07-13**|**Meta-Reinforcement Learning for Fast and Data-Efficient Spectrum Allocation in Dynamic Wireless Networks**|Oluwaseyi Giwa et.al.|[2507.10619](http://arxiv.org/abs/2507.10619)|null|
+|**2025-07-13**|**LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents**|Zihe Yan et.al.|[2507.10610](http://arxiv.org/abs/2507.10610)|null|
+|**2025-07-12**|**Emergence of Hierarchical Emotion Organization in Large Language Models**|Bo Zhao et.al.|[2507.10599](http://arxiv.org/abs/2507.10599)|null|
+|**2025-07-11**|**ARPaCCino: An Agentic-RAG for Policy as Code Compliance**|Francesco Romeo et.al.|[2507.10584](http://arxiv.org/abs/2507.10584)|null|
+|**2025-07-11**|**An Offline Mobile Conversational Agent for Mental Health Support: Learning from Emotional Dialogues and Psychological Texts with Student-Centered Evaluation**|Vimaleswar A et.al.|[2507.10580](http://arxiv.org/abs/2507.10580)|null|
+|**2025-07-11**|**Truth Sleuth and Trend Bender: AI Agents to fact-check YouTube videos and influence opinions**|Logé Cécile et.al.|[2507.10577](http://arxiv.org/abs/2507.10577)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522](http://arxiv.org/abs/2507.10522)|null|
