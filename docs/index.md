@@ -14,6 +14,46 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
+|**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370](http://arxiv.org/abs/2507.12370)|null|
+|**2025-07-16**|**GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
+|**2025-07-16**|**Social polarization promoted by sparse higher-order interactions**|Hugo Pérez-Martínez et.al.|[2507.12325](http://arxiv.org/abs/2507.12325)|null|
+|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
+|**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
+|**2025-07-16**|**Toward a Behavioural Translation Style Space: Simulating the Temporal Dynamics of Affect, Behaviour, and Cognition in Human Translation Production**|Michael Carl et.al.|[2507.12208](http://arxiv.org/abs/2507.12208)|null|
+|**2025-07-16**|**BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search**|Azhar Ikhtiarudin et.al.|[2507.12189](http://arxiv.org/abs/2507.12189)|null|
+|**2025-07-16**|**Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties**|Zhenmin Huang et.al.|[2507.12174](http://arxiv.org/abs/2507.12174)|null|
+|**2025-07-16**|**Convergence Rate of Generalized Nash Equilibrium Learning in Strongly Monotone Games with Linear Constraints**|Tatiana Tatarenko et.al.|[2507.12112](http://arxiv.org/abs/2507.12112)|null|
+|**2025-07-16**|**Topology Enhanced MARL for Multi-Vehicle Cooperative Decision-Making of CAVs**|Ye Han et.al.|[2507.12110](http://arxiv.org/abs/2507.12110)|null|
+|**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[2507.12083](http://arxiv.org/abs/2507.12083)|null|
+|**2025-07-16**|**Evaluating the Ability of Large Language Models to Reason about Cardinal Directions, Revisited**|Anthony G Cohn et.al.|[2507.12059](http://arxiv.org/abs/2507.12059)|null|
+|**2025-07-16**|**Contracting with a Mechanism Designer**|Tian Bai et.al.|[2507.12054](http://arxiv.org/abs/2507.12054)|null|
+|**2025-07-16**|**ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum**|Brian-Frederik Jahnke et.al.|[2507.12032](http://arxiv.org/abs/2507.12032)|null|
+|**2025-07-16**|**QAS-QTNs: Curriculum Reinforcement Learning-Driven Quantum Architecture Search for Quantum Tensor Networks**|Siddhant Dutta et.al.|[2507.12013](http://arxiv.org/abs/2507.12013)|null|
+|**2025-07-16**|**Understanding visual attention beehind bee-inspired UAV navigation**|Pranav Rajbhandari et.al.|[2507.11992](http://arxiv.org/abs/2507.11992)|null|
+|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
+|**2025-07-16**|**Value-Based Large Language Model Agent Simulation for Mutual Evaluation of Trust and Interpersonal Closeness**|Yuki Sakamoto et.al.|[2507.11979](http://arxiv.org/abs/2507.11979)|null|
+|**2025-07-16**|**Online Training and Pruning of Deep Reinforcement Learning Networks**|Valentin Frank Ingmar Guenter et.al.|[2507.11975](http://arxiv.org/abs/2507.11975)|null|
+|**2025-07-16**|**Graph Representations for Reading Comprehension Analysis using Large Language Model and Eye-Tracking Biomarker**|Yuhong Zhang et.al.|[2507.11972](http://arxiv.org/abs/2507.11972)|null|
+|**2025-07-16**|**IANN-MPPI: Interaction-Aware Neural Network-Enhanced Model Predictive Path Integral Approach for Autonomous Driving**|Kanghyun Ryu et.al.|[2507.11940](http://arxiv.org/abs/2507.11940)|null|
+|**2025-07-16**|**From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning**|Max Hopkins et.al.|[2507.11926](http://arxiv.org/abs/2507.11926)|null|
+|**2025-07-16**|**Hybrid Conformal Prediction-based Risk-Aware Model Predictive Planning in Dense, Uncertain Environments**|Jeongyong Yang et.al.|[2507.11920](http://arxiv.org/abs/2507.11920)|null|
+|**2025-07-16**|**CoCre-Sam (Kokkuri-san): Modeling Ouija Board as Collective Langevin Dynamics Sampling from Fused Language Models**|Tadahiro Taniguchi et.al.|[2507.11906](http://arxiv.org/abs/2507.11906)|null|
+|**2025-07-16**|**Extremal Testing for Network Software using LLMs**|Rathin Singha et.al.|[2507.11898](http://arxiv.org/abs/2507.11898)|null|
+|**2025-07-16**|**Generative Intelligence Systems in the Flow of Group Emotions**|Fernando Koch et.al.|[2507.11831](http://arxiv.org/abs/2507.11831)|null|
+|**2025-07-16**|**The Evolving Role of Large Language Models in Scientific Innovation: Evaluator, Collaborator, and Scientist**|Haoxuan Zhang et.al.|[2507.11810](http://arxiv.org/abs/2507.11810)|null|
+|**2025-07-16**|**New allocation rule based on graph structures and their application to economic phenomena**|Taiki Yamada et.al.|[2507.11808](http://arxiv.org/abs/2507.11808)|null|
+|**2025-07-15**|**Large-scale distributed synchronization systems, using a cancel-on-completion redundancy mechanism**|Alexander Stolyar et.al.|[2507.11779](http://arxiv.org/abs/2507.11779)|null|
+|**2025-07-15**|**A Cellular Automata Approach to Donation Game**|Marcin Kowalik et.al.|[2507.11744](http://arxiv.org/abs/2507.11744)|null|
+|**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Moises Andrade et.al.|[2507.11662](http://arxiv.org/abs/2507.11662)|null|
+|**2025-07-15**|**STAGED: A Multi-Agent Neural Network for Learning Cellular Interaction Dynamics**|Joao F. Rocha et.al.|[2507.11660](http://arxiv.org/abs/2507.11660)|null|
+|**2025-07-15**|**VISTA: Monocular Segmentation-Based Mapping for Appearance and View-Invariant Global Localization**|Hannah Shafferman et.al.|[2507.11653](http://arxiv.org/abs/2507.11653)|null|
+|**2025-07-15**|**General Modular Harness for LLM Agents in Multi-Turn Gaming Environments**|Yuxuan Zhang et.al.|[2507.11633](http://arxiv.org/abs/2507.11633)|null|
+|**2025-07-15**|**AI, Humans, and Data Science: Optimizing Roles Across Workflows and the Workforce**|Richard Timpone et.al.|[2507.11597](http://arxiv.org/abs/2507.11597)|null|
+|**2025-07-14**|**Consumer Law for AI Agents**|Christoph Busch et.al.|[2507.11567](http://arxiv.org/abs/2507.11567)|null|
+|**2025-07-14**|**Emergent Heterogeneous Swarm Control Through Hebbian Learning**|Fuda van Diggelen et.al.|[2507.11566](http://arxiv.org/abs/2507.11566)|null|
+|**2025-07-14**|**A Model Aware AIGC Task Offloading Algorithm in IIoT Edge Computing**|Xin Wang et.al.|[2507.11560](http://arxiv.org/abs/2507.11560)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
 |**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521](http://arxiv.org/abs/2507.11521)|null|
 |**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
