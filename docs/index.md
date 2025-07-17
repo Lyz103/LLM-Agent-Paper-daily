@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -33,7 +33,7 @@ layout: default
 |**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
 |**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Li Wang et.al.|[2507.11079](http://arxiv.org/abs/2507.11079)|null|
 |**2025-07-15**|**SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks**|Pavel Adamenko et.al.|[2507.11059](http://arxiv.org/abs/2507.11059)|null|
-|**2025-07-15**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
+|**2025-07-16**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-15**|**Value of History in Social Learning: Applications to Markets for History**|Hiroto Sato et.al.|[2507.11029](http://arxiv.org/abs/2507.11029)|null|
 |**2025-07-15**|**DS@GT at eRisk 2025: From prompts to predictions, benchmarking early depression detection with conversational agent based assessments and temporal attention models**|Anthony Miyaguchi et.al.|[2507.10958](http://arxiv.org/abs/2507.10958)|null|
 |**2025-07-15**|**A Learning Framework For Cooperative Collision Avoidance of UAV Swarms Leveraging Domain Knowledge**|Shuangyao Huang et.al.|[2507.10913](http://arxiv.org/abs/2507.10913)|null|
@@ -51,7 +51,7 @@ layout: default
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-14**|**Exploring User Security and Privacy Attitudes and Concerns Toward the Use of General-Purpose LLM Chatbots for Mental Health**|Jabari Kwesi et.al.|[2507.10695](http://arxiv.org/abs/2507.10695)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Muhayy Ud Din et.al.|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
-|**2025-07-14**|**From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents**|Tatiana Petrova et.al.|[2507.10644](http://arxiv.org/abs/2507.10644)|null|
+|**2025-07-16**|**From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents**|Tatiana Petrova et.al.|[2507.10644](http://arxiv.org/abs/2507.10644)|null|
 |**2025-07-14**|**Enhancing the Capabilities of Large Language Models for API calls through Knowledge Graphs**|Ye Yang et.al.|[2507.10630](http://arxiv.org/abs/2507.10630)|null|
 |**2025-07-14**|**Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats**|Quanyan Zhu et.al.|[2507.10621](http://arxiv.org/abs/2507.10621)|null|
 |**2025-07-13**|**Meta-Reinforcement Learning for Fast and Data-Efficient Spectrum Allocation in Dynamic Wireless Networks**|Oluwaseyi Giwa et.al.|[2507.10619](http://arxiv.org/abs/2507.10619)|null|
@@ -59,7 +59,7 @@ layout: default
 |**2025-07-12**|**Emergence of Hierarchical Emotion Organization in Large Language Models**|Bo Zhao et.al.|[2507.10599](http://arxiv.org/abs/2507.10599)|null|
 |**2025-07-11**|**ARPaCCino: An Agentic-RAG for Policy as Code Compliance**|Francesco Romeo et.al.|[2507.10584](http://arxiv.org/abs/2507.10584)|null|
 |**2025-07-11**|**An Offline Mobile Conversational Agent for Mental Health Support: Learning from Emotional Dialogues and Psychological Texts with Student-Centered Evaluation**|Vimaleswar A et.al.|[2507.10580](http://arxiv.org/abs/2507.10580)|null|
-|**2025-07-11**|**Truth Sleuth and Trend Bender: AI Agents to fact-check YouTube videos and influence opinions**|Logé Cécile et.al.|[2507.10577](http://arxiv.org/abs/2507.10577)|null|
+|**2025-07-16**|**Truth Sleuth and Trend Bender: AI Agents to fact-check YouTube videos and influence opinions**|Cécile Logé et.al.|[2507.10577](http://arxiv.org/abs/2507.10577)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522](http://arxiv.org/abs/2507.10522)|null|
@@ -76,7 +76,7 @@ layout: default
 |**2025-07-14**|**Play Style Identification Using Low-Level Representations of Play Traces in MicroRTS**|Ruizhe Yu Xia et.al.|[2507.10172](http://arxiv.org/abs/2507.10172)|null|
 |**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154](http://arxiv.org/abs/2507.10154)|null|
 |**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
-|**2025-07-15**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run" Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
+|**2025-07-16**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run" Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
 |**2025-07-14**|**Towards High Supervised Learning Utility Training Data Generation: Data Pruning and Column Reordering**|Tung Sum Thomas Kwok et.al.|[2507.10088](http://arxiv.org/abs/2507.10088)|null|
 |**2025-07-14**|**Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires**|Simon Münker et.al.|[2507.10073](http://arxiv.org/abs/2507.10073)|null|
 |**2025-07-14**|**Finetuning Deep Reinforcement Learning Policies with Evolutionary Strategies for Control of Underactuated Robots**|Marco Calì et.al.|[2507.10030](http://arxiv.org/abs/2507.10030)|null|
@@ -92,7 +92,7 @@ layout: default
 |**2025-07-14**|**Large Population Models**|Ayush Chopra et.al.|[2507.09901](http://arxiv.org/abs/2507.09901)|null|
 |**2025-07-14**|**Towards Realistic and Interpretable Market Simulations: Factorizing Financial Power Law using Optimal Transport**|Ryuji Hashimoto et.al.|[2507.09863](http://arxiv.org/abs/2507.09863)|null|
 |**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[2507.09836](http://arxiv.org/abs/2507.09836)|null|
-|**2025-07-13**|**Active Probing with Multimodal Predictions for Motion Planning**|Darshan Gadginmath et.al.|[2507.09822](http://arxiv.org/abs/2507.09822)|null|
+|**2025-07-15**|**Active Probing with Multimodal Predictions for Motion Planning**|Darshan Gadginmath et.al.|[2507.09822](http://arxiv.org/abs/2507.09822)|null|
 |**2025-07-13**|**An infinitesimal generator approach on weak convergence of regulated multi-class matching systems**|Bowen Xie et.al.|[2507.09789](http://arxiv.org/abs/2507.09789)|null|
 |**2025-07-13**|**TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit**|Paulo Salem et.al.|[2507.09788](http://arxiv.org/abs/2507.09788)|null|
 |**2025-07-13**|**Toward accurate RUL and SOH estimation using reinforced graph-based PINNs enhanced with dynamic weights**|Mohamadreza Akbari Pour et.al.|[2507.09766](http://arxiv.org/abs/2507.09766)|null|
@@ -102,7 +102,7 @@ layout: default
 |**2025-07-13**|**Negotiating Comfort: Simulating Personality-Driven LLM Agents in Shared Residential Social Networks**|Ann Nedime Nese Rende et.al.|[2507.09657](http://arxiv.org/abs/2507.09657)|null|
 |**2025-07-13**|**humancompatible.interconnect: Testing Properties of Repeated Uses of Interconnections of AI Systems**|Rodion Nazarov et.al.|[2507.09626](http://arxiv.org/abs/2507.09626)|null|
 |**2025-07-13**|**On the existence of EFX allocations for goods**|Ujjwal Kumar et.al.|[2507.09600](http://arxiv.org/abs/2507.09600)|null|
-|**2025-07-13**|**THOR: Transformer Heuristics for On-Demand Retrieval**|Isaac Shi et.al.|[2507.09592](http://arxiv.org/abs/2507.09592)|null|
+|**2025-07-16**|**THOR: Transformer Heuristics for On-Demand Retrieval**|Isaac Shi et.al.|[2507.09592](http://arxiv.org/abs/2507.09592)|null|
 |**2025-07-13**|**eSapiens: A Platform for Secure and Auditable Retrieval-Augmented Generation**|Isaac Shi et.al.|[2507.09588](http://arxiv.org/abs/2507.09588)|null|
 |**2025-07-13**|**AICrypto: A Comprehensive Benchmark For Evaluating Cryptography Capabilities of Large Language Models**|Yu Wang et.al.|[2507.09580](http://arxiv.org/abs/2507.09580)|null|
 |**2025-07-13**|**On Probabilistic Assignment Rules**|Sreedurga Gogulapati et.al.|[2507.09550](http://arxiv.org/abs/2507.09550)|null|
@@ -113,7 +113,7 @@ layout: default
 |**2025-07-13**|**GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities**|Siyi Wu et.al.|[2507.09497](http://arxiv.org/abs/2507.09497)|null|
 |**2025-07-13**|**GenAI-based Multi-Agent Reinforcement Learning towards Distributed Agent Intelligence: A Generative-RL Agent Perspective**|Hang Wang et.al.|[2507.09495](http://arxiv.org/abs/2507.09495)|null|
 |**2025-07-13**|**Evaluating LLMs on Sequential API Call Through Automated Test Generation**|Yuheng Huang et.al.|[2507.09481](http://arxiv.org/abs/2507.09481)|null|
-|**2025-07-13**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
+|**2025-07-16**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
 |**2025-07-13**|**Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints**|Yan Dai et.al.|[2507.09473](http://arxiv.org/abs/2507.09473)|null|
 |**2025-07-13**|**MobiWorld: World Models for Mobile Wireless Network**|Haoye Chai et.al.|[2507.09462](http://arxiv.org/abs/2507.09462)|null|
 |**2025-07-13**|**Intermediate Interaction Strategies for Collective Behavior**|Y. Kikuchi et.al.|[2507.09457](http://arxiv.org/abs/2507.09457)|null|
@@ -141,7 +141,7 @@ layout: default
 |**2025-07-11**|**Behavioral Exploration: Learning to Explore via In-Context Adaptation**|Andrew Wagenmaker et.al.|[2507.09041](http://arxiv.org/abs/2507.09041)|null|
 |**2025-07-11**|**Accelerating Drug Discovery Through Agentic AI: A Multi-Agent Approach to Laboratory Automation in the DMTA Cycle**|Yao Fehlis et.al.|[2507.09023](http://arxiv.org/abs/2507.09023)|null|
 |**2025-07-11**|**How to Train a Leader: Hierarchical Reasoning in Multi-Agent LLMs**|Andrew Estornell et.al.|[2507.08960](http://arxiv.org/abs/2507.08960)|null|
-|**2025-07-11**|**Bridging Literature and the Universe Via A Multi-Agent Large Language Model System**|Xiaowen Zhang et.al.|[2507.08958](http://arxiv.org/abs/2507.08958)|null|
+|**2025-07-15**|**Bridging Literature and the Universe Via A Multi-Agent Large Language Model System**|Xiaowen Zhang et.al.|[2507.08958](http://arxiv.org/abs/2507.08958)|null|
 |**2025-07-11**|**Optimizing Sequential Multi-Step Tasks with Parallel LLM Agents**|Enhao Zhang et.al.|[2507.08944](http://arxiv.org/abs/2507.08944)|null|
 |**2025-07-10**|**AirScape: An Aerial Generative World Model with Motion Controllability**|Baining Zhao et.al.|[2507.08885](http://arxiv.org/abs/2507.08885)|null|
 |**2025-07-10**|**Agent-based visualization of streaming text**|Jordan Riley Benson et.al.|[2507.08884](http://arxiv.org/abs/2507.08884)|null|
