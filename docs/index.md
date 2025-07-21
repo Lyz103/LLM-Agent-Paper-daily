@@ -14,6 +14,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
+|**2025-07-18**|**Collaborative Rational Speech Act: Pragmatic Reasoning for Multi-Turn Dialog**|Lautaro Estienne et.al.|[2507.14063](http://arxiv.org/abs/2507.14063)|null|
+|**2025-07-18**|**Well posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058](http://arxiv.org/abs/2507.14058)|null|
+|**2025-07-18**|**Online MMS Allocation for Chores**|Jiaxin Song et.al.|[2507.14039](http://arxiv.org/abs/2507.14039)|null|
+|**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
+|**2025-07-18**|**Byzantine-resilient federated online learning for Gaussian process regression**|Xu Zhang et.al.|[2507.14021](http://arxiv.org/abs/2507.14021)|null|
+|**2025-07-18**|**DreamScene: 3D Gaussian-based End-to-end Text-to-3D Scene Generation**|Haoran Li et.al.|[2507.13985](http://arxiv.org/abs/2507.13985)|null|
+|**2025-07-18**|**A Multi-Objective Optimization framework for Decentralized Learning with coordination constraints**|Roberto Morales et.al.|[2507.13983](http://arxiv.org/abs/2507.13983)|null|
+|**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966](http://arxiv.org/abs/2507.13966)|null|
+|**2025-07-18**|**NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe Multi-Agent Motion Planning**|Qingyi Chen et.al.|[2507.13940](http://arxiv.org/abs/2507.13940)|null|
+|**2025-07-18**|**Marcel: A Lightweight and Open-Source Conversational Agent for University Student Support**|Jan Trienes et.al.|[2507.13937](http://arxiv.org/abs/2507.13937)|null|
+|**2025-07-18**|**Reframing attention as a reinforcement learning problem for causal discovery**|Turan Orujlu et.al.|[2507.13920](http://arxiv.org/abs/2507.13920)|null|
+|**2025-07-18**|**Advanced X-rays techniques for research-oriented high-resolution imaging of articular cartilage: a scoping review**|Simone Fantoni et.al.|[2507.13854](http://arxiv.org/abs/2507.13854)|null|
+|**2025-07-18**|**Impact of homophily in adherence to anti-epidemic measures on the spread of infectious diseases in social networks**|Piotr Bentkowski et.al.|[2507.13848](http://arxiv.org/abs/2507.13848)|null|
+|**2025-07-18**|**Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments**|Kathrin Korte et.al.|[2507.13846](http://arxiv.org/abs/2507.13846)|null|
+|**2025-07-18**|**Principles and Reasons Behind Automated Vehicle Decisions in Ethically Ambiguous Everyday Scenarios**|Lucas Elbert Suryana et.al.|[2507.13837](http://arxiv.org/abs/2507.13837)|null|
+|**2025-07-18**|**Conformal Data Contamination Tests for Trading or Sharing of Data**|Martin V. Vejling et.al.|[2507.13835](http://arxiv.org/abs/2507.13835)|null|
+|**2025-07-18**|**Scalable Submodular Policy Optimization via Pruned Submodularity Graph**|Aditi Anand et.al.|[2507.13834](http://arxiv.org/abs/2507.13834)|null|
+|**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
+|**2025-07-18**|**From Extraction to Synthesis: Entangled Heuristics for Agent-Augmented Strategic Reasoning**|Renato Ghisellini et.al.|[2507.13768](http://arxiv.org/abs/2507.13768)|null|
+|**2025-07-18**|**Navigating the Lobbying Landscape: Insights from Opinion Dynamics Models**|Daniele Giachini et.al.|[2507.13767](http://arxiv.org/abs/2507.13767)|null|
+|**2025-07-18**|**AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**|Yu Yao et.al.|[2507.13729](http://arxiv.org/abs/2507.13729)|null|
+|**2025-07-18**|**CogniQ-H: A Soft Hierarchical Reinforcement Learning Paradigm for Automated Data Preparation**|Jing Chang et.al.|[2507.13710](http://arxiv.org/abs/2507.13710)|null|
+|**2025-07-18**|**Minimum Clustering of Matrices Based on Phase Alignment**|Honghao Wu et.al.|[2507.13678](http://arxiv.org/abs/2507.13678)|null|
+|**2025-07-18**|**Improved particle swarm optimization algorithm: multi-target trajectory optimization for swarm drones**|Minze Li et.al.|[2507.13647](http://arxiv.org/abs/2507.13647)|null|
+|**2025-07-18**|**Differential Privacy in Kernelized Contextual Bandits via Random Projections**|Nikola Pavlovic et.al.|[2507.13639](http://arxiv.org/abs/2507.13639)|null|
+|**2025-07-17**|**Evolving Neural Controllers for Xpilot-AI Racing Using Neuroevolution of Augmenting Topologies**|Jim O'Connor et.al.|[2507.13549](http://arxiv.org/abs/2507.13549)|null|
+|**2025-07-17**|**Human-Like Trajectories Generation via Receding Horizon Tracking Applied to the TickTacking Interface**|Daniele Masti et.al.|[2507.13528](http://arxiv.org/abs/2507.13528)|null|
+|**2025-07-17**|**Humans learn to prefer trustworthy AI over human partners**|Yaomin Jiang et.al.|[2507.13524](http://arxiv.org/abs/2507.13524)|null|
+|**2025-07-17**|**GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination**|Nabil Abdelaziz Ferhat Taleb et.al.|[2507.13511](http://arxiv.org/abs/2507.13511)|null|
+|**2025-07-17**|**Model-free Reinforcement Learning for Model-based Control: Towards Safe, Interpretable and Sample-efficient Agents**|Thomas Banker et.al.|[2507.13491](http://arxiv.org/abs/2507.13491)|null|
+|**2025-07-17**|**LightAutoDS-Tab: Multi-AutoML Agentic System for Tabular Data**|Aleksey Lapin et.al.|[2507.13413](http://arxiv.org/abs/2507.13413)|null|
 |**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-17**|**N Bugs on a Circle**|Josh Briley et.al.|[2507.13333](http://arxiv.org/abs/2507.13333)|null|
 |**2025-07-17**|**Multi-Agent Synergy-Driven Iterative Visual Narrative Synthesis**|Wang Xi et.al.|[2507.13285](http://arxiv.org/abs/2507.13285)|null|
