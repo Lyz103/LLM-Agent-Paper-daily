@@ -17,6 +17,92 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
+|**2025-07-21**|**Density control of multi-agent swarms via bio-inspired leader-follower plasticity**|Gian Carlo Maffettone et.al.|[2507.15781](http://arxiv.org/abs/2507.15781)|null|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
+|**2025-07-21**|**GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts**|Jingyi Zheng et.al.|[2507.15761](http://arxiv.org/abs/2507.15761)|null|
+|**2025-07-21**|**Towards physician-centered oversight of conversational diagnostic AI**|Elahe Vedadi et.al.|[2507.15743](http://arxiv.org/abs/2507.15743)|null|
+|**2025-07-21**|**General Matching Games**|Felipe Garrido-Lucero et.al.|[2507.15737](http://arxiv.org/abs/2507.15737)|null|
+|**2025-07-21**|**Competitive Algorithms for Cooperative Multi-Agent Ski-Rental Problems**|Xuchuang Wang et.al.|[2507.15727](http://arxiv.org/abs/2507.15727)|null|
+|**2025-07-21**|**Agentic AI for autonomous anomaly management in complex systems**|Reza Vatankhah Barenji et.al.|[2507.15676](http://arxiv.org/abs/2507.15676)|null|
+|**2025-07-21**|**BugScope: Learn to Find Bugs Like Human**|Jinyao Guo et.al.|[2507.15671](http://arxiv.org/abs/2507.15671)|null|
+|**2025-07-21**|**Asynchronous Collective Tree Exploration: a Distributed Algorithm, and a new Lower Bound**|Romain Cosson et.al.|[2507.15658](http://arxiv.org/abs/2507.15658)|null|
+|**2025-07-21**|**Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**|Kailai Yang et.al.|[2507.15640](http://arxiv.org/abs/2507.15640)|null|
+|**2025-07-21**|**TacticCraft: Natural Language-Driven Tactical Adaptation for StarCraft II**|Weiyu Ma et.al.|[2507.15618](http://arxiv.org/abs/2507.15618)|null|
+|**2025-07-21**|**Why can't Epidemiology be automated (yet)?**|David Bann et.al.|[2507.15617](http://arxiv.org/abs/2507.15617)|null|
+|**2025-07-21**|**DHEvo: Data-Algorithm Based Heuristic Evolution for Generalizable MILP Solving**|Zhihao Zhang et.al.|[2507.15615](http://arxiv.org/abs/2507.15615)|null|
+|**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
+|**2025-07-21**|**FlowForge: Guiding the Creation of Multi-agent Workflows with Design Space Visualization as a Thinking Scaffold**|Pan Hao et.al.|[2507.15559](http://arxiv.org/abs/2507.15559)|null|
+|**2025-07-21**|**PhysGym: Benchmarking LLMs in Interactive Physics Discovery with Controlled Priors**|Yimeng Chen et.al.|[2507.15550](http://arxiv.org/abs/2507.15550)|null|
+|**2025-07-21**|**HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics**|Sizhou Chen et.al.|[2507.15518](http://arxiv.org/abs/2507.15518)|null|
+|**2025-07-21**|**The Constitutional Controller: Doubt-Calibrated Steering of Compliant Agents**|Simon Kohaut et.al.|[2507.15478](http://arxiv.org/abs/2507.15478)|null|
+|**2025-07-21**|**The Emergence of Deep Reinforcement Learning for Path Planning**|Thanh Thi Nguyen et.al.|[2507.15469](http://arxiv.org/abs/2507.15469)|null|
+|**2025-07-21**|**Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration**|Hee Jun Yang et.al.|[2507.15455](http://arxiv.org/abs/2507.15455)|null|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
+|**2025-07-21**|**PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation**|Wenhao Li et.al.|[2507.15419](http://arxiv.org/abs/2507.15419)|null|
+|**2025-07-21**|**RAD: Retrieval High-quality Demonstrations to Enhance Decision-making**|Lu Guo et.al.|[2507.15356](http://arxiv.org/abs/2507.15356)|null|
+|**2025-07-21**|**One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms**|Zijian Zhao et.al.|[2507.15351](http://arxiv.org/abs/2507.15351)|null|
+|**2025-07-21**|**QSAF: A Novel Mitigation Framework for Cognitive Degradation in Agentic AI**|Hammad Atta et.al.|[2507.15330](http://arxiv.org/abs/2507.15330)|null|
+|**2025-07-21**|**Strategically Robust Game Theory via Optimal Transport**|Nicolas Lanzetti et.al.|[2507.15325](http://arxiv.org/abs/2507.15325)|null|
+|**2025-07-21**|**Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems**|Qian Xiong et.al.|[2507.15296](http://arxiv.org/abs/2507.15296)|null|
+|**2025-07-21**|**Mixture of Autoencoder Experts Guidance using Unlabeled and Incomplete Data for Exploration in Reinforcement Learning**|Elias Malomgré et.al.|[2507.15287](http://arxiv.org/abs/2507.15287)|null|
+|**2025-07-21**|**Event-Triggered Resilient Consensus of Networked Euler-Lagrange Systems Under Byzantine Attacks**|Yuliang Fu et.al.|[2507.15283](http://arxiv.org/abs/2507.15283)|null|
+|**2025-07-21**|**IM-Chat: A Multi-agent LLM-based Framework for Knowledge Transfer in Injection Molding Industry**|Junhyeong Lee et.al.|[2507.15268](http://arxiv.org/abs/2507.15268)|null|
+|**2025-07-21**|**SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced Academic Search**|Xiaofeng Shi et.al.|[2507.15245](http://arxiv.org/abs/2507.15245)|null|
+|**2025-07-21**|**FaultLine: Automated Proof-of-Vulnerability Generation Using LLM Agents**|Vikram Nitin et.al.|[2507.15241](http://arxiv.org/abs/2507.15241)|null|
+|**2025-07-21**|**Solving Formal Math Problems by Decomposition and Iterative Reflection**|Yichi Zhou et.al.|[2507.15225](http://arxiv.org/abs/2507.15225)|null|
+|**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
+|**2025-07-21**|**PromptArmor: Simple yet Effective Prompt Injection Defenses**|Tianneng Shi et.al.|[2507.15219](http://arxiv.org/abs/2507.15219)|null|
+|**2025-07-21**|**1H Polarization above 60% at room temperature by triplet dynamic nuclear polarization**|Kenichiro Tateishi et.al.|[2507.15217](http://arxiv.org/abs/2507.15217)|null|
+|**2025-07-21**|**Personalized 3D Myocardial Infarct Geometry Reconstruction from Cine MRI with Explicit Cardiac Motion Modeling**|Yilin Lyu et.al.|[2507.15194](http://arxiv.org/abs/2507.15194)|null|
+|**2025-07-21**|**Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control**|Justin Turnau et.al.|[2507.15174](http://arxiv.org/abs/2507.15174)|null|
+|**2025-07-20**|**STL-GO: Spatio-Temporal Logic with Graph Operators for Distributed Systems with Multiple Network Topologies**|Yiqi Zhao et.al.|[2507.15147](http://arxiv.org/abs/2507.15147)|null|
+|**2025-07-20**|**Can We Move Freely in NEOM's The Line? An Agent-Based Simulation of Human Mobility in a Futuristic Smart City**|Abderaouf Bahi et.al.|[2507.15143](http://arxiv.org/abs/2507.15143)|null|
+|**2025-07-20**|**Statistical state dynamics based study of turbulent Eady fronts. Part 2. Finite amplitude equilibria**|Eojin Kim et.al.|[2507.15134](http://arxiv.org/abs/2507.15134)|null|
+|**2025-07-20**|**Initialization-driven neural generation and training for high-dimensional optimal control and first-order mean field games**|Mouhcine Assouli et.al.|[2507.15126](http://arxiv.org/abs/2507.15126)|null|
+|**2025-07-20**|**From Kicking to Causality: Simulating Infant Agency Detection with a Robust Intrinsic Reward**|Xia Xu et.al.|[2507.15106](http://arxiv.org/abs/2507.15106)|null|
+|**2025-07-20**|**Search-Based Autonomous Vehicle Motion Planning Using Game Theory**|Pouya Panahandeh et.al.|[2507.15088](http://arxiv.org/abs/2507.15088)|null|
+|**2025-07-20**|**WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization**|Zhengwei Tao et.al.|[2507.15061](http://arxiv.org/abs/2507.15061)|null|
+|**2025-07-20**|**LibLMFuzz: LLM-Augmented Fuzz Target Generation for Black-box Libraries**|Ian Hardgrove et.al.|[2507.15058](http://arxiv.org/abs/2507.15058)|null|
+|**2025-07-20**|**EduThink4AI: Translating Educational Critical Thinking into Multi-Agent LLM Systems**|Xinmeng Hou et.al.|[2507.15015](http://arxiv.org/abs/2507.15015)|null|
+|**2025-07-20**|**The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering**|Hao Li et.al.|[2507.15003](http://arxiv.org/abs/2507.15003)|null|
+|**2025-07-20**|**LLM-Enhanced Multi-Agent Reinforcement Learning with Expert Workflow for Real-Time P2P Energy Trading**|Chengwei Lou et.al.|[2507.14995](http://arxiv.org/abs/2507.14995)|null|
+|**2025-07-20**|**Think Like an Engineer: A Neuro-Symbolic Collaboration Agent for Generative Software Requirements Elicitation and Self-Review**|Sai Zhang et.al.|[2507.14969](http://arxiv.org/abs/2507.14969)|null|
+|**2025-07-20**|**STEPC: A Pixel-wise Nonuniformity Correction Framework for Photon-Counting CT in Multi-material Imaging Scenarios**|Enze Zhou et.al.|[2507.14963](http://arxiv.org/abs/2507.14963)|null|
+|**2025-07-20**|**Probing EFX via PMMS: (Non-)Existence Results in Discrete Fair Division**|Jarosław Byrka et.al.|[2507.14957](http://arxiv.org/abs/2507.14957)|null|
+|**2025-07-20**|**Echoes of the Land: An Interactive Installation Based on Physical Model of Earthquake**|Ivan C. H. Liu et.al.|[2507.14947](http://arxiv.org/abs/2507.14947)|null|
+|**2025-07-20**|**Byzantine-Robust Decentralized Coordination of LLM Agents**|Yongrae Jo et.al.|[2507.14928](http://arxiv.org/abs/2507.14928)|null|
+|**2025-07-20**|**Redefining Elderly Care with Agentic AI: Challenges and Opportunities**|Ruhul Amin Khalil et.al.|[2507.14912](http://arxiv.org/abs/2507.14912)|null|
+|**2025-07-20**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
+|**2025-07-20**|**Learning Nonlinear Causal Reductions to Explain Reinforcement Learning Policies**|Armin Kekić et.al.|[2507.14901](http://arxiv.org/abs/2507.14901)|null|
+|**2025-07-20**|**InsightX Agent: An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis**|Jiale Liu et.al.|[2507.14899](http://arxiv.org/abs/2507.14899)|null|
+|**2025-07-20**|**AgentFly: Extensible and Scalable Reinforcement Learning for LM Agents**|Renxi Wang et.al.|[2507.14897](http://arxiv.org/abs/2507.14897)|null|
+|**2025-07-20**|**Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems**|H. M. Sabbir Ahmad et.al.|[2507.14850](http://arxiv.org/abs/2507.14850)|null|
+|**2025-07-20**|**Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree**|Sam Johnson et.al.|[2507.14799](http://arxiv.org/abs/2507.14799)|null|
+|**2025-07-19**|**Towards AI Urban Planner in the Age of GenAI, LLMs, and Agentic AI**|Yanjie Fu et.al.|[2507.14730](http://arxiv.org/abs/2507.14730)|null|
+|**2025-07-19**|**Simulating Chirality: Solving Distance- $k$ -Dispersion on an 1-Interval Connected Ring**|Brati Mondal et.al.|[2507.14723](http://arxiv.org/abs/2507.14723)|null|
+|**2025-07-19**|**Configurable multi-agent framework for scalable and realistic testing of llm-based agents**|Sai Wang et.al.|[2507.14705](http://arxiv.org/abs/2507.14705)|null|
+|**2025-07-19**|**WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis**|Xinheng Lyu et.al.|[2507.14680](http://arxiv.org/abs/2507.14680)|null|
+|**2025-07-19**|**When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems**|Qibing Ren et.al.|[2507.14660](http://arxiv.org/abs/2507.14660)|null|
+|**2025-07-19**|**Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence**|Faizan Contractor et.al.|[2507.14658](http://arxiv.org/abs/2507.14658)|null|
+|**2025-07-19**|**Agentic Satellite-Augmented Low-Altitude Economy and Terrestrial Networks: A Survey on Generative Approaches**|Xiaozheng Gao et.al.|[2507.14633](http://arxiv.org/abs/2507.14633)|null|
+|**2025-07-19**|**Towards a Proactive Autoscaling Framework for Data Stream Processing at the Edge using GRU and Transfer Learning**|Eugene Armah et.al.|[2507.14597](http://arxiv.org/abs/2507.14597)|null|
+|**2025-07-19**|**Amico: An Event-Driven Modular Framework for Persistent and Embedded Autonomy**|Hongyi Yang et.al.|[2507.14513](http://arxiv.org/abs/2507.14513)|null|
+|**2025-07-19**|**Federated Reinforcement Learning in Heterogeneous Environments**|Ukjo Hwang et.al.|[2507.14487](http://arxiv.org/abs/2507.14487)|null|
+|**2025-07-19**|**Routine: A Structural Planning Framework for LLM Agent System in Enterprise**|Guancheng Zeng et.al.|[2507.14447](http://arxiv.org/abs/2507.14447)|null|
+|**2025-07-18**|**NetIntent: Leveraging Large Language Models for End-to-End Intent-Based SDN Automation**|Md. Kamrul Hossain et.al.|[2507.14398](http://arxiv.org/abs/2507.14398)|null|
+|**2025-07-18**|**Adaptive Multi-Agent Reasoning via Automated Workflow Generation**|Humza Sami et.al.|[2507.14393](http://arxiv.org/abs/2507.14393)|null|
+|**2025-07-18**|**Text-to-SQL for Enterprise Data Analytics**|Albert Chen et.al.|[2507.14372](http://arxiv.org/abs/2507.14372)|null|
+|**2025-07-18**|**Stable matchings with switching costs**|Boris Pittel et.al.|[2507.14362](http://arxiv.org/abs/2507.14362)|null|
+|**2025-07-18**|**FedStrategist: A Meta-Learning Framework for Adaptive and Robust Aggregation in Federated Learning**|Md Rafid Haque et.al.|[2507.14322](http://arxiv.org/abs/2507.14322)|null|
+|**2025-07-18**|**Semantic Segmentation based Scene Understanding in Autonomous Vehicles**|Ehsan Rassekh et.al.|[2507.14303](http://arxiv.org/abs/2507.14303)|null|
+|**2025-07-18**|**Distributed consensus-based observer design for target state estimation with bearing measurements**|Marcelo Jacinto et.al.|[2507.14300](http://arxiv.org/abs/2507.14300)|null|
+|**2025-07-18**|**Age of Information Minimization in UAV-Enabled Integrated Sensing and Communication Systems**|Yu Bai et.al.|[2507.14299](http://arxiv.org/abs/2507.14299)|null|
+|**2025-07-18**|**WebGuard: Building a Generalizable Guardrail for Web Agents**|Boyuan Zheng et.al.|[2507.14293](http://arxiv.org/abs/2507.14293)|null|
+|**2025-07-18**|**DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation**|Ziqi Wang et.al.|[2507.14267](http://arxiv.org/abs/2507.14267)|null|
+|**2025-07-18**|**Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts**|Ramesh Raskar et.al.|[2507.14263](http://arxiv.org/abs/2507.14263)|null|
+|**2025-07-17**|**Towards an ABM on Proactive Community Adaptation for Climate Change**|Önder Gürcan et.al.|[2507.14233](http://arxiv.org/abs/2507.14233)|null|
+|**2025-07-17**|**Intent-Based Network for RAN Management with Large Language Models**|Fransiscus Asisi Bimo et.al.|[2507.14230](http://arxiv.org/abs/2507.14230)|null|
 |**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
 |**2025-07-18**|**Collaborative Rational Speech Act: Pragmatic Reasoning for Multi-Turn Dialog**|Lautaro Estienne et.al.|[2507.14063](http://arxiv.org/abs/2507.14063)|null|
 |**2025-07-18**|**Well posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058](http://arxiv.org/abs/2507.14058)|null|
@@ -37,7 +123,7 @@
 |**2025-07-18**|**Scalable Submodular Policy Optimization via Pruned Submodularity Graph**|Aditi Anand et.al.|[2507.13834](http://arxiv.org/abs/2507.13834)|null|
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
 |**2025-07-18**|**From Extraction to Synthesis: Entangled Heuristics for Agent-Augmented Strategic Reasoning**|Renato Ghisellini et.al.|[2507.13768](http://arxiv.org/abs/2507.13768)|null|
-|**2025-07-18**|**Navigating the Lobbying Landscape: Insights from Opinion Dynamics Models**|Daniele Giachini et.al.|[2507.13767](http://arxiv.org/abs/2507.13767)|null|
+|**2025-07-21**|**Navigating the Lobbying Landscape: Insights from Opinion Dynamics Models**|Daniele Giachini et.al.|[2507.13767](http://arxiv.org/abs/2507.13767)|null|
 |**2025-07-18**|**AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**|Yu Yao et.al.|[2507.13729](http://arxiv.org/abs/2507.13729)|null|
 |**2025-07-18**|**CogniQ-H: A Soft Hierarchical Reinforcement Learning Paradigm for Automated Data Preparation**|Jing Chang et.al.|[2507.13710](http://arxiv.org/abs/2507.13710)|null|
 |**2025-07-18**|**Minimum Clustering of Matrices Based on Phase Alignment**|Honghao Wu et.al.|[2507.13678](http://arxiv.org/abs/2507.13678)|null|
@@ -49,7 +135,7 @@
 |**2025-07-17**|**GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination**|Nabil Abdelaziz Ferhat Taleb et.al.|[2507.13511](http://arxiv.org/abs/2507.13511)|null|
 |**2025-07-17**|**Model-free Reinforcement Learning for Model-based Control: Towards Safe, Interpretable and Sample-efficient Agents**|Thomas Banker et.al.|[2507.13491](http://arxiv.org/abs/2507.13491)|null|
 |**2025-07-17**|**LightAutoDS-Tab: Multi-AutoML Agentic System for Tabular Data**|Aleksey Lapin et.al.|[2507.13413](http://arxiv.org/abs/2507.13413)|null|
-|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
+|**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-17**|**N Bugs on a Circle**|Josh Briley et.al.|[2507.13333](http://arxiv.org/abs/2507.13333)|null|
 |**2025-07-17**|**Multi-Agent Synergy-Driven Iterative Visual Narrative Synthesis**|Wang Xi et.al.|[2507.13285](http://arxiv.org/abs/2507.13285)|null|
 |**2025-07-20**|**Analysis Theory of Data Economy: Dataization, Technological Progress and Dynamic General Equilibrium**|Yongheng Hu et.al.|[2507.13274](http://arxiv.org/abs/2507.13274)|null|
