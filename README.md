@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -52,7 +52,7 @@
 |**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-17**|**N Bugs on a Circle**|Josh Briley et.al.|[2507.13333](http://arxiv.org/abs/2507.13333)|null|
 |**2025-07-17**|**Multi-Agent Synergy-Driven Iterative Visual Narrative Synthesis**|Wang Xi et.al.|[2507.13285](http://arxiv.org/abs/2507.13285)|null|
-|**2025-07-17**|**Analysis Theory of Data Economy: Dataization, Technological Progress and Dynamic General Equilibrium**|Yongheng Hu et.al.|[2507.13274](http://arxiv.org/abs/2507.13274)|null|
+|**2025-07-20**|**Analysis Theory of Data Economy: Dataization, Technological Progress and Dynamic General Equilibrium**|Yongheng Hu et.al.|[2507.13274](http://arxiv.org/abs/2507.13274)|null|
 |**2025-07-17**|**RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**|Ruohao Li et.al.|[2507.13247](http://arxiv.org/abs/2507.13247)|null|
 |**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190](http://arxiv.org/abs/2507.13190)|null|
 |**2025-07-17**|**Black Box Deployed -- Functional Criteria for Artificial Moral Agents in the LLM Era**|Matthew E. Brophy et.al.|[2507.13175](http://arxiv.org/abs/2507.13175)|null|
@@ -67,9 +67,9 @@
 |**2025-07-17**|**MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems**|Yu Cui et.al.|[2507.13038](http://arxiv.org/abs/2507.13038)|null|
 |**2025-07-17**|**Lower Bound for Online MMS Assignment of Indivisible Chores**|Masoud Seddighin et.al.|[2507.12984](http://arxiv.org/abs/2507.12984)|null|
 |**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
-|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**Autonomous Resource Management in Microservice Systems via Reinforcement Learning**|Yujun Zou et.al.|[2507.12879](http://arxiv.org/abs/2507.12879)|null|
-|**2025-07-17**|**Information-Theoretic Aggregation of Ethical Attributes in Simulated-Command**|Hussein Abbass et.al.|[2507.12862](http://arxiv.org/abs/2507.12862)|null|
+|**2025-07-20**|**Information-Theoretic Aggregation of Ethical Attributes in Simulated-Command**|Taylan Akay et.al.|[2507.12862](http://arxiv.org/abs/2507.12862)|null|
 |**2025-07-17**|**Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering**|Muhammad Fadhil Ginting et.al.|[2507.12846](http://arxiv.org/abs/2507.12846)|null|
 |**2025-07-17**|**Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements**|Joel Nitu et.al.|[2507.12844](http://arxiv.org/abs/2507.12844)|null|
 |**2025-07-17**|**Assessing adaptive world models in machines with novel games**|Lance Ying et.al.|[2507.12821](http://arxiv.org/abs/2507.12821)|null|
@@ -87,7 +87,7 @@
 |**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Kuangshi Ai et.al.|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
 |**2025-07-16**|**A Survey of Explainable Reinforcement Learning: Targets, Methods and Needs**|Léo Saulières et.al.|[2507.12599](http://arxiv.org/abs/2507.12599)|null|
 |**2025-07-16**|**The Impact of Social Attractiveness on Casual Group Formation: Power-Law Group Sizes and Suppressed Percolation**|Matheus S. Mariano et.al.|[2507.12585](http://arxiv.org/abs/2507.12585)|null|
-|**2025-07-16**|**Can Mental Imagery Improve the Thinking Capabilities of AI Systems?**|Slimane Larabi et.al.|[2507.12555](http://arxiv.org/abs/2507.12555)|null|
+|**2025-07-20**|**Can Mental Imagery Improve the Thinking Capabilities of AI Systems?**|Slimane Larabi et.al.|[2507.12555](http://arxiv.org/abs/2507.12555)|null|
 |**2025-07-15**|**FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making**|Yucen Wang et.al.|[2507.12496](http://arxiv.org/abs/2507.12496)|null|
 |**2025-07-15**|**MR-LDM -- The Merge-Reactive Longitudinal Decision Model: Game Theoretic Human Decision Modeling for Interactive Sim Agents**|Dustin Holley et.al.|[2507.12494](http://arxiv.org/abs/2507.12494)|null|
 |**2025-07-15**|**On multiagent online problems with predictions**|Gabriel Istrate et.al.|[2507.12486](http://arxiv.org/abs/2507.12486)|null|
@@ -139,7 +139,7 @@
 |**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464](http://arxiv.org/abs/2507.11464)|null|
 |**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407](http://arxiv.org/abs/2507.11407)|null|
 |**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Supun Dissanayaka et.al.|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
-|**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
+|**2025-07-20**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
 |**2025-07-15**|**Taming Uncertainty via Automation: Observing, Analyzing, and Optimizing Agentic AI Systems**|Dany Moshkovich et.al.|[2507.11277](http://arxiv.org/abs/2507.11277)|null|
 |**2025-07-15**|**An Empirical Study of Multi-Agent RAG for Real-World University Admissions Counseling**|Anh Nguyen-Duc et.al.|[2507.11272](http://arxiv.org/abs/2507.11272)|null|
 |**2025-07-15**|**Turning Sand to Gold: Recycling Data to Bridge On-Policy and Off-Policy Learning via Causal Bound**|Tal Fiskus et.al.|[2507.11269](http://arxiv.org/abs/2507.11269)|null|
@@ -210,7 +210,7 @@
 |**2025-07-14**|**Large Population Models**|Ayush Chopra et.al.|[2507.09901](http://arxiv.org/abs/2507.09901)|null|
 |**2025-07-14**|**Towards Realistic and Interpretable Market Simulations: Factorizing Financial Power Law using Optimal Transport**|Ryuji Hashimoto et.al.|[2507.09863](http://arxiv.org/abs/2507.09863)|null|
 |**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[2507.09836](http://arxiv.org/abs/2507.09836)|null|
-|**2025-07-15**|**Active Probing with Multimodal Predictions for Motion Planning**|Darshan Gadginmath et.al.|[2507.09822](http://arxiv.org/abs/2507.09822)|null|
+|**2025-07-20**|**Active Probing with Multimodal Predictions for Motion Planning**|Darshan Gadginmath et.al.|[2507.09822](http://arxiv.org/abs/2507.09822)|null|
 |**2025-07-13**|**An infinitesimal generator approach on weak convergence of regulated multi-class matching systems**|Bowen Xie et.al.|[2507.09789](http://arxiv.org/abs/2507.09789)|null|
 |**2025-07-13**|**TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit**|Paulo Salem et.al.|[2507.09788](http://arxiv.org/abs/2507.09788)|null|
 |**2025-07-13**|**Toward accurate RUL and SOH estimation using reinforced graph-based PINNs enhanced with dynamic weights**|Mohamadreza Akbari Pour et.al.|[2507.09766](http://arxiv.org/abs/2507.09766)|null|
@@ -9989,7 +9989,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
