@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -89,7 +89,7 @@
 |**2025-07-19**|**Towards a Proactive Autoscaling Framework for Data Stream Processing at the Edge using GRU and Transfer Learning**|Eugene Armah et.al.|[2507.14597](http://arxiv.org/abs/2507.14597)|null|
 |**2025-07-19**|**Amico: An Event-Driven Modular Framework for Persistent and Embedded Autonomy**|Hongyi Yang et.al.|[2507.14513](http://arxiv.org/abs/2507.14513)|null|
 |**2025-07-19**|**Federated Reinforcement Learning in Heterogeneous Environments**|Ukjo Hwang et.al.|[2507.14487](http://arxiv.org/abs/2507.14487)|null|
-|**2025-07-19**|**Routine: A Structural Planning Framework for LLM Agent System in Enterprise**|Guancheng Zeng et.al.|[2507.14447](http://arxiv.org/abs/2507.14447)|null|
+|**2025-07-22**|**Routine: A Structural Planning Framework for LLM Agent System in Enterprise**|Guancheng Zeng et.al.|[2507.14447](http://arxiv.org/abs/2507.14447)|null|
 |**2025-07-18**|**NetIntent: Leveraging Large Language Models for End-to-End Intent-Based SDN Automation**|Md. Kamrul Hossain et.al.|[2507.14398](http://arxiv.org/abs/2507.14398)|null|
 |**2025-07-18**|**Adaptive Multi-Agent Reasoning via Automated Workflow Generation**|Humza Sami et.al.|[2507.14393](http://arxiv.org/abs/2507.14393)|null|
 |**2025-07-18**|**Text-to-SQL for Enterprise Data Analytics**|Albert Chen et.al.|[2507.14372](http://arxiv.org/abs/2507.14372)|null|
@@ -158,7 +158,7 @@
 |**2025-07-20**|**Information-Theoretic Aggregation of Ethical Attributes in Simulated-Command**|Taylan Akay et.al.|[2507.12862](http://arxiv.org/abs/2507.12862)|null|
 |**2025-07-17**|**Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering**|Muhammad Fadhil Ginting et.al.|[2507.12846](http://arxiv.org/abs/2507.12846)|null|
 |**2025-07-17**|**Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements**|Joel Nitu et.al.|[2507.12844](http://arxiv.org/abs/2507.12844)|null|
-|**2025-07-17**|**Assessing adaptive world models in machines with novel games**|Lance Ying et.al.|[2507.12821](http://arxiv.org/abs/2507.12821)|null|
+|**2025-07-22**|**Assessing Adaptive World Models in Machines with Novel Games**|Lance Ying et.al.|[2507.12821](http://arxiv.org/abs/2507.12821)|null|
 |**2025-07-17**|**From Novelty to Imitation: Self-Distilled Rewards for Offline Reinforcement Learning**|Gaurav Chaudhary et.al.|[2507.12815](http://arxiv.org/abs/2507.12815)|null|
 |**2025-07-17**|**MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models**|Zhiwei Liu et.al.|[2507.12806](http://arxiv.org/abs/2507.12806)|null|
 |**2025-07-17**|**Imitating Mistakes in a Learning Companion AI Agent for Online Peer Learning**|Sosui Moribe et.al.|[2507.12801](http://arxiv.org/abs/2507.12801)|null|
@@ -181,7 +181,7 @@
 |**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
 |**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
 |**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370](http://arxiv.org/abs/2507.12370)|null|
-|**2025-07-16**|**GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
+|**2025-07-21**|**GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
 |**2025-07-16**|**Social polarization promoted by sparse higher-order interactions**|Hugo Pérez-Martínez et.al.|[2507.12325](http://arxiv.org/abs/2507.12325)|null|
 |**2025-07-17**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
 |**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
@@ -10075,7 +10075,7 @@
 |**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
 |**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
