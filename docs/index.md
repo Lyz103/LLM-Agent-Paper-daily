@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -16,12 +16,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
-|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
-|**2025-07-22**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
+|**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-23**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
 |**2025-07-22**|**Generalized non-reciprocal phase transitions in multipopulation systems**|Cheyne Weis et.al.|[2507.16763](http://arxiv.org/abs/2507.16763)|null|
 |**2025-07-22**|**AI-enhanced conversational agents for personalized asthma support Factors for engagement, value and efficacy**|Laura Moradbakhti et.al.|[2507.16735](http://arxiv.org/abs/2507.16735)|null|
-|**2025-07-22**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
+|**2025-07-23**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
 |**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[2507.16725](http://arxiv.org/abs/2507.16725)|null|
 |**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
 |**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668](http://arxiv.org/abs/2507.16668)|null|
@@ -39,7 +39,7 @@ layout: default
 |**2025-07-22**|**Adaptive Bayesian Single-Shot Quantum Sensing**|Ivana Nikoloska et.al.|[2507.16477](http://arxiv.org/abs/2507.16477)|null|
 |**2025-07-22**|**Towards Enforcing Company Policy Adherence in Agentic Workflows**|Naama Zwerdling et.al.|[2507.16459](http://arxiv.org/abs/2507.16459)|null|
 |**2025-07-22**|**Distributed Oscillatory Guidance for Formation Flight of Fixed-Wing Drones**|Yang Xu et.al.|[2507.16458](http://arxiv.org/abs/2507.16458)|null|
-|**2025-07-22**|**RIS-aided Latent Space Alignment for Semantic Channel Equalization**|Tomás Hüttebräucker et.al.|[2507.16450](http://arxiv.org/abs/2507.16450)|null|
+|**2025-07-23**|**RIS-aided Latent Space Alignment for Semantic Channel Equalization**|Tomás Hüttebräucker et.al.|[2507.16450](http://arxiv.org/abs/2507.16450)|null|
 |**2025-07-22**|**From model-based learning to model-free behaviour with Meta-Interpretive Learning**|Stassa Patsantzis et.al.|[2507.16434](http://arxiv.org/abs/2507.16434)|null|
 |**2025-07-22**|**LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning**|Bo Hou et.al.|[2507.16395](http://arxiv.org/abs/2507.16395)|null|
 |**2025-07-22**|**Application of LLM Guided Reinforcement Learning in Formation Control with Collision Avoidance**|Chenhao Yao et.al.|[2507.16382](http://arxiv.org/abs/2507.16382)|null|
@@ -60,12 +60,12 @@ layout: default
 |**2025-07-21**|**Deep Researcher with Test-Time Diffusion**|Rujun Han et.al.|[2507.16075](http://arxiv.org/abs/2507.16075)|null|
 |**2025-07-21**|**Asymptotic consensus with transmission and reaction delay: an overview**|Jan Haskovec et.al.|[2507.16072](http://arxiv.org/abs/2507.16072)|null|
 |**2025-07-21**|**Is memory all you need? Data-driven Mori-Zwanzig modeling of Lagrangian particle dynamics in turbulent flows**|Xander de Wit et.al.|[2507.16058](http://arxiv.org/abs/2507.16058)|null|
-|**2025-07-21**|**Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs**|Meriem Mastouri et.al.|[2507.16044](http://arxiv.org/abs/2507.16044)|null|
+|**2025-07-23**|**Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs**|Meriem Mastouri et.al.|[2507.16044](http://arxiv.org/abs/2507.16044)|null|
 |**2025-07-21**|**A Pilot Study on LLM-Based Agentic Translation from Android to iOS: Pitfalls and Insights**|Zhili Zeng et.al.|[2507.16037](http://arxiv.org/abs/2507.16037)|null|
 |**2025-07-21**|**Minor Embedding for Quantum Annealing with Reinforcement Learning**|Riccardo Nembrini et.al.|[2507.16004](http://arxiv.org/abs/2507.16004)|null|
 |**2025-07-21**|**Automated Design of Structured Variational Quantum Circuits with Reinforcement Learning**|Gloria Turati et.al.|[2507.16001](http://arxiv.org/abs/2507.16001)|null|
 |**2025-07-21**|**Red Supergiant Mass Loss and Mass-Loss Rates**|Jacco Th. van Loon et.al.|[2507.15971](http://arxiv.org/abs/2507.15971)|null|
-|**2025-07-21**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
+|**2025-07-23**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
 |**2025-07-21**|**Towards Mitigation of Hallucination for LLM-empowered Agents: Progressive Generalization Bound Exploration and Watchdog Monitor**|Siyuan Liu et.al.|[2507.15903](http://arxiv.org/abs/2507.15903)|null|
 |**2025-07-21**|**Advancing Responsible Innovation in Agentic AI: A study of Ethical Frameworks for Household Automation**|Joydeep Chandra et.al.|[2507.15901](http://arxiv.org/abs/2507.15901)|null|
 |**2025-07-20**|**Integrating Reason-Based Moral Decision-Making in the Reinforcement Learning Architecture**|Lisa Dargasz et.al.|[2507.15895](http://arxiv.org/abs/2507.15895)|null|
@@ -92,7 +92,7 @@ layout: default
 |**2025-07-21**|**HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics**|Sizhou Chen et.al.|[2507.15518](http://arxiv.org/abs/2507.15518)|null|
 |**2025-07-21**|**The Constitutional Controller: Doubt-Calibrated Steering of Compliant Agents**|Simon Kohaut et.al.|[2507.15478](http://arxiv.org/abs/2507.15478)|null|
 |**2025-07-21**|**The Emergence of Deep Reinforcement Learning for Path Planning**|Thanh Thi Nguyen et.al.|[2507.15469](http://arxiv.org/abs/2507.15469)|null|
-|**2025-07-21**|**Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration**|Hee Jun Yang et.al.|[2507.15455](http://arxiv.org/abs/2507.15455)|null|
+|**2025-07-23**|**Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration**|Hee Jun Yang et.al.|[2507.15455](http://arxiv.org/abs/2507.15455)|null|
 |**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
 |**2025-07-21**|**PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation**|Wenhao Li et.al.|[2507.15419](http://arxiv.org/abs/2507.15419)|null|
 |**2025-07-21**|**RAD: Retrieval High-quality Demonstrations to Enhance Decision-making**|Lu Guo et.al.|[2507.15356](http://arxiv.org/abs/2507.15356)|null|
@@ -160,7 +160,7 @@ layout: default
 |**2025-07-17**|**Intent-Based Network for RAN Management with Large Language Models**|Fransiscus Asisi Bimo et.al.|[2507.14230](http://arxiv.org/abs/2507.14230)|null|
 |**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
 |**2025-07-18**|**Collaborative Rational Speech Act: Pragmatic Reasoning for Multi-Turn Dialog**|Lautaro Estienne et.al.|[2507.14063](http://arxiv.org/abs/2507.14063)|null|
-|**2025-07-18**|**Well posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058](http://arxiv.org/abs/2507.14058)|null|
+|**2025-07-23**|**Well-posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058](http://arxiv.org/abs/2507.14058)|null|
 |**2025-07-18**|**Online MMS Allocation for Chores**|Jiaxin Song et.al.|[2507.14039](http://arxiv.org/abs/2507.14039)|null|
 |**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
 |**2025-07-18**|**Byzantine-resilient federated online learning for Gaussian process regression**|Xu Zhang et.al.|[2507.14021](http://arxiv.org/abs/2507.14021)|null|
